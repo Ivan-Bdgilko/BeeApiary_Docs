@@ -1,0 +1,97 @@
+site_name: Документація BeeApiary
+site_description: Документація застосунку та пристрою BeeApiary
+site_url: https://ivan-bdgilko.github.io/BeeApiary_Docs/
+repo_url: https://github.com/Ivan-Bdgilko/BeeApiary_Docs
+repo_name: Ivan-Bdgilko/BeeApiary_Docs
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: uk
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: uk
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: false
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: uk
+          name: Українська
+          default: true
+          build: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Головна: index.md
+  - Швидкий старт:
+      - quick-start/index.md
+      - Тільки застосунок: quick-start/app-only.md
+      - GSM: quick-start/gsm.md
+      - Локальна мережа Wi-Fi: quick-start/local-wifi.md
+      - Повна система: quick-start/full-system.md
+  - Застосунок BeeApiary:
+      - app/overview.md
+      - Встановлення: app/installation.md
+      - Вимірювання: app/measurements.md
+      - Графіки: app/charts.md
+      - Події та нотатки: app/events-and-notes.md
+      - Стан вулика: app/hive-state.md
+      - Налаштування: app/settings.md
+  - Вимірювальний пристрій BeeApiary:
+      - device/overview.md
+      - Встановлення: device/installation.md
+      - Датчики: device/sensors.md
+      - Живлення: device/power.md
+      - Калібрування і тарування: device/calibration-and-tare.md
+      - Розміщення: device/placement.md
+      - Технічні характеристики: device/specifications.md
+      - Обслуговування: device/maintenance.md
+      - Сервісна документація:
+          - device/service-reference.md
+          - MSET.XML — налаштування пристрою: device/settings-reference.md
+          - HIVE*.XML — налаштування вулика: device/hive-settings-reference.md
+          - Відновлення конфігурації: device/recovery.md
+  - Система:
+      - system/overview.md
+      - Потік даних: system/data-flow.md
+      - Способи зв'язку: system/connectivity.md
+      - GSM та SMS: system/gsm-and-sms.md
+      - Локальна мережа Wi-Fi: system/local-wifi.md
+      - Синхронізація часу: system/time-synchronization.md
+      - Зберігання даних: system/data-storage.md
+      - Журнали: system/logging.md
+  - Практичні інструкції:
+      - guides/index.md
+      - Встановити застосунок: guides/install-app.md
+      - Налаштувати пристрій: guides/set-up-device.md
+      - Налаштувати GSM: guides/configure-gsm.md
+      - Налаштувати локальну мережу Wi-Fi: guides/configure-local-wifi.md
+      - Завантажити архів: guides/download-archive.md
+      - Тарувати ваги: guides/tare-scales.md
+      - Калібрувати ваги: guides/calibrate-scales.md
+      - Оновити пристрій: guides/update-device.md
+      - Оновити застосунок: guides/update-app.md
+  - Усунення проблем:
+      - troubleshooting/index.md
+      - Не надходять SMS: troubleshooting/no-sms.md
+      - Неправильна вага: troubleshooting/incorrect-weight.md
+      - Не працює Wi-Fi: troubleshooting/wifi-connection.md
+      - Проблеми живлення: troubleshooting/power.md
