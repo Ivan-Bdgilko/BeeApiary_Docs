@@ -8,10 +8,11 @@ site_dir: site
 
 theme:
   name: material
+  favicon: assets/common/beeapiary-favicon.png
+  logo: assets/common/beeapiary-favicon.png
   language: uk
   features:
     - navigation.indexes
-    - navigation.sections
     - navigation.top
     - content.code.copy
 
@@ -43,12 +44,12 @@ nav:
   - Головна: index.md
   - Швидкий старт:
       - quick-start/index.md
-      - Тільки застосунок: quick-start/app-only.md
-      - GSM: quick-start/gsm.md
+      - Налаштування системи: quick-start/full-system.md
+      - Встановити застосунок: quick-start/app-only.md
+      - Зв'язок із пристроєм через GSM: quick-start/gsm.md
       - Локальна мережа Wi-Fi: quick-start/local-wifi.md
-      - Повна система: quick-start/full-system.md
   - Застосунок BeeApiary:
-      - app/overview.md
+      - app/index.md
       - Встановлення: app/installation.md
       - Вимірювання: app/measurements.md
       - Графіки: app/charts.md
@@ -56,7 +57,7 @@ nav:
       - Стан вулика: app/hive-state.md
       - Налаштування: app/settings.md
   - Вимірювальний пристрій BeeApiary:
-      - device/overview.md
+      - device/index.md
       - Встановлення: device/installation.md
       - Датчики: device/sensors.md
       - Живлення: device/power.md
@@ -70,11 +71,11 @@ nav:
           - HIVE*.XML — налаштування вулика: device/hive-settings-reference.md
           - Відновлення конфігурації: device/recovery.md
   - Система:
-      - system/overview.md
+      - system/index.md
       - Потік даних: system/data-flow.md
-      - Способи зв'язку: system/connectivity.md
+      - Отримання даних у застосунку: system/connectivity.md
       - GSM та SMS: system/gsm-and-sms.md
-      - Локальна мережа Wi-Fi: system/local-wifi.md
+      - Wi-Fi-з'єднання пристрою: system/local-wifi.md
       - Синхронізація часу: system/time-synchronization.md
       - Зберігання даних: system/data-storage.md
       - Журнали: system/logging.md
@@ -95,3 +96,4 @@ nav:
       - Неправильна вага: troubleshooting/incorrect-weight.md
       - Не працює Wi-Fi: troubleshooting/wifi-connection.md
       - Проблеми живлення: troubleshooting/power.md
+      - Відновлення після тривалого зберігання: troubleshooting/recovery-after-storage.md
