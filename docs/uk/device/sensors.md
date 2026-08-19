@@ -6,11 +6,11 @@
 
 Неправильна опора створює перекіс і спотворює вимірювання:
 
-![Неправильне розміщення вагового датчика](../../assets/common/weight-sensor-placement-01.png){ .doc-photo }
+![Неправильне розміщення вагового датчика](../../assets/common/device/sensors/incorrect-weight-sensor-placement.png){ .doc-photo }
 
 Датчик має спиратися металевою частиною на тверду пласку поверхню:
 
-![Правильне розміщення вагового датчика](../../assets/common/weight-sensor-placement-02.png){ .doc-photo }
+![Правильне розміщення вагового датчика](../../assets/common/device/sensors/correct-weight-sensor-placement.png){ .doc-photo }
 
 Датчики стійкі до вологи, але не призначені для часткового або повного занурення у воду.
 

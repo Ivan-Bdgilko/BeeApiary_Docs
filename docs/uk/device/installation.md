@@ -8,11 +8,11 @@
 
     Правильне положення картки:
 
-    ![Правильно встановлена micro-SIM](../../assets/common/device-quick-start-02.jpeg){ .doc-photo }
+    ![Правильно встановлена micro-SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
 
     Вставте SIM-картку та обережно натисніть на неї, майже повністю зануривши у слот, доки не почуєте легке клацання, що підтверджує фіксацію:
 
-    ![Фіксація micro-SIM у слоті](../../assets/common/device-quick-start-03.jpeg){ .doc-photo }
+    ![Фіксація micro-SIM у слоті](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
 6. Активуйте або перезапустіть пристрій магнітним ключем і перевірте перше вимірювання.
 
@@ -20,9 +20,9 @@
 
 Первинна активація і перезапуск виконуються однаково: коротко піднесіть магнітний ключ до фірмової позначки на зворотному боці основного блока. Торкатися інших частин корпусу або відкривати блок для цього не потрібно.
 
-![Магнітний ключ BeeApiary](../../assets/common/device-quick-start-05.png){ .doc-photo }
+![Магнітний ключ BeeApiary](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
-![Фірмова позначка зони магнітного ключа на звороті основного блока](../../assets/common/device-quick-start-06.png){ .doc-photo }
+![Фірмова позначка зони магнітного ключа на звороті основного блока](../../assets/common/device/installation/magnetic-key-target.png){ .doc-photo }
 
 !!! danger
     Не розміщуйте пристрій або виносну антену в найвищій точці пасіки: це створює ризик ураження блискавкою та неремонтопридатного пошкодження.

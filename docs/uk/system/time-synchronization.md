@@ -9,6 +9,6 @@
 3. синхронізація з телефоном через локальний вебінтерфейс;
 4. синхронізація із застосунком через Bluetooth, коли телефон перебуває поруч із пристроєм.
 
-![Час останньої синхронізації вимірювального пристрою BeeApiary](../../assets/uk/screenshots/time-synchronization-01.png){ .doc-screenshot }
+![Час останньої синхронізації вимірювального пристрою BeeApiary](../../assets/uk/system/time-synchronization/last-synchronization-time.png){ .doc-screenshot }
 
 У `mset.xml` параметри `synсhronize`, `time_zone` і `ntp1`-`ntp3` керують автоматичним режимом. Ручну компенсацію ходу годинника змінюйте лише після фактичного вимірювання відхилення.

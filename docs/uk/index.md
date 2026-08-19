@@ -1,4 +1,4 @@
-# ![Фірмова емблема BeeApiary](../assets/common/beeapiary-favicon.png){ .home-brand-logo } BeeApiary
+# ![Фірмова емблема BeeApiary](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary
 
 BeeApiary — система контролю пасіки, що складається з автономного вимірювального пристрою та застосунку Android.
 
@@ -27,4 +27,4 @@ BeeApiary — система контролю пасіки, що складає�
 - [Практичні інструкції](guides/index.md)
 - [Усунення проблем](troubleshooting/index.md)
 
-![Склад системи BeeApiary](../assets/common/beeapiary-system-01.jpeg){ .doc-photo }
+![Склад системи BeeApiary](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo }

@@ -8,7 +8,7 @@
 6. Дочекайтеся звичайного SMS із вимірюваннями; оновлення зазвичай триває до двох хвилин.
 7. Перевірте версію й дату прошивки внизу головної сторінки вебінтерфейсу.
 
-![Версія та дата прошивки у вебінтерфейсі](../../assets/uk/screenshots/device-firmware-update-01.png){ .doc-screenshot }
+![Версія та дата прошивки у вебінтерфейсі](../../assets/uk/guides/update-device/firmware-version-and-date.png){ .doc-screenshot }
 
 Файли прошивки: [Hive_Controller](https://github.com/Ivan-Bdgilko/Hive_Controller).
 

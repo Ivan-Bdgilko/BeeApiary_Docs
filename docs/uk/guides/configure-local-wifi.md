@@ -3,11 +3,11 @@
 1. [Активуйте або перезапустіть вимірювальний пристрій BeeApiary](../device/installation.md#activation-reset): коротко піднесіть магнітний ключ до фірмової позначки на зворотному боці основного блока.
 2. Протягом хвилини відкрийте Wi-Fi на телефоні, планшеті або ноутбуці.
 
-    ![Мережа apiary_net у списку Wi-Fi](../../assets/uk/screenshots/device-first-setup-07.png){ .doc-screenshot }
+    ![Мережа apiary_net у списку Wi-Fi](../../assets/uk/guides/configure-local-wifi/apiary-network-list.png){ .doc-screenshot }
 
 3. Підключіться до `apiary_net` з початковим паролем `apiary_wifi`.
 
-    ![Параметри підключення до apiary_net](../../assets/uk/screenshots/device-first-setup-08.png){ .doc-screenshot }
+    ![Параметри підключення до apiary_net](../../assets/uk/guides/configure-local-wifi/apiary-network-connection.png){ .doc-screenshot }
 
 4. Відкрийте `http://192.168.4.1`.
 5. Перевірте, що відкрилася головна сторінка пристрою.

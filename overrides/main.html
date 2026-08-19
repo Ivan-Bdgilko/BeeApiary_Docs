@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block announce -%}
+  {%- if i18n_file_locale != i18n_page_locale -%}
+    {%- if i18n_page_locale == "en" -%}
+      This page is not yet available in English. The Ukrainian source is shown.
+    {%- elif i18n_page_locale == "de" -%}
+      Diese Seite ist noch nicht auf Deutsch verfügbar. Die ukrainische Originalfassung wird angezeigt.
+    {%- endif -%}
+  {%- endif -%}
+{%- endblock %}

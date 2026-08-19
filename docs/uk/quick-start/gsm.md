@@ -3,28 +3,28 @@
 !!! warning
     Використовуйте SIM-картку формату micro-SIM. Заздалегідь вимкніть захист SIM-картки PIN-кодом.
 
-    ![Порівняння форматів SIM-карток](../../assets/uk/screenshots/device-quick-start-04.png){ .doc-photo }
+    ![Порівняння форматів SIM-карток](../../assets/uk/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
 
 1. За потреби [встановіть застосунок BeeApiary](app-only.md). Для отримання звичайних SMS він не обов'язковий. Якщо застосунок має автоматично обробляти дані з SMS, дозвіл на SMS є обов'язковим.
 2. Відкрийте кришку блока збирання даних.
 
-    ![Відкритий блок збирання даних](../../assets/common/device-quick-start-01.png){ .doc-photo }
+    ![Відкритий блок збирання даних](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
 
 3. Встановіть micro-SIM у відповідний слот.
 
     Правильне положення картки:
 
-    ![Правильно встановлена micro-SIM](../../assets/common/device-quick-start-02.jpeg){ .doc-photo }
+    ![Правильно встановлена micro-SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
 
     Вставте SIM-картку та обережно натисніть на неї, майже повністю зануривши у слот, доки не почуєте легке клацання, що підтверджує фіксацію:
 
-    ![Фіксація micro-SIM у слоті](../../assets/common/device-quick-start-03.jpeg){ .doc-photo }
+    ![Фіксація micro-SIM у слоті](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
 4. Активуйте або перезапустіть пристрій однаково: коротко піднесіть магнітний ключ до фірмової позначки на зворотному боці основного блока.
 
-    ![Магнітний ключ BeeApiary](../../assets/common/device-quick-start-05.png){ .doc-photo }
+    ![Магнітний ключ BeeApiary](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
-    ![Фірмова позначка зони магнітного ключа на основному блоці](../../assets/common/device-quick-start-06.png){ .doc-photo }
+    ![Фірмова позначка зони магнітного ключа на основному блоці](../../assets/common/device/installation/magnetic-key-target.png){ .doc-photo }
 
 5. Зачекайте приблизно одну хвилину.
 6. Перевірте надходження першого SMS на попередньо налаштований номер.

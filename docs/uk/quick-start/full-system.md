@@ -12,23 +12,23 @@
 
 1. Відкрийте кришку блока збирання даних.
 
-    ![Відкритий блок збирання даних](../../assets/common/device-quick-start-01.png){ .doc-photo }
+    ![Відкритий блок збирання даних](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
 
 2. Встановіть micro-SIM у відповідний слот.
 
     Правильне положення картки:
 
-    ![Правильно встановлена micro-SIM](../../assets/common/device-quick-start-02.jpeg){ .doc-photo }
+    ![Правильно встановлена micro-SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
 
     Вставте SIM-картку та обережно натисніть на неї, майже повністю зануривши у слот, доки не почуєте легке клацання, що підтверджує фіксацію:
 
-    ![Фіксація micro-SIM у слоті](../../assets/common/device-quick-start-03.jpeg){ .doc-photo }
+    ![Фіксація micro-SIM у слоті](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
 3. [Активуйте або перезапустіть пристрій](../device/installation.md#activation-reset): коротко піднесіть магнітний ключ до фірмової позначки на зворотному боці основного блока.
 
-    ![Магнітний ключ BeeApiary](../../assets/common/device-quick-start-05.png){ .doc-photo }
+    ![Магнітний ключ BeeApiary](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
-    ![Фірмова позначка зони магнітного ключа](../../assets/common/device-quick-start-06.png){ .doc-photo }
+    ![Фірмова позначка зони магнітного ключа](../../assets/common/device/installation/magnetic-key-target.png){ .doc-photo }
 
 4. Зачекайте приблизно одну хвилину та перевірте надходження першого SMS на попередньо налаштований номер користувача.
 

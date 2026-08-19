@@ -7,14 +7,14 @@
 3. Змініть порядок за допомогою стрілок праворуч від типів вимірювань.
 4. За потреби ввімкніть фільтрацію випадкових хибних значень.
 
-![Налаштування графіків](../../assets/uk/screenshots/chart-settings-01.png){ .doc-screenshot }
+![Налаштування графіків](../../assets/uk/app/charts/chart-settings.png){ .doc-screenshot }
 
 ## Період
 
 Коротко натисніть заголовок вулика, щоб перейти до графіків. Натисніть кінцеву дату або період і виберіть добу, тиждень, місяць, 90 діб чи інший доступний проміжок.
 
-![Вибір кінцевої дати періоду](../../assets/uk/screenshots/chart-period-01.png){ .doc-screenshot }
+![Вибір кінцевої дати періоду](../../assets/uk/app/charts/end-date-selection.png){ .doc-screenshot }
 
 Після вибору застосунок перебудовує графіки для заданого проміжку:
 
-![Графіки за вибраний період](../../assets/uk/screenshots/chart-period-02.png){ .doc-screenshot }
+![Графіки за вибраний період](../../assets/uk/app/charts/selected-period-charts.png){ .doc-screenshot }

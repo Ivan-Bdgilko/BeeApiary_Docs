@@ -7,19 +7,19 @@
 
 Для стислого формату виберіть **Для Android**:
 
-![Вибір формату SMS Для Android](../../assets/uk/screenshots/gsm-message-type-01.png){ .doc-screenshot }
+![Вибір формату SMS Для Android](../../assets/uk/system/gsm-and-sms/android-message-format.png){ .doc-screenshot }
 
 Для читання без застосунку виберіть **Для людини**:
 
-![Вибір формату SMS Для людини](../../assets/uk/screenshots/gsm-message-type-02.png){ .doc-screenshot }
+![Вибір формату SMS Для людини](../../assets/uk/system/gsm-and-sms/human-message-format.png){ .doc-screenshot }
 
 Звичайний SMS містить підписані поточні значення:
 
-![Приклад звичайного SMS](../../assets/uk/screenshots/gsm-message-type-03.png){ .doc-screenshot }
+![Приклад звичайного SMS](../../assets/uk/system/gsm-and-sms/human-readable-message.png){ .doc-screenshot }
 
 Стислий формат об'єднує дані для подальшої обробки застосунком:
 
-![Приклад стислого SMS](../../assets/uk/screenshots/gsm-message-type-04.png){ .doc-screenshot }
+![Приклад стислого SMS](../../assets/uk/system/gsm-and-sms/compressed-app-message.png){ .doc-screenshot }
 
 Розклад спільний для обох номерів. У вибрані години пристрій вимірює, передає накопичені дані та переходить у режим сну. Не створюйте зайвих відправлень: це витрачає заряд і GSM-трафік.
 
@@ -27,14 +27,14 @@
 
 Кнопка **Переглянути розклад відправки** доступна у формі номера:
 
-![Перехід до розкладу відправки](../../assets/uk/screenshots/gsm-schedule-02.png){ .doc-screenshot }
+![Перехід до розкладу відправки](../../assets/uk/system/gsm-and-sms/open-sending-schedule.png){ .doc-screenshot }
 
 У розкладі можна вибрати потрібні години:
 
-![Вибір годин відправки SMS](../../assets/uk/screenshots/gsm-schedule-01.png){ .doc-screenshot }
+![Вибір годин відправки SMS](../../assets/uk/system/gsm-and-sms/sending-hours-selection.png){ .doc-screenshot }
 
 Приклад ритму кожні чотири години:
 
-![Збережений розклад із відправкою кожні чотири години](../../assets/uk/screenshots/gsm-schedule-03.png){ .doc-screenshot }
+![Збережений розклад із відправкою кожні чотири години](../../assets/uk/system/gsm-and-sms/saved-four-hour-schedule.png){ .doc-screenshot }
 
 Налаштування: [Налаштування GSM](../guides/configure-gsm.md). Проблеми: [Не надходять SMS](../troubleshooting/no-sms.md).

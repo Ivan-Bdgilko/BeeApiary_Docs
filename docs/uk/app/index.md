@@ -6,7 +6,7 @@
 
 На головному екрані доступні назва пристрою, останні значення, дата й час вимірювання та зміна за обраний період. Коротке натискання заголовка відкриває графіки, довге — налаштування.
 
-![Головний екран застосунку](../../assets/uk/screenshots/app-overview-01.png){ .doc-screenshot }
+![Головний екран застосунку](../../assets/uk/app/overview/main-measurements-screen.png){ .doc-screenshot }
 
 - [Встановлення](installation.md)
 - [Вимірювання](measurements.md)
@@ -15,4 +15,4 @@
 
 Версію застосунку і контактну інформацію можна перевірити на сторінці **Про програму**:
 
-![Інформація про застосунок BeeApiary](../../assets/uk/screenshots/app-device-communication-01.png){ .doc-screenshot }
+![Інформація про застосунок BeeApiary](../../assets/uk/app/overview/about-app-screen.png){ .doc-screenshot }
