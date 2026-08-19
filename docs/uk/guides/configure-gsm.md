@@ -22,6 +22,6 @@
 
     ![Збережений номер у вебінтерфейсі](../../assets/uk/screenshots/device-first-setup-12.png){ .doc-screenshot }
 
-    ![Номер пристрою в застосунку BeeApiary](../../assets/uk/screenshots/device-first-setup-13.png){ .doc-screenshot }
+    ![Номер пристрою у вебінтерфейсі](../../assets/uk/screenshots/device-first-setup-13.png){ .doc-screenshot }
 
 Щоб прибрати номер, задайте `+000000000000`. Формати й розклад описані на сторінці [GSM та SMS](../system/gsm-and-sms.md).

@@ -8,6 +8,7 @@ site_dir: site
 
 theme:
   name: material
+  custom_dir: overrides
   favicon: assets/common/beeapiary-favicon.png
   logo: assets/common/beeapiary-favicon.png
   language: uk
@@ -21,7 +22,7 @@ plugins:
       lang: uk
   - i18n:
       docs_structure: folder
-      fallback_to_default: false
+      fallback_to_default: true
       reconfigure_material: true
       reconfigure_search: true
       languages:
@@ -29,6 +30,128 @@ plugins:
           name: Українська
           default: true
           build: true
+          site_name: Документація BeeApiary
+          site_description: Документація застосунку та пристрою BeeApiary
+          admonition_translations:
+            note: Примітка
+            warning: Увага
+            danger: Небезпека
+        - locale: en
+          name: English
+          build: true
+          site_name: BeeApiary Documentation
+          site_description: Documentation for the BeeApiary app and measuring device
+          admonition_translations:
+            note: Note
+            warning: Warning
+            danger: Danger
+          nav_translations:
+            Головна: Home
+            Швидкий старт: Quick Start
+            Налаштування системи: System Setup
+            Встановити застосунок: Install the App
+            Зв'язок із пристроєм через GSM: Connect to the Device via GSM
+            Локальна мережа Wi-Fi: Local Wi-Fi Network
+            Застосунок BeeApiary: BeeApiary App
+            Встановлення: Installation
+            Вимірювання: Measurements
+            Графіки: Charts
+            Події та нотатки: Events and Notes
+            Стан вулика: Hive Status
+            Налаштування: Settings
+            Вимірювальний пристрій BeeApiary: BeeApiary Measuring Device
+            Датчики: Sensors
+            Живлення: Power
+            Калібрування і тарування: Calibration and Tare
+            Розміщення: Placement
+            Технічні характеристики: Specifications
+            Обслуговування: Maintenance
+            Сервісна документація: Service Documentation
+            MSET.XML — налаштування пристрою: MSET.XML — Device Settings
+            HIVE*.XML — налаштування вулика: HIVE*.XML — Hive Settings
+            Відновлення конфігурації: Restore Configuration
+            Система: System
+            Як працює система: How the System Works
+            Потік даних: Data Flow
+            Отримання даних у застосунку: Receiving Data in the App
+            GSM та SMS: GSM and SMS
+            Wi-Fi-з'єднання пристрою: Device Wi-Fi Connection
+            Синхронізація часу: Time Synchronization
+            Зберігання даних: Data Storage
+            Журнали: Logs
+            Практичні інструкції: Guides
+            Налаштувати пристрій: Set Up the Device
+            Налаштувати GSM: Configure GSM
+            Налаштувати локальну мережу Wi-Fi: Configure Local Wi-Fi
+            Завантажити архів: Download the Archive
+            Тарувати ваги: Tare the Scales
+            Калібрувати ваги: Calibrate the Scales
+            Оновити пристрій: Update the Device
+            Оновити застосунок: Update the App
+            Усунення проблем: Troubleshooting
+            Не надходять SMS: No SMS Received
+            Неправильна вага: Incorrect Weight
+            Не працює Wi-Fi: Wi-Fi Not Working
+            Проблеми живлення: Power Problems
+            Відновлення після тривалого зберігання: Recovery After Long-Term Storage
+        - locale: de
+          name: Deutsch
+          build: true
+          site_name: BeeApiary-Dokumentation
+          site_description: Dokumentation für die BeeApiary-App und das BeeApiary-Messgerät
+          admonition_translations:
+            note: Hinweis
+            warning: Warnung
+            danger: Gefahr
+          nav_translations:
+            Головна: Startseite
+            Швидкий старт: Schnellstart
+            Налаштування системи: System einrichten
+            Встановити застосунок: App installieren
+            Зв'язок із пристроєм через GSM: Verbindung zum Gerät über GSM
+            Локальна мережа Wi-Fi: Lokales WLAN
+            Застосунок BeeApiary: BeeApiary-App
+            Встановлення: Installation
+            Вимірювання: Messungen
+            Графіки: Diagramme
+            Події та нотатки: Ereignisse und Notizen
+            Стан вулика: Beutenstatus
+            Налаштування: Einstellungen
+            Вимірювальний пристрій BeeApiary: BeeApiary-Messgerät
+            Датчики: Sensoren
+            Живлення: Stromversorgung
+            Калібрування і тарування: Kalibrierung und Tarierung
+            Розміщення: Platzierung
+            Технічні характеристики: Technische Daten
+            Обслуговування: Wartung
+            Сервісна документація: Servicedokumentation
+            MSET.XML — налаштування пристрою: MSET.XML — Geräteeinstellungen
+            HIVE*.XML — налаштування вулика: HIVE*.XML — Beuteneinstellungen
+            Відновлення конфігурації: Konfiguration wiederherstellen
+            Система: System
+            Як працює система: So funktioniert das System
+            Потік даних: Datenfluss
+            Отримання даних у застосунку: Daten in der App empfangen
+            GSM та SMS: GSM und SMS
+            Wi-Fi-з'єднання пристрою: WLAN-Verbindung des Geräts
+            Синхронізація часу: Zeitsynchronisierung
+            Зберігання даних: Datenspeicherung
+            Журнали: Protokolle
+            Практичні інструкції: Anleitungen
+            Налаштувати пристрій: Gerät einrichten
+            Налаштувати GSM: GSM konfigurieren
+            Налаштувати локальну мережу Wi-Fi: Lokales WLAN konfigurieren
+            Завантажити архів: Archiv herunterladen
+            Тарувати ваги: Waage tarieren
+            Калібрувати ваги: Waage kalibrieren
+            Оновити пристрій: Gerät aktualisieren
+            Оновити застосунок: App aktualisieren
+            Усунення проблем: Fehlerbehebung
+            Не надходять SMS: Keine SMS empfangen
+            Неправильна вага: Falsches Gewicht
+            Не працює Wi-Fi: WLAN funktioniert nicht
+            Проблеми живлення: Probleme mit der Stromversorgung
+            Відновлення після тривалого зберігання: Wiederherstellung nach längerer Lagerung
 
 markdown_extensions:
   - admonition
