@@ -1,3 +1,7 @@
+---
+translation_status: translated
+---
+
 # Як налаштувати новий вимірювальний пристрій BeeApiary
 
 1. Зарядіть пристрій через USB Type-C.

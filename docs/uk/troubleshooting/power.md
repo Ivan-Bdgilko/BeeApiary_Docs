@@ -1,3 +1,7 @@
+---
+translation_status: translated
+---
+
 # Проблеми живлення
 
 !!! note "Заряджання"

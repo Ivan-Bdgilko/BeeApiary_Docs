@@ -1,3 +1,7 @@
+---
+translation_status: translated
+---
+
 # `HIVE*.XML`: налаштування вулика
 
 Конфігурація вулика зберігається у `/setting/<hive>.xml`. Базове ім'я `<hive>` задається атрибутом `hive1`, `hive2` тощо в [`mset.xml`](settings-reference.md); розширення `.xml` додається автоматично.

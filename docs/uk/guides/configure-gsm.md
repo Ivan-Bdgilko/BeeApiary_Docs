@@ -1,17 +1,21 @@
+---
+translation_status: not_ready
+---
+
 # Як налаштувати GSM
 
 1. Переконайтеся, що micro-SIM активна, має покриття й не захищена PIN-кодом.
-2. Підключіться до [локальної мережі Wi-Fi](configure-local-wifi.md).
+2. [Підключіться до точки доступу пристрою](configure-local-wifi.md) і відкрийте його вебінтерфейс.
 
-    На сторінці загальних налаштувань доступні кнопки основного й додаткового номера:
+    На сторінці загальних налаштувань вебінтерфейсу пристрою доступні кнопки основного й додаткового номера:
 
-    ![Номери користувача в загальних налаштуваннях](../../assets/uk/guides/configure-gsm/user-phone-number-settings.png){ .doc-screenshot }
+    ![Номери користувача в загальних налаштуваннях вебінтерфейсу пристрою](../../assets/uk/guides/configure-gsm/user-phone-number-settings.png){ .doc-screenshot }
 
 3. Відкрийте налаштування **Основний номер** або **Додатковий номер**.
 
-    ![Форма основного номера](../../assets/uk/guides/configure-gsm/primary-phone-number-form.png){ .doc-screenshot }
+    ![Форма основного номера у вебінтерфейсі пристрою](../../assets/uk/guides/configure-gsm/primary-phone-number-form.png){ .doc-screenshot }
 
-    ![Форма додаткового номера](../../assets/uk/guides/configure-gsm/additional-phone-number-form.png){ .doc-screenshot }
+    ![Форма додаткового номера у вебінтерфейсі пристрою](../../assets/uk/guides/configure-gsm/additional-phone-number-form.png){ .doc-screenshot }
 
 4. Введіть номер у форматі `+380XXXXXXXXX`.
 5. Виберіть звичайний або стислий формат SMS.

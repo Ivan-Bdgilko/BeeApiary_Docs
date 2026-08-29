@@ -1,3 +1,7 @@
+---
+translation_status: translated
+---
+
 # Як установити застосунок BeeApiary
 
 !!! note "Дозволи застосунку"

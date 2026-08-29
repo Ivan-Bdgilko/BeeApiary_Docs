@@ -1,3 +1,7 @@
+---
+translation_status: translated
+---
+
 # Журнали
 
 Вимірювальний пристрій BeeApiary має три різні види даних:

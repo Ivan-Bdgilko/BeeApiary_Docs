@@ -1,3 +1,7 @@
+---
+translation_status: translated
+---
+
 # Швидкий старт
 
 Оберіть спосіб використання BeeApiary:

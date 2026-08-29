@@ -1,4 +1,4 @@
-site_name: Документація BeeApiary
+site_name: BeeApiary — ваги з GSM, Wi-Fi та Bluetooth
 site_description: Документація застосунку та пристрою BeeApiary
 site_url: https://ivan-bdgilko.github.io/BeeApiary_Docs/
 repo_url: https://github.com/Ivan-Bdgilko/BeeApiary_Docs
@@ -30,7 +30,7 @@ plugins:
           name: Українська
           default: true
           build: true
-          site_name: Документація BeeApiary
+          site_name: BeeApiary — ваги з GSM, Wi-Fi та Bluetooth
           site_description: Документація застосунку та пристрою BeeApiary
           admonition_translations:
             note: Примітка
@@ -39,7 +39,7 @@ plugins:
         - locale: en
           name: English
           build: true
-          site_name: BeeApiary Documentation
+          site_name: BeeApiary — Scales with GSM, Wi-Fi, and Bluetooth
           site_description: Documentation for the BeeApiary app and measuring device
           admonition_translations:
             note: Note
@@ -53,6 +53,7 @@ plugins:
             Зв'язок із пристроєм через GSM: Connect to the Device via GSM
             Локальна мережа Wi-Fi: Local Wi-Fi Network
             Застосунок BeeApiary: BeeApiary App
+            Головний екран застосунку: App Home Screen
             Встановлення: Installation
             Вимірювання: Measurements
             Графіки: Charts
@@ -76,13 +77,18 @@ plugins:
             Отримання даних у застосунку: Receiving Data in the App
             GSM та SMS: GSM and SMS
             Wi-Fi-з'єднання пристрою: Device Wi-Fi Connection
+            Додаткові налаштування пристрою: Additional Device Settings
+            Синхронізація даних через Bluetooth: Bluetooth Data Synchronization
             Синхронізація часу: Time Synchronization
             Зберігання даних: Data Storage
             Журнали: Logs
             Практичні інструкції: Guides
             Налаштувати пристрій: Set Up the Device
             Налаштувати GSM: Configure GSM
-            Налаштувати локальну мережу Wi-Fi: Configure Local Wi-Fi
+            Підключитися до точки доступу пристрою: Connect to Device Access Point
+            Налаштувати синхронізацію через Wi-Fi мережу пасіки: Set Up Wi-Fi Synchronization
+            Перевірити налаштування синхронізації через Wi-Fi: Verify Wi-Fi Synchronization Settings
+            Налаштувати синхронізацію через Bluetooth: Set Up Bluetooth Synchronization
             Завантажити архів: Download the Archive
             Тарувати ваги: Tare the Scales
             Калібрувати ваги: Calibrate the Scales
@@ -97,7 +103,7 @@ plugins:
         - locale: de
           name: Deutsch
           build: true
-          site_name: BeeApiary-Dokumentation
+          site_name: BeeApiary — Waage mit GSM, WLAN und Bluetooth
           site_description: Dokumentation für die BeeApiary-App und das BeeApiary-Messgerät
           admonition_translations:
             note: Hinweis
@@ -111,6 +117,7 @@ plugins:
             Зв'язок із пристроєм через GSM: Verbindung zum Gerät über GSM
             Локальна мережа Wi-Fi: Lokales WLAN
             Застосунок BeeApiary: BeeApiary-App
+            Головний екран застосунку: Startbildschirm der App
             Встановлення: Installation
             Вимірювання: Messungen
             Графіки: Diagramme
@@ -134,13 +141,18 @@ plugins:
             Отримання даних у застосунку: Daten in der App empfangen
             GSM та SMS: GSM und SMS
             Wi-Fi-з'єднання пристрою: WLAN-Verbindung des Geräts
+            Додаткові налаштування пристрою: Zusätzliche Geräteeinstellungen
+            Синхронізація даних через Bluetooth: Datensynchronisierung über Bluetooth
             Синхронізація часу: Zeitsynchronisierung
             Зберігання даних: Datenspeicherung
             Журнали: Protokolle
             Практичні інструкції: Anleitungen
             Налаштувати пристрій: Gerät einrichten
             Налаштувати GSM: GSM konfigurieren
-            Налаштувати локальну мережу Wi-Fi: Lokales WLAN konfigurieren
+            Підключитися до точки доступу пристрою: Mit Gerätezugangspunkt verbinden
+            Налаштувати синхронізацію через Wi-Fi мережу пасіки: WLAN-Synchronisierung einrichten
+            Перевірити налаштування синхронізації через Wi-Fi: WLAN-Synchronisierung prüfen
+            Налаштувати синхронізацію через Bluetooth: Bluetooth-Synchronisierung einrichten
             Завантажити архів: Archiv herunterladen
             Тарувати ваги: Waage tarieren
             Калібрувати ваги: Waage kalibrieren
@@ -173,6 +185,7 @@ nav:
       - Локальна мережа Wi-Fi: quick-start/local-wifi.md
   - Застосунок BeeApiary:
       - app/index.md
+      - Головний екран застосунку: app/main-screen.md
       - Встановлення: app/installation.md
       - Вимірювання: app/measurements.md
       - Графіки: app/charts.md
@@ -199,6 +212,8 @@ nav:
       - Отримання даних у застосунку: system/connectivity.md
       - GSM та SMS: system/gsm-and-sms.md
       - Wi-Fi-з'єднання пристрою: system/local-wifi.md
+      - Додаткові налаштування пристрою: system/additional-settings.md
+      - Синхронізація даних через Bluetooth: system/bluetooth.md
       - Синхронізація часу: system/time-synchronization.md
       - Зберігання даних: system/data-storage.md
       - Журнали: system/logging.md
@@ -207,7 +222,10 @@ nav:
       - Встановити застосунок: guides/install-app.md
       - Налаштувати пристрій: guides/set-up-device.md
       - Налаштувати GSM: guides/configure-gsm.md
-      - Налаштувати локальну мережу Wi-Fi: guides/configure-local-wifi.md
+      - Підключитися до точки доступу пристрою: guides/configure-local-wifi.md
+      - Налаштувати синхронізацію через Wi-Fi мережу пасіки: guides/configure-wifi-sync.md
+      - Перевірити налаштування синхронізації через Wi-Fi: guides/verify-wifi-sync-settings.md
+      - Налаштувати синхронізацію через Bluetooth: guides/configure-bluetooth-sync.md
       - Завантажити архів: guides/download-archive.md
       - Тарувати ваги: guides/tare-scales.md
       - Калібрувати ваги: guides/calibrate-scales.md

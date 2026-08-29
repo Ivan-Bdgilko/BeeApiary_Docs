@@ -1,3 +1,7 @@
+---
+translation_status: not_ready
+---
+
 # Графіки
 
 ## Вибір графіків

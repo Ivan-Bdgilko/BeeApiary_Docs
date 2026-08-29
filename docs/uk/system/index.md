@@ -1,3 +1,7 @@
+---
+translation_status: translated
+---
+
 # Як працює система
 
 BeeApiary складається з вимірювального пристрою, який вимірює й зберігає дані, та застосунку BeeApiary для Android, який приймає, зберігає і відображає їх користувачу.
@@ -8,4 +12,6 @@ BeeApiary складається з вимірювального пристро�
 - [Отримання даних у застосунку](connectivity.md)
 - [GSM та SMS](gsm-and-sms.md)
 - [Wi-Fi-з'єднання пристрою](local-wifi.md)
+- [Додаткові налаштування пристрою](additional-settings.md)
+- [Синхронізація даних через Bluetooth](bluetooth.md)
 - [Зберігання даних](data-storage.md)

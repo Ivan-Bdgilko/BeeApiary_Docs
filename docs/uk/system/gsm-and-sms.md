@@ -1,3 +1,7 @@
+---
+translation_status: not_ready
+---
+
 # GSM та SMS
 
 Пристрій підтримує два номери одержувачів. Для кожного можна окремо вибрати формат:
@@ -5,15 +9,15 @@
 - звичайний SMS, придатний для читання без застосунку BeeApiary;
 - стислий SMS, який застосунок перетворює на набір вимірювань.
 
-Для стислого формату виберіть **Для Android**:
+У вебінтерфейсі пристрою для стислого формату виберіть **Для Android**:
 
-![Вибір формату SMS Для Android](../../assets/uk/system/gsm-and-sms/android-message-format.png){ .doc-screenshot }
+![Вибір формату SMS Для Android у вебінтерфейсі пристрою](../../assets/uk/system/gsm-and-sms/android-message-format.png){ .doc-screenshot }
 
 Для читання без застосунку виберіть **Для людини**:
 
-![Вибір формату SMS Для людини](../../assets/uk/system/gsm-and-sms/human-message-format.png){ .doc-screenshot }
+![Вибір формату SMS Для людини у вебінтерфейсі пристрою](../../assets/uk/system/gsm-and-sms/human-message-format.png){ .doc-screenshot }
 
-Звичайний SMS містить підписані поточні значення:
+У системному застосунку повідомлень Android звичайний SMS містить підписані поточні значення:
 
 ![Приклад звичайного SMS](../../assets/uk/system/gsm-and-sms/human-readable-message.png){ .doc-screenshot }
 
@@ -25,16 +29,16 @@
 
 Для стислого формату рекомендовано передавання приблизно кожні чотири години, щоб не переповнювати SMS і зберегти регулярний графік.
 
-Кнопка **Переглянути розклад відправки** доступна у формі номера:
+У вебінтерфейсі пристрою кнопка **Переглянути розклад відправки** доступна у формі номера:
 
-![Перехід до розкладу відправки](../../assets/uk/system/gsm-and-sms/open-sending-schedule.png){ .doc-screenshot }
+![Перехід до розкладу відправки у вебінтерфейсі пристрою](../../assets/uk/system/gsm-and-sms/open-sending-schedule.png){ .doc-screenshot }
 
 У розкладі можна вибрати потрібні години:
 
-![Вибір годин відправки SMS](../../assets/uk/system/gsm-and-sms/sending-hours-selection.png){ .doc-screenshot }
+![Вибір годин відправки SMS у вебінтерфейсі пристрою](../../assets/uk/system/gsm-and-sms/sending-hours-selection.png){ .doc-screenshot }
 
 Приклад ритму кожні чотири години:
 
-![Збережений розклад із відправкою кожні чотири години](../../assets/uk/system/gsm-and-sms/saved-four-hour-schedule.png){ .doc-screenshot }
+![Збережений розклад із відправкою кожні чотири години у вебінтерфейсі пристрою](../../assets/uk/system/gsm-and-sms/saved-four-hour-schedule.png){ .doc-screenshot }
 
 Налаштування: [Налаштування GSM](../guides/configure-gsm.md). Проблеми: [Не надходять SMS](../troubleshooting/no-sms.md).
