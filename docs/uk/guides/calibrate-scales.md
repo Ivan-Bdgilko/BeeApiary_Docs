@@ -1,3 +1,7 @@
+---
+translation_status: translated
+---
+
 # Як калібрувати ваги
 
 !!! danger

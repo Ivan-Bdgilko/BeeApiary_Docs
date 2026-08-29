@@ -1,3 +1,7 @@
+---
+translation_status: translated
+---
+
 # `mset.xml`: налаштування пристрою
 
 Основна конфігурація розташована у `/setting/mset.xml` на microSD і має кореневий елемент `<settings>`.

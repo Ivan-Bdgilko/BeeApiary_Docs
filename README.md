@@ -1,7 +1,7 @@
-# Документація BeeApiary
+# BeeApiary — ваги з GSM, Wi-Fi та Bluetooth
 
 [User manual](https://ivan-bdgilko.github.io/BeeApiary_Docs/)
-[Документація BeeApiary](https://ivan-bdgilko.github.io/BeeApiary_Docs/)
+[BeeApiary — ваги з GSM, Wi-Fi та Bluetooth](https://ivan-bdgilko.github.io/BeeApiary_Docs/)
 
 Вихідна документація BeeApiary для публікації через MkDocs і GitHub Pages.
 
