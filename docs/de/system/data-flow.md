@@ -1,6 +1,6 @@
 # Datenfluss
 
-1. Zu Beginn jeder Stunde führt das BeeApiary-Messgerät die konfigurierten Messungen durch.
+1. Zu Beginn jeder Stunde führt die BeeApiary-Bienenstockwaage die konfigurierten Messungen durch.
 2. Das Ergebnis wird im lokalen microSD-Archiv gespeichert, sofern die Karte verfügbar ist.
 3. Das Gerät stellt die Daten über den konfigurierten Kanal bereit:
 
@@ -14,7 +14,7 @@
 
 Das Fehlen von GSM, WLAN, Bluetooth oder eines Telefons in der Nähe unterbricht die grundlegende Messwerterfassung nicht. Sobald eine Verbindung verfügbar ist, können die Daten an die App übertragen werden.
 
-Bei der entfernten Weiterleitung über WLAN speichert der Online-Übertragungsdienst die Daten nicht. Dauerhafte Kopien verbleiben auf dem Messgerät und auf dem Telefon des Benutzers.
+Bei der entfernten Weiterleitung über WLAN speichert der Online-Übertragungsdienst die Daten nicht. Dauerhafte Kopien verbleiben im Speicher der BeeApiary-Bienenstockwaage und auf dem Telefon des Benutzers.
 
 Einen Vergleich der Kanäle findest du unter [Daten in der App empfangen](connectivity.md).
 

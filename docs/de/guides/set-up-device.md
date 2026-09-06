@@ -1,4 +1,4 @@
-# So richtest du ein neues BeeApiary-Messgerät ein
+# So richtest du eine neue BeeApiary-Bienenstockwaage ein
 
 1. Lade das Gerät über USB Type-C.
 

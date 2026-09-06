@@ -1,6 +1,6 @@
 # Device Wi-Fi Connection
 
-The BeeApiary measuring device supports both a direct phone connection to its own access point and remote transmission through an existing apiary Wi-Fi network.
+The BeeApiary hive scales support both a direct phone connection to their own access point and remote transmission through an existing apiary Wi-Fi network.
 
 ## Direct Connection to the Device { #direct-access-point }
 
@@ -55,6 +55,6 @@ After a restart with the magnetic key or during the next scheduled hourly cycle,
 - a Wi-Fi network with Internet access is available near the device;
 - the user knows the name and password of that network.
 
-The online relay does not store data. Permanent storage remains local on the measuring device and the user's phone.
+The online relay does not store data. Permanent storage remains local in the BeeApiary hive scales' memory and on the user's phone.
 
 For the step-by-step procedure, see [Set Up Synchronization Through the Apiary Wi-Fi Network](../guides/configure-wifi-sync.md).

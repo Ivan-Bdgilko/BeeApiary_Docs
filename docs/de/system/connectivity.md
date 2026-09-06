@@ -1,6 +1,6 @@
 # Daten in der App empfangen
 
-Daten vom BeeApiary-Messgerät können auf vier Wegen zur App gelangen. Die Wahl hängt davon ab, wo sich das Telefon befindet und welche Verbindung in der Nähe des Geräts verfügbar ist.
+Daten von der BeeApiary-Bienenstockwaage können auf vier Wegen zur App gelangen. Die Wahl hängt davon ab, wo sich das Telefon befindet und welche Verbindung in der Nähe der Waage verfügbar ist.
 
 | Kanal | Standort des Telefons | Voraussetzungen | So gelangen die Daten zur App |
 |---|---|---|---|
@@ -25,7 +25,7 @@ Das Gerät kann ein vorhandenes WLAN-Netzwerk mit Internetzugang am Bienenstand 
 
 Vor der Ersteinrichtung muss die App mindestens einmal Daten vom Gerät über SMS oder durch direktes Herunterladen des Archivs empfangen haben. Die Registrierung erfolgt auf einem Telefon mit Internetzugang. Anschließend werden die vorbereiteten WLAN- und Cloud-Einstellungen über den Zugangspunkt `apiary_net` an das Gerät übertragen.
 
-Der Online-Übertragungsdienst speichert keine Daten. Dauerhafte Kopien verbleiben auf dem Messgerät und auf dem Telefon des Benutzers.
+Der Online-Übertragungsdienst speichert keine Daten. Dauerhafte Kopien verbleiben im Speicher der BeeApiary-Bienenstockwaage und auf dem Telefon des Benutzers.
 
 Das genaue Verfahren findest du unter [Synchronisierung über das WLAN-Netzwerk am Bienenstand einrichten](../guides/configure-wifi-sync.md).
 

@@ -13,6 +13,6 @@
 5. Wenn du GSM verwendest, musst du die Berechtigung zur Verarbeitung von SMS-Nachrichten erteilen.
 6. Füge für GSM das Gerät hinzu und gib die Telefonnummer der darin eingesetzten SIM-Karte ein.
 
-Ergebnis: Die App ist installiert. Wähle eine [Methode zum Empfang von Daten vom Messgerät](../system/connectivity.md), oder verwende die App ohne physisches Gerät.
+Ergebnis: Die App ist installiert. Wähle eine [Methode zum Empfang von Daten von der BeeApiary-Bienenstockwaage](../system/connectivity.md), oder verwende die App ohne Waage.
 
 Weitere Informationen findest du unter [App installieren](../app/installation.md).

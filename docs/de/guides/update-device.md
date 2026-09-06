@@ -1,4 +1,4 @@
-# Firmware des BeeApiary-Messgeräts aktualisieren
+# Firmware der BeeApiary-Bienenstockwaage aktualisieren
 
 Wähle vor der Aktualisierung eine Firmware aus, die zur Gerätegeneration und zur gewünschten Sprache der Benutzeroberfläche passt.
 

@@ -5,4 +5,4 @@ search:
 
 <meta http-equiv="refresh" content="0; url=../">
 
-[Go to “BeeApiary Measuring Device”](index.md)
+[Go to “BeeApiary Beehive Scales”](index.md)

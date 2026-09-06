@@ -1,6 +1,6 @@
 # WLAN-Verbindung des Geräts
 
-Das BeeApiary-Messgerät unterstützt sowohl die direkte Verbindung eines Telefons mit seinem eigenen Zugangspunkt als auch die entfernte Übertragung über ein vorhandenes WLAN-Netzwerk am Bienenstand.
+Die BeeApiary-Bienenstockwaage unterstützt sowohl die direkte Verbindung eines Telefons mit ihrem eigenen Zugangspunkt als auch die entfernte Übertragung über ein vorhandenes WLAN-Netzwerk am Bienenstand.
 
 ## Direkte Verbindung zum Gerät { #direct-access-point }
 
@@ -55,6 +55,6 @@ Nach einem Neustart mit dem Magnetschlüssel oder im nächsten geplanten stündl
 - In der Nähe des Geräts ist ein WLAN-Netzwerk mit Internetzugang verfügbar.
 - Der Benutzer kennt den Namen und das Passwort dieses Netzwerks.
 
-Der Online-Übertragungsdienst speichert keine Daten. Die dauerhafte Speicherung erfolgt lokal auf dem Messgerät und auf dem Telefon des Benutzers.
+Der Online-Übertragungsdienst speichert keine Daten. Die dauerhafte Speicherung erfolgt lokal im Speicher der BeeApiary-Bienenstockwaage und auf dem Telefon des Benutzers.
 
 Das schrittweise Verfahren findest du unter [Synchronisierung über das WLAN-Netzwerk am Bienenstand einrichten](../guides/configure-wifi-sync.md).

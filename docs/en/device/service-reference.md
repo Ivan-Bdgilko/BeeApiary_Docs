@@ -1,6 +1,6 @@
 # Service Documentation
 
-This section is a technical configuration archive for the BeeApiary measuring device. It is intended for service technicians and experienced users who need to restore or inspect XML files manually.
+This section is a technical configuration archive for the BeeApiary hive scales. It is intended for service technicians and experienced users who need to restore or inspect XML files manually.
 
 The initial values of some hardware and network parameters depend on the configuration and setup of the particular device.
 

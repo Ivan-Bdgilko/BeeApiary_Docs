@@ -1,0 +1,48 @@
+{# Custom language selector with a visible current-language code. #}
+<div class="md-header__option">
+  <div class="md-select">
+    {% set icon = config.theme.icon.alternate or "material/translate" %}
+    {% set current_locale = i18n_page_locale | d(config.theme.language, true) %}
+    {% if current_locale == "uk" %}
+      {% set current_label = "УКР" %}
+    {% elif current_locale == "en" %}
+      {% set current_label = "EN" %}
+    {% elif current_locale == "de" %}
+      {% set current_label = "DE" %}
+    {% else %}
+      {% set current_label = current_locale | upper %}
+    {% endif %}
+    <button
+      class="md-header__button md-icon language-switcher__button"
+      aria-label="{{ lang.t('select.language') }}"
+      title="{{ lang.t('select.language') }}"
+      type="button"
+    >
+      <span class="language-switcher__icon" aria-hidden="true">
+        {% include ".icons/" ~ icon ~ ".svg" %}
+      </span>
+      <span class="language-switcher__code" aria-hidden="true">{{ current_label }}</span>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        {% for alt in config.extra.alternate %}
+          <li class="md-select__item">
+            <a
+              href="{{ alt.link | url }}"
+              hreflang="{{ alt.lang }}"
+              class="md-select__link language-switcher__link{% if alt.lang == current_locale %} language-switcher__link--active{% endif %}"
+              {% if alt.lang == current_locale %}aria-current="page"{% endif %}
+            >
+              <span>{{ alt.name }}</span>
+              {% if alt.lang == current_locale %}
+                <span class="md-icon language-switcher__check" aria-hidden="true">
+                  {% include ".icons/material/check.svg" %}
+                </span>
+              {% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

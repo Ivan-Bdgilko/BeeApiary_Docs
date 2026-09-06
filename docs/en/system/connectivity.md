@@ -1,6 +1,6 @@
 # Receiving Data in the App
 
-Data from the BeeApiary measuring device can reach the app in four ways. The right choice depends on the phone's location and the connection available near the device.
+Data from the BeeApiary hive scales can reach the app in four ways. The right choice depends on the phone's location and the connection available near the scales.
 
 | Channel | Phone location | Requirements | How data reaches the app |
 |---|---|---|---|
@@ -25,7 +25,7 @@ The device can use an existing Wi-Fi network with Internet access at the apiary.
 
 Before initial setup, the app must have received data from the device at least once through SMS or a direct archive download. Registration is completed on a phone with Internet access, and the prepared Wi-Fi and cloud settings are then transferred to the device through its `apiary_net` access point.
 
-The online relay does not store data. Permanent copies remain on the measuring device and the user's phone.
+The online relay does not store data. Permanent copies remain in the BeeApiary hive scales' memory and on the user's phone.
 
 For the detailed procedure, see [Set Up Synchronization Through the Apiary Wi-Fi Network](../guides/configure-wifi-sync.md).
 

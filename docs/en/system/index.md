@@ -1,6 +1,6 @@
 # How the System Works
 
-BeeApiary consists of a measuring device that collects and stores data and the BeeApiary Android app, which receives, stores, and presents the data to the user.
+Together with sensors and the app, BeeApiary hive scales form a BeeApiary smart hive. The scales measure and store data locally, while the BeeApiary Android app receives, stores, and presents it to the user.
 
 Data can reach the app through GSM, a direct Wi-Fi connection to the device, routing through the apiary Wi-Fi network, or Bluetooth. The system does not require an external server for its core operation, and the online relay does not store data.
 

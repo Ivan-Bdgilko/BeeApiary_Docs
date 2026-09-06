@@ -55,13 +55,18 @@ plugins:
             Застосунок BeeApiary: BeeApiary App
             Головний екран застосунку: App Home Screen
             Встановлення: Installation
+            Додати ваги або вулик: Add Scales or a Hive
             Додати пасічні ваги BeeApiary: Add BeeApiary Beehive Scales
             Додати вулик: Add a Hive
             Головне меню: Main Menu
-            Вимірювання: Measurements
             Графіки: Charts
             Період перегляду графіків: Chart Viewing Period
             Вибір даних і графіків: Select Data and Charts
+            Порядок полів стану вулика: Hive State Field Order
+            Порядок даних на екрані погоди: Weather Screen Data Order
+            Додаткові налаштування застосунку: Additional App Settings
+            Типи вуликів: Hive Types
+            NFC-мітки та дії: NFC Tags and Actions
             Події та нотатки: Events and Notes
             Стан вулика: Hive Status
             Налаштування: Settings
@@ -126,13 +131,18 @@ plugins:
             Застосунок BeeApiary: BeeApiary-App
             Головний екран застосунку: Startbildschirm der App
             Встановлення: Installation
+            Додати ваги або вулик: Waage oder Bienenstock hinzufügen
             Додати пасічні ваги BeeApiary: BeeApiary-Bienenstockwaage hinzufügen
             Додати вулик: Bienenstock hinzufügen
             Головне меню: Hauptmenü
-            Вимірювання: Messungen
             Графіки: Diagramme
             Період перегляду графіків: Zeitraum der Diagramme
             Вибір даних і графіків: Daten und Diagramme auswählen
+            Порядок полів стану вулика: Reihenfolge der Beutenstatusfelder
+            Порядок даних на екрані погоди: Reihenfolge der Wetterdaten
+            Додаткові налаштування застосунку: Zusätzliche App-Einstellungen
+            Типи вуликів: Beutentypen
+            NFC-мітки та дії: NFC-Tags und Aktionen
             Події та нотатки: Ereignisse und Notizen
             Стан вулика: Beutenstatus
             Налаштування: Einstellungen
@@ -200,17 +210,24 @@ nav:
   - Застосунок BeeApiary:
       - app/index.md
       - Встановлення: app/installation.md
-      - Додати пасічні ваги BeeApiary: app/add-device.md
-      - Додати вулик: app/add-hive.md
+      - Додати ваги або вулик:
+          - app/add-device-or-hive/index.md
+          - Додати пасічні ваги BeeApiary: app/add-device.md
+          - Додати вулик: app/add-hive.md
       - Головний екран застосунку: app/main-screen.md
       - Головне меню: app/main-menu.md
-      - Вимірювання: app/measurements.md
       - Графіки: app/charts.md
       - Період перегляду графіків: app/chart-period.md
-      - Вибір даних і графіків: app/chart-settings.md
       - Події та нотатки: app/events-and-notes.md
       - Стан вулика: app/hive-state.md
-      - Налаштування: app/settings.md
+      - Налаштування:
+          - app/settings/index.md
+          - Вибір даних і графіків: app/chart-settings.md
+          - Порядок полів стану вулика: app/hive-state-settings.md
+          - Порядок даних на екрані погоди: app/weather-settings.md
+          - Додаткові налаштування застосунку: app/additional-settings.md
+          - Типи вуликів: app/hive-types.md
+          - NFC-мітки та дії: app/nfc-settings.md
       - Додаткові інструменти: app/additional-tools.md
       - Про застосунок: app/about.md
   - Пасічні ваги BeeApiary:

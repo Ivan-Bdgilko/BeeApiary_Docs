@@ -1,4 +1,4 @@
-# How to Set Up a New BeeApiary Measuring Device
+# How to Set Up New BeeApiary Beehive Scales
 
 1. Charge the device through USB Type-C.
 

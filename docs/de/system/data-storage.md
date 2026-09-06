@@ -1,6 +1,6 @@
 # Datenspeicherung
 
-Das BeeApiary-Messgerät zeichnet Daten auf der microSD-Karte auf, unabhängig davon, ob GSM verfügbar ist. Für jedes Jahr wird ein Verzeichnis `YEARxx` angelegt. Für die Monate werden CSV-Dateien mit Datum, Uhrzeit und verfügbaren Messwerten erstellt.
+Die BeeApiary-Bienenstockwaage zeichnet Daten auf der microSD-Karte auf, unabhängig davon, ob GSM verfügbar ist. Für jedes Jahr wird ein Verzeichnis `YEARxx` angelegt. Für die Monate werden CSV-Dateien mit Datum, Uhrzeit und verfügbaren Messwerten erstellt.
 
 Die CSV-Datei kann Folgendes enthalten:
 

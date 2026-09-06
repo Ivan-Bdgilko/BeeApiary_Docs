@@ -1,7 +1,7 @@
 # System einrichten
 
 !!! danger "Achtung: Das Gerät ist bereits vollständig eingerichtet"
-    Ein neues BeeApiary-Messgerät wird eingerichtet und kalibriert geliefert. Die Rufnummer des Benutzers ist bereits im Gerät gespeichert, daher musst du es nicht zusätzlich konfigurieren.
+    Eine neue BeeApiary-Bienenstockwaage wird eingerichtet und kalibriert geliefert. Die Rufnummer des Benutzers ist bereits in den Einstellungen der Waage gespeichert, daher musst du sie nicht zusätzlich konfigurieren.
 
     Nimm keine Änderungen auf eigene Faust vor. In der Regel reicht es aus, nur die ersten vier Schritte auszuführen, damit alles funktioniert.
 
@@ -40,7 +40,7 @@ Für den Empfang gewöhnlicher SMS ist die BeeApiary-App nicht erforderlich. Ins
 
 1. [Installiere die BeeApiary-App](app-only.md) und erteile ihr unbedingt die Berechtigung zum Verarbeiten von SMS.
 2. Wähle in der App **Gerät hinzufügen**.
-3. Gib die Rufnummer der micro-SIM ein, die im BeeApiary-Messgerät eingesetzt ist.
+3. Gib die Rufnummer der micro-SIM ein, die in der BeeApiary-Bienenstockwaage eingesetzt ist.
 
 !!! note
     Gib die Rufnummer der im Gerät eingesetzten SIM-Karte ein, nicht die Telefonnummer des Benutzers.

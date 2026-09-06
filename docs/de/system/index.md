@@ -1,6 +1,6 @@
 # So funktioniert das System
 
-BeeApiary besteht aus einem Messgerät, das Daten erfasst und speichert, sowie der BeeApiary-App für Android, die diese Daten empfängt, speichert und dem Benutzer anzeigt.
+Zusammen mit Sensoren und der App bildet die BeeApiary-Bienenstockwaage einen intelligenten BeeApiary-Bienenstock. Die Waage misst und speichert Daten lokal, während die BeeApiary-App für Android sie empfängt, speichert und dem Benutzer anzeigt.
 
 Die Daten können über GSM, eine direkte WLAN-Verbindung zum Gerät, die Weiterleitung über das WLAN-Netzwerk am Bienenstand oder Bluetooth zur App gelangen. Für den grundlegenden Betrieb benötigt das System keinen verpflichtenden externen Server; der Online-Übertragungsdienst speichert keine Daten.
 

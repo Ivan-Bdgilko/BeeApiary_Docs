@@ -5,4 +5,4 @@ search:
 
 <meta http-equiv="refresh" content="0; url=../">
 
-[Zum Abschnitt „BeeApiary-Messgerät“](index.md)
+[Zum Abschnitt „BeeApiary-Bienenstockwaage“](index.md)

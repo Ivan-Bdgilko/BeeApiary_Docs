@@ -1,5 +1,5 @@
 ---
-translation_status: not_ready
+translation_status: translated
 ---
 
 # Додаткові інструменти

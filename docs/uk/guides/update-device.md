@@ -1,5 +1,5 @@
 ---
-translation_status: ready
+translation_status: translated
 ---
 
 # Як оновити прошивку пасічних ваг BeeApiary

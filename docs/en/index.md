@@ -2,7 +2,7 @@
 
 BeeApiary is a system for remote apiary care, monitoring, and record keeping. It helps you monitor hive conditions, study changes, and build a useful history both directly at the apiary and remotely.
 
-The system can operate independently as a standalone measuring device or combine multiple devices with the app — a digital apiary journal. Multiple ways to access data, long-term notes, measurements, and events create a complete picture of life in the apiary and help the beekeeper understand their bees better.
+One unit can operate independently as BeeApiary hive scales or, together with sensors and the app, form a BeeApiary smart hive. Multiple such hives can be combined in the app, which serves as a digital apiary journal. Multiple ways to access data, long-term notes, measurements, and events create a complete picture of life in the apiary and help the beekeeper understand their bees better.
 
 ## Your data remains under your control
 
@@ -24,7 +24,7 @@ The system can operate independently as a standalone measuring device or combine
 ## Documentation when you need it
 
 - [Using the BeeApiary app](app/index.md)
-- [Installing the BeeApiary measuring device](device/installation.md)
+- [Installing the BeeApiary hive scales](device/installation.md)
 - [Transferring and storing data](system/index.md)
 - [Guides](guides/index.md)
 - [Troubleshooting](troubleshooting/index.md)

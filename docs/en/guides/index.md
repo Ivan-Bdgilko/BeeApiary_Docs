@@ -1,7 +1,7 @@
 # Guides
 
 - [Install the BeeApiary App](install-app.md)
-- [Set Up the BeeApiary Measuring Device](set-up-device.md)
+- [Set Up the BeeApiary Beehive Scales](set-up-device.md)
 - [Configure GSM](configure-gsm.md)
 - [Connect to the Device Access Point](configure-local-wifi.md)
 - [Set Up Synchronization Through the Apiary Wi-Fi Network](configure-wifi-sync.md)

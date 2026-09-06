@@ -1,6 +1,6 @@
 # Logs
 
-The BeeApiary measuring device provides three different types of data:
+The BeeApiary hive scales provide three different types of data:
 
 1. a CSV measurement archive for the user;
 2. a device service log on the microSD card;

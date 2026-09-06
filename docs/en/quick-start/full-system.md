@@ -1,7 +1,7 @@
 # System Setup
 
 !!! danger "Attention: the device is already fully configured"
-    A new BeeApiary measuring device is supplied configured and calibrated. The user number is already stored in the device, so you do not need to reconfigure it.
+    New BeeApiary hive scales are supplied configured and calibrated. The user number is already stored in the scales' settings, so you do not need to reconfigure them.
 
     Do not make changes on your own. Usually, you only need to complete the first four steps below for everything to work.
 
@@ -40,7 +40,7 @@ The BeeApiary app is not required to receive ordinary SMS messages. Install it i
 
 1. [Install the BeeApiary app](app-only.md) and make sure you grant it permission to process SMS messages.
 2. In the app, select **Add device**.
-3. Enter the number of the micro-SIM installed in the BeeApiary measuring device.
+3. Enter the number of the micro-SIM installed in the BeeApiary hive scales.
 
 !!! note
     Enter the number of the SIM card installed in the device, not the user's phone number.

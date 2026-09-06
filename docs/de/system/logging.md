@@ -1,6 +1,6 @@
 # Protokolle
 
-Das BeeApiary-Messgerät stellt drei unterschiedliche Arten von Daten bereit:
+Die BeeApiary-Bienenstockwaage stellt drei unterschiedliche Arten von Daten bereit:
 
 1. ein CSV-Messwertarchiv für den Benutzer;
 2. ein Serviceprotokoll des Geräts auf der microSD-Karte;

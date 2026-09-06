@@ -1,6 +1,6 @@
 # Data Flow
 
-1. At the start of each hour, the BeeApiary measuring device takes the configured measurements.
+1. At the start of each hour, the BeeApiary hive scales take the configured measurements.
 2. The result is saved to the local microSD archive when the card is available.
 3. The device makes the data available through the configured channel:
 
@@ -14,7 +14,7 @@
 
 The absence of GSM, Wi-Fi, Bluetooth, or a nearby phone does not stop the core measurement process. The data can be transferred to the app when a connection becomes available.
 
-When data is routed remotely through Wi-Fi, the online relay does not store it. Permanent copies remain on the measuring device and the user's phone.
+When data is routed remotely through Wi-Fi, the online relay does not store it. Permanent copies remain in the BeeApiary hive scales' memory and on the user's phone.
 
 For a channel comparison, see [Receiving Data in the App](connectivity.md).
 

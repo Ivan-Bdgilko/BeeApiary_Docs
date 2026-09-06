@@ -23,6 +23,49 @@
   vertical-align: middle;
 }
 
+.md-header__button.language-switcher__button {
+  display: inline-flex;
+  width: auto;
+  min-width: 3.1rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.2rem;
+  padding: 0 0.3rem;
+  white-space: nowrap;
+}
+
+.language-switcher__icon {
+  display: inline-flex;
+  width: 1.2rem;
+  height: 1.2rem;
+  flex: 0 0 1.2rem;
+}
+
+.language-switcher__code {
+  font-size: 0.62rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.language-switcher__link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.language-switcher__link--active {
+  color: var(--md-accent-fg-color);
+  font-weight: 700;
+}
+
+.language-switcher__check {
+  width: 1rem;
+  height: 1rem;
+  flex: 0 0 1rem;
+}
+
 .md-content,
 .md-typeset {
   min-width: 0;

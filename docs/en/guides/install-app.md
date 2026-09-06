@@ -13,6 +13,6 @@
 5. If you will use GSM, make sure you grant permission to process SMS messages.
 6. For GSM, add the device and enter the phone number of the SIM card installed in it.
 
-Result: the app is installed. Choose a [method for receiving data from the measuring device](../system/connectivity.md), or use the app without a physical device.
+Result: the app is installed. Choose a [method for receiving data from the BeeApiary hive scales](../system/connectivity.md), or use the app without scales.
 
 For more information, see [Installing the App](../app/installation.md).

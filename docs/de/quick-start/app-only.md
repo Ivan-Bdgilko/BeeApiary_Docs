@@ -1,8 +1,8 @@
 # BeeApiary-App installieren
 
-Die BeeApiary-App kann unabhängig und ohne Messgerät verwendet werden. In diesem Modus kannst du die App kennenlernen und Funktionen nutzen, die keinen automatischen Datenempfang von einem Gerät benötigen.
+Die BeeApiary-App kann unabhängig und ohne Bienenstockwaage verwendet werden. In diesem Modus kannst du die App kennenlernen und Funktionen nutzen, die keinen automatischen Datenempfang von der Waage benötigen.
 
-Außerdem ist ein Demomodus verfügbar. Er simuliert ein Messgerät und zeigt dir, wie dessen Daten und die zugehörigen Ansichten dargestellt werden, auch wenn du noch kein physisches Gerät besitzt.
+Außerdem ist ein Demomodus verfügbar. Er simuliert eine BeeApiary-Bienenstockwaage und zeigt dir, wie deren Daten und die zugehörigen Ansichten dargestellt werden, auch wenn du noch keine echte Waage besitzt.
 
 !!! note "App-Berechtigungen"
     Beim ersten Start empfehlen wir, **alle Berechtigungen** zu erteilen, die von der App angefordert werden. Wenn du einige davon verweigerst, funktionieren bestimmte Funktionen möglicherweise nicht oder nicht richtig; das Verhalten bei allen möglichen Kombinationen von Einschränkungen wurde nicht geprüft. Erteile alle angeforderten Berechtigungen, um Einrichtung und Fehlersuche nicht unnötig zu erschweren.
@@ -17,6 +17,6 @@ Außerdem ist ein Demomodus verfügbar. Er simuliert ein Messgerät und zeigt di
 5. Wenn du Daten über GSM empfangen möchtest, musst du der App die Berechtigung zur Verarbeitung von SMS-Nachrichten erteilen.
 6. Füge für GSM bei Bedarf das physische Gerät hinzu und gib die Telefonnummer der darin eingesetzten SIM-Karte ein.
 
-Fertig: Die App ist installiert und kann ohne physisches Gerät oder im Demomodus verwendet werden. Daten eines physischen BeeApiary-Messgeräts können über GSM, eine direkte WLAN-Verbindung zum Gerät, das WLAN-Netzwerk am Bienenstand oder Bluetooth zur App gelangen. Vergleiche die [Methoden zum Datenempfang in der App](../system/connectivity.md), um den passenden Kanal auszuwählen.
+Fertig: Die App ist installiert und kann ohne Bienenstockwaage oder im Demomodus verwendet werden. Daten einer echten BeeApiary-Bienenstockwaage können über GSM, eine direkte WLAN-Verbindung zum Gerät, das WLAN-Netzwerk am Bienenstand oder Bluetooth zur App gelangen. Vergleiche die [Methoden zum Datenempfang in der App](../system/connectivity.md), um den passenden Kanal auszuwählen.
 
 Weitere Informationen findest du unter [App installieren](../app/installation.md).

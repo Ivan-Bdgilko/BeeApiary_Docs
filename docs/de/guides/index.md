@@ -1,7 +1,7 @@
 # Anleitungen
 
 - [BeeApiary-App installieren](install-app.md)
-- [BeeApiary-Messgerät einrichten](set-up-device.md)
+- [BeeApiary-Bienenstockwaage einrichten](set-up-device.md)
 - [GSM konfigurieren](configure-gsm.md)
 - [Mit dem Zugangspunkt des Geräts verbinden](configure-local-wifi.md)
 - [Synchronisierung über das WLAN-Netzwerk am Bienenstand einrichten](configure-wifi-sync.md)

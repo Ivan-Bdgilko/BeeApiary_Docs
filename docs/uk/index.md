@@ -1,5 +1,5 @@
 ---
-translation_status: ready
+translation_status: translated
 ---
 
 # ![Фірмова емблема BeeApiary](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary

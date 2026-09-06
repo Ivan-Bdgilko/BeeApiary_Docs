@@ -1,4 +1,4 @@
-# How to Update the BeeApiary Measuring Device Firmware
+# How to Update the BeeApiary Beehive Scales Firmware
 
 Before updating, select firmware that matches the device generation and the required interface language.
 

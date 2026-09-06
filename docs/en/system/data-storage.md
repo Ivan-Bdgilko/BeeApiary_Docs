@@ -1,6 +1,6 @@
 # Data Storage
 
-The BeeApiary measuring device records data to microSD whether or not GSM is available. A `YEARxx` directory is created for each year, with CSV files for each month containing the date, time, and available readings.
+The BeeApiary hive scales record data to microSD whether or not GSM is available. A `YEARxx` directory is created for each year, with CSV files for each month containing the date, time, and available readings.
 
 The CSV file may contain:
 

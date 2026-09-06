@@ -1,6 +1,6 @@
 # Cannot Connect to Wi-Fi
 
-1. [Activate or restart the BeeApiary measuring device](../device/installation.md#activation-reset): briefly hold the magnetic key against the branded mark on the back of the main unit.
+1. [Activate or restart the BeeApiary hive scales](../device/installation.md#activation-reset): briefly hold the magnetic key against the branded mark on the back of the main unit.
 2. Look for the network during the first minute after the restart.
 3. Check the SSID; the default value is `apiary_net`.
 4. Check the password; the default value is `apiary_wifi` unless it has been changed.

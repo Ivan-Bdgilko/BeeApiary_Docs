@@ -1,6 +1,6 @@
 # Servicedokumentation
 
-Dieser Abschnitt ist ein technisches Konfigurationsarchiv für das BeeApiary-Messgerät. Er richtet sich an Servicetechniker und erfahrene Benutzer, die XML-Dateien manuell wiederherstellen oder prüfen müssen.
+Dieser Abschnitt ist ein technisches Konfigurationsarchiv für die BeeApiary-Bienenstockwaage. Er richtet sich an Servicetechniker und erfahrene Benutzer, die XML-Dateien manuell wiederherstellen oder prüfen müssen.
 
 Die Anfangswerte einiger Hardware- und Netzwerkparameter hängen von der Ausstattung und Einrichtung des jeweiligen Geräts ab.
 
