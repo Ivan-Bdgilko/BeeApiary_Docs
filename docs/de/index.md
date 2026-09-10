@@ -2,6 +2,11 @@
 
 BeeApiary ist ein System für die Fernbetreuung, Beobachtung und Dokumentation eines Bienenstands. Es hilft dir, den Zustand der Beuten zu überwachen, Veränderungen zu untersuchen und sowohl direkt am Bienenstand als auch aus der Ferne eine nützliche Historie aufzubauen.
 
+!!! note "Zusätzliche Materialien und Angebote"
+    - [Videos auf dem YouTube-Kanal von BeeApiary](https://www.youtube.com/@beeApiary)
+    - [BeeApiary-Bienenstockwaage mit GSM und WLAN — OLX-Anzeige](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html)
+    - [Apiary Scales mit GSM und WLAN — OLX-Anzeige](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+
 Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten oder zusammen mit Sensoren und der App einen intelligenten BeeApiary-Bienenstock bilden. Mehrere solcher Bienenstöcke lassen sich in der App zu einem digitalen Bienenstandsjournal zusammenführen. Verschiedene Zugriffswege, langfristige Notizen, Messungen und Ereignisse ergeben ein umfassendes Bild vom Leben am Bienenstand und helfen dir, deine Bienen besser zu verstehen.
 
 ## Deine Daten bleiben unter deiner Kontrolle

@@ -2,6 +2,11 @@
 
 BeeApiary is a system for remote apiary care, monitoring, and record keeping. It helps you monitor hive conditions, study changes, and build a useful history both directly at the apiary and remotely.
 
+!!! note "Additional resources and listings"
+    - [Videos on the BeeApiary YouTube channel](https://www.youtube.com/@beeApiary)
+    - [BeeApiary hive scales with GSM and Wi-Fi — OLX listing](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html)
+    - [Apiary Scales with GSM and Wi-Fi — OLX listing](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+
 One unit can operate independently as BeeApiary hive scales or, together with sensors and the app, form a BeeApiary smart hive. Multiple such hives can be combined in the app, which serves as a digital apiary journal. Multiple ways to access data, long-term notes, measurements, and events create a complete picture of life in the apiary and help the beekeeper understand their bees better.
 
 ## Your data remains under your control

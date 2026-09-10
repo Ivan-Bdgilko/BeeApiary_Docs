@@ -9,3 +9,21 @@
     {%- endif -%}
   {%- endif -%}
 {%- endblock %}
+
+{% block content %}
+  {% if page.meta.translation_status == "not_ready" %}
+    <div class="admonition warning">
+      {% if i18n_page_locale == "en" %}
+        <p class="admonition-title">Page being updated</p>
+        <p>Sorry, this page is still under review and may be incomplete or outdated. Need another language? Email <a href="mailto:apiary4.bee@gmail.com">apiary4.bee@gmail.com</a>.</p>
+      {% elif i18n_page_locale == "de" %}
+        <p class="admonition-title">Seite wird aktualisiert</p>
+        <p>Entschuldige bitte: Diese Seite wird noch geprüft und kann unvollständig oder veraltet sein. Benötigst du eine weitere Sprachversion? Schreib an <a href="mailto:apiary4.bee@gmail.com">apiary4.bee@gmail.com</a>.</p>
+      {% else %}
+        <p class="admonition-title">Сторінка оновлюється</p>
+        <p>Перепрошуємо: сторінка ще проходить рев'ю й може бути неповною або застарілою. Потрібна інша локалізація? Напишіть на <a href="mailto:apiary4.bee@gmail.com">apiary4.bee@gmail.com</a>.</p>
+      {% endif %}
+    </div>
+  {% endif %}
+  {{ super() }}
+{% endblock %}
