@@ -8,6 +8,6 @@ Die Daten können über GSM, eine direkte WLAN-Verbindung zum Gerät, die Weiter
 - [Daten in der App empfangen](connectivity.md)
 - [GSM und SMS](gsm-and-sms.md)
 - [WLAN-Verbindung des Geräts](local-wifi.md)
-- [Zusätzliche Geräteeinstellungen](additional-settings.md)
+- [Zusätzliche Geräteeinstellungen](../device/additional-settings.md)
 - [Datensynchronisierung über Bluetooth](bluetooth.md)
 - [Datenspeicherung](data-storage.md)

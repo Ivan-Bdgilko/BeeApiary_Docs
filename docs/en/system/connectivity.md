@@ -1,6 +1,11 @@
-# Receiving Data in the App
+---
+title: "Apiary Monitoring Through GSM, Wi-Fi and Bluetooth"
+description: "Compare GSM, direct Wi-Fi, the apiary network and Bluetooth for receiving measurements in BeeApiary: connection requirements and available history."
+---
 
-Data from the BeeApiary hive scales can reach the app in four ways. The right choice depends on the phone's location and the connection available near the scales.
+# Apiary Monitoring Through GSM, Wi-Fi and Bluetooth { #receiving-data-in-the-app }
+
+For apiary monitoring, data from the BeeApiary beehive scales can reach the app in four ways: through GSM/SMS, a direct Wi-Fi connection, the apiary Wi-Fi network or Bluetooth. The choice between local and remote monitoring depends on the phone’s location and the connection available near the scales.
 
 | Channel | Phone location | Requirements | How data reaches the app |
 |---|---|---|---|

@@ -1,4 +1,11 @@
-# Installing the Device
+---
+title: "How to Install Beehive Scales Under a Hive"
+description: "How to install BeeApiary beehive scales under a hive: position the main unit and sensors, install a SIM card if needed and activate the device for the first time."
+---
+
+# How to Install Beehive Scales Under a Hive { #installing-the-device }
+
+To install scales under a hive, place the main unit in a sheltered location and the weight sensors on firm supports. The steps below cover installation and initial activation of the BeeApiary beehive scales.
 
 1. Choose a sheltered location under an overhang or the hive cover.
 2. Position the main unit to minimize exposure to direct sunlight, rain, and snow.

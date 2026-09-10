@@ -1,6 +1,11 @@
-# WLAN-Verbindung des Geräts
+---
+title: "Bienenstockwaage mit WLAN — direkte und Netzwerkverbindung"
+description: "BeeApiary-Bienenstockwaage über WLAN verbinden: direkter Zugangspunkt für das Telefon und entfernte Übertragung über das Netzwerk am Bienenstand."
+---
 
-Die BeeApiary-Bienenstockwaage unterstützt sowohl die direkte Verbindung eines Telefons mit ihrem eigenen Zugangspunkt als auch die entfernte Übertragung über ein vorhandenes WLAN-Netzwerk am Bienenstand.
+# Bienenstockwaage mit WLAN — direkte und Netzwerkverbindung { #wlan-verbindung-des-gerats }
+
+Die BeeApiary-Bienenstockwaage mit WLAN unterstützt zwei Wege zum Datenempfang: die direkte Verbindung des Telefons mit dem Zugangspunkt des Geräts (AP) und die Übertragung über das WLAN-Netzwerk am Bienenstand (STA). Die erste Methode funktioniert in der Nähe der Waage; die zweite ermöglicht den Datenzugriff aus der Ferne, wenn Internetzugang verfügbar ist.
 
 ## Direkte Verbindung zum Gerät { #direct-access-point }
 
@@ -31,7 +36,7 @@ Ausführliche Anleitungen:
 
 - [Mit dem Zugangspunkt des Geräts verbinden](../guides/configure-local-wifi.md);
 - [Archiv in die App herunterladen](../guides/download-archive.md);
-- [zusätzliche Geräteeinstellungen anzeigen](additional-settings.md).
+- [zusätzliche Geräteeinstellungen anzeigen](../device/additional-settings.md).
 
 ## Weiterleitung über das WLAN-Netzwerk am Bienenstand { #apiary-wifi-routing }
 
@@ -41,7 +46,7 @@ Für diese Methode ist keine eigene SIM-Karte in jedem Gerät erforderlich. In d
 
 ### So funktioniert die Einrichtung
 
-Zuerst registriert der Benutzer in der App ein Gerät, das der App bereits bekannt ist. Während der Registrierung muss das Telefon Internetzugang haben, muss aber noch nicht mit dem Gerät selbst verbunden sein. Der Dienst erstellt Kennungen und Schlüssel für die Kommunikation zwischen App und Gerät.
+Zuerst registriert der Benutzer in der App ein Gerät, das ihm bereits bekannt ist. Während der Registrierung muss das Telefon Internetzugang haben, muss aber noch nicht mit dem Gerät selbst verbunden sein. Der Dienst erstellt Kennungen und Schlüssel für die Kommunikation zwischen App und Gerät.
 
 Anschließend gibt der Benutzer in der App den Namen und das Passwort des WLAN-Netzwerks am Bienenstand ein. Die App speichert diese Einstellungen auf dem Telefon, das Gerät besitzt sie aber noch nicht. Um sie zu übertragen, verbinde das Telefon vorübergehend mit dem Zugangspunkt `apiary_net`, kehre zur App zurück und bestätige, dass die vorbereiteten Einstellungen auf das Gerät geschrieben werden sollen.
 

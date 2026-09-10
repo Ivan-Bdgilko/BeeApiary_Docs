@@ -24,4 +24,4 @@ Typischerweise befindet sich ein Sensor im oder über dem Bienenstock und der zw
 - Das OLED-Display zeigt Gewicht, Temperaturen und Batterieladung an und schaltet sich während einer Messung oder durch den Magnetschlüssel ein.
 - Wettersensoren können Luftfeuchtigkeit, Druck und zusätzliche Temperaturen erfassen.
 
-Das Vorhandensein von OLED-Display, Wettersensor und Alarmeingang wird in den [zusätzlichen Geräteeinstellungen](../system/additional-settings.md) angegeben.
+Das Vorhandensein von OLED-Display, Wettersensor und Alarmeingang wird in den [zusätzlichen Geräteeinstellungen](additional-settings.md) angegeben.

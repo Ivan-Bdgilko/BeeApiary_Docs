@@ -1,4 +1,11 @@
-# Specifications
+---
+title: "BeeApiary Electronic Beehive Scales — Specifications"
+description: "Specifications of the BeeApiary electronic beehive scales: measurements, power, communication channels, microSD and battery life conditions."
+---
+
+# BeeApiary Electronic Beehive Scales — Specifications { #specifications }
+
+Below are the specifications of the BeeApiary beehive scales: measurement ranges, power, transmission channels and local data storage. When comparing scales for your apiary, consider the device configuration and operating conditions, as they affect battery life.
 
 | Parameter | Value |
 |---|---|

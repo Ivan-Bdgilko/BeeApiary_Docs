@@ -1,4 +1,11 @@
-# Datenfluss
+---
+title: "So gelangen Daten aus dem Bienenstock auf das Telefon"
+description: "So misst, speichert und überträgt BeeApiary Daten aus dem Bienenstock auf das Telefon zur Anzeige aktueller Werte, des Verlaufs und der Diagramme."
+---
+
+# So gelangen Daten aus dem Bienenstock auf das Telefon { #datenfluss }
+
+Die Bienenstocküberwachung mit BeeApiary umfasst Messung, lokale Speicherung und Datenübertragung an die App. Die folgenden Schritte zeigen den Weg von der Messung am Gerät zu aktuellen Werten, dem Verlauf und den Diagrammen auf dem Telefon.
 
 1. Zu Beginn jeder Stunde führt die BeeApiary-Bienenstockwaage die konfigurierten Messungen durch.
 2. Das Ergebnis wird im lokalen microSD-Archiv gespeichert, sofern die Karte verfügbar ist.

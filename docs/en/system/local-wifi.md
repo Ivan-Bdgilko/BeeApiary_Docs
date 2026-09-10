@@ -1,6 +1,11 @@
-# Device Wi-Fi Connection
+---
+title: "Wi-Fi Beehive Scales — Direct and Network Connections"
+description: "Connect BeeApiary beehive scales over Wi-Fi: a direct access point for your phone and remote transmission through the apiary network."
+---
 
-The BeeApiary hive scales support both a direct phone connection to their own access point and remote transmission through an existing apiary Wi-Fi network.
+# Wi-Fi Beehive Scales — Direct and Network Connections { #device-wi-fi-connection }
+
+BeeApiary beehive scales with Wi-Fi support two ways to receive data: a direct phone connection to the device access point (AP) and transmission through the apiary Wi-Fi network (STA). The first method works near the scales; the second provides remote data access when Internet connectivity is available.
 
 ## Direct Connection to the Device { #direct-access-point }
 
@@ -31,7 +36,7 @@ Detailed procedures:
 
 - [Connect to the Device Access Point](../guides/configure-local-wifi.md);
 - [download the archive to the app](../guides/download-archive.md);
-- [view additional device settings](additional-settings.md).
+- [view additional device settings](../device/additional-settings.md).
 
 ## Routing Through the Apiary Wi-Fi Network { #apiary-wifi-routing }
 
@@ -41,7 +46,7 @@ This method does not require a separate SIM card in every device, but a configur
 
 ### How Setup Works
 
-First, the user registers a device that is already known to the app. During registration, the phone must have Internet access, but it does not yet need to be connected to the device itself. The service creates identifiers and keys for communication between the app and the device.
+First, the user registers a device they already know in the app. During registration, the phone must have Internet access, but it does not yet need to be connected to the device itself. The service creates identifiers and keys for communication between the app and the device.
 
 The user then enters the name and password of the apiary Wi-Fi network in the app. The app stores these settings on the phone, but the device does not have them yet. To transfer them, temporarily connect the phone to the `apiary_net` access point, return to the app, and confirm that the prepared settings should be written to the device.
 

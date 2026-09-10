@@ -1,6 +1,11 @@
-# Daten in der App empfangen
+---
+title: "Bienenstandüberwachung über GSM, WLAN und Bluetooth"
+description: "GSM, direktes WLAN, das Netzwerk am Bienenstand und Bluetooth für den Messwertempfang in BeeApiary vergleichen: Verbindungsvoraussetzungen und verfügbarer Verlauf."
+---
 
-Daten von der BeeApiary-Bienenstockwaage können auf vier Wegen zur App gelangen. Die Wahl hängt davon ab, wo sich das Telefon befindet und welche Verbindung in der Nähe der Waage verfügbar ist.
+# Bienenstandüberwachung über GSM, WLAN und Bluetooth { #daten-in-der-app-empfangen }
+
+Zur Bienenstandüberwachung können Daten von der BeeApiary-Bienenstockwaage auf vier Wegen zur App gelangen: über GSM/SMS, eine direkte WLAN-Verbindung, das WLAN-Netzwerk am Bienenstand oder Bluetooth. Die Wahl zwischen lokaler Überwachung und Überwachung aus der Ferne hängt davon ab, wo sich das Telefon befindet und welche Verbindung in der Nähe der Waage verfügbar ist.
 
 | Kanal | Standort des Telefons | Voraussetzungen | So gelangen die Daten zur App |
 |---|---|---|---|

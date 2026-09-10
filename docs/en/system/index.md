@@ -8,6 +8,6 @@ Data can reach the app through GSM, a direct Wi-Fi connection to the device, rou
 - [Receiving Data in the App](connectivity.md)
 - [GSM and SMS](gsm-and-sms.md)
 - [Device Wi-Fi Connection](local-wifi.md)
-- [Additional Device Settings](additional-settings.md)
+- [Additional Device Settings](../device/additional-settings.md)
 - [Bluetooth Data Synchronization](bluetooth.md)
 - [Data Storage](data-storage.md)

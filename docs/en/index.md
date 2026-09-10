@@ -1,16 +1,28 @@
-# ![BeeApiary brand emblem](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary
+---
+title: "BeeApiary — Beehive Scales and Apiary Monitoring"
+description: "BeeApiary beehive scales and apiary monitoring: local and remote data access through GSM, Wi-Fi and Bluetooth, charts and a hive journal."
+---
 
-BeeApiary is a system for remote apiary care, monitoring, and record keeping. It helps you monitor hive conditions, study changes, and build a useful history both directly at the apiary and remotely.
+# ![BeeApiary brand emblem](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary — Beehive Scales and Apiary Monitoring { #beeapiary }
 
-One unit can operate independently as BeeApiary hive scales or, together with sensors and the app, form a BeeApiary smart hive. Multiple such hives can be combined in the app, which serves as a digital apiary journal. Multiple ways to access data, long-term notes, measurements, and events create a complete picture of life in the apiary and help the beekeeper understand their bees better.
+BeeApiary combines beehive scales and an apiary monitoring system with GSM, Wi-Fi and Bluetooth support. Together with sensors and the app, the hive scales help you monitor hive conditions, study changes and keep a journal both at the apiary and remotely. The app can also be used on its own, without scales.
+
+![BeeApiary connection methods: GSM/SMS, Wi-Fi AP, Wi-Fi STA and Bluetooth, local data storage and computer access](../assets/en/system/overview/beeapiary-connectivity-overview.png)
+
+!!! note "Additional resources and listings"
+    - [Videos on the BeeApiary YouTube channel](https://www.youtube.com/@beeApiary)
+    - [BeeApiary hive scales with GSM and Wi-Fi — OLX listing](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html)
+    - [Apiary Scales with GSM and Wi-Fi — OLX listing](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+
+One unit can operate independently as BeeApiary hive scales and, together with sensors and the app, form a BeeApiary smart hive. Several such hives, brought together in the app with a digital journal, make up a BeeApiary smart apiary. Different ways to access data, long-term notes, measurements and events create a complete picture of life in the apiary and help beekeepers better understand their bees.
 
 ## Your data remains under your control
 
-- All data is stored locally. There is no mandatory connection to external servers, so no SIM card is required. ([Details](guides/download-archive.md))
-- Data is available directly at the apiary through a local Wi-Fi network, so no SIM card is required. ([Details](guides/configure-local-wifi.md))
-- Remote access over the Internet is possible through the local Wi-Fi network at the apiary, so a separate SIM card is not required for each device. ([Details](guides/configure-wifi-sync.md))
-- Data can be obtained directly through Bluetooth when you are near the device. Synchronization happens automatically, so no SIM card is required. ([Details](guides/configure-bluetooth-sync.md))
-- Access through a mobile operator also remains available and does not require mobile Internet. A SIM card with a minimal plan is sufficient. ([Details](guides/configure-gsm.md))
+- All data is stored locally. There is no mandatory connection to external servers, so no SIM card is required. ([Download the measurement archive](guides/download-archive.md))
+- Data is available directly at the apiary through a local Wi-Fi network, so no SIM card is required. ([Connect to the scales’ access point](guides/configure-local-wifi.md))
+- Remote access over the Internet is possible through the local Wi-Fi network at the apiary, so a separate SIM card is not required for each device. ([Set up transmission through the apiary Wi-Fi network](guides/configure-wifi-sync.md))
+- Data can be obtained directly through Bluetooth when you are near the device. Synchronization happens automatically, so no SIM card is required. ([Set up Bluetooth synchronization](guides/configure-bluetooth-sync.md))
+- Access through a mobile operator also remains available and does not require mobile Internet. A SIM card with a minimal plan is sufficient. ([Set up GSM and SMS](guides/configure-gsm.md))
 
 [Compare the ways data can reach the app](system/connectivity.md)
 

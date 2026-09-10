@@ -1,5 +1,5 @@
 ---
-translation_status: translated
+translation_status: ready
 ---
 
 # Обслуговування
@@ -14,3 +14,5 @@ translation_status: translated
     Пристрій не підтримує швидке заряджання, зокрема USB Power Delivery (PD). Для заряджання рекомендовано звичайне джерело живлення з портом USB Type-A та кабель USB Type-A–USB Type-C, а не кабель USB Type-C–USB Type-C.
 
 Основні вимірювання і передача даних можуть працювати без microSD, але архів і журнали на картці тоді недоступні.
+
+Перед завершенням сезону перегляньте [правила використання та зберігання взимку](winter-use-and-storage.md).

@@ -79,18 +79,20 @@ plugins:
             Розміщення: Placement
             Технічні характеристики: Specifications
             Обслуговування: Maintenance
+            Використання та зберігання взимку: Winter Use and Storage
+            Чому BeeApiary працює саме так: Why BeeApiary Works This Way
             Сервісна документація: Service Documentation
             MSET.XML — налаштування пристрою: MSET.XML — Device Settings
             HIVE*.XML — налаштування вулика: HIVE*.XML — Hive Settings
             Відновлення конфігурації: Restore Configuration
             Система: System
             Як працює система: How the System Works
-            Потік даних: Data Flow
-            Отримання даних у застосунку: Receiving Data in the App
-            GSM та SMS: GSM and SMS
-            Wi-Fi-з'єднання пристрою: Device Wi-Fi Connection
+            Дані з вулика: Data Flow
+            Моніторинг пасіки: Receiving Data in the App
+            GSM ваги та SMS: GSM and SMS
+            Wi-Fi підключення ваг: Device Wi-Fi Connection
             Додаткові налаштування пристрою: Additional Device Settings
-            Синхронізація даних через Bluetooth: Bluetooth Data Synchronization
+            Bluetooth-синхронізація: Bluetooth Data Synchronization
             Синхронізація часу: Time Synchronization
             Зберігання даних: Data Storage
             Журнали: Logs
@@ -155,18 +157,20 @@ plugins:
             Розміщення: Platzierung
             Технічні характеристики: Technische Daten
             Обслуговування: Wartung
+            Використання та зберігання взимку: Nutzung und Lagerung im Winter
+            Чому BeeApiary працює саме так: Warum BeeApiary so funktioniert
             Сервісна документація: Servicedokumentation
             MSET.XML — налаштування пристрою: MSET.XML — Geräteeinstellungen
             HIVE*.XML — налаштування вулика: HIVE*.XML — Beuteneinstellungen
             Відновлення конфігурації: Konfiguration wiederherstellen
             Система: System
             Як працює система: So funktioniert das System
-            Потік даних: Datenfluss
-            Отримання даних у застосунку: Daten in der App empfangen
-            GSM та SMS: GSM und SMS
-            Wi-Fi-з'єднання пристрою: WLAN-Verbindung des Geräts
+            Дані з вулика: Datenfluss
+            Моніторинг пасіки: Daten in der App empfangen
+            GSM ваги та SMS: GSM und SMS
+            Wi-Fi підключення ваг: WLAN-Verbindung des Geräts
             Додаткові налаштування пристрою: Zusätzliche Geräteeinstellungen
-            Синхронізація даних через Bluetooth: Datensynchronisierung über Bluetooth
+            Bluetooth-синхронізація: Datensynchronisierung über Bluetooth
             Синхронізація часу: Zeitsynchronisierung
             Зберігання даних: Datenspeicherung
             Журнали: Protokolle
@@ -198,6 +202,11 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  analytics:
+    provider: google
+    property: G-QCY5ZXFY9K
 
 nav:
   - Головна: index.md
@@ -239,6 +248,9 @@ nav:
       - Розміщення: device/placement.md
       - Технічні характеристики: device/specifications.md
       - Обслуговування: device/maintenance.md
+      - Використання та зберігання взимку: device/winter-use-and-storage.md
+      - Додаткові налаштування пристрою: device/additional-settings.md
+      - Чому BeeApiary працює саме так: device/design-decisions.md
       - Сервісна документація:
           - device/service-reference.md
           - MSET.XML — налаштування пристрою: device/settings-reference.md
@@ -246,12 +258,11 @@ nav:
           - Відновлення конфігурації: device/recovery.md
   - Система:
       - system/index.md
-      - Потік даних: system/data-flow.md
-      - Отримання даних у застосунку: system/connectivity.md
-      - GSM та SMS: system/gsm-and-sms.md
-      - Wi-Fi-з'єднання пристрою: system/local-wifi.md
-      - Додаткові налаштування пристрою: system/additional-settings.md
-      - Синхронізація даних через Bluetooth: system/bluetooth.md
+      - Дані з вулика: system/data-flow.md
+      - Моніторинг пасіки: system/connectivity.md
+      - GSM ваги та SMS: system/gsm-and-sms.md
+      - Wi-Fi підключення ваг: system/local-wifi.md
+      - Bluetooth-синхронізація: system/bluetooth.md
       - Синхронізація часу: system/time-synchronization.md
       - Зберігання даних: system/data-storage.md
       - Журнали: system/logging.md

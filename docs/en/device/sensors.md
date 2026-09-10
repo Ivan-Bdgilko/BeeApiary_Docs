@@ -24,4 +24,4 @@ A typical arrangement places one sensor inside or above the hive and the other o
 - the OLED display shows weight, temperatures, and battery charge and turns on during measurement or when activated with the magnetic key;
 - weather sensors can add humidity, pressure, and additional temperature readings.
 
-The presence of the OLED display, weather sensor, and alarm input is specified in the [additional device settings](../system/additional-settings.md).
+The presence of the OLED display, weather sensor, and alarm input is specified in the [additional device settings](additional-settings.md).

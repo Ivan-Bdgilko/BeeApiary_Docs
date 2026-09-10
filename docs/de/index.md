@@ -1,16 +1,28 @@
-# ![BeeApiary-Markenlogo](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary
+---
+title: "BeeApiary — Bienenstockwaage und Bienenstandüberwachung"
+description: "BeeApiary-Bienenstockwaage und Bienenstandüberwachung: lokaler und entfernter Datenzugriff über GSM, WLAN und Bluetooth, Diagramme und Beutenjournal."
+---
 
-BeeApiary ist ein System für die Fernbetreuung, Beobachtung und Dokumentation eines Bienenstands. Es hilft dir, den Zustand der Beuten zu überwachen, Veränderungen zu untersuchen und sowohl direkt am Bienenstand als auch aus der Ferne eine nützliche Historie aufzubauen.
+# ![BeeApiary-Markenlogo](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary — Bienenstockwaage und Bienenstandüberwachung { #beeapiary }
 
-Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten oder zusammen mit Sensoren und der App einen intelligenten BeeApiary-Bienenstock bilden. Mehrere solcher Bienenstöcke lassen sich in der App zu einem digitalen Bienenstandsjournal zusammenführen. Verschiedene Zugriffswege, langfristige Notizen, Messungen und Ereignisse ergeben ein umfassendes Bild vom Leben am Bienenstand und helfen dir, deine Bienen besser zu verstehen.
+BeeApiary verbindet eine Bienenstockwaage mit einem System zur Bienenstandüberwachung und unterstützt GSM, WLAN und Bluetooth. Zusammen mit Sensoren und der App hilft die Waage, den Zustand der Bienenstöcke zu beobachten, Veränderungen zu untersuchen und sowohl am Bienenstand als auch aus der Ferne ein Journal zu führen. Die App lässt sich auch eigenständig ohne Waage verwenden.
+
+![BeeApiary-Verbindungsarten: GSM/SMS, Wi-Fi AP, Wi-Fi STA und Bluetooth, lokale Datenspeicherung und Zugriff vom Computer](../assets/de/system/overview/beeapiary-connectivity-overview.png)
+
+!!! note "Zusätzliche Materialien und Angebote"
+    - [Videos auf dem YouTube-Kanal von BeeApiary](https://www.youtube.com/@beeApiary)
+    - [BeeApiary-Bienenstockwaage mit GSM und WLAN — OLX-Anzeige](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html)
+    - [Apiary Scales mit GSM und WLAN — OLX-Anzeige](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+
+Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten und bildet zusammen mit Sensoren und der App einen intelligenten BeeApiary-Bienenstock. Mehrere solcher Bienenstöcke, die in der App mit einem digitalen Journal zusammengeführt werden, bilden einen intelligenten BeeApiary-Bienenstand. Verschiedene Möglichkeiten des Datenzugriffs, langfristige Notizen, Messungen und Ereignisse ergeben ein umfassendes Bild vom Leben am Bienenstand und helfen dir, deine Bienen besser zu verstehen.
 
 ## Deine Daten bleiben unter deiner Kontrolle
 
-- Alle Daten werden lokal gespeichert. Es besteht keine zwingende Verbindung zu externen Servern, daher ist keine SIM-Karte erforderlich. ([Details](guides/download-archive.md))
-- Die Daten sind direkt am Bienenstand über ein lokales WLAN verfügbar, daher ist keine SIM-Karte erforderlich. ([Details](guides/configure-local-wifi.md))
-- Der Fernzugriff über das Internet ist über das lokale WLAN am Bienenstand möglich. Eine separate SIM-Karte für jedes Gerät ist nicht erforderlich. ([Details](guides/configure-wifi-sync.md))
-- Du kannst Daten direkt über Bluetooth abrufen, wenn du dich in der Nähe des Geräts befindest. Die Synchronisierung erfolgt automatisch, daher ist keine SIM-Karte erforderlich. ([Details](guides/configure-bluetooth-sync.md))
-- Der Zugriff über einen Mobilfunkanbieter bleibt ebenfalls möglich und erfordert kein mobiles Internet. Dafür genügt eine SIM-Karte mit einem minimalen Tarif. ([Details](guides/configure-gsm.md))
+- Alle Daten werden lokal gespeichert. Es besteht keine zwingende Verbindung zu externen Servern, daher ist keine SIM-Karte erforderlich. ([Messwertarchiv herunterladen](guides/download-archive.md))
+- Die Daten sind direkt am Bienenstand über ein lokales WLAN verfügbar, daher ist keine SIM-Karte erforderlich. ([Mit dem Zugangspunkt der Waage verbinden](guides/configure-local-wifi.md))
+- Der Fernzugriff über das Internet ist über das lokale WLAN am Bienenstand möglich. Eine separate SIM-Karte für jedes Gerät ist nicht erforderlich. ([Übertragung über das WLAN-Netzwerk am Bienenstand einrichten](guides/configure-wifi-sync.md))
+- Du kannst Daten direkt über Bluetooth abrufen, wenn du dich in der Nähe des Geräts befindest. Die Synchronisierung erfolgt automatisch, daher ist keine SIM-Karte erforderlich. ([Bluetooth-Synchronisierung einrichten](guides/configure-bluetooth-sync.md))
+- Der Zugriff über einen Mobilfunkanbieter bleibt ebenfalls möglich und erfordert kein mobiles Internet. Dafür genügt eine SIM-Karte mit einem minimalen Tarif. ([GSM und SMS einrichten](guides/configure-gsm.md))
 
 [Übertragungswege zur App vergleichen](system/connectivity.md)
 

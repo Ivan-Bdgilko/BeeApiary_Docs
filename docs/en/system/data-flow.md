@@ -1,4 +1,11 @@
-# Data Flow
+---
+title: "How Hive Data Reaches Your Phone"
+description: "How BeeApiary measures, stores and transfers hive data to your phone for viewing current readings, history and charts."
+---
+
+# How Hive Data Reaches Your Phone { #data-flow }
+
+BeeApiary hive monitoring covers measurement, local storage and data transmission to the app. The steps below show the path from a measurement on the device to current readings, history and charts on your phone.
 
 1. At the start of each hour, the BeeApiary hive scales take the configured measurements.
 2. The result is saved to the local microSD archive when the card is available.

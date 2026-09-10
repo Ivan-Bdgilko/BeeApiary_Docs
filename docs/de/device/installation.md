@@ -1,4 +1,11 @@
-# Gerät installieren
+---
+title: "Bienenstockwaage unter dem Bienenstock installieren"
+description: "BeeApiary-Bienenstockwaage unter dem Bienenstock installieren: Einheit und Sensoren platzieren, bei Bedarf eine SIM-Karte einsetzen und das Gerät erstmals aktivieren."
+---
+
+# Bienenstockwaage unter dem Bienenstock installieren { #gerat-installieren }
+
+Um die Waage unter dem Bienenstock zu installieren, platziere die Haupteinheit an einem geschützten Ort und die Wägesensoren auf festen Auflagen. Die folgenden Schritte beschreiben die Installation und Erstaktivierung der BeeApiary-Bienenstockwaage.
 
 1. Wähle einen geschützten Ort unter einem Überstand oder dem Deckel des Bienenstocks.
 2. Platziere die Haupteinheit so, dass sie möglichst wenig direkter Sonne, Regen und Schnee ausgesetzt ist.

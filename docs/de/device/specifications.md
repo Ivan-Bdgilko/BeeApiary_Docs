@@ -1,4 +1,11 @@
-# Technische Daten
+---
+title: "Elektronische BeeApiary-Bienenstockwaage — technische Daten"
+description: "Technische Daten der elektronischen BeeApiary-Bienenstockwaage: Messungen, Stromversorgung, Kommunikationskanäle, microSD und Bedingungen für die Akkulaufzeit."
+---
+
+# Elektronische BeeApiary-Bienenstockwaage — technische Daten { #technische-daten }
+
+Nachfolgend findest du die technischen Daten der BeeApiary-Bienenstockwaage: Messbereiche, Stromversorgung, Übertragungskanäle und lokale Datenspeicherung. Berücksichtige beim Vergleich von Waagen für deinen Bienenstand die Ausstattung und Betriebsbedingungen, da sie die Akkulaufzeit beeinflussen.
 
 | Parameter | Wert |
 |---|---|

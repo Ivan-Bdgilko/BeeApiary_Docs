@@ -1,6 +1,13 @@
-# BeeApiary Beehive Scales
+---
+title: "BeeApiary Beehive Scales — Electronic Scales for Your Hive"
+description: "BeeApiary beehive scales: measurements, sensors, local storage and data transmission for hive monitoring."
+---
 
-BeeApiary beehive scales are a self-contained outdoor hive-monitoring system. They take measurements, store them on microSD, and send them to the owner through the available communication channels. Together with sensors and the app, the scales form a BeeApiary smart hive that can be monitored locally or remotely.
+# BeeApiary Beehive Scales — Electronic Scales for Your Hive { #beeapiary-beehive-scales }
+
+BeeApiary beehive scales are electronic hive scales designed for outdoor operation. They take measurements, store them on microSD and send them to the owner through the available communication channels. Together with sensors and the app, the scales form a BeeApiary smart hive for local or remote monitoring.
+
+These devices are also known as bee scales.
 
 Main components and options:
 

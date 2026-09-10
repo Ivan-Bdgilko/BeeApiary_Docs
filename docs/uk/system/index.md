@@ -1,5 +1,5 @@
 ---
-translation_status: translated
+translation_status: ready
 ---
 
 # Як працює система
@@ -12,6 +12,6 @@ translation_status: translated
 - [Отримання даних у застосунку](connectivity.md)
 - [GSM та SMS](gsm-and-sms.md)
 - [Wi-Fi-з'єднання пристрою](local-wifi.md)
-- [Додаткові налаштування пристрою](additional-settings.md)
+- [Додаткові налаштування пристрою](../device/additional-settings.md)
 - [Синхронізація даних через Bluetooth](bluetooth.md)
 - [Зберігання даних](data-storage.md)
