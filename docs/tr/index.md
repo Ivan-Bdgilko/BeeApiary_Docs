@@ -7,12 +7,14 @@ description: "BeeApiary arı kovanı tartım terazileri ve arı kovanı izleme: 
 
 BeeApiary, GSM, Wi-Fi ve Bluetooth desteğine sahip kovan tartıları ve arılık izleme sistemini bir araya getirir. Tartılar, sensörler ve uygulama birlikte kovanların durumunu izlemeye, değişiklikleri incelemeye ve hem arılıkta hem de uzaktan günlük tutmaya yardımcı olur. Uygulama tartılar olmadan da tek başına kullanılabilir.
 
+!!! note "Tartı modelleri"
+    - [GSM, Wi-Fi ve Bluetooth özellikli kovan tartıları](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [GSM, Wi-Fi ve Bluetooth özellikli, “minik artı”lı kovan tartıları](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "“Minik artı”, artı şeklindeki destek tabanıdır")
+
 ![BeeApiary bağlantı yöntemleri: GSM/SMS, Wi-Fi AP, Wi-Fi STA ve Bluetooth, yerel veri depolama ve bilgisayar erişimi](../assets/en/system/overview/beeapiary-connectivity-overview.png)
 
-!!! note "Ek kaynaklar ve listeler"
+!!! note "Ek video materyalleri"
     - [Şuradaki videolar BeeApiary YouTube kanalı](https://www.youtube.com/@beeApiary)
-    - [BeeApiary GSM ve Wi-Fi özellikli arı kovanı tartım terazileri - OLX listesi](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html)
-    - [Apiary Scales GSM ve Wi-Fi ile — OLX listesi](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
 
 Bir set bağımsız olarak BeeApiary kovan tartısı şeklinde çalışabilir; sensörler ve uygulamayla birlikte ise akıllı bir BeeApiary kovanı oluşturur. Dijital günlükle birlikte uygulamada bir araya getirilen birkaç kovan, akıllı bir BeeApiary arılığı oluşturur. Verilere farklı yollarla erişim, uzun süreli notlar, ölçümler ve olaylar arılığın yaşamına ilişkin bütünlüklü bir görünüm sunar ve arıcının arılarını daha iyi anlamasına yardımcı olur.
 

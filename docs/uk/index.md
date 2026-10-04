@@ -8,12 +8,14 @@ translation_status: translated
 
 BeeApiary — пасічні ваги та система моніторингу пасіки з підтримкою GSM, Wi-Fi і Bluetooth. Ваги для вулика разом із датчиками та застосунком допомагають стежити за станом вуликів, досліджувати зміни й вести журнал як безпосередньо на пасіці, так і віддалено. Застосунок також можна використовувати окремо, без ваг.
 
+!!! note "Моделі ваг"
+    - [Пасічні ваги GSM Wi-Fi Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [Пасічні ваги GSM Wi-Fi Bluetooth з плюсіком](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "Плюсік — опорна хрестовина")
+
 ![Способи зв’язку BeeApiary: GSM/SMS, Wi-Fi AP, Wi-Fi STA та Bluetooth, локальне зберігання даних і доступ із комп’ютера](../assets/uk/system/overview/beeapiary-connectivity-overview.png)
 
-!!! note "Додаткові матеріали та пропозиції"
+!!! note "Додаткові відеоматеріали"
     - [Відео на YouTube-каналі BeeApiary](https://www.youtube.com/@beeApiary)
-    - [Пасічні ваги BeeApiary з GSM і Wi-Fi — оголошення на OLX](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html)
-    - [Пасічні ваги Apiary Scales з GSM і Wi-Fi — оголошення на OLX](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
 
 Один комплект може працювати автономно як пасічні ваги BeeApiary, а разом із датчиками та застосунком утворює розумний вулик BeeApiary. Кілька таких вуликів, об'єднаних у застосунку з цифровим журналом, — це розумна пасіка BeeApiary. Різні способи доступу до даних, довготривалі нотатки, вимірювання та події створюють цілісну картину життя пасіки й допомагають бджоляру краще розуміти своїх бджіл.
 

@@ -7,12 +7,14 @@ description: "BeeApiary wagi ula i monitoring pasieki: lokalny i zdalny dostęp 
 
 BeeApiary łączy wagi pasieczne z systemem monitorowania pasieki obsługującym GSM, Wi-Fi i Bluetooth. Wagi wraz z czujnikami i aplikacją pomagają obserwować stan uli, analizować zmiany i prowadzić dziennik zarówno bezpośrednio w pasiece, jak i zdalnie. Aplikacji można też używać samodzielnie, bez wag.
 
+!!! note "Modele wag"
+    - [Wagi pasieczne GSM Wi-Fi Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [Wagi pasieczne GSM Wi-Fi Bluetooth z „plusikiem”](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "„Plusik” to podstawa w kształcie krzyża")
+
 ![BeeApiary metody połączenia: GSM/SMS, Wi-Fi AP, Wi-Fi STA i Bluetooth, lokalne przechowywanie danych i dostęp do komputera](../assets/en/system/overview/beeapiary-connectivity-overview.png)
 
-!!! note "Dodatkowe zasoby i wykazy"
+!!! note "Dodatkowe materiały wideo"
     - [Filmy na BeeApiary Kanał YouTube](https://www.youtube.com/@beeApiary)
-    - [BeeApiary wagi do ula z GSM i Wi-Fi — ogłoszenie na OLX](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html)
-    - [Apiary Scales z siecią GSM i Wi-Fi — wpis na OLX](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
 
 Jeden zestaw może działać samodzielnie jako waga pasieczna BeeApiary, a wraz z czujnikami i aplikacją tworzyć inteligentny ul BeeApiary. Kilka takich uli połączonych w aplikacji z cyfrowym dziennikiem tworzy inteligentną pasiekę BeeApiary. Różne sposoby dostępu do danych, długoterminowe notatki, pomiary i zdarzenia dają pełny obraz życia pasieki i pomagają pszczelarzowi lepiej rozumieć swoje pszczoły.
 

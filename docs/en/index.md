@@ -7,12 +7,14 @@ description: "BeeApiary beehive scales and apiary monitoring: local and remote d
 
 BeeApiary combines beehive scales and an apiary monitoring system with GSM, Wi-Fi and Bluetooth support. Together with sensors and the app, the hive scales help you monitor hive conditions, study changes and keep a journal both at the apiary and remotely. The app can also be used on its own, without scales.
 
+!!! note "Scale models"
+    - [Beehive scales with GSM, Wi-Fi and Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [Beehive scales with GSM, Wi-Fi and Bluetooth and a “little plus”](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "The “little plus” is the cross-shaped support")
+
 ![BeeApiary connection methods: GSM/SMS, Wi-Fi AP, Wi-Fi STA and Bluetooth, local data storage and computer access](../assets/en/system/overview/beeapiary-connectivity-overview.png)
 
-!!! note "Additional resources and listings"
+!!! note "Additional video materials"
     - [Videos on the BeeApiary YouTube channel](https://www.youtube.com/@beeApiary)
-    - [BeeApiary hive scales with GSM and Wi-Fi — OLX listing](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html)
-    - [Apiary Scales with GSM and Wi-Fi — OLX listing](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
 
 One unit can operate independently as BeeApiary hive scales and, together with sensors and the app, form a BeeApiary smart hive. Several such hives, brought together in the app with a digital journal, make up a BeeApiary smart apiary. Different ways to access data, long-term notes, measurements and events create a complete picture of life in the apiary and help beekeepers better understand their bees.
 

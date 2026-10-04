@@ -7,12 +7,14 @@ description: "BeeApiary balances de ruche et surveillance du rucher : accès aux
 
 BeeApiary associe des balances de ruche à un système de suivi du rucher compatible avec GSM, Wi-Fi et Bluetooth. Avec les capteurs et l’application, les balances permettent de suivre l’état des ruches, d’étudier les changements et de tenir un journal au rucher comme à distance. L’application peut aussi être utilisée seule, sans balance.
 
+!!! note "Modèles de balances"
+    - [Balances pour ruches avec GSM, Wi-Fi et Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [Balances pour ruches avec GSM, Wi-Fi et Bluetooth et un « petit plus »](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "Le « petit plus » désigne le support en forme de croix")
+
 ![BeeApiary méthodes de connexion : GSM/SMS, Wi-Fi AP, Wi-Fi STA et Bluetooth, stockage de données local et accès à l'ordinateur](../assets/en/system/overview/beeapiary-connectivity-overview.png)
 
-!!! note "Ressources et listes supplémentaires"
+!!! note "Vidéos complémentaires"
     - [Des vidéos sur le BeeApiary Chaîne YouTube](https://www.youtube.com/@beeApiary)
-    - [BeeApiary Balances pour ruches avec GSM et Wi-Fi — liste OLX](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html)
-    - [Apiary Scales avec GSM et Wi-Fi — listing OLX](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
 
 Un ensemble peut fonctionner de manière autonome comme balance BeeApiary et, avec les capteurs et l’application, former une ruche intelligente BeeApiary. Plusieurs de ces ruches réunies dans l’application avec un journal numérique constituent un rucher intelligent BeeApiary. Les différents modes d’accès aux données, les notes conservées dans le temps, les mesures et les événements donnent une vue d’ensemble de la vie du rucher et aident l’apiculteur à mieux comprendre ses abeilles.
 
