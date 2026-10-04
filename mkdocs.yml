@@ -19,7 +19,9 @@ theme:
 
 plugins:
   - search:
-      lang: uk
+      lang:
+        - uk
+        - pt
   - i18n:
       docs_structure: folder
       fallback_to_default: true
@@ -192,6 +194,398 @@ plugins:
             Не працює Wi-Fi: WLAN funktioniert nicht
             Проблеми живлення: Probleme mit der Stromversorgung
             Відновлення після тривалого зберігання: Wiederherstellung nach längerer Lagerung
+
+
+        - locale: es
+          name: Español
+          build: true
+          site_name: BeeApiary — balanzas con GSM, Wi-Fi y Bluetooth
+          site_description: Documentación de la aplicación y del dispositivo BeeApiary
+          admonition_translations:
+            note: Nota
+            warning: Advertencia
+            danger: Peligro
+          nav_translations:
+            Головна: Inicio
+            Швидкий старт: Inicio rápido
+            Налаштування системи: Configurar el sistema
+            Встановити застосунок: Instalar la aplicación
+            Зв'язок із пристроєм через GSM: Conectar el dispositivo por GSM
+            Локальна мережа Wi-Fi: Red Wi-Fi local
+            Застосунок BeeApiary: Aplicación BeeApiary
+            Головний екран застосунку: Pantalla principal
+            Встановлення: Instalación
+            Додати ваги або вулик: Añadir una balanza o colmena
+            Додати пасічні ваги BeeApiary: Añadir balanzas BeeApiary
+            Додати вулик: Añadir una colmena
+            Головне меню: Menú principal
+            Графіки: Gráficos
+            Період перегляду графіків: Periodo de los gráficos
+            Вибір даних і графіків: Seleccionar datos y gráficos
+            Порядок полів стану вулика: Orden de los campos de la colmena
+            Порядок даних на екрані погоди: Orden de los datos meteorológicos
+            Додаткові налаштування застосунку: Ajustes adicionales de la aplicación
+            Типи вуликів: Tipos de colmenas
+            NFC-мітки та дії: Etiquetas NFC y acciones
+            Події та нотатки: Eventos y notas
+            Стан вулика: Estado de la colmena
+            Налаштування: Ajustes
+            Додаткові інструменти: Herramientas adicionales
+            Про застосунок: Acerca de la aplicación
+            Пасічні ваги BeeApiary: Balanzas para colmenas BeeApiary
+            Датчики: Sensores
+            Живлення: Alimentación
+            Калібрування і тарування: Calibración y tara
+            Розміщення: Colocación
+            Технічні характеристики: Especificaciones
+            Обслуговування: Mantenimiento
+            Використання та зберігання взимку: Uso y almacenamiento en invierno
+            Чому BeeApiary працює саме так: Por qué BeeApiary funciona así
+            Сервісна документація: Documentación de servicio
+            MSET.XML — налаштування пристрою: MSET.XML — Ajustes del dispositivo
+            HIVE*.XML — налаштування вулика: HIVE*.XML — Ajustes de la colmena
+            Відновлення конфігурації: Restaurar la configuración
+            Система: Sistema
+            Як працює система: Cómo funciona el sistema
+            Дані з вулика: Datos de la colmena
+            Моніторинг пасіки: Monitorización del apiario
+            GSM ваги та SMS: Balanzas GSM y SMS
+            Wi-Fi підключення ваг: Conexión Wi-Fi de las balanzas
+            Додаткові налаштування пристрою: Ajustes adicionales del dispositivo
+            Bluetooth-синхронізація: Sincronización Bluetooth
+            Синхронізація часу: Sincronización de la hora
+            Зберігання даних: Almacenamiento de datos
+            Журнали: Registros
+            Практичні інструкції: Guías prácticas
+            Налаштувати пристрій: Configurar el dispositivo
+            Налаштувати GSM: Configurar GSM
+            Підключитися до точки доступу пристрою: Conectar al punto de acceso
+            Налаштувати синхронізацію через Wi-Fi мережу пасіки: Configurar la sincronización Wi-Fi
+            Перевірити налаштування синхронізації через Wi-Fi: Comprobar los ajustes de sincronización Wi-Fi
+            Налаштувати синхронізацію через Bluetooth: Configurar la sincronización Bluetooth
+            Завантажити архів: Descargar el archivo
+            Тарувати ваги: Tarar las balanzas
+            Калібрувати ваги: Calibrar las balanzas
+            Оновити пристрій: Actualizar el dispositivo
+            Оновити застосунок: Actualizar la aplicación
+            Усунення проблем: Solución de problemas
+            Не надходять SMS: No se reciben SMS
+            Неправильна вага: Peso incorrecto
+            Не працює Wi-Fi: Wi-Fi no funciona
+            Проблеми живлення: Problemas de alimentación
+            Відновлення після тривалого зберігання: Recuperación tras un almacenamiento prolongado
+        - locale: fr
+          name: Français
+          build: true
+          site_name: BeeApiary — balances avec GSM, Wi-Fi et Bluetooth
+          site_description: Documentation de l’application et du dispositif BeeApiary
+          admonition_translations:
+            note: Remarque
+            warning: Avertissement
+            danger: Danger
+          nav_translations:
+            Головна: Accueil
+            Швидкий старт: Démarrage rapide
+            Налаштування системи: Configurer le système
+            Встановити застосунок: Installer l’application
+            Зв'язок із пристроєм через GSM: Connexion au dispositif par GSM
+            Локальна мережа Wi-Fi: Réseau Wi-Fi local
+            Застосунок BeeApiary: Application BeeApiary
+            Головний екран застосунку: Écran principal
+            Встановлення: Installation
+            Додати ваги або вулик: Ajouter une balance ou une ruche
+            Додати пасічні ваги BeeApiary: Ajouter une balance BeeApiary
+            Додати вулик: Ajouter une ruche
+            Головне меню: Menu principal
+            Графіки: Graphiques
+            Період перегляду графіків: Période des graphiques
+            Вибір даних і графіків: Choisir les données et graphiques
+            Порядок полів стану вулика: Ordre des champs de la ruche
+            Порядок даних на екрані погоди: Ordre des données météo
+            Додаткові налаштування застосунку: Paramètres supplémentaires de l’application
+            Типи вуликів: Types de ruches
+            NFC-мітки та дії: Tags NFC et actions
+            Події та нотатки: Événements et notes
+            Стан вулика: État de la ruche
+            Налаштування: Paramètres
+            Додаткові інструменти: Outils supplémentaires
+            Про застосунок: À propos de l’application
+            Пасічні ваги BeeApiary: Balances de ruche BeeApiary
+            Датчики: Capteurs
+            Живлення: Alimentation
+            Калібрування і тарування: Étalonnage et tare
+            Розміщення: Emplacement
+            Технічні характеристики: Caractéristiques techniques
+            Обслуговування: Entretien
+            Використання та зберігання взимку: Utilisation et stockage en hiver
+            Чому BeeApiary працює саме так: Pourquoi BeeApiary fonctionne ainsi
+            Сервісна документація: Documentation de maintenance
+            MSET.XML — налаштування пристрою: MSET.XML — Paramètres du dispositif
+            HIVE*.XML — налаштування вулика: HIVE*.XML — Paramètres de la ruche
+            Відновлення конфігурації: Restaurer la configuration
+            Система: Système
+            Як працює система: Fonctionnement du système
+            Дані з вулика: Données de la ruche
+            Моніторинг пасіки: Suivi du rucher
+            GSM ваги та SMS: Balances GSM et SMS
+            Wi-Fi підключення ваг: Connexion Wi-Fi des balances
+            Додаткові налаштування пристрою: Paramètres supplémentaires du dispositif
+            Bluetooth-синхронізація: Synchronisation Bluetooth
+            Синхронізація часу: Synchronisation de l’heure
+            Зберігання даних: Stockage des données
+            Журнали: Journaux
+            Практичні інструкції: Guides pratiques
+            Налаштувати пристрій: Configurer le dispositif
+            Налаштувати GSM: Configurer le GSM
+            Підключитися до точки доступу пристрою: Connexion au point d’accès
+            Налаштувати синхронізацію через Wi-Fi мережу пасіки: Configurer la synchronisation Wi-Fi
+            Перевірити налаштування синхронізації через Wi-Fi: Vérifier les paramètres de synchronisation Wi-Fi
+            Налаштувати синхронізацію через Bluetooth: Configurer la synchronisation Bluetooth
+            Завантажити архів: Télécharger l’archive
+            Тарувати ваги: Tarer les balances
+            Калібрувати ваги: Étalonner les balances
+            Оновити пристрій: Mettre à jour le dispositif
+            Оновити застосунок: Mettre à jour l’application
+            Усунення проблем: Dépannage
+            Не надходять SMS: SMS non reçus
+            Неправильна вага: Poids incorrect
+            Не працює Wi-Fi: Le Wi-Fi ne fonctionne pas
+            Проблеми живлення: Problèmes d’alimentation
+            Відновлення після тривалого зберігання: Remise en service après un stockage prolongé
+        - locale: pl
+          name: Polski
+          build: true
+          site_name: BeeApiary — wagi z GSM, Wi-Fi i Bluetooth
+          site_description: Dokumentacja aplikacji i urządzenia BeeApiary
+          admonition_translations:
+            note: Uwaga
+            warning: Ostrzeżenie
+            danger: Niebezpieczeństwo
+          nav_translations:
+            Головна: Strona główna
+            Швидкий старт: Szybki start
+            Налаштування системи: Konfiguracja systemu
+            Встановити застосунок: Zainstaluj aplikację
+            Зв'язок із пристроєм через GSM: Połączenie z urządzeniem przez GSM
+            Локальна мережа Wi-Fi: Lokalna sieć Wi-Fi
+            Застосунок BeeApiary: Aplikacja BeeApiary
+            Головний екран застосунку: Ekran główny aplikacji
+            Встановлення: Instalacja
+            Додати ваги або вулик: Dodaj wagę lub ul
+            Додати пасічні ваги BeeApiary: Dodaj wagę BeeApiary
+            Додати вулик: Dodaj ul
+            Головне меню: Menu główne
+            Графіки: Wykresy
+            Період перегляду графіків: Okres wyświetlania wykresów
+            Вибір даних і графіків: Wybór danych i wykresów
+            Порядок полів стану вулика: Kolejność pól stanu ula
+            Порядок даних на екрані погоди: Kolejność danych pogodowych
+            Додаткові налаштування застосунку: Dodatkowe ustawienia aplikacji
+            Типи вуликів: Typy uli
+            NFC-мітки та дії: Tagi NFC i działania
+            Події та нотатки: Zdarzenia i notatki
+            Стан вулика: Stan ula
+            Налаштування: Ustawienia
+            Додаткові інструменти: Dodatkowe narzędzia
+            Про застосунок: O aplikacji
+            Пасічні ваги BeeApiary: Wagi pasieczne BeeApiary
+            Датчики: Czujniki
+            Живлення: Zasilanie
+            Калібрування і тарування: Kalibracja i tarowanie
+            Розміщення: Umiejscowienie
+            Технічні характеристики: Dane techniczne
+            Обслуговування: Konserwacja
+            Використання та зберігання взимку: Użytkowanie i przechowywanie zimą
+            Чому BeeApiary працює саме так: Dlaczego BeeApiary działa w ten sposób
+            Сервісна документація: Dokumentacja serwisowa
+            MSET.XML — налаштування пристрою: MSET.XML — Ustawienia urządzenia
+            HIVE*.XML — налаштування вулика: HIVE*.XML — Ustawienia ula
+            Відновлення конфігурації: Przywracanie konfiguracji
+            Система: System
+            Як працює система: Jak działa system
+            Дані з вулика: Dane z ula
+            Моніторинг пасіки: Monitoring pasieki
+            GSM ваги та SMS: Wagi GSM i SMS
+            Wi-Fi підключення ваг: Połączenie Wi-Fi wag
+            Додаткові налаштування пристрою: Dodatkowe ustawienia urządzenia
+            Bluetooth-синхронізація: Synchronizacja Bluetooth
+            Синхронізація часу: Synchronizacja czasu
+            Зберігання даних: Przechowywanie danych
+            Журнали: Dzienniki
+            Практичні інструкції: Poradniki
+            Налаштувати пристрій: Skonfiguruj urządzenie
+            Налаштувати GSM: Skonfiguruj GSM
+            Підключитися до точки доступу пристрою: Połącz z punktem dostępu
+            Налаштувати синхронізацію через Wi-Fi мережу пасіки: Skonfiguruj synchronizację Wi-Fi
+            Перевірити налаштування синхронізації через Wi-Fi: Sprawdź ustawienia synchronizacji Wi-Fi
+            Налаштувати синхронізацію через Bluetooth: Skonfiguruj synchronizację Bluetooth
+            Завантажити архів: Pobierz archiwum
+            Тарувати ваги: Wytaruj wagę
+            Калібрувати ваги: Skalibruj wagę
+            Оновити пристрій: Zaktualizuj urządzenie
+            Оновити застосунок: Zaktualizuj aplikację
+            Усунення проблем: Rozwiązywanie problemów
+            Не надходять SMS: SMS-y nie przychodzą
+            Неправильна вага: Nieprawidłowa masa
+            Не працює Wi-Fi: Wi-Fi nie działa
+            Проблеми живлення: Problemy z zasilaniem
+            Відновлення після тривалого зберігання: Uruchomienie po długim przechowywaniu
+        - locale: pt-BR
+          name: Português (Brasil)
+          build: true
+          site_name: BeeApiary — balanças com GSM, Wi-Fi e Bluetooth
+          site_description: Documentação do aplicativo e do dispositivo BeeApiary
+          admonition_translations:
+            note: Nota
+            warning: Aviso
+            danger: Perigo
+          nav_translations:
+            Головна: Início
+            Швидкий старт: Início rápido
+            Налаштування системи: Configurar o sistema
+            Встановити застосунок: Instalar o aplicativo
+            Зв'язок із пристроєм через GSM: Conectar o dispositivo via GSM
+            Локальна мережа Wi-Fi: Rede Wi-Fi local
+            Застосунок BeeApiary: Aplicativo BeeApiary
+            Головний екран застосунку: Tela inicial do aplicativo
+            Встановлення: Instalação
+            Додати ваги або вулик: Adicionar uma balança ou colmeia
+            Додати пасічні ваги BeeApiary: Adicionar balanças BeeApiary
+            Додати вулик: Adicionar uma colmeia
+            Головне меню: Menu principal
+            Графіки: Gráficos
+            Період перегляду графіків: Período dos gráficos
+            Вибір даних і графіків: Selecionar dados e gráficos
+            Порядок полів стану вулика: Ordem dos campos da colmeia
+            Порядок даних на екрані погоди: Ordem dos dados meteorológicos
+            Додаткові налаштування застосунку: Configurações adicionais do aplicativo
+            Типи вуликів: Tipos de colmeia
+            NFC-мітки та дії: Tags NFC e ações
+            Події та нотатки: Eventos e notas
+            Стан вулика: Estado da colmeia
+            Налаштування: Configurações
+            Додаткові інструменти: Ferramentas adicionais
+            Про застосунок: Sobre o aplicativo
+            Пасічні ваги BeeApiary: Balanças para colmeias BeeApiary
+            Датчики: Sensores
+            Живлення: Alimentação
+            Калібрування і тарування: Calibração e tara
+            Розміщення: Posicionamento
+            Технічні характеристики: Especificações técnicas
+            Обслуговування: Manutenção
+            Використання та зберігання взимку: Uso e armazenamento no inverno
+            Чому BeeApiary працює саме так: Por que o BeeApiary funciona assim
+            Сервісна документація: Documentação de serviço
+            MSET.XML — налаштування пристрою: MSET.XML — Configurações do dispositivo
+            HIVE*.XML — налаштування вулика: HIVE*.XML — Configurações da colmeia
+            Відновлення конфігурації: Restaurar a configuração
+            Система: Sistema
+            Як працює система: Como o sistema funciona
+            Дані з вулика: Dados da colmeia
+            Моніторинг пасіки: Monitoramento do apiário
+            GSM ваги та SMS: Balanças GSM e SMS
+            Wi-Fi підключення ваг: Conexão Wi-Fi das balanças
+            Додаткові налаштування пристрою: Configurações adicionais do dispositivo
+            Bluetooth-синхронізація: Sincronização Bluetooth
+            Синхронізація часу: Sincronização de horário
+            Зберігання даних: Armazenamento de dados
+            Журнали: Registros
+            Практичні інструкції: Guias práticos
+            Налаштувати пристрій: Configurar o dispositivo
+            Налаштувати GSM: Configurar GSM
+            Підключитися до точки доступу пристрою: Conectar ao ponto de acesso
+            Налаштувати синхронізацію через Wi-Fi мережу пасіки: Configurar a sincronização Wi-Fi
+            Перевірити налаштування синхронізації через Wi-Fi: Verificar as configurações de sincronização Wi-Fi
+            Налаштувати синхронізацію через Bluetooth: Configurar a sincronização Bluetooth
+            Завантажити архів: Baixar o arquivo
+            Тарувати ваги: Tarar as balanças
+            Калібрувати ваги: Calibrar as balanças
+            Оновити пристрій: Atualizar o dispositivo
+            Оновити застосунок: Atualizar o aplicativo
+            Усунення проблем: Solução de problemas
+            Не надходять SMS: SMS não recebidos
+            Неправильна вага: Peso incorreto
+            Не працює Wi-Fi: Wi-Fi não funciona
+            Проблеми живлення: Problemas de alimentação
+            Відновлення після тривалого зберігання: Recuperação após armazenamento prolongado
+        - locale: tr
+          name: Türkçe
+          build: true
+          site_name: BeeApiary — GSM, Wi-Fi ve Bluetooth özellikli tartılar
+          site_description: BeeApiary uygulaması ve cihazı için belgeler
+          admonition_translations:
+            note: Not
+            warning: Uyarı
+            danger: Tehlike
+          nav_translations:
+            Головна: Ana sayfa
+            Швидкий старт: Hızlı başlangıç
+            Налаштування системи: Sistemi kurma
+            Встановити застосунок: Uygulamayı yükleme
+            Зв'язок із пристроєм через GSM: Cihaza GSM ile bağlanma
+            Локальна мережа Wi-Fi: Yerel Wi-Fi ağı
+            Застосунок BeeApiary: BeeApiary uygulaması
+            Головний екран застосунку: Uygulama ana ekranı
+            Встановлення: Kurulum
+            Додати ваги або вулик: Tartı veya kovan ekleme
+            Додати пасічні ваги BeeApiary: BeeApiary kovan tartısı ekleme
+            Додати вулик: Kovan ekleme
+            Головне меню: Ana menü
+            Графіки: Grafikler
+            Період перегляду графіків: Grafik görüntüleme dönemi
+            Вибір даних і графіків: Veri ve grafik seçimi
+            Порядок полів стану вулика: Kovan durumu alanlarının sırası
+            Порядок даних на екрані погоди: Hava durumu verilerinin sırası
+            Додаткові налаштування застосунку: Ek uygulama ayarları
+            Типи вуликів: Kovan türleri
+            NFC-мітки та дії: NFC etiketleri ve işlemler
+            Події та нотатки: Olaylar ve notlar
+            Стан вулика: Kovan durumu
+            Налаштування: Ayarlar
+            Додаткові інструменти: Ek araçlar
+            Про застосунок: Uygulama hakkında
+            Пасічні ваги BeeApiary: BeeApiary kovan tartıları
+            Датчики: Sensörler
+            Живлення: Güç kaynağı
+            Калібрування і тарування: Kalibrasyon ve dara
+            Розміщення: Yerleşim
+            Технічні характеристики: Teknik özellikler
+            Обслуговування: Bakım
+            Використання та зберігання взимку: Kışın kullanım ve saklama
+            Чому BeeApiary працює саме так: BeeApiary neden böyle çalışır
+            Сервісна документація: Servis belgeleri
+            MSET.XML — налаштування пристрою: MSET.XML — Cihaz ayarları
+            HIVE*.XML — налаштування вулика: HIVE*.XML — Kovan ayarları
+            Відновлення конфігурації: Yapılandırmayı geri yükleme
+            Система: Sistem
+            Як працює система: Sistem nasıl çalışır
+            Дані з вулика: Kovan verileri
+            Моніторинг пасіки: Arılık izleme
+            GSM ваги та SMS: GSM tartıları ve SMS
+            Wi-Fi підключення ваг: Tartıların Wi-Fi bağlantısı
+            Додаткові налаштування пристрою: Ek cihaz ayarları
+            Bluetooth-синхронізація: Bluetooth eşitlemesi
+            Синхронізація часу: Saat eşitlemesi
+            Зберігання даних: Veri depolama
+            Журнали: Günlükler
+            Практичні інструкції: Uygulama kılavuzları
+            Налаштувати пристрій: Cihazı kurma
+            Налаштувати GSM: GSM ayarlama
+            Підключитися до точки доступу пристрою: Erişim noktasına bağlanma
+            Налаштувати синхронізацію через Wi-Fi мережу пасіки: Wi-Fi eşitlemesini ayarlama
+            Перевірити налаштування синхронізації через Wi-Fi: Wi-Fi eşitleme ayarlarını kontrol etme
+            Налаштувати синхронізацію через Bluetooth: Bluetooth eşitlemesini ayarlama
+            Завантажити архів: Arşivi indirme
+            Тарувати ваги: Tartının darasını alma
+            Калібрувати ваги: Tartıyı kalibre etme
+            Оновити пристрій: Cihazı güncelleme
+            Оновити застосунок: Uygulamayı güncelleme
+            Усунення проблем: Sorun giderme
+            Не надходять SMS: SMS gelmiyor
+            Неправильна вага: Yanlış ağırlık
+            Не працює Wi-Fi: Wi-Fi çalışmıyor
+            Проблеми живлення: Güç sorunları
+            Відновлення після тривалого зберігання: Uzun süreli saklama sonrası yeniden çalıştırma
 
 markdown_extensions:
   - admonition
