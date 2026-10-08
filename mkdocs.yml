@@ -6,6 +6,9 @@ repo_name: Ivan-Bdgilko/BeeApiary_Docs
 docs_dir: docs
 site_dir: site
 
+hooks:
+  - hooks/sitemap.py
+
 theme:
   name: material
   custom_dir: overrides

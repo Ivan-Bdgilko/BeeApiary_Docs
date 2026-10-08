@@ -11,7 +11,7 @@ BeeApiary, GSM, Wi-Fi ve Bluetooth desteğine sahip kovan tartıları ve arılı
     - [GSM, Wi-Fi ve Bluetooth özellikli kovan tartıları](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [GSM, Wi-Fi ve Bluetooth özellikli, “minik artı”lı kovan tartıları](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "“Minik artı”, artı şeklindeki destek tabanıdır")
 
-![BeeApiary bağlantı yöntemleri: GSM/SMS, Wi-Fi AP, Wi-Fi STA ve Bluetooth, yerel veri depolama ve bilgisayar erişimi](../assets/en/system/overview/beeapiary-connectivity-overview.png)
+![BeeApiary bağlantı yöntemleri: GSM/SMS, Wi-Fi AP, Wi-Fi STA ve Bluetooth, yerel veri depolama ve bilgisayar erişimi](../assets/tr/system/overview/beeapiary-connectivity-overview.webp)
 
 !!! note "Ek video materyalleri"
     - [Şuradaki videolar BeeApiary YouTube kanalı](https://www.youtube.com/@beeApiary)

@@ -12,7 +12,7 @@ BeeApiary — пасічні ваги та система моніторингу
     - [Пасічні ваги GSM Wi-Fi Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Пасічні ваги GSM Wi-Fi Bluetooth з плюсіком](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "Плюсік — опорна хрестовина")
 
-![Способи зв’язку BeeApiary: GSM/SMS, Wi-Fi AP, Wi-Fi STA та Bluetooth, локальне зберігання даних і доступ із комп’ютера](../assets/uk/system/overview/beeapiary-connectivity-overview.png)
+![Способи зв’язку BeeApiary: GSM/SMS, Wi-Fi AP, Wi-Fi STA та Bluetooth, локальне зберігання даних і доступ із комп’ютера](../assets/uk/system/overview/beeapiary-connectivity-overview.webp)
 
 !!! note "Додаткові відеоматеріали"
     - [Відео на YouTube-каналі BeeApiary](https://www.youtube.com/@beeApiary)

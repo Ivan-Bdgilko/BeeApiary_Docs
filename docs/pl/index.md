@@ -11,7 +11,7 @@ BeeApiary łączy wagi pasieczne z systemem monitorowania pasieki obsługującym
     - [Wagi pasieczne GSM Wi-Fi Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Wagi pasieczne GSM Wi-Fi Bluetooth z „plusikiem”](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "„Plusik” to podstawa w kształcie krzyża")
 
-![BeeApiary metody połączenia: GSM/SMS, Wi-Fi AP, Wi-Fi STA i Bluetooth, lokalne przechowywanie danych i dostęp do komputera](../assets/en/system/overview/beeapiary-connectivity-overview.png)
+![BeeApiary metody połączenia: GSM/SMS, Wi-Fi AP, Wi-Fi STA i Bluetooth, lokalne przechowywanie danych i dostęp do komputera](../assets/pl/system/overview/beeapiary-connectivity-overview.webp)
 
 !!! note "Dodatkowe materiały wideo"
     - [Filmy na BeeApiary Kanał YouTube](https://www.youtube.com/@beeApiary)

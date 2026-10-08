@@ -6,3 +6,4 @@
 /migration/
 /new/
 /unused_assets/
+__pycache__/

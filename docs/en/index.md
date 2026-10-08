@@ -11,7 +11,7 @@ BeeApiary combines beehive scales and an apiary monitoring system with GSM, Wi-F
     - [Beehive scales with GSM, Wi-Fi and Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Beehive scales with GSM, Wi-Fi and Bluetooth and a “little plus”](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "The “little plus” is the cross-shaped support")
 
-![BeeApiary connection methods: GSM/SMS, Wi-Fi AP, Wi-Fi STA and Bluetooth, local data storage and computer access](../assets/en/system/overview/beeapiary-connectivity-overview.png)
+![BeeApiary connection methods: GSM/SMS, Wi-Fi AP, Wi-Fi STA and Bluetooth, local data storage and computer access](../assets/en/system/overview/beeapiary-connectivity-overview.webp)
 
 !!! note "Additional video materials"
     - [Videos on the BeeApiary YouTube channel](https://www.youtube.com/@beeApiary)

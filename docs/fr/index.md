@@ -11,7 +11,7 @@ BeeApiary associe des balances de ruche à un système de suivi du rucher compat
     - [Balances pour ruches avec GSM, Wi-Fi et Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Balances pour ruches avec GSM, Wi-Fi et Bluetooth et un « petit plus »](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "Le « petit plus » désigne le support en forme de croix")
 
-![BeeApiary méthodes de connexion : GSM/SMS, Wi-Fi AP, Wi-Fi STA et Bluetooth, stockage de données local et accès à l'ordinateur](../assets/en/system/overview/beeapiary-connectivity-overview.png)
+![BeeApiary méthodes de connexion : GSM/SMS, Wi-Fi AP, Wi-Fi STA et Bluetooth, stockage de données local et accès à l'ordinateur](../assets/fr/system/overview/beeapiary-connectivity-overview.webp)
 
 !!! note "Vidéos complémentaires"
     - [Des vidéos sur le BeeApiary Chaîne YouTube](https://www.youtube.com/@beeApiary)
