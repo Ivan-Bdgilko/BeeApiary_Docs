@@ -7,14 +7,19 @@ description: "BeeApiary beehive scales and apiary monitoring: local and remote d
 
 BeeApiary combines beehive scales and an apiary monitoring system with GSM, Wi-Fi and Bluetooth support. Together with sensors and the app, the hive scales help you monitor hive conditions, study changes and keep a journal both at the apiary and remotely. The app can also be used on its own, without scales.
 
-!!! note "Scale models"
-    - [Beehive scales with GSM, Wi-Fi and Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
-    - [Beehive scales with GSM, Wi-Fi and Bluetooth and a “little plus”](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "The “little plus” is the cross-shaped support")
+!!! note "Scale models available for purchase"
+    - [Order or buy: basic beehive scales with GSM, Wi-Fi and Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [Order or buy: beehive scales with GSM, Wi-Fi and Bluetooth, a support and an improved sensor (“little plus” model)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "The “little plus” is the cross-shaped support")
+    - [Additional options](device/additional-options.md)
 
 ![BeeApiary connection methods: GSM/SMS, Wi-Fi AP, Wi-Fi STA and Bluetooth, local data storage and computer access](../assets/en/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
 !!! note "Additional video materials"
     - [Videos on the BeeApiary YouTube channel](https://www.youtube.com/@beeApiary)
+
+!!! note "Contact us directly"
+    [![Message the BeeApiary author on Telegram](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![QR code for contacting us through WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    {: .contact-qr-links }
 
 One unit can operate independently as BeeApiary hive scales and, together with sensors and the app, form a BeeApiary smart hive. Several such hives, brought together in the app with a digital journal, make up a BeeApiary smart apiary. Different ways to access data, long-term notes, measurements and events create a complete picture of life in the apiary and help beekeepers better understand their bees.
 

@@ -7,11 +7,13 @@ description: "BeeApiary-Bienenstockwaage: Messungen, Sensoren, lokale Speicherun
 
 Die BeeApiary-Bienenstockwaage ist eine elektronische Waage für den Bienenstock, die für den Betrieb im Freien ausgelegt ist. Sie führt Messungen durch, speichert sie auf einer microSD-Karte und überträgt sie über die verfügbaren Kommunikationskanäle an den Besitzer. Zusammen mit Sensoren und der App bildet die Waage einen intelligenten BeeApiary-Bienenstock für die lokale Überwachung oder die Überwachung aus der Ferne.
 
+![Hauptmerkmale der BeeApiary-Bienenstockwaage](../../assets/de/device/overview/beehive-scales-features.png){ .doc-screenshot }
+
 Solche Waagen werden auch als Bienenwaagen bezeichnet.
 
 Wichtigste Komponenten und Optionen:
 
-- Gewichtsmessung bis 200 kg;
+- Gewichtsmessung bis 200–300 kg (je nach Konfiguration);
 - zwei Temperatursensoren;
 - optionale Sensoren für Luftfeuchtigkeit und Druck;
 - optionaler Bewegungssensor und OLED-Display;

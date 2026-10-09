@@ -2,6 +2,8 @@
 
  BeeApiary Android uygulaması cihaz verilerini alır, telefonda saklar ve mevcut değerleri, geçmişi ve grafikleri görüntülemenizi sağlar. Veriler GSM, cihaza doğrudan Wi-Fi bağlantısı, arı kovanı Wi-Fi ağı veya Bluetooth aracılığıyla gelebilir.
 
+![Kovandan BeeApiary uygulamasına veri aktarım kanalları](../../assets/tr/app/overview/hive-data-channels-overview.png){ .doc-screenshot }
+
 Kanal karşılaştırması için bkz. [Uygulamada Veri Alma](../system/connectivity.md).
 
 ## Arıcı Notları ve Arı Kovanı Günlüğü

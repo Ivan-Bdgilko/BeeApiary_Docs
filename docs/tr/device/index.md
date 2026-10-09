@@ -7,11 +7,13 @@ description: "BeeApiary arı kovanı tartım terazileri: arı kovanı izleme iç
 
 BeeApiary arı kovanı tartı terazileri, dış mekanda kullanılmak üzere tasarlanmış elektronik arı kovanı tartı terazileridir. Ölçümler alıyorlar, bunları microSD'de saklıyorlar ve mevcut iletişim kanalları aracılığıyla sahibine gönderiyorlar. Tartım terazileri, sensörler ve uygulamayla birlikte bir BeeApiary Yerel veya uzaktan izleme için akıllı arı kovanı.
 
+![BeeApiary kovan tartılarının temel özellikleri](../../assets/tr/device/overview/beehive-scales-features.png){ .doc-screenshot }
+
 Bu cihazlar aynı zamanda arı tartı terazisi olarak da bilinir.
 
 Ana bileşenler ve seçenekler:
 
-- 200 kg'a kadar ağırlık ölçümü;
+- yapılandırmaya bağlı olarak 200–300 kg'a kadar ağırlık ölçümü;
 - iki sıcaklık sensörü;
 - isteğe bağlı nem ve basınç sensörleri;
 - isteğe bağlı hareket sensörü ve OLED ekran;

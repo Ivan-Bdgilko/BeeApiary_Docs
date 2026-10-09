@@ -7,11 +7,13 @@ description: "BeeApiary wagi ula: pomiary, czujniki, pamięć lokalna i transmis
 
 BeeApiary Wagi do uli to elektroniczne wagi do ważenia uli przeznaczone do pracy na zewnątrz. Dokonują pomiarów, przechowują je na karcie microSD i przesyłają do właściciela dostępnymi kanałami komunikacji. Razem z czujnikami i aplikacją waga stanowi BeeApiary inteligentny ul do lokalnego lub zdalnego monitorowania.
 
+![Najważniejsze cechy wag pasiecznych BeeApiary](../../assets/pl/device/overview/beehive-scales-features.png){ .doc-screenshot }
+
 Urządzenia te nazywane są również wagami pszczelimi.
 
 Główne komponenty i opcje:
 
-- pomiar wagi do 200 kg;
+- pomiar masy do 200–300 kg (w zależności od konfiguracji);
 - dwa czujniki temperatury;
 - opcjonalne czujniki wilgotności i ciśnienia;
 - opcjonalny czujnik ruchu i wyświetlacz OLED;

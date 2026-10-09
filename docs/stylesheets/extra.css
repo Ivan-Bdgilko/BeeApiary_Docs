@@ -14,6 +14,14 @@
   margin: 0.75rem auto 1.5rem;
 }
 
+.model-option-image {
+  display: block;
+  width: 100%;
+  max-width: 15rem;
+  height: auto;
+  margin: 0.75rem auto 1.5rem;
+}
+
 .home-brand-logo {
   display: inline-block;
   width: 2.0rem;
@@ -21,6 +29,21 @@
   max-width: none;
   margin: 0 0.6rem 0.15rem 0;
   vertical-align: middle;
+}
+
+.contact-qr-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.contact-qr-links .contact-qr-code {
+  display: block;
+  width: 12rem;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
 }
 
 .md-header__button.language-switcher__button {

@@ -9,6 +9,7 @@ site_dir: site
 hooks:
   - hooks/sitemap.py
   - hooks/privacy_compat.py
+  - hooks/homepage_photo.py
 
 theme:
   name: material
@@ -89,6 +90,7 @@ plugins:
             Калібрування і тарування: Calibration and Tare
             Розміщення: Placement
             Технічні характеристики: Specifications
+            Додаткові опції: Additional options
             Обслуговування: Maintenance
             Використання та зберігання взимку: Winter Use and Storage
             Чому BeeApiary працює саме так: Why BeeApiary Works This Way
@@ -167,6 +169,7 @@ plugins:
             Калібрування і тарування: Kalibrierung und Tarierung
             Розміщення: Platzierung
             Технічні характеристики: Technische Daten
+            Додаткові опції: Zusätzliche Optionen
             Обслуговування: Wartung
             Використання та зберігання взимку: Nutzung und Lagerung im Winter
             Чому BeeApiary працює саме так: Warum BeeApiary so funktioniert
@@ -247,6 +250,7 @@ plugins:
             Калібрування і тарування: Calibración y tara
             Розміщення: Colocación
             Технічні характеристики: Especificaciones
+            Додаткові опції: Opciones adicionales
             Обслуговування: Mantenimiento
             Використання та зберігання взимку: Uso y almacenamiento en invierno
             Чому BeeApiary працює саме так: Por qué BeeApiary funciona así
@@ -325,6 +329,7 @@ plugins:
             Калібрування і тарування: Étalonnage et tare
             Розміщення: Emplacement
             Технічні характеристики: Caractéristiques techniques
+            Додаткові опції: Options supplémentaires
             Обслуговування: Entretien
             Використання та зберігання взимку: Utilisation et stockage en hiver
             Чому BeeApiary працює саме так: Pourquoi BeeApiary fonctionne ainsi
@@ -403,6 +408,7 @@ plugins:
             Калібрування і тарування: Kalibracja i tarowanie
             Розміщення: Umiejscowienie
             Технічні характеристики: Dane techniczne
+            Додаткові опції: Opcje dodatkowe
             Обслуговування: Konserwacja
             Використання та зберігання взимку: Użytkowanie i przechowywanie zimą
             Чому BeeApiary працює саме так: Dlaczego BeeApiary działa w ten sposób
@@ -481,6 +487,7 @@ plugins:
             Калібрування і тарування: Calibração e tara
             Розміщення: Posicionamento
             Технічні характеристики: Especificações técnicas
+            Додаткові опції: Opções adicionais
             Обслуговування: Manutenção
             Використання та зберігання взимку: Uso e armazenamento no inverno
             Чому BeeApiary працює саме так: Por que o BeeApiary funciona assim
@@ -559,6 +566,7 @@ plugins:
             Калібрування і тарування: Kalibrasyon ve dara
             Розміщення: Yerleşim
             Технічні характеристики: Teknik özellikler
+            Додаткові опції: Ek seçenekler
             Обслуговування: Bakım
             Використання та зберігання взимку: Kışın kullanım ve saklama
             Чому BeeApiary працює саме так: BeeApiary neden böyle çalışır
@@ -650,6 +658,7 @@ nav:
       - Калібрування і тарування: device/calibration-and-tare.md
       - Розміщення: device/placement.md
       - Технічні характеристики: device/specifications.md
+      - Додаткові опції: device/additional-options.md
       - Обслуговування: device/maintenance.md
       - Використання та зберігання взимку: device/winter-use-and-storage.md
       - Додаткові налаштування пристрою: device/additional-settings.md

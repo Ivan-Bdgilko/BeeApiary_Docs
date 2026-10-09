@@ -8,14 +8,19 @@ translation_status: translated
 
 BeeApiary — пасічні ваги та система моніторингу пасіки з підтримкою GSM, Wi-Fi і Bluetooth. Ваги для вулика разом із датчиками та застосунком допомагають стежити за станом вуликів, досліджувати зміни й вести журнал як безпосередньо на пасіці, так і віддалено. Застосунок також можна використовувати окремо, без ваг.
 
-!!! note "Моделі ваг"
-    - [Пасічні ваги GSM Wi-Fi Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
-    - [Пасічні ваги GSM Wi-Fi Bluetooth з плюсіком](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "Плюсік — опорна хрестовина")
+!!! note "Моделі ваг, які можна придбати"
+    - [Замовити або купити: пасічні ваги GSM Wi-Fi Bluetooth базові](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [Замовити або купити: пасічні ваги GSM Wi-Fi Bluetooth з опорою та покращеним датчиком (з плюсіком)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "Плюсік — опорна хрестовина")
+    - [Додаткові опції](device/additional-options.md)
 
 ![Способи зв’язку BeeApiary: GSM/SMS, Wi-Fi AP, Wi-Fi STA та Bluetooth, локальне зберігання даних і доступ із комп’ютера](../assets/uk/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
 !!! note "Додаткові відеоматеріали"
     - [Відео на YouTube-каналі BeeApiary](https://www.youtube.com/@beeApiary)
+
+!!! note "Зв’язатися безпосередньо"
+    [![Написати автору BeeApiary у Telegram](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![QR-код для зв’язку через WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    {: .contact-qr-links }
 
 Один комплект може працювати автономно як пасічні ваги BeeApiary, а разом із датчиками та застосунком утворює розумний вулик BeeApiary. Кілька таких вуликів, об'єднаних у застосунку з цифровим журналом, — це розумна пасіка BeeApiary. Різні способи доступу до даних, довготривалі нотатки, вимірювання та події створюють цілісну картину життя пасіки й допомагають бджоляру краще розуміти своїх бджіл.
 

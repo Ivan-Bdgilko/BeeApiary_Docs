@@ -2,6 +2,8 @@
 
 The BeeApiary Android app receives device data, stores it on the phone, and lets you view current values, history, and charts. Data can arrive through GSM, a direct Wi-Fi connection to the device, the apiary Wi-Fi network, or Bluetooth.
 
+![Data channels from the hive to the BeeApiary app](../../assets/en/app/overview/hive-data-channels-overview.png){ .doc-screenshot }
+
 For a channel comparison, see [Receiving Data in the App](../system/connectivity.md).
 
 ## Beekeeper Notes and Apiary Journal
