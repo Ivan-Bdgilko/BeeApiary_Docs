@@ -9,6 +9,7 @@ site_dir: site
 hooks:
   - hooks/sitemap.py
   - hooks/privacy_compat.py
+  - hooks/homepage_photo.py
 
 theme:
   name: material
