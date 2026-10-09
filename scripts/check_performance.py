@@ -39,6 +39,7 @@ def main():
             attrs = resources.images[name]
             assert (attrs.get("width"), attrs.get("height")) == tuple(map(str, size)), (lang, name)
         assert resources.images["beeapiary-connectivity-overview.webp"]["loading"] == "eager"
+        assert resources.images["beeapiary-connectivity-overview.webp"]["fetchpriority"] == "high"
         photo = resources.images["beeapiary-system-components.jpeg"]
         assert photo["loading"] == "lazy" and photo["decoding"] == "async"
         if args.fonts:

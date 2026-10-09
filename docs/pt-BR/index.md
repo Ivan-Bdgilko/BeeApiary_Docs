@@ -11,7 +11,7 @@ BeeApiary combina balanças para colmeias e um sistema de monitoramento do apiá
     - [Balanças para colmeias com GSM, Wi-Fi e Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Balanças para colmeias com GSM, Wi-Fi e Bluetooth e um “pluszinho”](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "O “pluszinho” é a base de apoio em forma de cruz")
 
-![BeeApiary métodos de conexão: GSM/SMS, Wi-Fi AP, Wi-Fi STA e Bluetooth, armazenamento local de dados e acesso ao computador](../assets/pt-BR/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" }
+![BeeApiary métodos de conexão: GSM/SMS, Wi-Fi AP, Wi-Fi STA e Bluetooth, armazenamento local de dados e acesso ao computador](../assets/pt-BR/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
 !!! note "Materiais de vídeo adicionais"
     - [Vídeos no BeeApiary Canal do YouTube](https://www.youtube.com/@beeApiary)

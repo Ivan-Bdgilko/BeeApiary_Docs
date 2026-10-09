@@ -11,7 +11,7 @@ BeeApiary verbindet eine Bienenstockwaage mit einem System zur Bienenstandüberw
     - [Bienenstockwaage mit GSM, Wi-Fi und Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Bienenstockwaage mit GSM, Wi-Fi und Bluetooth und einem „kleinen Plus“](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "Das „kleine Plus“ ist das kreuzförmige Untergestell")
 
-![BeeApiary-Verbindungsarten: GSM/SMS, Wi-Fi AP, Wi-Fi STA und Bluetooth, lokale Datenspeicherung und Zugriff vom Computer](../assets/de/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" }
+![BeeApiary-Verbindungsarten: GSM/SMS, Wi-Fi AP, Wi-Fi STA und Bluetooth, lokale Datenspeicherung und Zugriff vom Computer](../assets/de/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
 !!! note "Zusätzliche Videomaterialien"
     - [Videos auf dem YouTube-Kanal von BeeApiary](https://www.youtube.com/@beeApiary)
