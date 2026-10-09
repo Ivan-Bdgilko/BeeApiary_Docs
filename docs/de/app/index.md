@@ -2,6 +2,8 @@
 
 Die BeeApiary-App für Android empfängt Gerätedaten, speichert sie auf dem Telefon und ermöglicht die Anzeige aktueller Werte, des Verlaufs und von Diagrammen. Daten können über GSM, eine direkte WLAN-Verbindung zum Gerät, das WLAN-Netzwerk am Bienenstand oder Bluetooth empfangen werden.
 
+![Datenübertragungskanäle vom Bienenstock zur BeeApiary-App](../../assets/de/app/overview/hive-data-channels-overview.png){ .doc-screenshot }
+
 Einen Vergleich der Kanäle findest du unter [Daten in der App empfangen](../system/connectivity.md).
 
 ## Notizen für Imker und Bienenstandtagebuch

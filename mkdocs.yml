@@ -9,6 +9,7 @@ site_dir: site
 hooks:
   - hooks/sitemap.py
   - hooks/privacy_compat.py
+  - hooks/homepage_photo.py
 
 theme:
   name: material
@@ -89,6 +90,7 @@ plugins:
             Калібрування і тарування: Calibration and Tare
             Розміщення: Placement
             Технічні характеристики: Specifications
+            Додаткові опції: Additional options
             Обслуговування: Maintenance
             Використання та зберігання взимку: Winter Use and Storage
             Чому BeeApiary працює саме так: Why BeeApiary Works This Way
@@ -96,7 +98,7 @@ plugins:
             MSET.XML — налаштування пристрою: MSET.XML — Device Settings
             HIVE*.XML — налаштування вулика: HIVE*.XML — Hive Settings
             Відновлення конфігурації: Restore Configuration
-            Система: System
+            Як працює: How It Works
             Як працює система: How the System Works
             Дані з вулика: Data Flow
             Моніторинг пасіки: Receiving Data in the App
@@ -167,6 +169,7 @@ plugins:
             Калібрування і тарування: Kalibrierung und Tarierung
             Розміщення: Platzierung
             Технічні характеристики: Technische Daten
+            Додаткові опції: Zusätzliche Optionen
             Обслуговування: Wartung
             Використання та зберігання взимку: Nutzung und Lagerung im Winter
             Чому BeeApiary працює саме так: Warum BeeApiary so funktioniert
@@ -174,7 +177,7 @@ plugins:
             MSET.XML — налаштування пристрою: MSET.XML — Geräteeinstellungen
             HIVE*.XML — налаштування вулика: HIVE*.XML — Beuteneinstellungen
             Відновлення конфігурації: Konfiguration wiederherstellen
-            Система: System
+            Як працює: So funktioniert es
             Як працює система: So funktioniert das System
             Дані з вулика: Datenfluss
             Моніторинг пасіки: Daten in der App empfangen
@@ -247,6 +250,7 @@ plugins:
             Калібрування і тарування: Calibración y tara
             Розміщення: Colocación
             Технічні характеристики: Especificaciones
+            Додаткові опції: Opciones adicionales
             Обслуговування: Mantenimiento
             Використання та зберігання взимку: Uso y almacenamiento en invierno
             Чому BeeApiary працює саме так: Por qué BeeApiary funciona así
@@ -254,7 +258,7 @@ plugins:
             MSET.XML — налаштування пристрою: MSET.XML — Ajustes del dispositivo
             HIVE*.XML — налаштування вулика: HIVE*.XML — Ajustes de la colmena
             Відновлення конфігурації: Restaurar la configuración
-            Система: Sistema
+            Як працює: Cómo funciona
             Як працює система: Cómo funciona el sistema
             Дані з вулика: Datos de la colmena
             Моніторинг пасіки: Monitorización del apiario
@@ -325,6 +329,7 @@ plugins:
             Калібрування і тарування: Étalonnage et tare
             Розміщення: Emplacement
             Технічні характеристики: Caractéristiques techniques
+            Додаткові опції: Options supplémentaires
             Обслуговування: Entretien
             Використання та зберігання взимку: Utilisation et stockage en hiver
             Чому BeeApiary працює саме так: Pourquoi BeeApiary fonctionne ainsi
@@ -332,7 +337,7 @@ plugins:
             MSET.XML — налаштування пристрою: MSET.XML — Paramètres du dispositif
             HIVE*.XML — налаштування вулика: HIVE*.XML — Paramètres de la ruche
             Відновлення конфігурації: Restaurer la configuration
-            Система: Système
+            Як працює: Comment ça fonctionne
             Як працює система: Fonctionnement du système
             Дані з вулика: Données de la ruche
             Моніторинг пасіки: Suivi du rucher
@@ -403,6 +408,7 @@ plugins:
             Калібрування і тарування: Kalibracja i tarowanie
             Розміщення: Umiejscowienie
             Технічні характеристики: Dane techniczne
+            Додаткові опції: Opcje dodatkowe
             Обслуговування: Konserwacja
             Використання та зберігання взимку: Użytkowanie i przechowywanie zimą
             Чому BeeApiary працює саме так: Dlaczego BeeApiary działa w ten sposób
@@ -410,7 +416,7 @@ plugins:
             MSET.XML — налаштування пристрою: MSET.XML — Ustawienia urządzenia
             HIVE*.XML — налаштування вулика: HIVE*.XML — Ustawienia ula
             Відновлення конфігурації: Przywracanie konfiguracji
-            Система: System
+            Як працює: Jak to działa
             Як працює система: Jak działa system
             Дані з вулика: Dane z ula
             Моніторинг пасіки: Monitoring pasieki
@@ -481,6 +487,7 @@ plugins:
             Калібрування і тарування: Calibração e tara
             Розміщення: Posicionamento
             Технічні характеристики: Especificações técnicas
+            Додаткові опції: Opções adicionais
             Обслуговування: Manutenção
             Використання та зберігання взимку: Uso e armazenamento no inverno
             Чому BeeApiary працює саме так: Por que o BeeApiary funciona assim
@@ -488,7 +495,7 @@ plugins:
             MSET.XML — налаштування пристрою: MSET.XML — Configurações do dispositivo
             HIVE*.XML — налаштування вулика: HIVE*.XML — Configurações da colmeia
             Відновлення конфігурації: Restaurar a configuração
-            Система: Sistema
+            Як працює: Como funciona
             Як працює система: Como o sistema funciona
             Дані з вулика: Dados da colmeia
             Моніторинг пасіки: Monitoramento do apiário
@@ -559,6 +566,7 @@ plugins:
             Калібрування і тарування: Kalibrasyon ve dara
             Розміщення: Yerleşim
             Технічні характеристики: Teknik özellikler
+            Додаткові опції: Ek seçenekler
             Обслуговування: Bakım
             Використання та зберігання взимку: Kışın kullanım ve saklama
             Чому BeeApiary працює саме так: BeeApiary neden böyle çalışır
@@ -566,7 +574,7 @@ plugins:
             MSET.XML — налаштування пристрою: MSET.XML — Cihaz ayarları
             HIVE*.XML — налаштування вулика: HIVE*.XML — Kovan ayarları
             Відновлення конфігурації: Yapılandırmayı geri yükleme
-            Система: Sistem
+            Як працює: Nasıl çalışır
             Як працює система: Sistem nasıl çalışır
             Дані з вулика: Kovan verileri
             Моніторинг пасіки: Arılık izleme
@@ -619,6 +627,24 @@ nav:
       - Встановити застосунок: quick-start/app-only.md
       - Зв'язок із пристроєм через GSM: quick-start/gsm.md
       - Локальна мережа Wi-Fi: quick-start/local-wifi.md
+  - Пасічні ваги BeeApiary:
+      - device/index.md
+      - Встановлення: device/installation.md
+      - Датчики: device/sensors.md
+      - Живлення: device/power.md
+      - Калібрування і тарування: device/calibration-and-tare.md
+      - Розміщення: device/placement.md
+      - Технічні характеристики: device/specifications.md
+      - Додаткові опції: device/additional-options.md
+      - Обслуговування: device/maintenance.md
+      - Використання та зберігання взимку: device/winter-use-and-storage.md
+      - Додаткові налаштування пристрою: device/additional-settings.md
+      - Чому BeeApiary працює саме так: device/design-decisions.md
+      - Сервісна документація:
+          - device/service-reference.md
+          - MSET.XML — налаштування пристрою: device/settings-reference.md
+          - HIVE*.XML — налаштування вулика: device/hive-settings-reference.md
+          - Відновлення конфігурації: device/recovery.md
   - Застосунок BeeApiary:
       - app/index.md
       - Встановлення: app/installation.md
@@ -642,25 +668,9 @@ nav:
           - NFC-мітки та дії: app/nfc-settings.md
       - Додаткові інструменти: app/additional-tools.md
       - Про застосунок: app/about.md
-  - Пасічні ваги BeeApiary:
-      - device/index.md
-      - Встановлення: device/installation.md
-      - Датчики: device/sensors.md
-      - Живлення: device/power.md
-      - Калібрування і тарування: device/calibration-and-tare.md
-      - Розміщення: device/placement.md
-      - Технічні характеристики: device/specifications.md
-      - Обслуговування: device/maintenance.md
-      - Використання та зберігання взимку: device/winter-use-and-storage.md
-      - Додаткові налаштування пристрою: device/additional-settings.md
-      - Чому BeeApiary працює саме так: device/design-decisions.md
-      - Сервісна документація:
-          - device/service-reference.md
-          - MSET.XML — налаштування пристрою: device/settings-reference.md
-          - HIVE*.XML — налаштування вулика: device/hive-settings-reference.md
-          - Відновлення конфігурації: device/recovery.md
-  - Система:
+  - Як працює:
       - system/index.md
+      - Чому BeeApiary працює саме так: device/design-decisions.md
       - Дані з вулика: system/data-flow.md
       - Моніторинг пасіки: system/connectivity.md
       - GSM ваги та SMS: system/gsm-and-sms.md

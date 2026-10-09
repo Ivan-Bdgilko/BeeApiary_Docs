@@ -7,14 +7,19 @@ description: "BeeApiary wagi ula i monitoring pasieki: lokalny i zdalny dostęp 
 
 BeeApiary łączy wagi pasieczne z systemem monitorowania pasieki obsługującym GSM, Wi-Fi i Bluetooth. Wagi wraz z czujnikami i aplikacją pomagają obserwować stan uli, analizować zmiany i prowadzić dziennik zarówno bezpośrednio w pasiece, jak i zdalnie. Aplikacji można też używać samodzielnie, bez wag.
 
-!!! note "Modele wag"
-    - [Wagi pasieczne GSM Wi-Fi Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
-    - [Wagi pasieczne GSM Wi-Fi Bluetooth z „plusikiem”](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "„Plusik” to podstawa w kształcie krzyża")
+!!! note "Modele wag dostępne do zakupu"
+    - [Zamów lub kup: podstawowe wagi pasieczne GSM Wi-Fi Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [Zamów lub kup: wagi pasieczne GSM Wi-Fi Bluetooth z podstawą i ulepszonym czujnikiem (z „plusikiem”)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "„Plusik” to podstawa w kształcie krzyża")
+    - [Opcje dodatkowe](device/additional-options.md)
 
 ![BeeApiary metody połączenia: GSM/SMS, Wi-Fi AP, Wi-Fi STA i Bluetooth, lokalne przechowywanie danych i dostęp do komputera](../assets/pl/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
 !!! note "Dodatkowe materiały wideo"
     - [Filmy na BeeApiary Kanał YouTube](https://www.youtube.com/@beeApiary)
+
+!!! note "Skontaktuj się bezpośrednio"
+    [![Napisz do autora BeeApiary na Telegramie](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![Kod QR do kontaktu przez WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    {: .contact-qr-links }
 
 Jeden zestaw może działać samodzielnie jako waga pasieczna BeeApiary, a wraz z czujnikami i aplikacją tworzyć inteligentny ul BeeApiary. Kilka takich uli połączonych w aplikacji z cyfrowym dziennikiem tworzy inteligentną pasiekę BeeApiary. Różne sposoby dostępu do danych, długoterminowe notatki, pomiary i zdarzenia dają pełny obraz życia pasieki i pomagają pszczelarzowi lepiej rozumieć swoje pszczoły.
 

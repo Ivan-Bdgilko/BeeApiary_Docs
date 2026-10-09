@@ -7,14 +7,19 @@ description: "BeeApiary básculas de colmena y monitoreo de apiarios: acceso loc
 
 BeeApiary combina balanzas para colmenas y un sistema de monitorización del apiario compatible con GSM, Wi-Fi y Bluetooth. Junto con los sensores y la aplicación, las balanzas permiten observar el estado de las colmenas, estudiar los cambios y llevar un diario tanto en el apiario como a distancia. La aplicación también se puede utilizar por separado, sin balanzas.
 
-!!! note "Modelos de básculas"
-    - [Básculas para colmenas con GSM, Wi-Fi y Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
-    - [Básculas para colmenas con GSM, Wi-Fi y Bluetooth y un «plusito»](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "El «plusito» es el soporte en forma de cruz")
+!!! note "Modelos de básculas disponibles para comprar"
+    - [Encargar o comprar: básculas básicas para colmenas con GSM, Wi-Fi y Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [Encargar o comprar: básculas para colmenas con GSM, Wi-Fi y Bluetooth, soporte y sensor mejorado (con «plusito»)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "El «plusito» es el soporte en forma de cruz")
+    - [Opciones adicionales](device/additional-options.md)
 
 ![BeeApiary métodos de conexión: GSM/SMS, Wi-Fi AP, Wi-Fi STA y Bluetooth, almacenamiento de datos local y acceso a computadora](../assets/es/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
 !!! note "Materiales de vídeo adicionales"
     - [Vídeos sobre el BeeApiary canal de youtube](https://www.youtube.com/@beeApiary)
+
+!!! note "Contactar directamente"
+    [![Escribir al autor de BeeApiary en Telegram](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![Código QR para contactar por WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    {: .contact-qr-links }
 
 Un conjunto puede funcionar de forma autónoma como balanzas BeeApiary y, junto con los sensores y la aplicación, formar una colmena inteligente BeeApiary. Varias de estas colmenas, reunidas en la aplicación con un diario digital, forman un apiario inteligente BeeApiary. Las distintas formas de acceder a los datos, las notas a largo plazo, las mediciones y los eventos ofrecen una visión completa de la vida del apiario y ayudan al apicultor a comprender mejor a sus abejas.
 

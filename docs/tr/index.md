@@ -7,14 +7,19 @@ description: "BeeApiary arı kovanı tartım terazileri ve arı kovanı izleme: 
 
 BeeApiary, GSM, Wi-Fi ve Bluetooth desteğine sahip kovan tartıları ve arılık izleme sistemini bir araya getirir. Tartılar, sensörler ve uygulama birlikte kovanların durumunu izlemeye, değişiklikleri incelemeye ve hem arılıkta hem de uzaktan günlük tutmaya yardımcı olur. Uygulama tartılar olmadan da tek başına kullanılabilir.
 
-!!! note "Tartı modelleri"
-    - [GSM, Wi-Fi ve Bluetooth özellikli kovan tartıları](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
-    - [GSM, Wi-Fi ve Bluetooth özellikli, “minik artı”lı kovan tartıları](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "“Minik artı”, artı şeklindeki destek tabanıdır")
+!!! note "Satın alınabilen tartı modelleri"
+    - [Sipariş verin veya satın alın: GSM, Wi-Fi ve Bluetooth özellikli temel kovan tartıları](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [Sipariş verin veya satın alın: GSM, Wi-Fi ve Bluetooth özellikli, destekli ve geliştirilmiş sensörlü kovan tartıları (“minik artı”lı)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "“Minik artı”, artı şeklindeki destek tabanıdır")
+    - [Ek seçenekler](device/additional-options.md)
 
 ![BeeApiary bağlantı yöntemleri: GSM/SMS, Wi-Fi AP, Wi-Fi STA ve Bluetooth, yerel veri depolama ve bilgisayar erişimi](../assets/tr/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
 !!! note "Ek video materyalleri"
     - [Şuradaki videolar BeeApiary YouTube kanalı](https://www.youtube.com/@beeApiary)
+
+!!! note "Doğrudan iletişime geçin"
+    [![BeeApiary yazarına Telegram üzerinden yazın](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![WhatsApp üzerinden iletişim için QR kodu](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    {: .contact-qr-links }
 
 Bir set bağımsız olarak BeeApiary kovan tartısı şeklinde çalışabilir; sensörler ve uygulamayla birlikte ise akıllı bir BeeApiary kovanı oluşturur. Dijital günlükle birlikte uygulamada bir araya getirilen birkaç kovan, akıllı bir BeeApiary arılığı oluşturur. Verilere farklı yollarla erişim, uzun süreli notlar, ölçümler ve olaylar arılığın yaşamına ilişkin bütünlüklü bir görünüm sunar ve arıcının arılarını daha iyi anlamasına yardımcı olur.
 

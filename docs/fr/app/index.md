@@ -2,6 +2,8 @@
 
 Le BeeApiary L'application Android reçoit les données de l'appareil, les stocke sur le téléphone et vous permet d'afficher les valeurs actuelles, l'historique et les graphiques. Les données peuvent arriver via GSM, une connexion Wi-Fi directe à l'appareil, le réseau Wi-Fi du rucher ou Bluetooth.
 
+![Canaux de transmission des données de la ruche vers l'application BeeApiary](../../assets/fr/app/overview/hive-data-channels-overview.png){ .doc-screenshot }
+
 Pour une comparaison des chaînes, voir [Réception de données dans l'application](../system/connectivity.md).
 
 ## Notes d'apiculteur et journal du rucher

@@ -7,11 +7,13 @@ description: "BeeApiary balanças de pesagem de colmeias: medições, sensores, 
 
 BeeApiary As balanças de colmeia são balanças eletrônicas de colmeia projetadas para operação externa. Eles fazem medições, armazenam-nas em microSD e enviam ao proprietário através dos canais de comunicação disponíveis. Juntamente com os sensores e o aplicativo, as balanças formam um BeeApiary colmeia inteligente para monitoramento local ou remoto.
 
+![Principais características das balanças de colmeia BeeApiary](../../assets/pt-BR/device/overview/beehive-scales-features.png){ .doc-screenshot }
+
 Esses dispositivos também são conhecidos como balanças de abelhas.
 
 Principais componentes e opções:
 
-- medição de peso até 200 kg;
+- medição de peso de até 200–300 kg (dependendo da configuração);
 - dois sensores de temperatura;
 - sensores opcionais de umidade e pressão;
 - sensor de movimento opcional e display OLED;

@@ -7,11 +7,13 @@ description: "BeeApiary beehive scales: measurements, sensors, local storage and
 
 BeeApiary beehive scales are electronic hive scales designed for outdoor operation. They take measurements, store them on microSD and send them to the owner through the available communication channels. Together with sensors and the app, the scales form a BeeApiary smart hive for local or remote monitoring.
 
+![Key features of BeeApiary beehive scales](../../assets/en/device/overview/beehive-scales-features.png){ .doc-screenshot }
+
 These devices are also known as bee scales.
 
 Main components and options:
 
-- weight measurement up to 200 kg;
+- weight measurement up to 200–300 kg (depending on configuration);
 - two temperature sensors;
 - optional humidity and pressure sensors;
 - optional motion sensor and OLED display;

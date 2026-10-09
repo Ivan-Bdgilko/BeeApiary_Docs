@@ -2,6 +2,8 @@
 
  BeeApiary Aplikacja na Androida odbiera dane z urządzenia, przechowuje je w telefonie i pozwala przeglądać aktualne wartości, historię i wykresy. Dane mogą być przesyłane poprzez sieć GSM, bezpośrednie połączenie Wi-Fi z urządzeniem, pasieczną sieć Wi-Fi lub Bluetooth.
 
+![Kanały przesyłania danych z ula do aplikacji BeeApiary](../../assets/pl/app/overview/hive-data-channels-overview.png){ .doc-screenshot }
+
 Aby zapoznać się z porównaniem kanałów, zobacz [Odbieranie danych w aplikacji](../system/connectivity.md).
 
 ## Notatki pszczelarza i dziennik pasieki

@@ -2,6 +2,8 @@
 
 O BeeApiary O aplicativo Android recebe dados do dispositivo, armazena-os no telefone e permite visualizar valores atuais, histórico e gráficos. Os dados podem chegar através de GSM, uma conexão Wi-Fi direta ao dispositivo, a rede Wi-Fi do apiário ou Bluetooth.
 
+![Canais de transmissão de dados da colmeia para o aplicativo BeeApiary](../../assets/pt-BR/app/overview/hive-data-channels-overview.png){ .doc-screenshot }
+
 Para uma comparação de canais, consulte [Recebendo dados no aplicativo](../system/connectivity.md).
 
 ## Notas do apicultor e diário do apiário

@@ -7,14 +7,19 @@ description: "BeeApiary-Bienenstockwaage und Bienenstandüberwachung: lokaler un
 
 BeeApiary verbindet eine Bienenstockwaage mit einem System zur Bienenstandüberwachung und unterstützt GSM, WLAN und Bluetooth. Zusammen mit Sensoren und der App hilft die Waage, den Zustand der Bienenstöcke zu beobachten, Veränderungen zu untersuchen und sowohl am Bienenstand als auch aus der Ferne ein Journal zu führen. Die App lässt sich auch eigenständig ohne Waage verwenden.
 
-!!! note "Waagenmodelle"
-    - [Bienenstockwaage mit GSM, Wi-Fi und Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
-    - [Bienenstockwaage mit GSM, Wi-Fi und Bluetooth und einem „kleinen Plus“](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "Das „kleine Plus“ ist das kreuzförmige Untergestell")
+!!! note "Erhältliche Waagenmodelle"
+    - [Bestellen oder kaufen: Basis-Bienenstockwaage mit GSM, Wi-Fi und Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+    - [Bestellen oder kaufen: Bienenstockwaage mit GSM, Wi-Fi und Bluetooth, Untergestell und verbessertem Sensor (mit „kleinem Plus“)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "Das „kleine Plus“ ist das kreuzförmige Untergestell")
+    - [Zusätzliche Optionen](device/additional-options.md)
 
 ![BeeApiary-Verbindungsarten: GSM/SMS, Wi-Fi AP, Wi-Fi STA und Bluetooth, lokale Datenspeicherung und Zugriff vom Computer](../assets/de/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
 !!! note "Zusätzliche Videomaterialien"
     - [Videos auf dem YouTube-Kanal von BeeApiary](https://www.youtube.com/@beeApiary)
+
+!!! note "Direkt Kontakt aufnehmen"
+    [![Dem BeeApiary-Autor auf Telegram schreiben](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![QR-Code zur Kontaktaufnahme über WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    {: .contact-qr-links }
 
 Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten und bildet zusammen mit Sensoren und der App einen intelligenten BeeApiary-Bienenstock. Mehrere solcher Bienenstöcke, die in der App mit einem digitalen Journal zusammengeführt werden, bilden einen intelligenten BeeApiary-Bienenstand. Verschiedene Möglichkeiten des Datenzugriffs, langfristige Notizen, Messungen und Ereignisse ergeben ein umfassendes Bild vom Leben am Bienenstand und helfen dir, deine Bienen besser zu verstehen.
 

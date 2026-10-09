@@ -6,6 +6,8 @@ translation_status: translated
 
 Застосунок BeeApiary для Android приймає дані пристрою, зберігає їх на телефоні та дає змогу переглядати поточні значення, історію і графіки. Дані можуть надходити через GSM, пряме Wi-Fi-з'єднання з пристроєм, Wi-Fi мережу пасіки або Bluetooth.
 
+![Канали передавання даних із вулика до застосунку BeeApiary](../../assets/uk/app/overview/hive-data-channels-overview.png){ .doc-screenshot }
+
 Порівняння каналів: [Отримання даних у застосунку](../system/connectivity.md).
 
 ## Нотатки бджоляра та журнал пасіки
