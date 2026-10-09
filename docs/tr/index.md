@@ -3,7 +3,7 @@ title: "BeeApiary — kovan tartıları ve arılık izleme"
 description: "BeeApiary arı kovanı tartım terazileri ve arı kovanı izleme: GSM, Wi-Fi ve Bluetooth, çizelgeler ve arı kovanı günlüğü aracılığıyla yerel ve uzaktan veri erişimi."
 ---
 
-# ![BeeApiary marka amblemi](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary — kovan tartıları ve arılık izleme { #beeapiary }
+# ![BeeApiary marka amblemi](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo width="780" height="780" } BeeApiary — kovan tartıları ve arılık izleme { #beeapiary }
 
 BeeApiary, GSM, Wi-Fi ve Bluetooth desteğine sahip kovan tartıları ve arılık izleme sistemini bir araya getirir. Tartılar, sensörler ve uygulama birlikte kovanların durumunu izlemeye, değişiklikleri incelemeye ve hem arılıkta hem de uzaktan günlük tutmaya yardımcı olur. Uygulama tartılar olmadan da tek başına kullanılabilir.
 
@@ -11,7 +11,7 @@ BeeApiary, GSM, Wi-Fi ve Bluetooth desteğine sahip kovan tartıları ve arılı
     - [GSM, Wi-Fi ve Bluetooth özellikli kovan tartıları](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [GSM, Wi-Fi ve Bluetooth özellikli, “minik artı”lı kovan tartıları](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "“Minik artı”, artı şeklindeki destek tabanıdır")
 
-![BeeApiary bağlantı yöntemleri: GSM/SMS, Wi-Fi AP, Wi-Fi STA ve Bluetooth, yerel veri depolama ve bilgisayar erişimi](../assets/tr/system/overview/beeapiary-connectivity-overview.webp)
+![BeeApiary bağlantı yöntemleri: GSM/SMS, Wi-Fi AP, Wi-Fi STA ve Bluetooth, yerel veri depolama ve bilgisayar erişimi](../assets/tr/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" }
 
 !!! note "Ek video materyalleri"
     - [Şuradaki videolar BeeApiary YouTube kanalı](https://www.youtube.com/@beeApiary)
@@ -43,4 +43,4 @@ Bir set bağımsız olarak BeeApiary kovan tartısı şeklinde çalışabilir; s
 - [Kılavuzlar](guides/index.md)
 - [Sorun giderme](troubleshooting/index.md)
 
-![BeeApiary sistem bileşenleri](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo }
+![BeeApiary sistem bileşenleri](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

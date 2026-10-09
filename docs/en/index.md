@@ -3,7 +3,7 @@ title: "BeeApiary — Beehive Scales and Apiary Monitoring"
 description: "BeeApiary beehive scales and apiary monitoring: local and remote data access through GSM, Wi-Fi and Bluetooth, charts and a hive journal."
 ---
 
-# ![BeeApiary brand emblem](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary — Beehive Scales and Apiary Monitoring { #beeapiary }
+# ![BeeApiary brand emblem](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo width="780" height="780" } BeeApiary — Beehive Scales and Apiary Monitoring { #beeapiary }
 
 BeeApiary combines beehive scales and an apiary monitoring system with GSM, Wi-Fi and Bluetooth support. Together with sensors and the app, the hive scales help you monitor hive conditions, study changes and keep a journal both at the apiary and remotely. The app can also be used on its own, without scales.
 
@@ -11,7 +11,7 @@ BeeApiary combines beehive scales and an apiary monitoring system with GSM, Wi-F
     - [Beehive scales with GSM, Wi-Fi and Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Beehive scales with GSM, Wi-Fi and Bluetooth and a “little plus”](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "The “little plus” is the cross-shaped support")
 
-![BeeApiary connection methods: GSM/SMS, Wi-Fi AP, Wi-Fi STA and Bluetooth, local data storage and computer access](../assets/en/system/overview/beeapiary-connectivity-overview.webp)
+![BeeApiary connection methods: GSM/SMS, Wi-Fi AP, Wi-Fi STA and Bluetooth, local data storage and computer access](../assets/en/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" }
 
 !!! note "Additional video materials"
     - [Videos on the BeeApiary YouTube channel](https://www.youtube.com/@beeApiary)
@@ -43,4 +43,4 @@ One unit can operate independently as BeeApiary hive scales and, together with s
 - [Guides](guides/index.md)
 - [Troubleshooting](troubleshooting/index.md)
 
-![BeeApiary system components](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo }
+![BeeApiary system components](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

@@ -4,7 +4,7 @@ description: "Пасічні ваги BeeApiary та моніторинг пас
 translation_status: translated
 ---
 
-# ![Фірмова емблема BeeApiary](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary — пасічні ваги та моніторинг пасіки { #beeapiary }
+# ![Фірмова емблема BeeApiary](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo width="780" height="780" } BeeApiary — пасічні ваги та моніторинг пасіки { #beeapiary }
 
 BeeApiary — пасічні ваги та система моніторингу пасіки з підтримкою GSM, Wi-Fi і Bluetooth. Ваги для вулика разом із датчиками та застосунком допомагають стежити за станом вуликів, досліджувати зміни й вести журнал як безпосередньо на пасіці, так і віддалено. Застосунок також можна використовувати окремо, без ваг.
 
@@ -12,7 +12,7 @@ BeeApiary — пасічні ваги та система моніторингу
     - [Пасічні ваги GSM Wi-Fi Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Пасічні ваги GSM Wi-Fi Bluetooth з плюсіком](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "Плюсік — опорна хрестовина")
 
-![Способи зв’язку BeeApiary: GSM/SMS, Wi-Fi AP, Wi-Fi STA та Bluetooth, локальне зберігання даних і доступ із комп’ютера](../assets/uk/system/overview/beeapiary-connectivity-overview.webp)
+![Способи зв’язку BeeApiary: GSM/SMS, Wi-Fi AP, Wi-Fi STA та Bluetooth, локальне зберігання даних і доступ із комп’ютера](../assets/uk/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" }
 
 !!! note "Додаткові відеоматеріали"
     - [Відео на YouTube-каналі BeeApiary](https://www.youtube.com/@beeApiary)
@@ -44,4 +44,4 @@ BeeApiary — пасічні ваги та система моніторингу
 - [Практичні інструкції](guides/index.md)
 - [Усунення проблем](troubleshooting/index.md)
 
-![Склад системи BeeApiary](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo }
+![Склад системи BeeApiary](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

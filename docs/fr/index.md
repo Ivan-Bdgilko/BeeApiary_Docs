@@ -3,7 +3,7 @@ title: "BeeApiary — balances de ruche et suivi du rucher"
 description: "BeeApiary balances de ruche et surveillance du rucher : accès aux données locales et à distance via GSM, Wi-Fi et Bluetooth, graphiques et journal de la ruche."
 ---
 
-# ![BeeApiary emblème de la marque](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary — balances de ruche et suivi du rucher { #beeapiary }
+# ![BeeApiary emblème de la marque](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo width="780" height="780" } BeeApiary — balances de ruche et suivi du rucher { #beeapiary }
 
 BeeApiary associe des balances de ruche à un système de suivi du rucher compatible avec GSM, Wi-Fi et Bluetooth. Avec les capteurs et l’application, les balances permettent de suivre l’état des ruches, d’étudier les changements et de tenir un journal au rucher comme à distance. L’application peut aussi être utilisée seule, sans balance.
 
@@ -11,7 +11,7 @@ BeeApiary associe des balances de ruche à un système de suivi du rucher compat
     - [Balances pour ruches avec GSM, Wi-Fi et Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Balances pour ruches avec GSM, Wi-Fi et Bluetooth et un « petit plus »](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "Le « petit plus » désigne le support en forme de croix")
 
-![BeeApiary méthodes de connexion : GSM/SMS, Wi-Fi AP, Wi-Fi STA et Bluetooth, stockage de données local et accès à l'ordinateur](../assets/fr/system/overview/beeapiary-connectivity-overview.webp)
+![BeeApiary méthodes de connexion : GSM/SMS, Wi-Fi AP, Wi-Fi STA et Bluetooth, stockage de données local et accès à l'ordinateur](../assets/fr/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" }
 
 !!! note "Vidéos complémentaires"
     - [Des vidéos sur le BeeApiary Chaîne YouTube](https://www.youtube.com/@beeApiary)
@@ -43,4 +43,4 @@ Un ensemble peut fonctionner de manière autonome comme balance BeeApiary et, av
 - [Guides](guides/index.md)
 - [Dépannage](troubleshooting/index.md)
 
-![BeeApiary composants du système](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo }
+![BeeApiary composants du système](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

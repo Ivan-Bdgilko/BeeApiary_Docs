@@ -3,7 +3,7 @@ title: "BeeApiary — Bienenstockwaage und Bienenstandüberwachung"
 description: "BeeApiary-Bienenstockwaage und Bienenstandüberwachung: lokaler und entfernter Datenzugriff über GSM, WLAN und Bluetooth, Diagramme und Beutenjournal."
 ---
 
-# ![BeeApiary-Markenlogo](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary — Bienenstockwaage und Bienenstandüberwachung { #beeapiary }
+# ![BeeApiary-Markenlogo](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo width="780" height="780" } BeeApiary — Bienenstockwaage und Bienenstandüberwachung { #beeapiary }
 
 BeeApiary verbindet eine Bienenstockwaage mit einem System zur Bienenstandüberwachung und unterstützt GSM, WLAN und Bluetooth. Zusammen mit Sensoren und der App hilft die Waage, den Zustand der Bienenstöcke zu beobachten, Veränderungen zu untersuchen und sowohl am Bienenstand als auch aus der Ferne ein Journal zu führen. Die App lässt sich auch eigenständig ohne Waage verwenden.
 
@@ -11,7 +11,7 @@ BeeApiary verbindet eine Bienenstockwaage mit einem System zur Bienenstandüberw
     - [Bienenstockwaage mit GSM, Wi-Fi und Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Bienenstockwaage mit GSM, Wi-Fi und Bluetooth und einem „kleinen Plus“](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "Das „kleine Plus“ ist das kreuzförmige Untergestell")
 
-![BeeApiary-Verbindungsarten: GSM/SMS, Wi-Fi AP, Wi-Fi STA und Bluetooth, lokale Datenspeicherung und Zugriff vom Computer](../assets/de/system/overview/beeapiary-connectivity-overview.webp)
+![BeeApiary-Verbindungsarten: GSM/SMS, Wi-Fi AP, Wi-Fi STA und Bluetooth, lokale Datenspeicherung und Zugriff vom Computer](../assets/de/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" }
 
 !!! note "Zusätzliche Videomaterialien"
     - [Videos auf dem YouTube-Kanal von BeeApiary](https://www.youtube.com/@beeApiary)
@@ -43,4 +43,4 @@ Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten und bild
 - [Anleitungen](guides/index.md)
 - [Fehlerbehebung](troubleshooting/index.md)
 
-![Bestandteile des BeeApiary-Systems](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo }
+![Bestandteile des BeeApiary-Systems](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

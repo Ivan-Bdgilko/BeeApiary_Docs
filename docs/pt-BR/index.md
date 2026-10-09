@@ -3,7 +3,7 @@ title: "BeeApiary — balanças para colmeias e monitoramento do apiário"
 description: "BeeApiary balanças de pesagem de colmeias e monitoramento de apiários: acesso local e remoto a dados através de GSM, Wi-Fi e Bluetooth, gráficos e diário de colmeias."
 ---
 
-# ![BeeApiary emblema da marca](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo } BeeApiary — balanças para colmeias e monitoramento do apiário { #beeapiary }
+# ![BeeApiary emblema da marca](../assets/common/brand/beeapiary-emblem.png){ .home-brand-logo width="780" height="780" } BeeApiary — balanças para colmeias e monitoramento do apiário { #beeapiary }
 
 BeeApiary combina balanças para colmeias e um sistema de monitoramento do apiário com suporte a GSM, Wi-Fi e Bluetooth. Junto com os sensores e o aplicativo, as balanças ajudam a acompanhar o estado das colmeias, analisar mudanças e manter um diário tanto no apiário quanto remotamente. O aplicativo também pode ser usado separadamente, sem balanças.
 
@@ -11,7 +11,7 @@ BeeApiary combina balanças para colmeias e um sistema de monitoramento do apiá
     - [Balanças para colmeias com GSM, Wi-Fi e Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Balanças para colmeias com GSM, Wi-Fi e Bluetooth e um “pluszinho”](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html "O “pluszinho” é a base de apoio em forma de cruz")
 
-![BeeApiary métodos de conexão: GSM/SMS, Wi-Fi AP, Wi-Fi STA e Bluetooth, armazenamento local de dados e acesso ao computador](../assets/pt-BR/system/overview/beeapiary-connectivity-overview.webp)
+![BeeApiary métodos de conexão: GSM/SMS, Wi-Fi AP, Wi-Fi STA e Bluetooth, armazenamento local de dados e acesso ao computador](../assets/pt-BR/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" }
 
 !!! note "Materiais de vídeo adicionais"
     - [Vídeos no BeeApiary Canal do YouTube](https://www.youtube.com/@beeApiary)
@@ -43,4 +43,4 @@ Um conjunto pode funcionar de forma autônoma como balança BeeApiary e, junto c
 - [Guias](guides/index.md)
 - [Solução de problemas](troubleshooting/index.md)
 
-![BeeApiary componentes do sistema](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo }
+![BeeApiary componentes do sistema](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
