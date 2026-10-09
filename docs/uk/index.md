@@ -44,4 +44,4 @@ BeeApiary — пасічні ваги та система моніторингу
 - [Практичні інструкції](guides/index.md)
 - [Усунення проблем](troubleshooting/index.md)
 
-![Склад системи BeeApiary](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![Склад системи BeeApiary](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

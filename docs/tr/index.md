@@ -43,4 +43,4 @@ Bir set bağımsız olarak BeeApiary kovan tartısı şeklinde çalışabilir; s
 - [Kılavuzlar](guides/index.md)
 - [Sorun giderme](troubleshooting/index.md)
 
-![BeeApiary sistem bileşenleri](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary sistem bileşenleri](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

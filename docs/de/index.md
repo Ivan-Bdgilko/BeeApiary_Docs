@@ -43,4 +43,4 @@ Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten und bild
 - [Anleitungen](guides/index.md)
 - [Fehlerbehebung](troubleshooting/index.md)
 
-![Bestandteile des BeeApiary-Systems](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![Bestandteile des BeeApiary-Systems](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

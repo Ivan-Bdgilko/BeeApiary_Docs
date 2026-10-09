@@ -43,4 +43,4 @@ Un ensemble peut fonctionner de manière autonome comme balance BeeApiary et, av
 - [Guides](guides/index.md)
 - [Dépannage](troubleshooting/index.md)
 
-![BeeApiary composants du système](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary composants du système](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

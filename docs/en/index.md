@@ -43,4 +43,4 @@ One unit can operate independently as BeeApiary hive scales and, together with s
 - [Guides](guides/index.md)
 - [Troubleshooting](troubleshooting/index.md)
 
-![BeeApiary system components](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary system components](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

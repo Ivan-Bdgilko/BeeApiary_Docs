@@ -43,4 +43,4 @@ Um conjunto pode funcionar de forma autônoma como balança BeeApiary e, junto c
 - [Guias](guides/index.md)
 - [Solução de problemas](troubleshooting/index.md)
 
-![BeeApiary componentes do sistema](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary componentes do sistema](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

@@ -43,4 +43,4 @@ Jeden zestaw może działać samodzielnie jako waga pasieczna BeeApiary, a wraz 
 - [Przewodniki](guides/index.md)
 - [Rozwiązywanie problemów](troubleshooting/index.md)
 
-![BeeApiary komponenty systemu](../assets/common/system/overview/beeapiary-system-components.jpeg){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary komponenty systemu](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }

@@ -34,13 +34,13 @@ def main():
         for name, size in {
             "beeapiary-emblem.png": (780, 780),
             "beeapiary-connectivity-overview.webp": (1448, 1086),
-            "beeapiary-system-components.jpeg": (1079, 754),
+            "beeapiary-system-components.webp": (1079, 754),
         }.items():
             attrs = resources.images[name]
             assert (attrs.get("width"), attrs.get("height")) == tuple(map(str, size)), (lang, name)
         assert resources.images["beeapiary-connectivity-overview.webp"]["loading"] == "eager"
         assert resources.images["beeapiary-connectivity-overview.webp"]["fetchpriority"] == "high"
-        photo = resources.images["beeapiary-system-components.jpeg"]
+        photo = resources.images["beeapiary-system-components.webp"]
         assert photo["loading"] == "lazy" and photo["decoding"] == "async"
         if args.fonts:
             assert all(not urlsplit(href).hostname for href in resources.styles), lang
