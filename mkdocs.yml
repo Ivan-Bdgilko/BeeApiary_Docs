@@ -8,6 +8,7 @@ site_dir: site
 
 hooks:
   - hooks/sitemap.py
+  - hooks/privacy_compat.py
 
 theme:
   name: material
@@ -21,6 +22,11 @@ theme:
     - content.code.copy
 
 plugins:
+  - privacy:
+      links: false
+      assets_include:
+        - fonts.googleapis.com/*
+        - fonts.gstatic.com/*
   - search:
       lang:
         - uk
