@@ -35,9 +35,8 @@ Jeden zestaw może działać samodzielnie jako waga pasieczna BeeApiary, a wraz 
 
 ## Rozpoczęcie
 
-- [Skonfiguruj system](quick-start/full-system.md)
+- [Skonfiguruj system i GSM](quick-start/full-system.md)
 - [Zainstaluj aplikację](quick-start/app-only.md)
-- [Skonfiguruj połączenie GSM z urządzeniem](quick-start/gsm.md)
 - [Połącz się z lokalną siecią Wi-Fi](quick-start/local-wifi.md)
 
 ## Dokumentacja, kiedy jej potrzebujesz

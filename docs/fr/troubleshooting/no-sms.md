@@ -12,4 +12,4 @@
 8. Déconnectez le téléphone de `apiary_net`: le BeeApiary Les balances pour ruches passent au GSM une fois la connexion locale terminée.
 9. Vérifiez la charge de la batterie. Below 20%, regular SMS messages may temporarily not be sent.
 
-Après avoir corrigé le problème, [activer ou redémarrer l'appareil](../device/installation.md#activation-reset) en maintenant brièvement la clé magnétique contre le marquage, puis attendez environ une minute. Voir [GSM et SMS](../system/gsm-and-sms.md).
+Après avoir corrigé le problème, [activer ou redémarrer l'appareil](../guides/set-up-device.md#activation-reset) en maintenant brièvement la clé magnétique contre le marquage, puis attendez environ une minute. Voir [GSM et SMS](../system/gsm-and-sms.md).

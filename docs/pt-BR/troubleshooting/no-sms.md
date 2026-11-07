@@ -12,4 +12,4 @@
 8. Desconecte o telefone de `apiary_net`: o BeeApiary as balanças de colmeia mudam para GSM após o término da conexão local.
 9. Verifique a carga da bateria. Abaixo de 20%, mensagens SMS normais podem não ser enviadas temporariamente.
 
-Depois de corrigir o problema, [ativar ou reiniciar o dispositivo](../device/installation.md#activation-reset) pressionando brevemente a chave magnética contra a marca e aguarde cerca de um minuto. Veja [GSM e SMS](../system/gsm-and-sms.md).
+Depois de corrigir o problema, [ativar ou reiniciar o dispositivo](../guides/set-up-device.md#activation-reset) pressionando brevemente a chave magnética contra a marca e aguarde cerca de um minuto. Veja [GSM e SMS](../system/gsm-and-sms.md).

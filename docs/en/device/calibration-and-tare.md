@@ -3,6 +3,7 @@
 !!! danger "A new device does not need calibration"
     Calibration is primarily required after a repair or loss of factory calibration data. Do not use it as a general way to troubleshoot an incorrect weight reading.
 
+<span id="calibration"></span>
 ## Calibration
 
 1. Disconnect the external power supply.
@@ -29,16 +30,25 @@
 
     ![Scale calibration result](../../assets/en/device/calibration-and-tare/calibration-result.png){ .doc-screenshot }
 
+Result: the device has saved the new calibration values. Check that the reference weight is displayed.
+
+<span id="tare"></span>
 ## Tare
 
-You can enter a known tare weight in grams:
+Taring excludes the weight of the platform or another permanent structure.
 
-![Entering a known tare weight](../../assets/en/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
+1. [Connect to the scales' web interface](../guides/configure-local-wifi.md).
+2. Open **General Settings → Scale Settings**.
+3. Choose one method:
 
-Alternatively, accept the current platform weight as zero:
+    - If the tare weight is known, enter it in grams and select **Set Tare Weight**.
 
-![Accepting the current weight as zero](../../assets/en/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+        ![Entering a known tare weight](../../assets/en/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
 
-Taring does not change the factory calibration factor.
+    - Alternatively, leave the structure on the sensors and accept the current value as zero.
 
-Separate procedures: [Tare the Scales](../guides/tare-scales.md) and [Calibrate the Scales](../guides/calibrate-scales.md).
+        ![Accepting the current weight as zero](../../assets/en/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+
+4. Check the reading when finished.
+
+Result: the device subtracts the tare from subsequent measurements. Taring does not change the factory calibration factor.

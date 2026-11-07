@@ -3,6 +3,7 @@
 !!! danger "Nowe urządzenie nie wymaga kalibracji"
     Kalibracja jest wymagana przede wszystkim po naprawie lub utracie fabrycznych danych kalibracyjnych. Nie używaj go jako ogólnego sposobu rozwiązywania problemów z nieprawidłowym odczytem masy.
 
+<span id="calibration"></span>
 ## Kalibracja
 
 1. Odłącz zewnętrzne zasilanie.
@@ -29,16 +30,25 @@
 
     ![wynik kalibracji wagi](../../assets/en/device/calibration-and-tare/calibration-result.png){ .doc-screenshot }
 
+Wynik: urządzenie zapisało nowe wartości kalibracji. Sprawdź, czy wyświetlana jest masa wzorcowa.
+
+<span id="tare"></span>
 ## Tara
 
-Możesz wprowadzić znaną tarę w gramach:
+Tarowanie pozwala pominąć masę platformy lub innej stałej konstrukcji.
 
-![Wprowadzanie znanej tary](../../assets/en/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
+1. [Połącz się z interfejsem internetowym wagi](../guides/configure-local-wifi.md).
+2. Otwórz **Ustawienia ogólne → Ustawienia wagi**.
+3. Wybierz sposób:
 
-Alternatywnie zaakceptuj aktualną wagę platformy jako zero:
+    - Jeśli znasz masę tary, wpisz ją w gramach i wybierz **Ustaw masę tary**.
 
-![Przyjęcie aktualnej wagi jako zerowej](../../assets/en/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+        ![Wprowadzanie znanej tary](../../assets/en/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
 
-Tarowanie nie zmienia fabrycznego współczynnika kalibracji.
+    - Możesz też pozostawić konstrukcję na czujnikach i przyjąć bieżącą wartość jako zero.
 
-Oddzielne procedury: [Wytaruj wagę](../guides/tare-scales.md) i [Kalibracja wagi](../guides/calibrate-scales.md).
+        ![Przyjęcie aktualnej wagi jako zerowej](../../assets/en/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+
+4. Po zakończeniu sprawdź wskazanie.
+
+Wynik: urządzenie odejmuje tarę od kolejnych pomiarów. Tarowanie nie zmienia fabrycznego współczynnika kalibracji.

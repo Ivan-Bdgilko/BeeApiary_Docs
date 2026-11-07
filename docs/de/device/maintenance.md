@@ -10,3 +10,5 @@
     Das Gerät unterstützt kein Schnellladen, einschließlich USB Power Delivery (PD). Verwende zum Laden eine normale Stromquelle mit USB-Type-A-Anschluss und ein USB-Type-A–USB-Type-C-Kabel anstelle eines USB-Type-C–USB-Type-C-Kabels.
 
 Grundlegende Messungen und die Datenübertragung können ohne microSD-Karte funktionieren; Archiv und Protokolle auf der Karte sind dann jedoch nicht verfügbar.
+
+Sieh dir vor Saisonende die [Hinweise zur Nutzung und Lagerung im Winter](winter-use-and-storage.md) an.

@@ -39,9 +39,10 @@ Cette option et les autres commutateurs sont expliqués sous [Paramètres suppl�
 
 7. Revenez à l'écran d'accueil de l'application. Gardez le Bluetooth activé et le téléphone à portée Bluetooth fiable pendant le prochain cycle horaire.
 
+<span id="sync-result"></span>
 ## Vérifiez le résultat
 
-La synchronisation se produit uniquement lorsque **BLE info** est activé sur la balance et Bluetooth et les options d'application correspondantes sont activées sur le téléphone. La balance devient disponible pour communiquer lors d'un réveil programmé ou après [activation avec la clé magnétique](../device/installation.md#activation-reset).
+La synchronisation se produit uniquement lorsque **BLE info** est activé sur la balance et Bluetooth et les options d'application correspondantes sont activées sur le téléphone. La balance devient disponible pour communiquer lors d'un réveil programmé ou après [activation avec la clé magnétique](../guides/set-up-device.md#activation-reset).
 
 L'application peut échanger des données lorsqu'elle est ouverte ou en arrière-plan si Android lui permet de s'exécuter et de se réveiller à l'heure requise.
 

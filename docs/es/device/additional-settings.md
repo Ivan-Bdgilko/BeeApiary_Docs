@@ -12,7 +12,7 @@ El **Configuraciones adicionales** La página pertenece a la interfaz web del Be
 !!! warning "No cambie la configuración al azar"
     Un valor incorrecto puede interrumpir el funcionamiento del dispositivo. Habilite los indicadores de hardware solo cuando el hardware correspondiente esté instalado físicamente. No cambie la configuración o las claves de la red innecesariamente.
 
-![Configuraciones adicionales en la interfaz web del BeeApiary balanzas de colmena](../../assets/uk/device/additional-settings/device-additional-settings.jpg){ .doc-screenshot }
+![Configuraciones adicionales en la interfaz web del BeeApiary balanzas de colmena](../../assets/es/device/additional-settings/device-additional-settings.jpg){ .doc-screenshot }
 
 Los valores de red en la captura de pantalla son solo ejemplos. Serán diferentes en su dispositivo.
 

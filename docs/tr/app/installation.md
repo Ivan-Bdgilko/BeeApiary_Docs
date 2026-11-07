@@ -10,7 +10,7 @@
 
     Uygulamayı olmadan kullanırsanız BeeApiary bağımsız bir defter ve arı kovanı günlüğü olarak arı kovanı tartım terazileri, SMS izni gerekli değildir.
 
-1. Aç [Google Play'deki uygulama sayfası](https://play.google.com/store/apps/details?id=com.beeapiary).
+1. Aç [Google Play'deki uygulama sayfası](https://play.google.com/store/apps/details?id=com.beeapiary). Google Play'de **Beekeeper notes** adıyla da bulabilirsiniz.
 2. Uygulamayı yükleyin ve başlatın.
 3. Uygulamanın istediği tüm izinleri verin.
 

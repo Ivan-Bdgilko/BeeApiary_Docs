@@ -9,36 +9,26 @@ Do monitorowania pasieki wykorzystuje się dane z BeeApiary Waga ula może poł�
 
 | Kanał | Lokalizacja telefonu | Wymagania | Jak dane docierają do aplikacji |
 |---|---|---|---|
-| [GSM i SMS-y](gsm-and-sms.md) | Wszędzie z zasięgiem komórkowym | Karta SIM w urządzeniu z podstawowym planem SMS | Aplikacja automatycznie przetwarza wiadomości SMS; Internet mobilny nie jest wymagany |
-| [Bezpośrednie połączenie z punktem dostępowym urządzenia](local-wifi.md#direct-access-point) | W pobliżu urządzenia | Aktywuj urządzenie kluczem magnetycznym i połącz się z `apiary_net` w dostępnym przedziale czasu, zwykle około jednej minuty | Aplikacja odnajduje urządzenie, prosi o pozwolenie na pobranie archiwum i po potwierdzeniu importuje dane |
-| [Trasowanie poprzez pasieczną sieć Wi-Fi](local-wifi.md#apiary-wifi-routing) | Wszędzie tam, gdzie jest dostęp do Internetu | W pobliżu urządzenia musi być dostępna skonfigurowana sieć Wi-Fi z dostępem do Internetu | Dane są automatycznie kierowane do aplikacji; nie jest wymagana osobna karta SIM dla każdego urządzenia |
-| [Bluetooth](bluetooth.md) | W pobliżu, w zasięgu Bluetooth | **BLE info**, skanowanie BLE i działanie aplikacji w tle są włączone; czas jest zsynchronizowany; nie jest wymagana karta SIM ani Internet | Aplikacja automatycznie synchronizuje aktualne dane i może przywrócić dostępną historię |
+| [GSM i SMS-y](gsm-and-sms.md) | Wszędzie z zasięgiem komórkowym | Karta SIM w urządzeniu z podstawowym planem SMS; uprawnienie aplikacji do SMS | Aplikacja automatycznie przetwarza skompresowane SMS-y; Internet mobilny nie jest potrzebny. [Skonfiguruj GSM](../guides/configure-gsm.md) |
+| [Bezpośrednie połączenie z punktem dostępowym urządzenia](local-wifi.md#direct-access-point) | W pobliżu urządzenia | Aktywuj urządzenie kluczem magnetycznym i połącz się z `apiary_net` w dostępnym przedziale czasu, zwykle około jednej minuty; karta SIM i Internet nie są potrzebne | Aplikacja odnajduje urządzenie, prosi o pozwolenie na pobranie archiwum i po potwierdzeniu importuje dane. [Pobierz archiwum](../guides/download-archive.md) |
+| [Trasowanie poprzez pasieczną sieć Wi-Fi](local-wifi.md#apiary-wifi-routing) | Wszędzie tam, gdzie jest dostęp do Internetu | W pobliżu urządzenia musi być dostępna skonfigurowana sieć Wi-Fi z dostępem do Internetu | Dane są automatycznie kierowane do aplikacji; nie jest wymagana osobna karta SIM dla każdego urządzenia. [Skonfiguruj Wi-Fi](../guides/configure-wifi-sync.md) |
+| [Bluetooth](bluetooth.md) | W pobliżu, w zasięgu Bluetooth | **BLE info**, skanowanie BLE i działanie aplikacji w tle są włączone; czas jest zsynchronizowany; nie jest wymagana karta SIM ani Internet | Aplikacja automatycznie synchronizuje aktualne dane i może przywrócić dostępną historię. [Skonfiguruj Bluetooth](../guides/configure-bluetooth-sync.md) |
 
 ## GSM i SMS-y
 
-Urządzenie wysyła zwykłe lub skompresowane wiadomości SMS bez mobilnego Internetu. Aplikacja rozpoznaje skompresowane wiadomości i automatycznie dodaje pomiary do lokalnej pamięci telefonu.
+Zwykłe SMS-y można czytać bez aplikacji; aplikacja zapisuje wiadomości skompresowane jako pomiary. [Formaty SMS](gsm-and-sms.md).
 
 ## Bezpośrednie połączenie z urządzeniem
 
-Po aktywacji kluczem magnetycznym urządzenie tymczasowo tworzy `apiary_net` punkt dostępu. Podłączony do niego telefon nie potrzebuje karty SIM ani dostępu do Internetu. Aplikacja automatycznie wyszukuje urządzenie, ale pobiera archiwum dopiero po potwierdzeniu żądania przez użytkownika.
-
-Szczegółowa procedura, patrz [Pobierz archiwum](../guides/download-archive.md).
+Połączony telefon otrzymuje archiwum dopiero po potwierdzeniu. [Połącz z punktem dostępowym](../guides/configure-local-wifi.md).
 
 ## Trasowanie przez pasieczną sieć Wi-Fi
 
-Urządzenie może korzystać z istniejącej sieci Wi-Fi z dostępem do Internetu na terenie pasieki. Właściciel otrzymuje dane zdalnie w aplikacji bez konieczności posiadania osobnej karty SIM dla każdego urządzenia.
-
-Przed wstępną konfiguracją aplikacja musi co najmniej raz odebrać dane z urządzenia za pośrednictwem wiadomości SMS lub bezpośredniego pobrania archiwum. Rejestracja odbywa się na telefonie z dostępem do Internetu, a przygotowane ustawienia Wi-Fi i chmury są następnie przesyłane za jego pośrednictwem na urządzenie `apiary_net` punkt dostępu.
-
-Przekaźnik online nie przechowuje danych. Stałe kopie pozostają w BeeApiary w pamięci wagi ula oraz w telefonie użytkownika.
-
-Szczegółowa procedura, patrz [Skonfiguruj synchronizację za pośrednictwem sieci Wi-Fi pasieki](../guides/configure-wifi-sync.md).
+Przed konfiguracją aplikacja musi co najmniej raz otrzymać dane przez SMS lub bezpośrednie pobranie archiwum. Usługa nie jest trwałym magazynem: kopie pozostają na wadze i telefonie. Może działać niestabilnie lub stać się płatna; sprawdź [zgodność i warunki](../guides/configure-wifi-sync.md).
 
 ## Bluetooth
 
-Gdy telefon znajdzie się w zasięgu Bluetooth, aplikacja automatycznie synchronizuje dostępne dane. Nie wymaga to karty SIM, mobilnego Internetu ani aktywacji `apiary_net` punkt dostępu. Gdy włączone jest pobieranie historii, tymczasowe luki mogą zostać uzupełnione podczas następnego pomyślnego połączenia.
-
-Aby uzyskać wyjaśnienie, zobacz [Synchronizacja danych Bluetooth](bluetooth.md). Aby zapoznać się z praktyczną procedurą, zob [Skonfiguruj synchronizację Bluetooth](../guides/configure-bluetooth-sync.md).
+Po włączeniu pobierania historii luki mogą zostać uzupełnione przy kolejnym połączeniu. [Zasada działania i zgodność](bluetooth.md).
 
 ## Działanie bez połączenia
 

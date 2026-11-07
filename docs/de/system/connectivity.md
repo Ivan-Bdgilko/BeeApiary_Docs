@@ -9,36 +9,26 @@ Zur Bienenstandüberwachung können Daten von der BeeApiary-Bienenstockwaage auf
 
 | Kanal | Standort des Telefons | Voraussetzungen | So gelangen die Daten zur App |
 |---|---|---|---|
-| [GSM und SMS](gsm-and-sms.md) | Überall mit Mobilfunkempfang | Eine SIM-Karte im Gerät mit einem einfachen SMS-Tarif | Die App verarbeitet SMS-Nachrichten automatisch; mobiles Internet ist nicht erforderlich |
-| [Direkte Verbindung zum Zugangspunkt des Geräts](local-wifi.md#direct-access-point) | In der Nähe des Geräts | Das Gerät mit dem Magnetschlüssel aktivieren und innerhalb des verfügbaren Zeitfensters, gewöhnlich etwa einer Minute, eine Verbindung zu `apiary_net` herstellen | Die App findet das Gerät, fragt nach der Erlaubnis zum Abrufen des Archivs und importiert die Daten nach der Bestätigung |
-| [Weiterleitung über das WLAN-Netzwerk am Bienenstand](local-wifi.md#apiary-wifi-routing) | Überall mit Internetzugang | In der Nähe des Geräts muss ein konfiguriertes WLAN-Netzwerk mit Internetzugang verfügbar sein | Die Daten werden automatisch zur App weitergeleitet; eine eigene SIM-Karte für jedes Gerät ist nicht erforderlich |
-| [Bluetooth](bluetooth.md) | In der Nähe, innerhalb der Bluetooth-Reichweite | **BLE info**, BLE-Suche und Hintergrundbetrieb der App sind aktiviert; die Uhrzeit ist synchronisiert; SIM-Karte und Internet sind nicht erforderlich | Die App synchronisiert aktuelle Daten automatisch und kann den verfügbaren Verlauf wiederherstellen |
+| [GSM und SMS](gsm-and-sms.md) | Überall mit Mobilfunkempfang | Eine SIM-Karte im Gerät mit einem einfachen SMS-Tarif; SMS-Berechtigung für die App | Die App verarbeitet kompakte SMS automatisch; mobiles Internet ist nicht nötig. [GSM einrichten](../guides/configure-gsm.md) |
+| [Direkte Verbindung zum Zugangspunkt des Geräts](local-wifi.md#direct-access-point) | In der Nähe des Geräts | Das Gerät mit dem Magnetschlüssel aktivieren und innerhalb des verfügbaren Zeitfensters, gewöhnlich etwa einer Minute, eine Verbindung zu `apiary_net` herstellen; keine SIM oder Internetverbindung nötig | Die App findet das Gerät, fragt nach der Erlaubnis zum Abrufen des Archivs und importiert die Daten nach der Bestätigung. [Archiv herunterladen](../guides/download-archive.md) |
+| [Weiterleitung über das WLAN-Netzwerk am Bienenstand](local-wifi.md#apiary-wifi-routing) | Überall mit Internetzugang | In der Nähe des Geräts muss ein konfiguriertes WLAN-Netzwerk mit Internetzugang verfügbar sein | Die Daten werden automatisch zur App weitergeleitet; eine eigene SIM-Karte für jedes Gerät ist nicht erforderlich. [WLAN einrichten](../guides/configure-wifi-sync.md) |
+| [Bluetooth](bluetooth.md) | In der Nähe, innerhalb der Bluetooth-Reichweite | **BLE info**, BLE-Suche und Hintergrundbetrieb der App sind aktiviert; die Uhrzeit ist synchronisiert; SIM-Karte und Internet sind nicht erforderlich | Die App synchronisiert aktuelle Daten automatisch und kann den verfügbaren Verlauf wiederherstellen. [Bluetooth einrichten](../guides/configure-bluetooth-sync.md) |
 
 ## GSM und SMS
 
-Das Gerät sendet normale oder kompakte SMS-Nachrichten ohne mobiles Internet. Die App erkennt kompakte Nachrichten und fügt die Messwerte automatisch dem lokalen Speicher des Telefons hinzu.
+Gewöhnliche SMS lassen sich ohne App lesen; kompakte Nachrichten speichert die App als Messwerte. [SMS-Formate](gsm-and-sms.md).
 
 ## Direkte Verbindung zum Gerät
 
-Nach der Aktivierung mit dem Magnetschlüssel erstellt das Gerät vorübergehend den Zugangspunkt `apiary_net`. Ein damit verbundenes Telefon benötigt weder eine SIM-Karte noch Internetzugang. Die App findet das Gerät automatisch, lädt das Archiv aber erst nach Bestätigung durch den Benutzer herunter.
-
-Das genaue Verfahren findest du unter [Archiv herunterladen](../guides/download-archive.md).
+Das verbundene Telefon erhält das Archiv erst nach Bestätigung. [Mit dem Zugangspunkt verbinden](../guides/configure-local-wifi.md).
 
 ## Weiterleitung über das WLAN-Netzwerk am Bienenstand
 
-Das Gerät kann ein vorhandenes WLAN-Netzwerk mit Internetzugang am Bienenstand verwenden. Der Besitzer empfängt die Daten aus der Ferne in der App, ohne dass jedes Gerät eine eigene SIM-Karte benötigt.
-
-Vor der Ersteinrichtung muss die App mindestens einmal Daten vom Gerät über SMS oder durch direktes Herunterladen des Archivs empfangen haben. Die Registrierung erfolgt auf einem Telefon mit Internetzugang. Anschließend werden die vorbereiteten WLAN- und Cloud-Einstellungen über den Zugangspunkt `apiary_net` an das Gerät übertragen.
-
-Der Online-Übertragungsdienst speichert keine Daten. Dauerhafte Kopien verbleiben im Speicher der BeeApiary-Bienenstockwaage und auf dem Telefon des Benutzers.
-
-Das genaue Verfahren findest du unter [Synchronisierung über das WLAN-Netzwerk am Bienenstand einrichten](../guides/configure-wifi-sync.md).
+Vor der Einrichtung muss die App mindestens einmal Daten per SMS oder direktem Archivdownload erhalten haben. Der Dienst ist kein dauerhafter Speicher; Kopien bleiben auf Waage und Telefon. Er kann instabil oder kostenpflichtig werden; prüfe [Kompatibilität und Bedingungen](../guides/configure-wifi-sync.md).
 
 ## Bluetooth
 
-Wenn sich das Telefon innerhalb der Bluetooth-Reichweite befindet, synchronisiert die App die verfügbaren Daten automatisch. Dafür sind weder eine SIM-Karte noch mobiles Internet oder eine Aktivierung des Zugangspunkts `apiary_net` erforderlich. Wenn das Abrufen des Verlaufs aktiviert ist, können vorübergehende Lücken bei der nächsten erfolgreichen Verbindung ergänzt werden.
-
-Eine Beschreibung findest du unter [Datensynchronisierung über Bluetooth](bluetooth.md). Das praktische Verfahren steht unter [Bluetooth-Synchronisierung einrichten](../guides/configure-bluetooth-sync.md).
+Bei aktiviertem Verlaufsabruf können Lücken bei der nächsten erfolgreichen Verbindung gefüllt werden. [Funktionsweise und Kompatibilität](bluetooth.md).
 
 ## Betrieb ohne Verbindung
 

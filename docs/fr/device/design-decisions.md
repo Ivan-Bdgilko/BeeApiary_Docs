@@ -12,6 +12,8 @@ Le projet est ouvert aux retours d'expérience et aux suggestions : sa construct
 
 ## Pourquoi n’y a-t-il pas de stockage obligatoire sur le serveur ?
 
+C’est avant tout une question de confidentialité et de sécurité : le système n’a pas besoin d’un serveur qui collecte et stocke en permanence des données sur toi et ton rucher. La grande majorité des autres systèmes sont construits sur ce principe. La localisation et les mesures peuvent notamment révéler indirectement l’activité et les revenus potentiels de l’exploitation.
+
 Le fonctionnement principal de la balance pour ruches et de l'application ne dépend pas d'une BeeApiary stockage sur un serveur externe. Les mesures sont stockées sur le [la carte microSD de l'appareil](../system/data-storage.md) et localement sur le téléphone de l'utilisateur. Le système ne nécessite pas de stockage centralisé de la localisation ou de l'historique des activités du propriétaire.
 
 Un service de relais optionnel peut être utilisé pour [synchronisation via le réseau Wi-Fi du rucher](../system/local-wifi.md#apiary-wifi-routing). Il transfère les données vers l'application mais ne constitue pas un stockage permanent et n'est pas nécessaire pour les autres canaux de communication.

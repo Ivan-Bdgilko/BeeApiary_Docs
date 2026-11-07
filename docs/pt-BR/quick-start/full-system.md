@@ -10,6 +10,8 @@
 !!! warning "Antes de instalar o cartão SIM"
     Use apenas um micro-SIM e desative a proteção PIN antecipadamente.
 
+    ![Comparação dos formatos de cartão SIM](../../assets/pt-BR/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+
 1. Abra a tampa da unidade de coleta de dados.
 
     ![Unidade aberta de coleta de dados](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
@@ -24,7 +26,7 @@
 
     ![micro-SIM bloqueado no slot](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-3. [Ative ou reinicie o dispositivo](../device/installation.md#activation-reset): segure brevemente a chave magnética contra a marca na parte traseira da unidade principal.
+3. [Ative ou reinicie o dispositivo](../guides/set-up-device.md#activation-reset): segure brevemente a chave magnética contra a marca na parte traseira da unidade principal.
 
     ![BeeApiary chave magnética](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
@@ -36,7 +38,7 @@ Feito. Parabéns: o aparelho está coletando dados, enviando-os via GSM e manten
 
 ## Aplicativo – se necessário
 
-O BeeApiary app não é necessário para receber mensagens SMS comuns. Instale-o se quiser receber dados do dispositivo automaticamente, visualizar medições e usar outros recursos do aplicativo.
+O aplicativo BeeApiary não é necessário para receber SMS comuns e não é parte indispensável da balança. A balança funciona de forma independente e envia dados por SMS para qualquer telefone. Instale o aplicativo para ver gráficos, analisar medições, manter um diário do apiário, identificar colmeias e usar seus outros recursos.
 
 1. [Instale o BeeApiary aplicativo](app-only.md) e certifique-se de conceder permissão para processar mensagens SMS.
 2. No aplicativo, selecione **Adicionar dispositivo**.

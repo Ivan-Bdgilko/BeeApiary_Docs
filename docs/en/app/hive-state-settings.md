@@ -9,6 +9,6 @@ This screen controls the visibility and order of fields in the expanded [hive st
 
 ![Configuring the visibility and order of hive state fields](../../assets/en/app/hive-state-settings/hive-state-fields-order.jpg){ .doc-screenshot }
 
-You can configure the display of the queen's year and condition, hive type and description, colony size, brood, larvae, eggs, different frame types, aggression, swarming, queen productivity, and varroa level.
+For example, choose whether to show the queen's year, colony strength or frame count. All fields are described under [hive state](hive-state.md).
 
 Changing the order affects how the data is presented in the app, but it does not change the stored hive records.

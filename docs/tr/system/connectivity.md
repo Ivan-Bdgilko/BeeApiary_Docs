@@ -9,36 +9,26 @@ Arı kovanlarının izlenmesi için, veriler BeeApiary arı kovanı tartım tera
 
 | Kanal | Telefon konumu | Gereksinimler | Veriler uygulamaya nasıl ulaşır? |
 |---|---|---|---|
-| [GSM ve SMS](gsm-and-sms.md) | Mobil kapsama alanı olan her yerde | Cihazda temel SMS planına sahip bir SIM kart | Uygulama, SMS mesajlarını otomatik olarak işler; mobil internet gerekli değildir |
-| [Cihaz erişim noktasına doğrudan bağlantı](local-wifi.md#direct-access-point) | Cihazın yakınında | Cihazı manyetik anahtarla etkinleştirin ve `apiary_net` mevcut aralık dahilinde, genellikle yaklaşık bir dakika | Uygulama cihazı bulur, arşivi almak için izin ister ve onaylandıktan sonra verileri içe aktarır |
-| [Arı kovanı Wi-Fi ağı üzerinden yönlendirme](local-wifi.md#apiary-wifi-routing) | İnternet erişimi olan her yerde | Cihazın yakınında İnternet erişimi olan yapılandırılmış bir Wi-Fi ağı bulunmalıdır | Veriler uygulamaya otomatik olarak yönlendirilir; her cihaz için ayrı bir SIM karta gerek yoktur |
-| [Bluetooth](bluetooth.md) | Yakınlarda, Bluetooth menzili dahilinde | **BLE info**, BLE taraması ve uygulama arka plan işlemi etkinleştirildi; zaman senkronize edilir; SIM kart veya İnternet gerekmez | Uygulama mevcut verileri otomatik olarak senkronize eder ve mevcut geçmişi geri yükleyebilir |
+| [GSM ve SMS](gsm-and-sms.md) | Mobil kapsama alanı olan her yerde | Cihazda temel SMS planına sahip bir SIM kart; uygulama için SMS izni | Uygulama sıkıştırılmış SMS'leri otomatik işler; mobil internet gerekmez. [GSM kurulumu](../guides/configure-gsm.md) |
+| [Cihaz erişim noktasına doğrudan bağlantı](local-wifi.md#direct-access-point) | Cihazın yakınında | Cihazı manyetik anahtarla etkinleştirin ve `apiary_net` mevcut aralık dahilinde, genellikle yaklaşık bir dakika; SIM veya internet gerekmez | Uygulama cihazı bulur, arşivi almak için izin ister ve onaylandıktan sonra verileri içe aktarır. [Arşivi indir](../guides/download-archive.md) |
+| [Arı kovanı Wi-Fi ağı üzerinden yönlendirme](local-wifi.md#apiary-wifi-routing) | İnternet erişimi olan her yerde | Cihazın yakınında İnternet erişimi olan yapılandırılmış bir Wi-Fi ağı bulunmalıdır | Veriler uygulamaya otomatik olarak yönlendirilir; her cihaz için ayrı bir SIM karta gerek yoktur. [Wi-Fi kurulumu](../guides/configure-wifi-sync.md) |
+| [Bluetooth](bluetooth.md) | Yakınlarda, Bluetooth menzili dahilinde | **BLE info**, BLE taraması ve uygulama arka plan işlemi etkinleştirildi; zaman senkronize edilir; SIM kart veya İnternet gerekmez | Uygulama mevcut verileri otomatik olarak senkronize eder ve mevcut geçmişi geri yükleyebilir. [Bluetooth kurulumu](../guides/configure-bluetooth-sync.md) |
 
 ## GSM ve SMS
 
-Cihaz, mobil İnternet olmadan düzenli veya kompakt SMS mesajları gönderir. Uygulama, kısa mesajları tanır ve ölçümleri otomatik olarak telefonun yerel belleğine ekler.
+Normal SMS'ler uygulama olmadan okunabilir; uygulama sıkıştırılmış mesajları ölçüm olarak kaydeder. [SMS biçimleri](gsm-and-sms.md).
 
 ## Cihaza Doğrudan Bağlantı
 
-Manyetik anahtarla etkinleştirildikten sonra cihaz geçici olarak `apiary_net` erişim noktası. Ona bağlı bir telefonun SIM karta veya İnternet erişimine ihtiyacı yoktur. Uygulama, cihazı otomatik olarak bulur ancak arşivi yalnızca kullanıcı isteği onayladıktan sonra indirir.
-
-Ayrıntılı prosedür için bkz. [Arşivi İndir](../guides/download-archive.md).
+Bağlı telefon arşivi yalnızca kullanıcı onayından sonra alır. [Erişim noktasına bağlanma](../guides/configure-local-wifi.md).
 
 ## Arı Kovanı Wi-Fi Ağı Üzerinden Yönlendirme
 
-Cihaz, arı kovanında İnternet erişimi olan mevcut bir Wi-Fi ağını kullanabilir. Cihaz sahibi, her cihaz için ayrı bir SIM karta ihtiyaç duymadan, verileri uygulama üzerinden uzaktan alır.
-
-İlk kurulumdan önce uygulamanın cihazdan SMS veya doğrudan arşiv indirme yoluyla en az bir kez veri almış olması gerekir. Kayıt internet erişimi olan bir telefonda tamamlanır ve hazırlanan Wi-Fi ve bulut ayarları daha sonra cihaza aktarılır. `apiary_net` erişim noktası.
-
-Çevrimiçi geçiş veri saklamaz. Kalıcı kopyalar arşivde kalır. BeeApiary arı kovanı tartı terazisinin hafızasında ve kullanıcının telefonunda.
-
-Ayrıntılı prosedür için bkz. [Arı Kovanı Wi-Fi Ağı Aracılığıyla Senkronizasyonu Ayarlama](../guides/configure-wifi-sync.md).
+Kurulumdan önce uygulama cihazdan SMS veya doğrudan arşiv indirme yoluyla en az bir kez veri almış olmalıdır. Aktarma hizmeti kalıcı depolama değildir; kopyalar tartıda ve telefonda kalır. Hizmet kararsız veya ücretli olabilir; [uyumluluğu ve koşulları](../guides/configure-wifi-sync.md) kontrol edin.
 
 ## Bluetooth
 
-Telefon Bluetooth menzilinde olduğunda uygulama mevcut verileri otomatik olarak senkronize eder. Bunun için SIM kart, mobil İnternet veya mobil cihazın etkinleştirilmesi gerekmez. `apiary_net` erişim noktası. Geçmişe erişim etkinleştirildiğinde, bir sonraki başarılı bağlantı sırasında geçici boşluklar doldurulabilir.
-
-Bir açıklama için bkz. [Bluetooth Veri Senkronizasyonu](bluetooth.md). Pratik prosedür için bkz. [Bluetooth Senkronizasyonunu Ayarlama](../guides/configure-bluetooth-sync.md).
+Geçmiş alma etkinse eksik veriler bir sonraki başarılı bağlantıda tamamlanabilir. [Çalışma ve uyumluluk](bluetooth.md).
 
 ## Bağlantı Olmadan Çalıştırma
 

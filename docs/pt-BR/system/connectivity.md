@@ -9,36 +9,26 @@ Para monitoramento do apiário, dados do BeeApiary As balanças colmeias podem a
 
 | Canal | Localização do telefone | Requisitos | Como os dados chegam ao aplicativo |
 |---|---|---|---|
-| [GSM e SMS](gsm-and-sms.md) | Em qualquer lugar com cobertura móvel | Um cartão SIM no dispositivo com plano básico de SMS | O aplicativo processa mensagens SMS automaticamente; Internet móvel não é necessária |
-| [Conexão direta ao ponto de acesso do dispositivo](local-wifi.md#direct-access-point) | Perto do dispositivo | Ative o dispositivo com a chave magnética e conecte-o `apiary_net` dentro do intervalo disponível, geralmente cerca de um minuto | O aplicativo encontra o dispositivo, pede permissão para recuperar o arquivo e importa os dados após a confirmação |
-| [Roteamento pela rede Wi-Fi do apiário](local-wifi.md#apiary-wifi-routing) | Em qualquer lugar com acesso à Internet | Uma rede Wi-Fi configurada com acesso à Internet deve estar disponível perto do dispositivo | Os dados são encaminhados para o aplicativo automaticamente; não é necessário um cartão SIM separado para cada dispositivo |
-| [Bluetooth](bluetooth.md) | Perto, dentro do alcance do Bluetooth | **BLE info**, a digitalização BLE e a operação em segundo plano do aplicativo estão habilitadas; a hora está sincronizada; nenhum cartão SIM ou Internet é necessário | O aplicativo sincroniza automaticamente os dados atuais e pode restaurar o histórico disponível |
+| [GSM e SMS](gsm-and-sms.md) | Em qualquer lugar com cobertura móvel | Um cartão SIM no dispositivo com plano básico de SMS; permissão de SMS para o aplicativo | O aplicativo processa SMS compactos automaticamente; não é necessária Internet móvel. [Configurar GSM](../guides/configure-gsm.md) |
+| [Conexão direta ao ponto de acesso do dispositivo](local-wifi.md#direct-access-point) | Perto do dispositivo | Ative o dispositivo com a chave magnética e conecte-o `apiary_net` dentro do intervalo disponível, geralmente cerca de um minuto; SIM e Internet não são necessários | O aplicativo encontra o dispositivo, pede permissão para recuperar o arquivo e importa os dados após a confirmação. [Baixar arquivo](../guides/download-archive.md) |
+| [Roteamento pela rede Wi-Fi do apiário](local-wifi.md#apiary-wifi-routing) | Em qualquer lugar com acesso à Internet | Uma rede Wi-Fi configurada com acesso à Internet deve estar disponível perto do dispositivo | Os dados são encaminhados para o aplicativo automaticamente; não é necessário um cartão SIM separado para cada dispositivo. [Configurar Wi-Fi](../guides/configure-wifi-sync.md) |
+| [Bluetooth](bluetooth.md) | Perto, dentro do alcance do Bluetooth | **BLE info**, a digitalização BLE e a operação em segundo plano do aplicativo estão habilitadas; a hora está sincronizada; nenhum cartão SIM ou Internet é necessário | O aplicativo sincroniza automaticamente os dados atuais e pode restaurar o histórico disponível. [Configurar Bluetooth](../guides/configure-bluetooth-sync.md) |
 
 ## GSM e SMS
 
-O dispositivo envia mensagens SMS regulares ou compactas sem Internet móvel. O aplicativo reconhece mensagens compactas e adiciona automaticamente as medidas ao armazenamento local do telefone.
+SMS comuns podem ser lidos sem o aplicativo; o aplicativo salva mensagens compactas como medições. [Formatos de SMS](gsm-and-sms.md).
 
 ## Conexão direta ao dispositivo
 
-Após a ativação com a chave magnética, o dispositivo cria temporariamente o `apiary_net` ponto de acesso. Um telefone conectado a ele não precisa de cartão SIM ou acesso à Internet. O aplicativo encontra o dispositivo automaticamente, mas baixa o arquivo somente depois que o usuário confirma a solicitação.
-
-Para o procedimento detalhado, consulte [Baixe o arquivo](../guides/download-archive.md).
+O telefone conectado recebe o arquivo somente após confirmação. [Conectar ao ponto de acesso](../guides/configure-local-wifi.md).
 
 ## Roteamento pela rede Wi-Fi do Apiário
 
-O dispositivo pode usar uma rede Wi-Fi existente com acesso à Internet no apiário. O proprietário recebe dados remotamente no aplicativo sem um cartão SIM separado para cada dispositivo.
-
-Antes da configuração inicial, o aplicativo deve ter recebido dados do dispositivo pelo menos uma vez por SMS ou download direto de arquivo. O registro é concluído em um telefone com acesso à Internet, e as configurações de Wi-Fi e nuvem preparadas são então transferidas para o dispositivo por meio de seu `apiary_net` ponto de acesso.
-
-O relé online não armazena dados. Cópias permanentes permanecem no BeeApiary memória da balança de colmeia e no telefone do usuário.
-
-Para o procedimento detalhado, consulte [Configurar a sincronização através da rede Wi-Fi do apiário](../guides/configure-wifi-sync.md).
+Antes da configuração, o aplicativo deve ter recebido dados ao menos uma vez por SMS ou download direto do arquivo. O serviço não é armazenamento permanente: as cópias permanecem na balança e no telefone. Ele pode ficar instável ou ser pago; confira [compatibilidade e condições](../guides/configure-wifi-sync.md).
 
 ## Bluetooth
 
-Quando o telefone está dentro do alcance do Bluetooth, o aplicativo sincroniza automaticamente os dados disponíveis. Isso não requer um cartão SIM, Internet móvel ou ativação do `apiary_net` ponto de acesso. Quando a recuperação do histórico está habilitada, lacunas temporárias podem ser preenchidas durante a próxima conexão bem-sucedida.
-
-Para uma explicação, veja [Sincronização de dados Bluetooth](bluetooth.md). Para o procedimento prático, consulte [Configurar a sincronização Bluetooth](../guides/configure-bluetooth-sync.md).
+Com a recuperação do histórico ativada, lacunas podem ser preenchidas na próxima conexão bem-sucedida. [Funcionamento e compatibilidade](bluetooth.md).
 
 ## Operação sem conexão
 

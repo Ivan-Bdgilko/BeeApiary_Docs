@@ -10,7 +10,7 @@
 
     Se você usar o aplicativo sem BeeApiary balanças de colmeia como um caderno independente e diário de apiário, não é necessária permissão por SMS.
 
-1. Abra o [página do aplicativo no Google Play](https://play.google.com/store/apps/details?id=com.beeapiary).
+1. Abra o [página do aplicativo no Google Play](https://play.google.com/store/apps/details?id=com.beeapiary). Você também pode encontrá-lo no Google Play pelo nome **Beekeeper notes**.
 2. Instale e inicie o aplicativo.
 3. Conceda todas as permissões solicitadas pelo aplicativo.
 

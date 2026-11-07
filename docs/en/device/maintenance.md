@@ -10,3 +10,5 @@
     The device does not support fast charging, including USB Power Delivery (PD). For charging, use a standard power source with a USB Type-A port and a USB Type-A–USB Type-C cable rather than a USB Type-C–USB Type-C cable.
 
 Core measurements and data transmission can work without a microSD card, but the archive and logs on the card will then be unavailable.
+
+Before the end of the season, review the [winter use and storage guidelines](winter-use-and-storage.md).

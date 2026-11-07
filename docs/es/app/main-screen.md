@@ -17,9 +17,11 @@ La visibilidad y el orden de los mosaicos se configuran en [Seleccionar datos y 
 
 ## Periodo y valores
 
-Los íconos en la parte superior de la pantalla cambian la unidad del período entre días, semanas y meses. Toque el ícono correspondiente repetidamente para seleccionar 1, 2, 3 o más días, semanas o meses en secuencia.
+Las pulsaciones repetidas en los iconos superiores seleccionan la cantidad de días, semanas o meses.
 
-Toque la fecha y la hora en la parte superior del panel de colmena seleccionado para elegir la fecha de finalización del período. Para más detalles, consulte [Período de visualización del gráfico](chart-period.md).
+![Iconos para elegir día, semana y mes en la pantalla principal de la aplicación](../../assets/common/app/main-screen/period-selection-icons.png){ .doc-screenshot .period-selection-icons width="314" height="89" }
+
+Pulsa la fecha y hora en el bloque de la colmena para elegir la fecha final. Consulta [Período de gráficos](chart-period.md).
 
 Para cada lectura numérica:
 

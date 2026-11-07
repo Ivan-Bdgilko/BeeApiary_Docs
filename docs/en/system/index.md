@@ -4,6 +4,7 @@ Together with sensors and the app, BeeApiary hive scales form a BeeApiary smart 
 
 Data can reach the app through GSM, a direct Wi-Fi connection to the device, routing through the apiary Wi-Fi network, or Bluetooth. The system does not require an external server for its core operation, and the online relay does not store data.
 
+- [Why BeeApiary Works This Way](../device/design-decisions.md)
 - [Data Flow](data-flow.md)
 - [Receiving Data in the App](connectivity.md)
 - [GSM and SMS](gsm-and-sms.md)

@@ -1,6 +1,6 @@
 # No se puede conectar a Wi-Fi
 
-1. [Activar o reiniciar el BeeApiary balanzas de colmena](../device/installation.md#activation-reset): mantenga brevemente la llave magnética contra la marca en la parte posterior de la unidad principal.
+1. [Activar o reiniciar el BeeApiary balanzas de colmena](../guides/set-up-device.md#activation-reset): mantenga brevemente la llave magnética contra la marca en la parte posterior de la unidad principal.
 2. Busque la red durante el primer minuto después del reinicio.
 3. Verifique el SSID; el valor predeterminado es `apiary_net`.
 4. Verifique la contraseña; el valor predeterminado es `apiary_wifi` a menos que haya sido cambiado.

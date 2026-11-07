@@ -10,7 +10,7 @@ Após armazenamento prolongado, a bateria pode ficar completamente descarregada 
 3. Após o carregamento, verifique a voltagem da bateria. Instale-o no dispositivo somente quando a tensão estiver `4,0 В` ou superior.
 4. Instale a bateria seguindo cuidadosamente a polaridade marcada.
 5. Conecte uma fonte de alimentação externa padrão à porta USB Type-C do dispositivo sem carregamento rápido Power Delivery (PD). Use um carregador com porta USB Tipo A e um cabo USB Tipo A para USB Tipo C; um cabo USB Type-C para USB Type-C não é recomendado.
-6. Com a bateria instalada e a alimentação externa conectada, [ativar o dispositivo com a chave magnética](../device/installation.md#activation-reset).
+6. Com a bateria instalada e a alimentação externa conectada, [ativar o dispositivo com a chave magnética](../guides/set-up-device.md#activation-reset).
 7. Sincronize a hora de uma destas maneiras:
 
     - [conectar-se ao ponto de acesso do dispositivo por Wi-Fi](../guides/configure-local-wifi.md) e abra sua página inicial — este método está disponível por padrão;

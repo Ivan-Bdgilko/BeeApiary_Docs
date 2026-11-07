@@ -39,9 +39,10 @@ Esta opción y los otros interruptores se explican en [Configuraciones adicional
 
 7. Regrese a la pantalla de inicio de la aplicación. Mantenga Bluetooth habilitado y el teléfono dentro del alcance confiable de Bluetooth durante el siguiente ciclo horario.
 
+<span id="sync-result"></span>
 ## Comprueba el resultado
 
-La sincronización ocurre sólo cuando **BLE info** está habilitado en la báscula y Bluetooth y las opciones de la aplicación correspondiente están habilitadas en el teléfono. Las básculas quedan disponibles para la comunicación durante un despertar programado o después [activación con la llave magnética](../device/installation.md#activation-reset).
+La sincronización ocurre sólo cuando **BLE info** está habilitado en la báscula y Bluetooth y las opciones de la aplicación correspondiente están habilitadas en el teléfono. Las básculas quedan disponibles para la comunicación durante un despertar programado o después [activación con la llave magnética](../guides/set-up-device.md#activation-reset).
 
 La aplicación puede intercambiar datos mientras está abierta o en segundo plano si Android permite que se ejecute y se active en el momento requerido.
 

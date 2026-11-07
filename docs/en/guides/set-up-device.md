@@ -1,4 +1,4 @@
-# How to Set Up New BeeApiary Beehive Scales
+# How to Set Up BeeApiary Beehive Scales
 
 1. Charge the device through USB Type-C.
 
@@ -20,16 +20,16 @@
 
     ![micro-SIM locked in the slot](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-4. Activate or restart the device: briefly hold the magnetic key against the branded mark on the back of the main unit.
+4. <span id="activation-reset"></span>Activate or restart the device: briefly hold the magnetic key against the branded mark on the back of the main unit.
 
     ![BeeApiary magnetic key](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
     ![Branded magnetic-key target](../../assets/common/device/installation/magnetic-key-target.png){ .doc-photo }
 
-    For more information, see [Activation and Restart](../device/installation.md#activation-reset).
+5. If you need to check or change settings, [connect to `apiary_net`](configure-local-wifi.md) and open `http://192.168.4.1`. Otherwise, skip this step.
+6. The owner's number is usually configured by the manufacturer. Only if necessary, [check, change or remove the number in the GSM settings](configure-gsm.md).
+7. If you connected to `apiary_net`, disconnect. Wait for the first SMS: it usually arrives before the device goes to sleep, about one minute after disconnection or activation.
 
-5. Connect to `apiary_net` and open `http://192.168.4.1`.
-6. Enter the owner's phone number in international format.
-7. Disconnect from `apiary_net` and check the first SMS message.
+    After changing transmission settings, calibration or other settings, you may need to wait for the device to sleep and activate it again with the magnetic key, without reconnecting to `apiary_net`.
 
 Result: the device collects measurements, sends them to the owner, and stores an archive.

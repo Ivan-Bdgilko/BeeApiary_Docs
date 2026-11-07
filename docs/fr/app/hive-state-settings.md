@@ -9,6 +9,6 @@ Cet écran contrôle la visibilité et l'ordre des champs dans la fenêtre déve
 
 ![Configuration de la visibilité et de l'ordre des champs d'état de la ruche](../../assets/en/app/hive-state-settings/hive-state-fields-order.jpg){ .doc-screenshot }
 
-Vous pouvez configurer l'affichage de l'année et de l'état de la reine, du type et de la description de la ruche, de la taille de la colonie, du couvain, des larves, des œufs, des différents types de cadres, de l'agressivité, de l'essaimage, de la productivité de la reine et du niveau de varroa.
+Tu peux par exemple afficher ou masquer l’année de la reine, la force de la colonie ou le nombre de cadres. Tous les champs sont décrits dans [l’état de la ruche](hive-state.md).
 
 La modification de l'ordre affecte la façon dont les données sont présentées dans l'application, mais ne modifie pas les enregistrements de ruche stockés.

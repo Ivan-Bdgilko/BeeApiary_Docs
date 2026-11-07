@@ -35,9 +35,8 @@ Un conjunto puede funcionar de forma autónoma como balanzas BeeApiary y, junto 
 
 ## Empezando
 
-- [Configurar el sistema](quick-start/full-system.md)
+- [Configurar el sistema y GSM](quick-start/full-system.md)
 - [Instalar la aplicación](quick-start/app-only.md)
-- [Configurar una conexión GSM al dispositivo](quick-start/gsm.md)
 - [Conéctate a la red Wi-Fi local](quick-start/local-wifi.md)
 
 ## Documentación cuando la necesites

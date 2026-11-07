@@ -1,7 +1,7 @@
 ---
 title: "Як встановити пасічні ваги під вулик"
 description: "Як встановити пасічні ваги BeeApiary під вулик: розміщення основного блока й датчиків та правила безпеки."
-translation_status: ready
+translation_status: translated
 ---
 
 # Як встановити пасічні ваги під вулик { #_1 }
@@ -19,6 +19,8 @@ translation_status: ready
 Докладніше: [Розміщення](placement.md) і [Датчики](sensors.md).
 
 <span id="activation-reset"></span> Для першого запуску та активації дивіться [швидкий старт](../quick-start/index.md).
+
+[Як активувати або перезапустити ваги магнітним ключем](../guides/set-up-device.md#activation-reset).
 
 !!! note "Повне налаштування GSM"
     За потреби скористайтеся [інструкцією налаштування GSM](../guides/configure-gsm.md).

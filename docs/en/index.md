@@ -35,9 +35,8 @@ One unit can operate independently as BeeApiary hive scales and, together with s
 
 ## Getting started
 
-- [Set up the system](quick-start/full-system.md)
+- [Set up the system and GSM](quick-start/full-system.md)
 - [Install the app](quick-start/app-only.md)
-- [Set up a GSM connection to the device](quick-start/gsm.md)
 - [Connect to the local Wi-Fi network](quick-start/local-wifi.md)
 
 ## Documentation when you need it

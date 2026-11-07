@@ -4,6 +4,7 @@ Zusammen mit Sensoren und der App bildet die BeeApiary-Bienenstockwaage einen in
 
 Die Daten können über GSM, eine direkte WLAN-Verbindung zum Gerät, die Weiterleitung über das WLAN-Netzwerk am Bienenstand oder Bluetooth zur App gelangen. Für den grundlegenden Betrieb benötigt das System keinen verpflichtenden externen Server; der Online-Übertragungsdienst speichert keine Daten.
 
+- [Warum BeeApiary so funktioniert](../device/design-decisions.md)
 - [Datenfluss](data-flow.md)
 - [Daten in der App empfangen](connectivity.md)
 - [GSM und SMS](gsm-and-sms.md)

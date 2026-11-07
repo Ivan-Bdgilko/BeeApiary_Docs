@@ -63,7 +63,7 @@ plugins:
             Налаштування системи: System Setup
             Встановити застосунок: Install the App
             Зв'язок із пристроєм через GSM: Connect to the Device via GSM
-            Локальна мережа Wi-Fi: Local Wi-Fi Network
+            Точка доступу ваг: Scales Access Point
             Застосунок BeeApiary: BeeApiary App
             Головний екран застосунку: App Home Screen
             Встановлення: Installation
@@ -142,7 +142,7 @@ plugins:
             Налаштування системи: System einrichten
             Встановити застосунок: App installieren
             Зв'язок із пристроєм через GSM: Verbindung zum Gerät über GSM
-            Локальна мережа Wi-Fi: Lokales WLAN
+            Точка доступу ваг: Zugangspunkt der Waage
             Застосунок BeeApiary: BeeApiary-App
             Головний екран застосунку: Startbildschirm der App
             Встановлення: Installation
@@ -223,7 +223,7 @@ plugins:
             Налаштування системи: Configurar el sistema
             Встановити застосунок: Instalar la aplicación
             Зв'язок із пристроєм через GSM: Conectar el dispositivo por GSM
-            Локальна мережа Wi-Fi: Red Wi-Fi local
+            Точка доступу ваг: Punto de acceso de la báscula
             Застосунок BeeApiary: Aplicación BeeApiary
             Головний екран застосунку: Pantalla principal
             Встановлення: Instalación
@@ -302,7 +302,7 @@ plugins:
             Налаштування системи: Configurer le système
             Встановити застосунок: Installer l’application
             Зв'язок із пристроєм через GSM: Connexion au dispositif par GSM
-            Локальна мережа Wi-Fi: Réseau Wi-Fi local
+            Точка доступу ваг: Point d’accès de la balance
             Застосунок BeeApiary: Application BeeApiary
             Головний екран застосунку: Écran principal
             Встановлення: Installation
@@ -381,7 +381,7 @@ plugins:
             Налаштування системи: Konfiguracja systemu
             Встановити застосунок: Zainstaluj aplikację
             Зв'язок із пристроєм через GSM: Połączenie z urządzeniem przez GSM
-            Локальна мережа Wi-Fi: Lokalna sieć Wi-Fi
+            Точка доступу ваг: Punkt dostępowy wagi
             Застосунок BeeApiary: Aplikacja BeeApiary
             Головний екран застосунку: Ekran główny aplikacji
             Встановлення: Instalacja
@@ -460,7 +460,7 @@ plugins:
             Налаштування системи: Configurar o sistema
             Встановити застосунок: Instalar o aplicativo
             Зв'язок із пристроєм через GSM: Conectar o dispositivo via GSM
-            Локальна мережа Wi-Fi: Rede Wi-Fi local
+            Точка доступу ваг: Ponto de acesso da balança
             Застосунок BeeApiary: Aplicativo BeeApiary
             Головний екран застосунку: Tela inicial do aplicativo
             Встановлення: Instalação
@@ -539,7 +539,7 @@ plugins:
             Налаштування системи: Sistemi kurma
             Встановити застосунок: Uygulamayı yükleme
             Зв'язок із пристроєм через GSM: Cihaza GSM ile bağlanma
-            Локальна мережа Wi-Fi: Yerel Wi-Fi ağı
+            Точка доступу ваг: Tartı erişim noktası
             Застосунок BeeApiary: BeeApiary uygulaması
             Головний екран застосунку: Uygulama ana ekranı
             Встановлення: Kurulum
@@ -625,8 +625,7 @@ nav:
       - quick-start/index.md
       - Налаштування системи: quick-start/full-system.md
       - Встановити застосунок: quick-start/app-only.md
-      - Зв'язок із пристроєм через GSM: quick-start/gsm.md
-      - Локальна мережа Wi-Fi: quick-start/local-wifi.md
+      - Точка доступу ваг: quick-start/local-wifi.md
   - Пасічні ваги BeeApiary:
       - device/index.md
       - Встановлення: device/installation.md
@@ -681,7 +680,6 @@ nav:
       - Журнали: system/logging.md
   - Практичні інструкції:
       - guides/index.md
-      - Встановити застосунок: guides/install-app.md
       - Налаштувати пристрій: guides/set-up-device.md
       - Налаштувати GSM: guides/configure-gsm.md
       - Підключитися до точки доступу пристрою: guides/configure-local-wifi.md
@@ -689,8 +687,6 @@ nav:
       - Перевірити налаштування синхронізації через Wi-Fi: guides/verify-wifi-sync-settings.md
       - Налаштувати синхронізацію через Bluetooth: guides/configure-bluetooth-sync.md
       - Завантажити архів: guides/download-archive.md
-      - Тарувати ваги: guides/tare-scales.md
-      - Калібрувати ваги: guides/calibrate-scales.md
       - Оновити пристрій: guides/update-device.md
       - Оновити застосунок: guides/update-app.md
   - Усунення проблем:

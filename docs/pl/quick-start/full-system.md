@@ -10,6 +10,8 @@
 !!! warning "Przed instalacją karty SIM"
     Używaj wyłącznie karty micro-SIM i wcześniej wyłącz jej zabezpieczenie PIN-em.
 
+    ![Porównanie formatów kart SIM](../../assets/pl/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+
 1. Otwórz pokrywę modułu gromadzenia danych.
 
     ![Otwórz jednostkę zbierającą dane](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
@@ -24,7 +26,7 @@
 
     ![micro-SIM zablokowany w gnieździe](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-3. [Aktywuj lub uruchom ponownie urządzenie](../device/installation.md#activation-reset): krótko przyciśnij klucz magnetyczny do oznaczenia marki z tyłu jednostki głównej.
+3. [Aktywuj lub uruchom ponownie urządzenie](../guides/set-up-device.md#activation-reset): krótko przyciśnij klucz magnetyczny do oznaczenia marki z tyłu jednostki głównej.
 
     ![BeeApiary klucz magnetyczny](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
@@ -36,7 +38,7 @@ Gotowe. Gratulacje: urządzenie zbiera dane, wysyła je przez GSM i prowadzi lok
 
 ## Aplikacja — w razie potrzeby
 
- BeeApiary aplikacja nie jest wymagana do odbierania zwykłych wiadomości SMS. Zainstaluj ją, jeśli chcesz automatycznie odbierać dane z urządzenia, przeglądać pomiary i korzystać z innych funkcji aplikacji.
+Aplikacja BeeApiary nie jest wymagana do odbierania zwykłych SMS-ów ani nie stanowi niezbędnej części wagi. Waga działa samodzielnie i wysyła dane SMS-em na dowolny telefon. Zainstaluj aplikację, aby oglądać wykresy, analizować pomiary, prowadzić dziennik pasieki, identyfikować ule i korzystać z pozostałych funkcji.
 
 1. [Zainstaluj BeeApiary aplikacja](app-only.md) i upewnij się, że udzieliłeś mu pozwolenia na przetwarzanie wiadomości SMS.
 2. W aplikacji wybierz **Dodaj urządzenie**.

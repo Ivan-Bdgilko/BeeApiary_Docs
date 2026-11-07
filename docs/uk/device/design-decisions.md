@@ -1,5 +1,5 @@
 ---
-translation_status: ready
+translation_status: translated
 ---
 
 # Чому BeeApiary працює саме так

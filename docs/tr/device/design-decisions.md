@@ -12,6 +12,8 @@ Proje geri bildirime ve önerilere açıktır: inşaatı ana bileşenlerin durum
 
 ## Neden Zorunlu Sunucu Depolama Alanı Yok?
 
+Her şeyden önce bu, gizlilik ve güvenlik meselesidir: sistem, sizin ve arılığınız hakkında sürekli veri toplayıp saklayan bir sunucu gerektirmez. Diğer sistemlerin büyük çoğunluğu bu yapıya dayanır. Özellikle konum ve ölçüm verileri, işletmenin faaliyetleri ve olası gelirleri hakkında dolaylı bilgi verebilir.
+
 Arı kovanı tartım terazilerinin ve uygulamanın temel çalışması kalıcı ölçümlere bağlı değildir. BeeApiary harici bir sunucuda depolama. Ölçümler hafızada saklanır [cihazın microSD kartı](../system/data-storage.md) ve yerel olarak kullanıcının telefonunda. Sistem, sahibinin konumunun veya etkinlik geçmişinin merkezi olarak saklanmasını gerektirmez.
 
 İsteğe bağlı bir aktarma hizmeti aşağıdakiler için kullanılabilir: [arı kovanı Wi-Fi ağı üzerinden senkronizasyon](../system/local-wifi.md#apiary-wifi-routing). Verileri uygulamaya aktarır ancak kalıcı depolama değildir ve diğer iletişim kanalları için gerekli değildir.

@@ -7,7 +7,7 @@ Abra o menu no canto superior direito da tela principal para acessar os recursos
 | Item de cardápio | Função |
 |---|---|
 | **Previsão do tempo** | Mostra a previsão do tempo para o trabalho do apiário. |
-| **Adicionar dispositivo ou colmeia** | Abre a opção de adicionar [BeeApiary balanças de colmeia](add-device.md) ou um separado [perfil de colmeia](add-hive.md). |
+| **Adicionar dispositivo ou colmeia** | Abre a [escolha entre balança, colmeia ou dados de teste](add-device-or-hive/index.md). |
 | **Eventos (lista completa)** | Abre [eventos e notas](events-and-notes.md) para todas as colmeias. |
 | **Configurações** | Abre o geral [configurações do aplicativo](settings/index.md). |
 | **Registro na nuvem** | Prepara o dispositivo para [sincronização através da rede Wi-Fi do apiário](../guides/configure-wifi-sync.md). |

@@ -39,9 +39,10 @@ Diese und die weiteren Optionen werden unter [Zusätzliche Geräteeinstellungen]
 
 7. Kehre zum Startbildschirm der App zurück. Lasse Bluetooth eingeschaltet und halte das Telefon während des nächsten stündlichen Zyklus in zuverlässiger Bluetooth-Reichweite.
 
+<span id="sync-result"></span>
 ## Ergebnis prüfen
 
-Die Synchronisierung findet nur statt, wenn **BLE info** auf der Waage sowie Bluetooth und die entsprechenden App-Optionen auf dem Telefon aktiviert sind. Die Waage ist während eines planmäßigen Aufwachvorgangs oder nach der [Aktivierung mit dem Magnetschlüssel](../device/installation.md#activation-reset) für den Datenaustausch verfügbar.
+Die Synchronisierung findet nur statt, wenn **BLE info** auf der Waage sowie Bluetooth und die entsprechenden App-Optionen auf dem Telefon aktiviert sind. Die Waage ist während eines planmäßigen Aufwachvorgangs oder nach der [Aktivierung mit dem Magnetschlüssel](../guides/set-up-device.md#activation-reset) für den Datenaustausch verfügbar.
 
 Die App kann Daten austauschen, während sie geöffnet ist oder im Hintergrund läuft, sofern Android ihr erlaubt, zur erforderlichen Zeit zu arbeiten und aufzuwachen.
 

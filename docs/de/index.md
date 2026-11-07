@@ -35,9 +35,8 @@ Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten und bild
 
 ## Erste Schritte
 
-- [System einrichten](quick-start/full-system.md)
+- [System und GSM einrichten](quick-start/full-system.md)
 - [App installieren](quick-start/app-only.md)
-- [GSM-Verbindung zum Gerät einrichten](quick-start/gsm.md)
 - [Mit dem lokalen WLAN verbinden](quick-start/local-wifi.md)
 
 ## Dokumentation nach Bedarf

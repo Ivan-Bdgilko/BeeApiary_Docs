@@ -4,6 +4,7 @@ Sensörler ve uygulamayla birlikte, BeeApiary arı kovanı tartım terazileri bi
 
 Veriler uygulamaya GSM, cihaza doğrudan Wi-Fi bağlantısı, arı kovanı Wi-Fi ağı üzerinden yönlendirme veya Bluetooth aracılığıyla ulaşabilir. Sistem, temel çalışması için harici bir sunucuya ihtiyaç duymaz ve çevrimiçi aktarma, verileri saklamaz.
 
+- [BeeApiary neden böyle çalışır](../device/design-decisions.md)
 - [Veri Akışı](data-flow.md)
 - [Uygulamada Veri Alma](connectivity.md)
 - [GSM ve SMS](gsm-and-sms.md)

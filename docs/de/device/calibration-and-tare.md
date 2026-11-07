@@ -3,6 +3,7 @@
 !!! danger "Ein neues Gerät muss nicht kalibriert werden"
     Eine Kalibrierung ist hauptsächlich nach einer Reparatur oder dem Verlust der werkseitigen Kalibrierungsdaten erforderlich. Verwende sie nicht als allgemeines Verfahren zur Behebung eines falschen Gewichtswerts.
 
+<span id="calibration"></span>
 ## Kalibrierung
 
 1. Trenne die externe Stromversorgung.
@@ -29,16 +30,25 @@
 
     ![Ergebnis der Waagenkalibrierung](../../assets/de/device/calibration-and-tare/calibration-result.png){ .doc-screenshot }
 
+Ergebnis: Das Gerät hat die neuen Kalibrierwerte gespeichert. Prüfe, ob das Referenzgewicht angezeigt wird.
+
+<span id="tare"></span>
 ## Tarierung
 
-Du kannst ein bekanntes Taragewicht in Gramm eingeben:
+Beim Tarieren wird das Gewicht der Plattform oder einer anderen dauerhaften Konstruktion ausgeschlossen.
 
-![Bekanntes Taragewicht eingeben](../../assets/de/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
+1. [Verbinde dich mit der Weboberfläche der Waage](../guides/configure-local-wifi.md).
+2. Öffne **Allgemeine Einstellungen → Waageneinstellungen**.
+3. Wähle eine Methode:
 
-Alternativ kannst du das aktuelle Plattformgewicht als null übernehmen:
+    - Ist das Taragewicht bekannt, gib es in Gramm ein und wähle **Taragewicht festlegen**.
 
-![Aktuelles Gewicht als null übernehmen](../../assets/de/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+        ![Bekanntes Taragewicht eingeben](../../assets/de/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
 
-Die Tarierung ändert den werkseitigen Kalibrierungsfaktor nicht.
+    - Oder lasse die Konstruktion auf den Sensoren und übernimm den aktuellen Wert als null.
 
-Separate Anleitungen: [Waage tarieren](../guides/tare-scales.md) und [Waage kalibrieren](../guides/calibrate-scales.md).
+        ![Aktuelles Gewicht als null übernehmen](../../assets/de/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+
+4. Prüfe anschließend den angezeigten Wert.
+
+Ergebnis: Das Gerät zieht die Tara von den folgenden Messungen ab. Die Tarierung ändert den werkseitigen Kalibrierfaktor nicht.

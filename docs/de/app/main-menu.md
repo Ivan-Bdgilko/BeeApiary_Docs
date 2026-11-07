@@ -7,7 +7,7 @@
 | Menüpunkt | Zweck |
 |---|---|
 | **Wettervorhersage** | Zeigt die Wettervorhersage für die Arbeit am Bienenstand. |
-| **Gerät oder Bienenstock hinzufügen** | Öffnet das Hinzufügen von [BeeApiary-Bienenstockwaagen](add-device.md) oder eines separaten [Bienenstockprofils](add-hive.md). |
+| **Gerät oder Bienenstock hinzufügen** | Öffnet die [Auswahl zwischen Waage, Bienenstock und Testdaten](add-device-or-hive/index.md). |
 | **Ereignisse (vollständige Liste)** | Öffnet [Ereignisse und Notizen](events-and-notes.md) für alle Bienenstöcke. |
 | **Einstellungen** | Öffnet die allgemeinen [App-Einstellungen](settings/index.md). |
 | **Cloud-Registrierung** | Bereitet das Gerät auf die [Synchronisierung über das WLAN-Netzwerk am Bienenstand](../guides/configure-wifi-sync.md) vor. |

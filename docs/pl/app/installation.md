@@ -10,7 +10,7 @@
 
     Jeśli korzystasz z aplikacji bez BeeApiary waga do ula pełniąca funkcję samodzielnego notatnika i dziennika pasiecznego, nie jest wymagana zgoda SMS.
 
-1. Otwórz [strona aplikacji w Google Play](https://play.google.com/store/apps/details?id=com.beeapiary).
+1. Otwórz [strona aplikacji w Google Play](https://play.google.com/store/apps/details?id=com.beeapiary). W Google Play znajdziesz ją również pod nazwą **Beekeeper notes**.
 2. Zainstaluj i uruchom aplikację.
 3. Przyznaj wszystkie uprawnienia wymagane przez aplikację.
 

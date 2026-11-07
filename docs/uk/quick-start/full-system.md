@@ -1,5 +1,5 @@
 ---
-translation_status: ready
+translation_status: translated
 ---
 
 # Налаштування системи
@@ -30,7 +30,7 @@ translation_status: ready
 
     ![Фіксація micro-SIM у слоті](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-3. [Активуйте або перезапустіть пристрій](../device/installation.md#activation-reset): коротко піднесіть магнітний ключ до фірмової позначки на зворотному боці основного блока.
+3. [Активуйте або перезапустіть пристрій](../guides/set-up-device.md#activation-reset): коротко піднесіть магнітний ключ до фірмової позначки на зворотному боці основного блока.
 
     ![Магнітний ключ BeeApiary](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 

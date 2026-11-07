@@ -12,4 +12,4 @@
 8. Telefonun bağlantısını kesin `apiary_net`: BeeApiary arı kovanı tartı terazileri lokal bağlantı kesildikten sonra GSM'e geçer.
 9. Pil şarjını kontrol edin. %20'nin altında normal SMS mesajları geçici olarak gönderilemeyebilir.
 
-Sorunu düzelttikten sonra, [cihazı etkinleştirin veya yeniden başlatın](../device/installation.md#activation-reset) Manyetik anahtarı kısa bir süre marka işaretine doğru tutarak, ardından yaklaşık bir dakika bekleyin. Bkz. [GSM ve SMS](../system/gsm-and-sms.md).
+Sorunu düzelttikten sonra, [cihazı etkinleştirin veya yeniden başlatın](../guides/set-up-device.md#activation-reset) Manyetik anahtarı kısa bir süre marka işaretine doğru tutarak, ardından yaklaşık bir dakika bekleyin. Bkz. [GSM ve SMS](../system/gsm-and-sms.md).

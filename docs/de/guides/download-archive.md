@@ -7,7 +7,7 @@ Das manuelle Herunterladen des Archivs ist hilfreich, wenn in der Waage keine SI
 !!! warning "microSD und Batterieladung"
     In der Waage muss eine funktionsfähige microSD-Karte mit verfügbaren Daten eingesetzt sein. Eine direkte Wi-Fi-Verbindung hält die Waage aktiv und erhöht den Energieverbrauch. Führe diesen Vorgang deshalb in der Regel höchstens einmal täglich aus.
 
-1. [Aktiviere die BeeApiary-Bienenstockwaage oder starte sie neu](../device/installation.md#activation-reset), indem du den Magnetschlüssel verwendest.
+1. [Aktiviere die BeeApiary-Bienenstockwaage oder starte sie neu](../guides/set-up-device.md#activation-reset), indem du den Magnetschlüssel verwendest.
 2. Verbinde das Telefon innerhalb des verfügbaren Zeitfensters, normalerweise etwa einer Minute, mit `apiary_net` und bleibe in der Nähe der Waage.
 3. Öffne die BeeApiary-App.
 4. Warte, bis die App die Waage in der Nähe automatisch erkennt.

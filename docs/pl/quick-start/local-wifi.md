@@ -1,6 +1,6 @@
-# Szybkie połączenie z lokalną siecią Wi-Fi
+# Punkt dostępowy wagi
 
-1. [Aktywuj lub uruchom ponownie urządzenie](../device/installation.md#activation-reset): krótko przyciśnij klucz magnetyczny do oznaczenia marki z tyłu jednostki głównej.
+1. [Aktywuj lub uruchom ponownie urządzenie](../guides/set-up-device.md#activation-reset): krótko przyciśnij klucz magnetyczny do oznaczenia marki z tyłu jednostki głównej.
 2. W ciągu minuty otwórz listę sieci Wi-Fi na swoim telefonie, tablecie lub laptopie.
 3. Połącz się z `apiary_net` używając hasła początkowego `apiary_wifi`.
 4. Otwórz [http://192.168.4.1](http://192.168.4.1).

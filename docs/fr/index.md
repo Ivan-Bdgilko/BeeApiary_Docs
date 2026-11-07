@@ -35,9 +35,8 @@ Un ensemble peut fonctionner de manière autonome comme balance BeeApiary et, av
 
 ## Commencer
 
-- [Configurer le système](quick-start/full-system.md)
+- [Configurer le système et le GSM](quick-start/full-system.md)
 - [Installez l'application](quick-start/app-only.md)
-- [Établir une connexion GSM à l'appareil](quick-start/gsm.md)
 - [Connectez-vous au réseau Wi-Fi local](quick-start/local-wifi.md)
 
 ## De la documentation quand vous en avez besoin

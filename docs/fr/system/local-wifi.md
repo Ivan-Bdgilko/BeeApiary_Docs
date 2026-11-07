@@ -15,8 +15,8 @@ Paramètres par défaut :
 
 ```text
 SSID: apiary_net
-Пароль: apiary_wifi
-Вебінтерфейс: http://192.168.4.1
+Mot de passe: apiary_wifi
+Interface web: http://192.168.4.1
 ```
 
 Grâce à la connexion locale, vous pouvez :
@@ -46,9 +46,7 @@ Cette méthode ne nécessite pas une carte SIM distincte dans chaque appareil, m
 
 ### Comment fonctionne la configuration
 
-Tout d’abord, l’utilisateur enregistre un appareil qu’il connaît déjà dans l’application. Lors de l'inscription, le téléphone doit avoir accès à Internet, mais il n'a pas encore besoin d'être connecté à l'appareil lui-même. Le service crée des identifiants et des clés pour la communication entre l'application et l'appareil.
-
-L'utilisateur saisit ensuite le nom et le mot de passe du réseau Wi-Fi du rucher dans l'application. L'application stocke ces paramètres sur le téléphone, mais l'appareil ne les dispose pas encore. Pour les transférer, connectez temporairement le téléphone au `apiary_net` point d'accès, revenez à l'application et confirmez que les paramètres préparés doivent être écrits sur l'appareil.
+Enregistre un appareil déjà connu de l’application : le service crée des identifiants et des clés. Transfère ensuite les paramètres du réseau du rucher depuis le téléphone via le point d’accès `apiary_net` de l’appareil.
 
 Après un redémarrage avec la clé magnétique ou lors du prochain cycle horaire programmé, l'appareil utilise le réseau configuré pour la transmission automatique. Le téléphone n'a plus besoin d'être à proximité.
 
@@ -60,6 +58,6 @@ Après un redémarrage avec la clé magnétique ou lors du prochain cycle horair
 - un réseau Wi-Fi avec accès Internet est disponible à proximité de l'appareil ;
 - l'utilisateur connaît le nom et le mot de passe de ce réseau.
 
-Le relais en ligne ne stocke pas de données. Le stockage permanent reste local dans le BeeApiary la mémoire des balances pour ruches et sur le téléphone de l'utilisateur.
+Le relais en ligne n’est pas un stockage permanent : les données restent sur la balance et le téléphone. Le service peut devenir instable ou payant ; la compatibilité et les autres conditions figurent dans le guide.
 
 Pour la procédure étape par étape, voir [Configurer la synchronisation via le réseau Wi-Fi Apiary](../guides/configure-wifi-sync.md).

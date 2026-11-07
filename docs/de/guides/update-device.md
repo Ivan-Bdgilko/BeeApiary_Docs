@@ -33,7 +33,7 @@ Wähle die Sprache aus, indem du die entsprechende Datei herunterlädst und inst
 2. Erstelle im Stammverzeichnis der Karte den Ordner `/fm`, falls er noch nicht vorhanden ist.
 3. Lege die Aktualisierungsdatei `Apiary.bin` in `/fm` ab.
 4. Setze die microSD-Karte wieder in das Gerät ein.
-5. [Aktiviere das Gerät oder starte es neu](../device/installation.md#activation-reset), indem du den Magnetschlüssel verwendest.
+5. [Aktiviere das Gerät oder starte es neu](../guides/set-up-device.md#activation-reset), indem du den Magnetschlüssel verwendest.
 6. Warte auf eine normale SMS mit Messwerten; die Aktualisierung dauert gewöhnlich bis zu zwei Minuten.
 7. Prüfe unten auf der Startseite der Weboberfläche die Firmwareversion, das Sprachsuffix, Datum und Uhrzeit des Builds sowie die eindeutige Gerätenummer.
 

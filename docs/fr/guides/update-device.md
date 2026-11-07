@@ -33,7 +33,7 @@ Sélectionnez la langue en téléchargeant et en flashant le fichier corresponda
 2. Créer le `/fm` répertoire à la racine de la carte s'il n'existe pas déjà.
 3. Placez le `Apiary.bin` mettre à jour le fichier dans `/fm`.
 4. Réinsérez la carte microSD dans l'appareil.
-5. [Activer ou redémarrer l'appareil](../device/installation.md#activation-reset) avec la clé magnétique.
+5. [Activer ou redémarrer l'appareil](../guides/set-up-device.md#activation-reset) avec la clé magnétique.
 6. Attendez un message SMS régulier contenant des mesures ; la mise à jour prend généralement jusqu'à deux minutes.
 7. Au bas de la page d'accueil de l'interface Web, vérifiez la version du micrologiciel, le suffixe de langue, la date et l'heure de construction et le numéro unique de l'appareil.
 

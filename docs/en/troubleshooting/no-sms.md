@@ -12,4 +12,4 @@
 8. Disconnect the phone from `apiary_net`: the BeeApiary hive scales switch to GSM after the local connection ends.
 9. Check the battery charge. Below 20%, regular SMS messages may temporarily not be sent.
 
-After correcting the problem, [activate or restart the device](../device/installation.md#activation-reset) by briefly holding the magnetic key against the branded mark, then wait about one minute. See [GSM and SMS](../system/gsm-and-sms.md).
+After correcting the problem, [activate or restart the device](../guides/set-up-device.md#activation-reset) by briefly holding the magnetic key against the branded mark, then wait about one minute. See [GSM and SMS](../system/gsm-and-sms.md).

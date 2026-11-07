@@ -10,6 +10,8 @@
 !!! warning "SIM kartı takmadan önce"
     Yalnızca mikro SIM kullanın ve PIN korumasını önceden devre dışı bırakın.
 
+    ![SIM kart biçimlerinin karşılaştırılması](../../assets/tr/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+
 1. Veri toplama ünitesinin kapağını açın.
 
     ![Açık veri toplama birimi](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
@@ -24,7 +26,7 @@
 
     ![mikro SIM yuvaya kilitlendi](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-3. [Cihazı etkinleştirin veya yeniden başlatın](../device/installation.md#activation-reset): Manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
+3. [Cihazı etkinleştirin veya yeniden başlatın](../guides/set-up-device.md#activation-reset): Manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
 
     ![BeeApiary manyetik anahtar](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
@@ -36,7 +38,7 @@ Bitti. Tebrikler: Cihaz veri topluyor, GSM üzerinden gönderiyor ve yerel bir a
 
 ## Uygulama – gerekirse
 
- BeeApiary Uygulamanın sıradan SMS mesajları almasına gerek yoktur. Cihaz verilerini otomatik olarak almak, ölçümleri görüntülemek ve diğer uygulama özelliklerini kullanmak istiyorsanız bunu yükleyin.
+Normal SMS almak için BeeApiary uygulaması gerekli değildir ve uygulama tartının zorunlu bir parçası değildir. Tartı bağımsız çalışır ve verileri SMS ile herhangi bir telefona gönderir. Grafikleri görüntülemek, ölçümleri analiz etmek, arılık günlüğü tutmak, kovanları tanımlamak ve diğer özellikleri kullanmak için uygulamayı yükleyin.
 
 1. [Şunu yükleyin: BeeApiary uygulama](app-only.md) ve SMS mesajlarını işlemesine izin verdiğinizden emin olun.
 2. Uygulamada şunu seçin: **Cihaz ekle**.

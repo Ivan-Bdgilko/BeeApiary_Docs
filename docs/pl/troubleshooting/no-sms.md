@@ -12,4 +12,4 @@
 8. Odłącz telefon od `apiary_net`: BeeApiary Waga ula przełącza się na GSM po zakończeniu połączenia lokalnego.
 9. Sprawdź poziom naładowania akumulatora. Poniżej 20% zwykłe wiadomości SMS mogą chwilowo nie być wysyłane.
 
-Po naprawieniu problemu, [aktywuj lub uruchom ponownie urządzenie](../device/installation.md#activation-reset) krótko przytrzymując klucz magnetyczny przy markowym znaku, a następnie odczekać około minuty. Zobacz [GSM i SMS-y](../system/gsm-and-sms.md).
+Po naprawieniu problemu, [aktywuj lub uruchom ponownie urządzenie](../guides/set-up-device.md#activation-reset) krótko przytrzymując klucz magnetyczny przy markowym znaku, a następnie odczekać około minuty. Zobacz [GSM i SMS-y](../system/gsm-and-sms.md).

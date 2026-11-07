@@ -12,6 +12,8 @@ O projeto está aberto a comentários e sugestões: sua construção não escond
 
 ## Por que não há armazenamento obrigatório no servidor?
 
+Antes de tudo, trata-se de privacidade e segurança: o sistema não exige um servidor que colete e armazene continuamente dados sobre você e seu apiário. A grande maioria dos outros sistemas é construída dessa forma. Em particular, a localização e as medições podem revelar indiretamente informações sobre a atividade e os possíveis rendimentos da propriedade.
+
 O funcionamento central das balanças de colmeia e do aplicativo não depende de permanente BeeApiary armazenamento em um servidor externo. As medições são armazenadas no [cartão microSD do dispositivo](../system/data-storage.md) e localmente no telefone do usuário. O sistema não requer armazenamento centralizado da localização ou histórico de atividades do proprietário.
 
 Um serviço de retransmissão opcional pode ser usado para [sincronização através da rede Wi-Fi do apiário](../system/local-wifi.md#apiary-wifi-routing). Ele transfere dados para o aplicativo, mas não é um armazenamento permanente e não é necessário para outros canais de comunicação.

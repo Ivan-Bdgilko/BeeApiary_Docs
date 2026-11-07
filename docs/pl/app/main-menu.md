@@ -7,7 +7,7 @@ Otwórz menu w prawym górnym rogu ekranu głównego, aby uzyskać dostęp do og
 | Pozycja menu | Przeznaczenie |
 |---|---|
 | **Prognoza pogody** | Pokazuje prognozę pogody dla prac pasiecznych. |
-| **Dodaj urządzenie lub ul** | Otwiera opcję dodania [BeeApiary wagi do ula](add-device.md) lub oddzielny [profil ula](add-hive.md). |
+| **Dodaj urządzenie lub ul** | Otwiera [wybór wagi, ula lub danych testowych](add-device-or-hive/index.md). |
 | **Wydarzenia (pełna lista)** | Otwiera się [wydarzenia i notatki](events-and-notes.md) dla wszystkich uli. |
 | **Ustawienia** | Otwiera generała [ustawienia aplikacji](settings/index.md). |
 | **Rejestracja w chmurze** | Przygotowuje urządzenie do [synchronizacja poprzez pasieczną sieć Wi-Fi](../guides/configure-wifi-sync.md). |

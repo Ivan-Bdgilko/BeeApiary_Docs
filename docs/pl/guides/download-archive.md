@@ -7,7 +7,7 @@ Ręczne pobieranie archiwum przydaje się w przypadku, gdy waga nie posiada kart
 !!! warning "microSD i ładowanie baterii"
     W wadze musi być zainstalowana działająca karta microSD zawierająca dostępne dane. Bezpośrednie połączenie Wi-Fi utrzymuje wagę w działaniu i zwiększa zużycie energii, dlatego nie wykonuj tej procedury częściej niż raz dziennie, jeśli nie jest to konieczne.
 
-1. [Aktywuj lub uruchom ponownie BeeApiary wagi do ula](../device/installation.md#activation-reset) z kluczem magnetycznym.
+1. [Aktywuj lub uruchom ponownie BeeApiary wagi do ula](../guides/set-up-device.md#activation-reset) z kluczem magnetycznym.
 2. W dostępnym przedziale czasu, zwykle około jednej minuty, podłącz telefon do `apiary_net` i pozostawać w pobliżu wagi.
 3. Otwórz BeeApiary aplikacja.
 4. Poczekaj, aż aplikacja automatycznie wykryje pobliskie wagi.

@@ -10,6 +10,8 @@
 !!! warning "Vor dem Einsetzen der SIM-Karte"
     Verwende ausschließlich eine micro-SIM und deaktiviere vorher die PIN-Abfrage.
 
+    ![Vergleich der SIM-Kartenformate](../../assets/de/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+
 1. Öffne den Deckel der Datenerfassungseinheit.
 
     ![Geöffnete Datenerfassungseinheit](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
@@ -24,7 +26,7 @@
 
     ![Im Steckplatz eingerastete micro-SIM](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-3. [Aktiviere das Gerät oder starte es neu](../device/installation.md#activation-reset): Halte den Magnetschlüssel kurz an die Markenkennzeichnung auf der Rückseite der Haupteinheit.
+3. [Aktiviere das Gerät oder starte es neu](../guides/set-up-device.md#activation-reset): Halte den Magnetschlüssel kurz an die Markenkennzeichnung auf der Rückseite der Haupteinheit.
 
     ![BeeApiary-Magnetschlüssel](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
@@ -36,7 +38,7 @@ Fertig. Glückwunsch: Das Gerät erfasst Daten, sendet sie über GSM und speiche
 
 ## App — bei Bedarf
 
-Für den Empfang gewöhnlicher SMS ist die BeeApiary-App nicht erforderlich. Installiere sie, wenn du Gerätedaten automatisch empfangen, Messwerte anzeigen und weitere App-Funktionen verwenden möchtest.
+Für gewöhnliche SMS ist die BeeApiary-App nicht erforderlich; sie ist kein notwendiger Bestandteil der Waage. Die Waage arbeitet selbstständig und sendet Daten per SMS an jedes Telefon. Installiere die App, wenn du Diagramme ansehen, Messwerte analysieren, ein Bienenstandtagebuch führen, Bienenstöcke identifizieren und weitere Funktionen nutzen möchtest.
 
 1. [Installiere die BeeApiary-App](app-only.md) und erteile ihr unbedingt die Berechtigung zum Verarbeiten von SMS.
 2. Wähle in der App **Gerät hinzufügen**.

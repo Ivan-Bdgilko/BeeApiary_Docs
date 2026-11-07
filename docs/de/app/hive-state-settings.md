@@ -9,6 +9,6 @@ Dieser Bildschirm steuert die Sichtbarkeit und Reihenfolge der Felder im erweite
 
 ![Sichtbarkeit und Reihenfolge der Beutenstatusfelder einstellen](../../assets/de/app/hive-state-settings/hive-state-fields-order.jpg){ .doc-screenshot }
 
-Du kannst die Anzeige des Königinnenjahrs und -zustands, des Beutentyps und der Beutenbeschreibung, der Volksstärke, der Brut, der Larven, der Eier, verschiedener Rähmchentypen, der Aggressivität, des Schwarmtriebs, der Leistung der Königin und des Varroa-Befalls konfigurieren.
+Du kannst zum Beispiel das Jahr der Königin, die Volksstärke oder die Anzahl der Rähmchen ein- und ausblenden. Alle Felder sind unter [Beutenstatus](hive-state.md) beschrieben.
 
 Eine geänderte Reihenfolge wirkt sich auf die Darstellung in der App aus, verändert aber nicht die gespeicherten Aufzeichnungen zur Beute.

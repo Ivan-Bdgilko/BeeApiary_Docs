@@ -14,4 +14,4 @@
 6. Répétez la mesure sans modifier l'étalonnage.
 
 !!! danger
-    Ne calibrez pas un nouvel appareil en raison d’un seul résultat suspect. Utilisez l'étalonnage après une réparation ou une perte de données confirmée : [Calibrer la balance](../guides/calibrate-scales.md).
+    Ne calibrez pas un nouvel appareil en raison d’un seul résultat suspect. Utilisez l'étalonnage après une réparation ou une perte de données confirmée : [Calibrer la balance](../device/calibration-and-tare.md#calibration).

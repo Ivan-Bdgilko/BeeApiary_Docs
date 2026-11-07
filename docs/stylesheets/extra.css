@@ -6,6 +6,10 @@
   margin: 0.75rem auto 1.5rem;
 }
 
+.period-selection-icons {
+  height: auto;
+}
+
 .doc-photo {
   display: block;
   width: auto;

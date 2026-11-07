@@ -46,9 +46,7 @@ Für diese Methode ist keine eigene SIM-Karte in jedem Gerät erforderlich. In d
 
 ### So funktioniert die Einrichtung
 
-Zuerst registriert der Benutzer in der App ein Gerät, das ihm bereits bekannt ist. Während der Registrierung muss das Telefon Internetzugang haben, muss aber noch nicht mit dem Gerät selbst verbunden sein. Der Dienst erstellt Kennungen und Schlüssel für die Kommunikation zwischen App und Gerät.
-
-Anschließend gibt der Benutzer in der App den Namen und das Passwort des WLAN-Netzwerks am Bienenstand ein. Die App speichert diese Einstellungen auf dem Telefon, das Gerät besitzt sie aber noch nicht. Um sie zu übertragen, verbinde das Telefon vorübergehend mit dem Zugangspunkt `apiary_net`, kehre zur App zurück und bestätige, dass die vorbereiteten Einstellungen auf das Gerät geschrieben werden sollen.
+Registriere ein der App bereits bekanntes Gerät; der Dienst erstellt Kennungen und Schlüssel. Übertrage anschließend die WLAN-Einstellungen vom Telefon über den Zugangspunkt `apiary_net` des Geräts.
 
 Nach einem Neustart mit dem Magnetschlüssel oder im nächsten geplanten stündlichen Zyklus verwendet das Gerät das festgelegte Netzwerk für die automatische Übertragung. Das Telefon muss sich danach nicht mehr in der Nähe befinden.
 
@@ -60,6 +58,6 @@ Nach einem Neustart mit dem Magnetschlüssel oder im nächsten geplanten stündl
 - In der Nähe des Geräts ist ein WLAN-Netzwerk mit Internetzugang verfügbar.
 - Der Benutzer kennt den Namen und das Passwort dieses Netzwerks.
 
-Der Online-Übertragungsdienst speichert keine Daten. Die dauerhafte Speicherung erfolgt lokal im Speicher der BeeApiary-Bienenstockwaage und auf dem Telefon des Benutzers.
+Der Online-Dienst ist kein dauerhafter Speicher: Die Daten bleiben auf Waage und Telefon. Der Dienst kann instabil oder kostenpflichtig werden; Gerätekompatibilität und weitere Bedingungen stehen in der Anleitung.
 
 Das schrittweise Verfahren findest du unter [Synchronisierung über das WLAN-Netzwerk am Bienenstand einrichten](../guides/configure-wifi-sync.md).

@@ -1,6 +1,6 @@
 # Guías
 
-- [Instale el BeeApiary Aplicación](install-app.md)
+- [Instale el BeeApiary Aplicación](../app/installation.md)
 - [Configurar el BeeApiary Balanzas de colmena](set-up-device.md)
 - [Configurar GSM](configure-gsm.md)
 - [Conéctese al punto de acceso del dispositivo](configure-local-wifi.md)
@@ -8,7 +8,5 @@
 - [Verificar la configuración de sincronización de Wi-Fi](verify-wifi-sync-settings.md)
 - [Configurar la sincronización Bluetooth](configure-bluetooth-sync.md)
 - [Descargar el Archivo Anual](download-archive.md)
-- [Tarar la balanza](tare-scales.md)
-- [Calibrar las balanzas](calibrate-scales.md)
 - [Actualice el firmware del dispositivo](update-device.md)
 - [Actualiza la aplicación](update-app.md)

@@ -4,6 +4,7 @@ Juntamente com sensores e o aplicativo, BeeApiary balanças de colmeia formam um
 
 Os dados podem chegar ao aplicativo por meio de GSM, conexão Wi-Fi direta ao dispositivo, roteamento pela rede Wi-Fi do apiário ou Bluetooth. O sistema não requer um servidor externo para sua operação principal e a retransmissão online não armazena dados.
 
+- [Por que o BeeApiary funciona assim](../device/design-decisions.md)
 - [Fluxo de dados](data-flow.md)
 - [Recebendo dados no aplicativo](connectivity.md)
 - [GSM e SMS](gsm-and-sms.md)

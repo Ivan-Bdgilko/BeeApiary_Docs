@@ -17,9 +17,11 @@ Tile visibility and order are configured under [Select Data and Charts](chart-se
 
 ## Period and Values
 
-The icons at the top of the screen switch the period unit between days, weeks, and months. Tap the corresponding icon repeatedly to select 1, 2, 3, or more days, weeks, or months in sequence.
+The icons at the top select the number of days, weeks or months through repeated taps.
 
-Tap the date and time at the top of the selected hive panel to choose the end date of the period. For details, see [Chart Viewing Period](chart-period.md).
+![Day, week and month selection icons on the app home screen](../../assets/common/app/main-screen/period-selection-icons.png){ .doc-screenshot .period-selection-icons width="314" height="89" }
+
+Tap the date and time in the hive block to choose the end date. See [Chart Viewing Period](chart-period.md).
 
 For each numeric reading:
 

@@ -33,7 +33,7 @@ Wybierz język, pobierając i flashując odpowiedni plik. Kompilacje językowe s
 2. Utwórz `/fm` katalogu w katalogu głównym karty, jeśli jeszcze nie istnieje.
 3. Umieść `Apiary.bin` zaktualizuj plik w `/fm`.
 4. Włóż ponownie kartę microSD do urządzenia.
-5. [Aktywuj lub uruchom ponownie urządzenie](../device/installation.md#activation-reset) z kluczem magnetycznym.
+5. [Aktywuj lub uruchom ponownie urządzenie](../guides/set-up-device.md#activation-reset) z kluczem magnetycznym.
 6. Poczekaj na zwykłą wiadomość SMS zawierającą pomiary; aktualizacja trwa zwykle do dwóch minut.
 7. Na dole strony głównej interfejsu internetowego sprawdź wersję oprogramowania sprzętowego, przyrostek języka, datę i godzinę kompilacji oraz unikalny numer urządzenia.
 

@@ -1,37 +1,25 @@
 ---
 title: "Comment installer les balances sous une ruche"
-description: "Comment installer BeeApiary Balance pour ruche sous une ruche : positionnez l'unité principale et les capteurs, installez une carte SIM si besoin et activez l'appareil pour la première fois."
+description: "Installer sous une ruche la balance BeeApiary : emplacement sûr du boîtier et des capteurs."
 ---
 
 # Comment installer les balances sous une ruche { #_1 }
 
-Pour installer une balance sous une ruche, placez l'unité principale dans un endroit abrité et les capteurs de poids sur des supports fermes. Les étapes ci-dessous couvrent l'installation et l'activation initiale du BeeApiary balances pour ruches.
+Place le boîtier principal à l’abri et les capteurs de poids sur des supports solides.
 
-1. Choisissez un emplacement abrité sous un surplomb ou sous le couvert de la ruche.
-2. Positionnez l'unité principale de manière à minimiser l'exposition directe au soleil, à la pluie et à la neige.
-3. Installez les capteurs de poids sur des supports fermes dans le même plan horizontal.
-4. Positionnez les capteurs de température en fonction de vos besoins de surveillance.
-5. Si vous comptez utiliser le GSM, installez une micro-SIM avec la protection PIN désactivée.
-
-    Orientation correcte de la carte :
-
-    ![Micro-SIM correctement installée](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
-
-    Insérez la carte SIM et enfoncez-la doucement presque complètement dans la fente jusqu'à ce que vous entendiez un léger clic confirmant qu'elle est verrouillée en place :
-
-    ![micro-SIM verrouillée dans l'emplacement](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
-
-6. Activez ou redémarrez l'appareil avec la clé magnétique et vérifiez la première mesure.
-
-## Activation et redémarrage { #activation-reset }
-
-L'activation initiale et le redémarrage utilisent la même procédure : maintenez brièvement la clé magnétique contre la marque au dos de l'unité principale. Vous n'avez pas besoin de toucher d'autres parties du boîtier ou d'ouvrir l'unité.
-
-![BeeApiary clé magnétique](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
-
-![Cible de clé magnétique de marque à l'arrière de l'unité principale](../../assets/common/device/installation/magnetic-key-target.png){ .doc-photo }
+1. Choisis un endroit abrité sous un auvent ou le toit de la ruche.
+2. Place le boîtier principal de manière à limiter son exposition directe au soleil, à la pluie et à la neige.
+3. Place les [capteurs de poids](sensors.md) sur des supports solides dans un même plan horizontal.
+4. Place les capteurs de température selon l’objectif de l’observation.
 
 !!! danger
-    N'installez pas l'appareil ou l'antenne externe au point le plus élevé du rucher. Cela crée un risque de coup de foudre et de dommages irréparables.
+    Ne place pas l’appareil ni l’antenne externe au point le plus haut du rucher : la foudre pourrait les endommager irrémédiablement.
 
-Pour plus d'informations, voir [Emplacement](placement.md) et [Capteurs](sensors.md).
+Plus de détails : [Emplacement](placement.md) et [Capteurs](sensors.md).
+
+<span id="activation-reset"></span> Pour le premier démarrage et l’activation, consulte le [démarrage rapide](../quick-start/index.md).
+
+[Activer ou redémarrer la balance avec la clé magnétique](../guides/set-up-device.md#activation-reset).
+
+!!! note "Configuration GSM complète"
+    Si nécessaire, consulte la [configuration GSM](../guides/configure-gsm.md).

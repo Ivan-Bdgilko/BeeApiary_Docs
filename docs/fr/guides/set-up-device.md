@@ -1,4 +1,4 @@
-# Comment configurer une nouvelle balance BeeApiary
+# Comment configurer la balance BeeApiary
 
 1. Chargez l'appareil via USB Type-C.
 
@@ -10,7 +10,7 @@
 
     Utilisez le format micro-SIM :
 
-    ![Comparaison des formats de cartes SIM](../../assets/en/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+    ![Comparaison des formats de cartes SIM](../../assets/fr/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
 
     Carte correctement installée :
 
@@ -20,16 +20,16 @@
 
     ![micro-SIM verrouillée dans l'emplacement](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-4. Activez ou redémarrez l'appareil : maintenez brièvement la clé magnétique contre le marquage au dos de l'unité principale.
+4. <span id="activation-reset"></span>Activez ou redémarrez l'appareil : maintenez brièvement la clé magnétique contre le marquage au dos de l'unité principale.
 
     ![BeeApiary clé magnétique](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
     ![Cible à clé magnétique de marque](../../assets/common/device/installation/magnetic-key-target.png){ .doc-photo }
 
-    Pour plus d'informations, voir [Activation et redémarrage](../device/installation.md#activation-reset).
+5. Pour vérifier ou modifier les paramètres, [connecte-toi à `apiary_net`](configure-local-wifi.md) et ouvre `http://192.168.4.1`. Sinon, passe cette étape.
+6. Le numéro du propriétaire est généralement configuré par le fabricant. Si nécessaire seulement, [vérifie, modifie ou supprime ce numéro dans les paramètres GSM](configure-gsm.md).
+7. Si tu étais connecté à `apiary_net`, déconnecte-toi. Attends le premier SMS : il arrive généralement avant la mise en veille, environ une minute après la déconnexion ou l’activation.
 
-5. Connectez-vous à `apiary_net` et ouvert `http://192.168.4.1`.
-6. Saisissez le numéro de téléphone du propriétaire au format international.
-7. Se déconnecter de `apiary_net` et vérifiez le premier message SMS.
+    Après une modification de la transmission, de l’étalonnage ou d’autres paramètres, il peut être nécessaire d’attendre la mise en veille puis de réactiver l’appareil avec la clé magnétique, sans se reconnecter à `apiary_net`.
 
 Résultat : l'appareil collecte les mesures, les envoie au propriétaire et stocke une archive.

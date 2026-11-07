@@ -15,8 +15,8 @@ Configurações padrão:
 
 ```text
 SSID: apiary_net
-Пароль: apiary_wifi
-Вебінтерфейс: http://192.168.4.1
+Senha: apiary_wifi
+Interface web: http://192.168.4.1
 ```
 
 Através da conexão local, você pode:
@@ -46,9 +46,7 @@ Este método não requer um cartão SIM separado em cada dispositivo, mas uma re
 
 ### Como funciona a configuração
 
-Primeiro, o usuário cadastra um dispositivo que já conhece no app. Durante o cadastro, o telefone deve ter acesso à Internet, mas ainda não precisa estar conectado ao próprio aparelho. O serviço cria identificadores e chaves para comunicação entre o aplicativo e o dispositivo.
-
-O usuário então insere o nome e a senha da rede Wi-Fi do apiário no aplicativo. O aplicativo armazena essas configurações no telefone, mas o dispositivo ainda não as possui. Para transferi-los, conecte temporariamente o telefone ao `apiary_net` ponto de acesso, retorne ao aplicativo e confirme se as configurações preparadas devem ser gravadas no dispositivo.
+Registre um dispositivo já conhecido pelo aplicativo: o serviço cria identificadores e chaves. Depois transfira as configurações da rede do apiário do telefone pelo ponto de acesso `apiary_net` do dispositivo.
 
 Após uma reinicialização com a chave magnética ou durante o próximo ciclo horário programado, o dispositivo utiliza a rede configurada para transmissão automática. O telefone não precisa mais estar por perto.
 
@@ -60,6 +58,6 @@ Após uma reinicialização com a chave magnética ou durante o próximo ciclo h
 - uma rede Wi-Fi com acesso à Internet está disponível próxima ao dispositivo;
 - o usuário sabe o nome e a senha dessa rede.
 
-O relé online não armazena dados. O armazenamento permanente permanece local no BeeApiary memória da balança de colmeia e no telefone do usuário.
+O serviço de trânsito não é armazenamento permanente: os dados permanecem na balança e no telefone. O serviço pode ficar instável ou passar a ser pago; a compatibilidade e outras condições estão no guia.
 
 Para o procedimento passo a passo, consulte [Configurar a sincronização através da rede Wi-Fi do apiário](../guides/configure-wifi-sync.md).

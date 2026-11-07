@@ -1,6 +1,6 @@
-# Connexion rapide à un réseau Wi-Fi local
+# Point d’accès de la balance
 
-1. [Activer ou redémarrer l'appareil](../device/installation.md#activation-reset): maintenez brièvement la clé magnétique contre la marque au dos de l'unité principale.
+1. [Activer ou redémarrer l'appareil](../guides/set-up-device.md#activation-reset): maintenez brièvement la clé magnétique contre la marque au dos de l'unité principale.
 2. En une minute, ouvrez la liste des réseaux Wi-Fi sur votre téléphone, tablette ou ordinateur portable.
 3. Connectez-vous à `apiary_net` en utilisant le mot de passe initial `apiary_wifi`.
 4. Ouvert [http://192.168.4.1](http://192.168.4.1).

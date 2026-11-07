@@ -17,9 +17,11 @@ A visibilidade e a ordem dos blocos são configuradas em [Selecione dados e grá
 
 ## Período e Valores
 
-Os ícones na parte superior da tela alternam a unidade do período entre dias, semanas e meses. Toque no ícone correspondente repetidamente para selecionar 1, 2, 3 ou mais dias, semanas ou meses em sequência.
+Toques repetidos nos ícones superiores selecionam a quantidade de dias, semanas ou meses.
 
-Toque na data e hora na parte superior do painel da colmeia selecionada para escolher a data de término do período. Para obter detalhes, consulte [Período de visualização do gráfico](chart-period.md).
+![Ícones de seleção de dia, semana e mês na tela inicial do aplicativo](../../assets/common/app/main-screen/period-selection-icons.png){ .doc-screenshot .period-selection-icons width="314" height="89" }
+
+Toque na data e hora no bloco da colmeia para escolher a data final. Consulte [Período dos gráficos](chart-period.md).
 
 Para cada leitura numérica:
 

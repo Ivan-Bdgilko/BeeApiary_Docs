@@ -14,4 +14,4 @@
 6. Wiederhole die Messung, ohne die Kalibrierung zu ändern.
 
 !!! danger
-    Kalibriere ein neues Gerät nicht aufgrund eines einzelnen verdächtigen Ergebnisses. Verwende die Kalibrierung nach einer Reparatur oder einem bestätigten Datenverlust: [Waage kalibrieren](../guides/calibrate-scales.md).
+    Kalibriere ein neues Gerät nicht aufgrund eines einzelnen verdächtigen Ergebnisses. Verwende die Kalibrierung nach einer Reparatur oder einem bestätigten Datenverlust: [Waage kalibrieren](../device/calibration-and-tare.md#calibration).

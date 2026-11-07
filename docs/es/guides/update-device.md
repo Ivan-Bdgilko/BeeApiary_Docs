@@ -33,7 +33,7 @@ Seleccione el idioma descargando y flasheando el archivo correspondiente. Las co
 2. Crea el `/fm` directorio en la raíz de la tarjeta si aún no existe.
 3. Coloque el `Apiary.bin` actualizar archivo en `/fm`.
 4. Vuelva a insertar la tarjeta microSD en el dispositivo.
-5. [Activar o reiniciar el dispositivo](../device/installation.md#activation-reset) con la llave magnética.
+5. [Activar o reiniciar el dispositivo](../guides/set-up-device.md#activation-reset) con la llave magnética.
 6. Espere un mensaje SMS normal que contenga mediciones; la actualización suele tardar hasta dos minutos.
 7. En la parte inferior de la página de inicio de la interfaz web, verifique la versión del firmware, el sufijo de idioma, la fecha y hora de compilación y el número de dispositivo único.
 

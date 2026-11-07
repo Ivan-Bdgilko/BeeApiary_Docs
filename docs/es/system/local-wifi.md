@@ -15,8 +15,8 @@ Configuración predeterminada:
 
 ```text
 SSID: apiary_net
-Пароль: apiary_wifi
-Вебінтерфейс: http://192.168.4.1
+Contraseña: apiary_wifi
+Interfaz web: http://192.168.4.1
 ```
 
 A través de la conexión local, puedes:
@@ -46,9 +46,7 @@ Este método no requiere una tarjeta SIM separada en cada dispositivo, pero debe
 
 ### Cómo funciona la configuración
 
-Primero, el usuario registra un dispositivo que ya conoce en la aplicación. Durante el registro, el teléfono debe tener acceso a Internet, pero aún no es necesario que esté conectado al dispositivo. El servicio crea identificadores y claves para la comunicación entre la aplicación y el dispositivo.
-
-Luego, el usuario ingresa el nombre y la contraseña de la red Wi-Fi del apiario en la aplicación. La aplicación almacena estas configuraciones en el teléfono, pero el dispositivo aún no las tiene. Para transferirlos, conecte temporalmente el teléfono al `apiary_net` punto de acceso, regrese a la aplicación y confirme que la configuración preparada debe escribirse en el dispositivo.
+Registra un dispositivo ya conocido por la aplicación: el servicio crea identificadores y claves. Después transfiere los ajustes de la red del apiario desde el teléfono mediante el punto de acceso `apiary_net` del dispositivo.
 
 Después de un reinicio con la llave magnética o durante el siguiente ciclo horario programado, el dispositivo utiliza la red configurada para la transmisión automática. Ya no es necesario que el teléfono esté cerca.
 
@@ -60,6 +58,6 @@ Después de un reinicio con la llave magnética o durante el siguiente ciclo hor
 - cerca del dispositivo hay disponible una red Wi-Fi con acceso a Internet;
 - el usuario conoce el nombre y la contraseña de esa red.
 
-El relé en línea no almacena datos. El almacenamiento permanente sigue siendo local en el BeeApiary memoria de la báscula para colmenas y en el teléfono del usuario.
+El servicio de tránsito no es un almacenamiento permanente: los datos permanecen en la báscula y el teléfono. El servicio puede volverse inestable o de pago; la guía describe la compatibilidad y otras condiciones.
 
 Para conocer el procedimiento paso a paso, consulte [Configurar la sincronización a través de la red Wi-Fi de Apiary](../guides/configure-wifi-sync.md).

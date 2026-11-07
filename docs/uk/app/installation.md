@@ -14,7 +14,7 @@ translation_status: translated
 
     Якщо застосунок використовується без пасічних ваг BeeApiary як автономний записник і журнал пасіки, дозвіл на SMS не потрібний.
 
-1. Відкрийте [сторінку застосунку в Google Play](https://play.google.com/store/apps/details?id=com.beeapiary).
+1. Відкрийте [сторінку застосунку в Google Play](https://play.google.com/store/apps/details?id=com.beeapiary). У Google Play його також можна знайти за назвою **Beekeeper notes**.
 2. Установіть і запустіть застосунок.
 3. Надайте всі дозволи, які запитує застосунок.
 

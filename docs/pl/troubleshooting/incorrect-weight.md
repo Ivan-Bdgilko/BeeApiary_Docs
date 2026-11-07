@@ -14,4 +14,4 @@
 6. Powtórzyć pomiar bez zmiany kalibracji.
 
 !!! danger
-    Nie kalibruj nowego urządzenia ze względu na pojedynczy podejrzany wynik. Użyj kalibracji po naprawie lub potwierdzonej utracie danych: [Kalibracja wagi](../guides/calibrate-scales.md).
+    Nie kalibruj nowego urządzenia ze względu na pojedynczy podejrzany wynik. Użyj kalibracji po naprawie lub potwierdzonej utracie danych: [Kalibracja wagi](../device/calibration-and-tare.md#calibration).

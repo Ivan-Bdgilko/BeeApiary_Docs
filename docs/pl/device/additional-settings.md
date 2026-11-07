@@ -12,7 +12,7 @@
 !!! warning "Nie zmieniaj ustawień losowo"
     Nieprawidłowa wartość może zakłócić pracę urządzenia. Włącz flagi sprzętu tylko wtedy, gdy odpowiedni sprzęt jest fizycznie zainstalowany. Nie zmieniaj niepotrzebnie ustawień sieciowych ani kluczy.
 
-![Dodatkowe ustawienia w interfejsie internetowym programu BeeApiary wagi do ula](../../assets/uk/device/additional-settings/device-additional-settings.jpg){ .doc-screenshot }
+![Dodatkowe ustawienia w interfejsie internetowym programu BeeApiary wagi do ula](../../assets/pl/device/additional-settings/device-additional-settings.jpg){ .doc-screenshot }
 
 Wartości sieciowe na zrzucie ekranu są jedynie przykładowe. Na Twoim urządzeniu będą się one różnić.
 

@@ -39,9 +39,10 @@ Esta opção e as outras opções são explicadas em [Configurações adicionais
 
 7. Volte para a tela inicial do aplicativo. Mantenha o Bluetooth ativado e o telefone dentro do alcance confiável do Bluetooth durante o próximo ciclo horário.
 
+<span id="sync-result"></span>
 ## Verifique o resultado
 
-A sincronização ocorre somente quando **BLE info** está habilitado nas balanças e no Bluetooth e as opções de aplicativos correspondentes estão habilitadas no telefone. As balanças ficam disponíveis para comunicação durante um despertar programado ou após [ativação com a chave magnética](../device/installation.md#activation-reset).
+A sincronização ocorre somente quando **BLE info** está habilitado nas balanças e no Bluetooth e as opções de aplicativos correspondentes estão habilitadas no telefone. As balanças ficam disponíveis para comunicação durante um despertar programado ou após [ativação com a chave magnética](../guides/set-up-device.md#activation-reset).
 
 O aplicativo pode trocar dados enquanto está aberto ou em segundo plano se o Android permitir que ele seja executado e ativado no horário necessário.
 

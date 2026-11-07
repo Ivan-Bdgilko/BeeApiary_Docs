@@ -1,22 +1,14 @@
 # BeeApiary-App installieren
 
-Die BeeApiary-App kann unabhängig und ohne Bienenstockwaage verwendet werden. In diesem Modus kannst du die App kennenlernen und Funktionen nutzen, die keinen automatischen Datenempfang von der Waage benötigen.
+Die BeeApiary-App funktioniert auch selbstständig ohne Bienenstockwaage. So kannst du die App und Funktionen ohne automatische Messdaten nutzen.
 
-Außerdem ist ein Demomodus verfügbar. Er simuliert eine BeeApiary-Bienenstockwaage und zeigt dir, wie deren Daten und die zugehörigen Ansichten dargestellt werden, auch wenn du noch keine echte Waage besitzt.
+Der Demomodus simuliert die Waage und zeigt ihre Daten und Ansichten auch ohne Gerät.
 
-!!! note "App-Berechtigungen"
-    Beim ersten Start empfehlen wir, **alle Berechtigungen** zu erteilen, die von der App angefordert werden. Wenn du einige davon verweigerst, funktionieren bestimmte Funktionen möglicherweise nicht oder nicht richtig; das Verhalten bei allen möglichen Kombinationen von Einschränkungen wurde nicht geprüft. Erteile alle angeforderten Berechtigungen, um Einrichtung und Fehlersuche nicht unnötig zu erschweren.
+1. [Installiere die BeeApiary-App](../app/installation.md) über Google Play und erteile die angeforderten Berechtigungen.
+2. Wähle im Hauptmenü **Gerät oder Bienenstock hinzufügen**.
+3. Wähle ein Szenario:
 
-!!! warning "Für GSM ist die SMS-Berechtigung erforderlich"
-    Ohne die Berechtigung zur Verarbeitung von SMS-Nachrichten funktioniert der Datenempfang über GSM in der App überhaupt nicht. Die App kann Nachrichten vom Gerät nicht lesen, sodass keine Messungen angezeigt werden.
+    - [Füge einen Bienenstock hinzu](../app/add-hive.md), um Tagebuch, Zustand und Ereignisse ohne Waage zu verwalten.
+    - Wähle **Testdaten hinzufügen**, um einen [Testbienenstock mit simulierter Waage](../app/add-device-or-hive/index.md#testbienenstock-mit-simulierter-waage) zu erstellen.
 
-1. Öffne [BeeApiary bei Google Play](https://play.google.com/store/apps/details?id=com.beeapiary).
-2. Installiere die App. Bei Google Play findest du sie auch unter dem Namen **Beekeeper notes**.
-3. Starte die App.
-4. Erteile alle von der App angeforderten Berechtigungen.
-5. Wenn du Daten über GSM empfangen möchtest, musst du der App die Berechtigung zur Verarbeitung von SMS-Nachrichten erteilen.
-6. Füge für GSM bei Bedarf das physische Gerät hinzu und gib die Telefonnummer der darin eingesetzten SIM-Karte ein.
-
-Fertig: Die App ist installiert und kann ohne Bienenstockwaage oder im Demomodus verwendet werden. Daten einer echten BeeApiary-Bienenstockwaage können über GSM, eine direkte WLAN-Verbindung zum Gerät, das WLAN-Netzwerk am Bienenstand oder Bluetooth zur App gelangen. Vergleiche die [Methoden zum Datenempfang in der App](../system/connectivity.md), um den passenden Kanal auszuwählen.
-
-Weitere Informationen findest du unter [App installieren](../app/installation.md).
+Fertig: Die App ist installiert und funktioniert ohne Waage oder im Demomodus. Daten echter Waagen können über GSM, direktes WLAN, das WLAN am Bienenstand oder Bluetooth eintreffen. Vergleiche die [Möglichkeiten des Datenempfangs](../system/connectivity.md).

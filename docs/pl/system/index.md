@@ -4,6 +4,7 @@ Razem z czujnikami i aplikacją, BeeApiary waga do ula, forma a BeeApiary mądry
 
 Dane mogą docierać do aplikacji za pośrednictwem sieci GSM, bezpośredniego połączenia Wi-Fi z urządzeniem, routingu poprzez pasieczną sieć Wi-Fi lub Bluetooth. System nie wymaga do swojej podstawowej pracy zewnętrznego serwera, a przekaźnik online nie przechowuje danych.
 
+- [Dlaczego BeeApiary działa w ten sposób](../device/design-decisions.md)
 - [Przepływ danych](data-flow.md)
 - [Odbieranie danych w aplikacji](connectivity.md)
 - [GSM i SMS-y](gsm-and-sms.md)

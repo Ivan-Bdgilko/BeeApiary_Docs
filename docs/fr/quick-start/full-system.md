@@ -10,6 +10,8 @@
 !!! warning "Avant d'installer la carte SIM"
     Utilisez uniquement une micro-SIM et désactivez sa protection PIN au préalable.
 
+    ![Comparaison des formats de cartes SIM](../../assets/fr/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+
 1. Ouvrez le couvercle de l'unité de collecte de données.
 
     ![Cellule de collecte de données ouvertes](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
@@ -24,7 +26,7 @@
 
     ![micro-SIM verrouillée dans l'emplacement](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-3. [Activer ou redémarrer l'appareil](../device/installation.md#activation-reset): maintenez brièvement la clé magnétique contre la marque au dos de l'unité principale.
+3. [Activer ou redémarrer l'appareil](../guides/set-up-device.md#activation-reset): maintenez brièvement la clé magnétique contre la marque au dos de l'unité principale.
 
     ![BeeApiary clé magnétique](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
@@ -36,7 +38,7 @@ Terminé. Félicitations : l'appareil collecte des données, les envoie via GSM
 
 ## Application — si nécessaire
 
-Le BeeApiary l'application n'est pas nécessaire pour recevoir des messages SMS ordinaires. Installez-le si vous souhaitez recevoir automatiquement les données de l'appareil, afficher les mesures et utiliser d'autres fonctionnalités de l'application.
+L’application BeeApiary n’est pas nécessaire pour recevoir des SMS ordinaires et ne fait pas partie intégrante de la balance. La balance fonctionne de manière autonome et envoie les données par SMS à n’importe quel téléphone. Installe l’application pour consulter les graphiques, analyser les mesures, tenir un journal du rucher, identifier les ruches et utiliser ses autres fonctions.
 
 1. [Installez le BeeApiary application](app-only.md) et assurez-vous de lui accorder l'autorisation de traiter les messages SMS.
 2. Dans l'application, sélectionnez **Ajouter un appareil**.

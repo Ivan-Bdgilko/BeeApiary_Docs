@@ -7,7 +7,7 @@ Abra el menú en la esquina superior derecha de la pantalla principal para acced
 | Elemento del menú | Función |
 |---|---|
 | **Previsión del tiempo** | Muestra el pronóstico del tiempo para el trabajo del apiario. |
-| **Agregar dispositivo o colmena** | Abre la opción de agregar [BeeApiary balanzas de colmena](add-device.md) o un separado [perfil de colmena](add-hive.md). |
+| **Agregar dispositivo o colmena** | Abre la [elección entre báscula, colmena o datos de prueba](add-device-or-hive/index.md). |
 | **Eventos (lista completa)** | Abre [eventos y notas](events-and-notes.md) para todas las colmenas. |
 | **Configuración** | abre la general [configuración de la aplicación](settings/index.md). |
 | **Registro en la nube** | Prepara el dispositivo para [sincronización a través de la red Wi-Fi del apiario](../guides/configure-wifi-sync.md). |

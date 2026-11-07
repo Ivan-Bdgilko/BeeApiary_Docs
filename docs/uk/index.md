@@ -36,9 +36,8 @@ BeeApiary — пасічні ваги та система моніторингу
 
 ## З чого почати
 
-- [Налаштувати систему](quick-start/full-system.md)
+- [Налаштувати систему та зв'язок GSM](quick-start/full-system.md)
 - [Встановити застосунок](quick-start/app-only.md)
-- [Налаштувати зв'язок із пристроєм через GSM](quick-start/gsm.md)
 - [Підключитися до локальної мережі Wi-Fi](quick-start/local-wifi.md)
 
 ## Документація за потребою

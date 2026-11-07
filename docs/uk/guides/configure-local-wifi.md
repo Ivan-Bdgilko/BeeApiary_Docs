@@ -4,7 +4,7 @@ translation_status: not_ready
 
 # Як підключитися до точки доступу пристрою
 
-1. [Активуйте або перезапустіть пасічні ваги BeeApiary](../device/installation.md#activation-reset): коротко піднесіть магнітний ключ до фірмової позначки на зворотному боці основного блока.
+1. [Активуйте або перезапустіть пасічні ваги BeeApiary](../guides/set-up-device.md#activation-reset): коротко піднесіть магнітний ключ до фірмової позначки на зворотному боці основного блока.
 2. Протягом хвилини відкрийте Wi-Fi на телефоні, планшеті або ноутбуці.
 
     ![Мережа apiary_net у списку Wi-Fi](../../assets/uk/guides/configure-local-wifi/apiary-network-list.png){ .doc-screenshot }

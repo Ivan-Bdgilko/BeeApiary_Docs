@@ -12,7 +12,7 @@ O **Configurações adicionais** página pertence à interface web do BeeApiary 
 !!! warning "Não altere as configurações aleatoriamente"
     Um valor incorreto pode interromper a operação do dispositivo. Habilite sinalizadores de hardware somente quando o hardware correspondente estiver instalado fisicamente. Não altere as configurações ou chaves de rede desnecessariamente.
 
-![Configurações adicionais na interface web do BeeApiary balanças de colmeia](../../assets/uk/device/additional-settings/device-additional-settings.jpg){ .doc-screenshot }
+![Configurações adicionais na interface web do BeeApiary balanças de colmeia](../../assets/pt-BR/device/additional-settings/device-additional-settings.jpg){ .doc-screenshot }
 
 Os valores de rede na captura de tela são apenas exemplos. Eles serão diferentes no seu dispositivo.
 

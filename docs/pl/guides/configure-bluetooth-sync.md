@@ -39,9 +39,10 @@ Ta opcja i inne przełączniki zostały wyjaśnione poniżej [Dodatkowe ustawien
 
 7. Wróć do ekranu głównego aplikacji. Utrzymuj funkcję Bluetooth włączoną i telefon w niezawodnym zasięgu Bluetooth przez następny cykl godzinowy.
 
+<span id="sync-result"></span>
 ## Sprawdź wynik
 
-Synchronizacja następuje tylko wtedy, gdy **BLE info** jest włączona na wadze, a w telefonie włączone są Bluetooth i odpowiednie opcje aplikacji. Waga staje się dostępna do komunikacji podczas zaplanowanego przebudzenia lub po nim [aktywacja za pomocą klucza magnetycznego](../device/installation.md#activation-reset).
+Synchronizacja następuje tylko wtedy, gdy **BLE info** jest włączona na wadze, a w telefonie włączone są Bluetooth i odpowiednie opcje aplikacji. Waga staje się dostępna do komunikacji podczas zaplanowanego przebudzenia lub po nim [aktywacja za pomocą klucza magnetycznego](../guides/set-up-device.md#activation-reset).
 
 Aplikacja może wymieniać dane, gdy jest otwarta lub w tle, jeśli Android pozwala na jej uruchomienie i wybudzenie w wymaganym czasie.
 

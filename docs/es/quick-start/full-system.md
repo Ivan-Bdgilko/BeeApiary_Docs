@@ -10,6 +10,8 @@
 !!! warning "Antes de instalar la tarjeta SIM"
     Utilice únicamente una micro-SIM y desactive su protección PIN de antemano.
 
+    ![Comparación de formatos de tarjetas SIM](../../assets/es/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+
 1. Abra la tapa de la unidad de recopilación de datos.
 
     ![Unidad abierta de recogida de datos.](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
@@ -24,7 +26,7 @@
 
     ![micro-SIM bloqueada en la ranura](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-3. [Activar o reiniciar el dispositivo](../device/installation.md#activation-reset): mantenga brevemente la llave magnética contra la marca en la parte posterior de la unidad principal.
+3. [Activar o reiniciar el dispositivo](../guides/set-up-device.md#activation-reset): mantenga brevemente la llave magnética contra la marca en la parte posterior de la unidad principal.
 
     ![BeeApiary llave magnética](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
@@ -36,7 +38,7 @@ Hecho. Felicitaciones: el dispositivo recopila datos, los envía a través de GS
 
 ## Aplicación: si es necesario
 
-El BeeApiary No se requiere la aplicación para recibir mensajes SMS normales. Instálelo si desea recibir datos del dispositivo automáticamente, ver mediciones y utilizar otras funciones de la aplicación.
+La aplicación BeeApiary no es necesaria para recibir SMS normales ni es una parte indispensable de la báscula. La báscula funciona de forma autónoma y envía datos por SMS a cualquier teléfono. Instala la aplicación para consultar gráficos, analizar mediciones, llevar un diario del apiario, identificar colmenas y usar sus demás funciones.
 
 1. [Instale el BeeApiary aplicación](app-only.md) y asegúrese de otorgarle permiso para procesar mensajes SMS.
 2. En la aplicación, seleccione **Agregar dispositivo**.

@@ -12,4 +12,4 @@
 8. Trenne das Telefon von `apiary_net`: Die BeeApiary-Bienenstockwaage wechselt nach dem Ende der lokalen Verbindung zu GSM.
 9. Prüfe den Ladezustand der Batterie. Unter 20 % werden normale SMS möglicherweise vorübergehend nicht gesendet.
 
-Nachdem du das Problem behoben hast, [aktiviere das Gerät oder starte es neu](../device/installation.md#activation-reset), indem du den Magnetschlüssel kurz an die Markenkennzeichnung hältst. Warte danach etwa eine Minute. Siehe [GSM und SMS](../system/gsm-and-sms.md).
+Nachdem du das Problem behoben hast, [aktiviere das Gerät oder starte es neu](../guides/set-up-device.md#activation-reset), indem du den Magnetschlüssel kurz an die Markenkennzeichnung hältst. Warte danach etwa eine Minute. Siehe [GSM und SMS](../system/gsm-and-sms.md).

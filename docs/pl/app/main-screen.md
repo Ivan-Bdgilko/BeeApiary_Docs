@@ -17,9 +17,11 @@ Widoczność i kolejność kafelków konfiguruje się w zakładce [Wybierz Dane 
 
 ## Okres i wartości
 
-Ikony u góry ekranu przełączają jednostkę okresu między dniami, tygodniami i miesiącami. Naciśnij kilkakrotnie odpowiednią ikonę, aby wybrać kolejno 1, 2, 3 lub więcej dni, tygodni lub miesięcy.
+Kolejne naciśnięcia ikon u góry wybierają liczbę dni, tygodni lub miesięcy.
 
-Kliknij datę i godzinę u góry wybranego panelu ula, aby wybrać datę końcową okresu. Aby uzyskać szczegółowe informacje, zobacz [Okres przeglądania wykresu](chart-period.md).
+![Ikony wyboru dnia, tygodnia i miesiąca na ekranie głównym aplikacji](../../assets/common/app/main-screen/period-selection-icons.png){ .doc-screenshot .period-selection-icons width="314" height="89" }
+
+Naciśnij datę i godzinę w bloku ula, aby wybrać datę końcową. Zobacz [Okres wykresów](chart-period.md).
 
 Dla każdego odczytu liczbowego:
 

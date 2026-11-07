@@ -12,6 +12,8 @@ Projekt jest otwarty na uwagi i sugestie: jego konstrukcja nie ukrywa przed wła
 
 ## Dlaczego nie ma obowiązkowej pamięci serwerowej?
 
+Przede wszystkim chodzi o prywatność i bezpieczeństwo: system nie wymaga serwera, który stale gromadzi i przechowuje dane o Tobie i Twojej pasiece. Zdecydowana większość innych systemów opiera się na takim rozwiązaniu. W szczególności lokalizacja i dane pomiarowe mogą pośrednio ujawniać informacje o działalności i potencjalnych dochodach gospodarstwa.
+
 Podstawowe działanie wagi do ula i aplikacji nie jest uzależnione od stałego działania BeeApiary przechowywanie na serwerze zewnętrznym. Pomiary zapisywane są na [kartę microSD urządzenia](../system/data-storage.md) oraz lokalnie na telefonie użytkownika. System nie wymaga scentralizowanego przechowywania lokalizacji właściciela ani historii jego aktywności.
 
 Można skorzystać z opcjonalnej usługi przekaźnika [synchronizacja poprzez pasieczną sieć Wi-Fi](../system/local-wifi.md#apiary-wifi-routing). Przesyła dane do aplikacji, ale nie stanowi trwałego przechowywania i nie jest wymagany w przypadku innych kanałów komunikacji.

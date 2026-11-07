@@ -14,4 +14,4 @@
 6. Kalibrasyonu değiştirmeden ölçümü tekrarlayın.
 
 !!! danger
-    Tek bir şüpheli sonuç nedeniyle yeni bir cihazı kalibre etmeyin. Kalibrasyonu bir onarımdan veya onaylanmış veri kaybından sonra kullanın: [Tartım terazilerini kalibre edin](../guides/calibrate-scales.md).
+    Tek bir şüpheli sonuç nedeniyle yeni bir cihazı kalibre etmeyin. Kalibrasyonu bir onarımdan veya onaylanmış veri kaybından sonra kullanın: [Tartım terazilerini kalibre edin](../device/calibration-and-tare.md#calibration).

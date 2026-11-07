@@ -1,22 +1,14 @@
 # Instale el BeeApiary Aplicación
 
-El BeeApiary La aplicación puede funcionar de forma independiente sin básculas de colmena. En este modo, puede explorar la aplicación y utilizar funciones que no requieren que los datos lleguen automáticamente desde las básculas.
+La aplicación BeeApiary funciona de forma independiente sin báscula. Así puedes conocerla y usar las funciones que no requieren mediciones automáticas.
 
-También está disponible un modo de demostración. simula BeeApiary básculas de colmena y te permite ver cómo aparecen sus datos y pantallas relacionadas incluso si aún no tienes básculas reales.
+El modo de demostración simula la báscula y muestra sus datos y pantallas sin equipo físico.
 
-!!! note "Permisos de aplicaciones"
-    Durante el primer lanzamiento, recomendamos otorgar **todos los permisos** solicitado por la aplicación. Si rechaza algunas de ellas, es posible que ciertas funciones no funcionen o funcionen incorrectamente; No se ha probado el comportamiento con todas las combinaciones posibles de restricciones. Para evitar complicar la configuración y la resolución de problemas, otorgue todos los permisos solicitados.
+1. [Instala BeeApiary](../app/installation.md) desde Google Play y concede los permisos solicitados.
+2. En el menú principal, selecciona **Agregar dispositivo o colmena**.
+3. Elige una opción:
 
-!!! warning "Se requiere permiso de SMS para GSM"
-    La recepción de datos a través de GSM no funcionará en la aplicación sin permiso para procesar mensajes SMS. La aplicación no podrá leer los mensajes del dispositivo, por lo que no aparecerán las mediciones.
+    - [Añade una colmena](../app/add-hive.md) para llevar su diario, estado y eventos sin báscula.
+    - Selecciona **Agregar datos de prueba** para crear una [colmena de demostración con báscula simulada](../app/add-device-or-hive/index.md#colmena-de-prueba-con-basculas-simuladas).
 
-1. Abierto [BeeApiary en Google Play](https://play.google.com/store/apps/details?id=com.beeapiary).
-2. Instale la aplicación. También puedes encontrarlo en Google Play con el nombre **Notas del apicultor**.
-3. Inicie la aplicación.
-4. Otorgue todos los permisos solicitados por la aplicación.
-5. Si planea recibir datos a través de GSM, asegúrese de otorgar permiso a la aplicación para procesar mensajes SMS.
-6. Para GSM, agregue el dispositivo físico si es necesario e ingrese el número de teléfono de la tarjeta SIM instalada en él.
-
-Listo: la aplicación está instalada y puede funcionar sin báscula de colmena o en modo demostración. datos reales BeeApiary Las básculas para colmenas pueden acceder a la aplicación a través de GSM, una conexión Wi-Fi directa al dispositivo, la red Wi-Fi del apiario o Bluetooth. comparar el [métodos para recibir datos en la aplicación](../system/connectivity.md) para elegir el canal que necesite.
-
-Para obtener más información, consulte [Instalación de la aplicación](../app/installation.md).
+Listo: la aplicación está instalada y funciona sin báscula o en modo de demostración. Las básculas reales pueden enviar datos por GSM, Wi-Fi directo, la red Wi-Fi del apiario o Bluetooth. Compara las [formas de recibir datos](../system/connectivity.md).

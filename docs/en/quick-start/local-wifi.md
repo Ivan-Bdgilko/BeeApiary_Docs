@@ -1,6 +1,6 @@
-# Quick Connection to a Local Wi-Fi Network
+# Scales access point
 
-1. [Activate or restart the device](../device/installation.md#activation-reset): briefly hold the magnetic key against the branded mark on the back of the main unit.
+1. [Activate or restart the device](../guides/set-up-device.md#activation-reset): briefly hold the magnetic key against the branded mark on the back of the main unit.
 2. Within one minute, open the list of Wi-Fi networks on your phone, tablet, or laptop.
 3. Connect to `apiary_net` using the initial password `apiary_wifi`.
 4. Open [http://192.168.4.1](http://192.168.4.1).

@@ -1,6 +1,6 @@
-# Yerel Wi-Fi Ağına Hızlı Bağlantı
+# Tartı erişim noktası
 
-1. [Cihazı etkinleştirin veya yeniden başlatın](../device/installation.md#activation-reset): Manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
+1. [Cihazı etkinleştirin veya yeniden başlatın](../guides/set-up-device.md#activation-reset): Manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
 2. Bir dakika içinde telefonunuzda, tabletinizde veya dizüstü bilgisayarınızda Wi-Fi ağlarının listesini açın.
 3. Bağlan `apiary_net` başlangıç şifresini kullanma `apiary_wifi`.
 4. Açık [http://192.168.4.1](http://192.168.4.1).

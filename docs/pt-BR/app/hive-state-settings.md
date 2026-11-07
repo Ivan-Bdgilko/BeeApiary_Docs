@@ -9,6 +9,6 @@ Esta tela controla a visibilidade e a ordem dos campos no campo expandido [estad
 
 ![Configurando a visibilidade e a ordem dos campos de estado da colmeia](../../assets/en/app/hive-state-settings/hive-state-fields-order.jpg){ .doc-screenshot }
 
-Você pode configurar a exibição do ano e condição da rainha, tipo e descrição da colmeia, tamanho da colônia, ninhada, larvas, ovos, diferentes tipos de estrutura, agressão, enxameação, produtividade da rainha e nível de varroa.
+Por exemplo, é possível alterar a exibição do ano da rainha, da força da colônia ou da quantidade de quadros. Todos os campos são descritos em [estado da colmeia](hive-state.md).
 
 Alterar a ordem afeta a forma como os dados são apresentados no aplicativo, mas não altera os registros armazenados da colmeia.

@@ -7,7 +7,7 @@ Open the menu in the upper-right corner of the main screen to access the app's g
 | Menu item | Purpose |
 |---|---|
 | **Weather forecast** | Shows the weather forecast for apiary work. |
-| **Add device or hive** | Opens the option to add [BeeApiary hive scales](add-device.md) or a separate [hive profile](add-hive.md). |
+| **Add device or hive** | Opens the [choice of scales, a hive or test data](add-device-or-hive/index.md). |
 | **Events (full list)** | Opens [events and notes](events-and-notes.md) for all hives. |
 | **Settings** | Opens the general [app settings](settings/index.md). |
 | **Cloud registration** | Prepares the device for [synchronization via the apiary Wi-Fi network](../guides/configure-wifi-sync.md). |

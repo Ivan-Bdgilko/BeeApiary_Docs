@@ -1,4 +1,4 @@
-# Como configurar novas balanças BeeApiary
+# Como configurar a balança de colmeia BeeApiary
 
 1. Carregue o dispositivo através de USB Type-C.
 
@@ -10,7 +10,7 @@
 
     Use o formato micro SIM:
 
-    ![Comparação de formatos de cartão SIM](../../assets/en/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+    ![Comparação de formatos de cartão SIM](../../assets/pt-BR/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
 
     Cartão instalado corretamente:
 
@@ -20,16 +20,16 @@
 
     ![micro-SIM bloqueado no slot](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-4. Ative ou reinicie o dispositivo: segure brevemente a chave magnética contra a marca na parte traseira da unidade principal.
+4. <span id="activation-reset"></span>Ative ou reinicie o dispositivo: segure brevemente a chave magnética contra a marca na parte traseira da unidade principal.
 
     ![BeeApiary chave magnética](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
     ![Alvo de chave magnética de marca](../../assets/common/device/installation/magnetic-key-target.png){ .doc-photo }
 
-    Para obter mais informações, consulte [Ativação e reinicialização](../device/installation.md#activation-reset).
+5. Se precisar verificar ou alterar as configurações, [conecte-se à `apiary_net`](configure-local-wifi.md) e abra `http://192.168.4.1`. Caso contrário, pule esta etapa.
+6. O número do proprietário normalmente já é configurado pelo fabricante. Apenas se necessário, [verifique, altere ou remova o número nas configurações GSM](configure-gsm.md).
+7. Se você se conectou à `apiary_net`, desconecte-se. Aguarde o primeiro SMS: ele geralmente chega antes de o dispositivo entrar em repouso, cerca de um minuto após a desconexão ou ativação.
 
-5. Conectar-se a `apiary_net` e aberto `http://192.168.4.1`.
-6. Digite o número de telefone do proprietário em formato internacional.
-7. Desconectar de `apiary_net` e verifique a primeira mensagem SMS.
+    Após alterar a transmissão, a calibração ou outros ajustes, pode ser necessário esperar o dispositivo entrar em repouso e ativá-lo novamente com a chave magnética, sem reconectar à `apiary_net`.
 
 Resultado: o dispositivo coleta medições, envia-as ao proprietário e armazena um arquivo.

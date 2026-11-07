@@ -3,6 +3,7 @@
 !!! danger "Un dispositivo nuevo no necesita calibración"
     La calibración se requiere principalmente después de una reparación o pérdida de datos de calibración de fábrica. No lo utilice como una forma general de solucionar problemas de una lectura de peso incorrecta.
 
+<span id="calibration"></span>
 ## Calibración
 
 1. Desconecte la fuente de alimentación externa.
@@ -29,16 +30,25 @@
 
     ![resultado de la calibración de la balanza](../../assets/en/device/calibration-and-tare/calibration-result.png){ .doc-screenshot }
 
+Resultado: el dispositivo guardó los nuevos valores de calibración. Comprueba que se muestra el peso de referencia.
+
+<span id="tare"></span>
 ## tara
 
-Puedes ingresar una tara conocida en gramos:
+La tara excluye el peso de la plataforma u otra estructura permanente.
 
-![Introducir una tara conocida](../../assets/en/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
+1. [Conéctate a la interfaz web de la báscula](../guides/configure-local-wifi.md).
+2. Abre **Configuración general → Configuración de la báscula**.
+3. Elige un método:
 
-Alternativamente, acepte el peso actual de la plataforma como cero:
+    - Si conoces el peso de la tara, introdúcelo en gramos y selecciona **Establecer peso de tara**.
 
-![Aceptar el peso actual como cero](../../assets/en/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+        ![Introducir una tara conocida](../../assets/en/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
 
-La tara no cambia el factor de calibración de fábrica.
+    - O deja la estructura sobre los sensores y acepta el valor actual como cero.
 
-Procedimientos separados: [Tarar la balanza](../guides/tare-scales.md) y [Calibrar las balanzas](../guides/calibrate-scales.md).
+        ![Aceptar el peso actual como cero](../../assets/en/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+
+4. Comprueba la lectura al terminar.
+
+Resultado: el dispositivo resta la tara de las mediciones posteriores. La tara no cambia el factor de calibración de fábrica.

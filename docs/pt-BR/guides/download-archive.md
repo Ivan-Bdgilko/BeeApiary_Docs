@@ -7,7 +7,7 @@ O download manual do arquivo é útil quando as balanças não possuem cartão S
 !!! warning "microSD e carga da bateria"
     Um cartão microSD funcional contendo os dados disponíveis deve ser instalado na balança. Uma conexão Wi-Fi direta mantém a balança ativa e aumenta o consumo de energia, portanto, não execute este procedimento mais de uma vez por dia, a menos que seja necessário.
 
-1. [Ative ou reinicie o BeeApiary balanças de colmeia](../device/installation.md#activation-reset) com a chave magnética.
+1. [Ative ou reinicie o BeeApiary balanças de colmeia](../guides/set-up-device.md#activation-reset) com a chave magnética.
 2. Dentro do intervalo disponível, geralmente cerca de um minuto, conecte o telefone ao `apiary_net` e permaneça perto da balança.
 3. Abra o BeeApiary aplicativo.
 4. Aguarde até que o aplicativo detecte automaticamente as balanças próximas.

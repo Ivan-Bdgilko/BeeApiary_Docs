@@ -12,7 +12,7 @@ Le **Paramètres supplémentaires** la page appartient à l'interface web du Bee
 !!! warning "Ne modifiez pas les paramètres au hasard"
     Une valeur incorrecte peut perturber le fonctionnement de l'appareil. Activez les indicateurs matériels uniquement lorsque le matériel correspondant est physiquement installé. Ne modifiez pas les paramètres ou les clés réseau inutilement.
 
-![Paramètres supplémentaires dans l'interface Web du BeeApiary balances pour ruches](../../assets/uk/device/additional-settings/device-additional-settings.jpg){ .doc-screenshot }
+![Paramètres supplémentaires dans l'interface Web du BeeApiary balances pour ruches](../../assets/fr/device/additional-settings/device-additional-settings.jpg){ .doc-screenshot }
 
 Les valeurs de réseau dans la capture d'écran ne sont que des exemples. Ils seront différents sur votre appareil.
 

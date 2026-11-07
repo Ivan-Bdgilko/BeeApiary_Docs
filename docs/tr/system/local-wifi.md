@@ -15,8 +15,8 @@ Varsayılan ayarlar:
 
 ```text
 SSID: apiary_net
-Пароль: apiary_wifi
-Вебінтерфейс: http://192.168.4.1
+Şifre: apiary_wifi
+Web arayüzü: http://192.168.4.1
 ```
 
 Yerel bağlantı aracılığıyla şunları yapabilirsiniz:
@@ -46,9 +46,7 @@ Bu yöntem, her cihazda ayrı bir SIM kart gerektirmez, ancak cihazın yakının
 
 ### Kurulum Nasıl Çalışır?
 
-İlk olarak kullanıcı, halihazırda bildiği bir cihazı uygulamaya kaydeder. Kayıt sırasında telefonun İnternet erişimi olması gerekir, ancak henüz cihazın kendisine bağlı olması gerekmez. Hizmet, uygulama ile cihaz arasındaki iletişim için tanımlayıcılar ve anahtarlar oluşturur.
-
-Kullanıcı daha sonra uygulamaya arı kovanı Wi-Fi ağının adını ve şifresini girer. Uygulama bu ayarları telefonda saklıyor ancak cihazda henüz bu ayarlar yok. Bunları aktarmak için telefonu geçici olarak `apiary_net` erişim noktasını seçin, uygulamaya dönün ve hazırlanan ayarların cihaza yazılması gerektiğini onaylayın.
+Uygulamada zaten bilinen cihazı kaydedin: servis kimlikleri ve anahtarları oluşturur. Ardından arılık ağı ayarlarını telefondan cihazın `apiary_net` erişim noktası üzerinden aktarın.
 
 Manyetik anahtarla yeniden başlatmanın ardından veya bir sonraki programlanmış saatlik döngü sırasında cihaz, otomatik iletim için yapılandırılmış ağı kullanır. Artık telefonun yakında olmasına gerek yok.
 
@@ -60,6 +58,6 @@ Manyetik anahtarla yeniden başlatmanın ardından veya bir sonraki programlanm�
 - cihazın yakınında İnternet erişimi olan bir Wi-Fi ağı mevcut;
 - kullanıcı o ağın adını ve şifresini bilir.
 
-Çevrimiçi geçiş veri saklamaz. Kalıcı depolama bölgede yerel kalır BeeApiary arı kovanı tartı terazisinin hafızasında ve kullanıcının telefonunda.
+Çevrim içi aktarma hizmeti kalıcı depolama değildir: veriler tartıda ve telefonda kalır. Hizmet kararsızlaşabilir veya ücretli olabilir; cihaz uyumluluğu ve diğer koşullar kılavuzda açıklanır.
 
 Adım adım prosedür için bkz. [Arı Kovanı Wi-Fi Ağı Aracılığıyla Senkronizasyonu Ayarlama](../guides/configure-wifi-sync.md).

@@ -1,4 +1,4 @@
-# Yeni BeeApiary kovan tartısı nasıl kurulur
+# BeeApiary kovan tartısı nasıl kurulur
 
 1. Cihazı USB Type-C ile şarj edin.
 
@@ -10,7 +10,7 @@
 
     Mikro SIM biçimini kullanın:
 
-    ![SIM kart formatlarının karşılaştırılması](../../assets/en/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+    ![SIM kart formatlarının karşılaştırılması](../../assets/tr/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
 
     Doğru takılmış kart:
 
@@ -20,16 +20,16 @@
 
     ![mikro SIM yuvaya kilitlendi](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-4. Cihazı etkinleştirin veya yeniden başlatın: manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
+4. <span id="activation-reset"></span>Cihazı etkinleştirin veya yeniden başlatın: manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
 
     ![BeeApiary manyetik anahtar](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
     ![Markalı manyetik anahtarlı hedef](../../assets/common/device/installation/magnetic-key-target.png){ .doc-photo }
 
-    Daha fazla bilgi için bkz. [Etkinleştirme ve Yeniden Başlatma](../device/installation.md#activation-reset).
+5. Ayarları kontrol etmeniz veya değiştirmeniz gerekiyorsa [`apiary_net` ağına bağlanın](configure-local-wifi.md) ve `http://192.168.4.1` adresini açın. Aksi halde bu adımı atlayın.
+6. Kullanıcının numarası genellikle üretici tarafından ayarlanmıştır. Yalnızca gerektiğinde [GSM ayarlarında numarayı kontrol edin, değiştirin veya kaldırın](configure-gsm.md).
+7. `apiary_net` ağına bağlandıysanız bağlantıyı kesin. İlk SMS'i bekleyin: mesaj genellikle cihaz uykuya geçmeden önce, bağlantı kesildikten veya cihaz etkinleştirildikten yaklaşık bir dakika sonra gelir.
 
-5. Bağlan `apiary_net` ve açık `http://192.168.4.1`.
-6. Sahibinin telefon numarasını uluslararası formatta girin.
-7. Bağlantıyı kes `apiary_net` ve ilk SMS mesajını kontrol edin.
+    İletim ayarlarını, kalibrasyonu veya diğer ayarları değiştirdikten sonra cihazın uyumasını bekleyip `apiary_net` ağına yeniden bağlanmadan manyetik anahtarla tekrar etkinleştirmeniz gerekebilir.
 
 Sonuç: Cihaz ölçümleri toplar, sahibine gönderir ve bir arşiv olarak saklar.

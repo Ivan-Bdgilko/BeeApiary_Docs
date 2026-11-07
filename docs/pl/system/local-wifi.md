@@ -15,8 +15,8 @@ Ustawienia domyślne:
 
 ```text
 SSID: apiary_net
-Пароль: apiary_wifi
-Вебінтерфейс: http://192.168.4.1
+Hasło: apiary_wifi
+Interfejs WWW: http://192.168.4.1
 ```
 
 Dzięki połączeniu lokalnemu możesz:
@@ -46,9 +46,7 @@ Ta metoda nie wymaga posiadania osobnej karty SIM w każdym urządzeniu, ale w p
 
 ### Jak działa konfiguracja
 
-Najpierw użytkownik rejestruje w aplikacji znane mu już urządzenie. Podczas rejestracji telefon musi mieć dostęp do Internetu, ale nie musi być jeszcze podłączony do samego urządzenia. Usługa tworzy identyfikatory i klucze służące do komunikacji aplikacji z urządzeniem.
-
-Następnie użytkownik wprowadza w aplikacji nazwę i hasło pasiecznej sieci Wi-Fi. Aplikacja przechowuje te ustawienia w telefonie, ale urządzenie jeszcze ich nie ma. Aby je przenieść, podłącz tymczasowo telefon do `apiary_net` punktu dostępowego, wróć do aplikacji i potwierdź, że przygotowane ustawienia powinny zostać zapisane na urządzeniu.
+Zarejestruj urządzenie znane już aplikacji: usługa tworzy identyfikatory i klucze. Następnie przekaż ustawienia sieci pasieki z telefonu przez punkt dostępowy urządzenia `apiary_net`.
 
 Po ponownym uruchomieniu kluczem magnetycznym lub podczas kolejnego zaplanowanego cyklu godzinowego urządzenie wykorzystuje skonfigurowaną sieć do automatycznej transmisji. Telefon nie musi już znajdować się w pobliżu.
 
@@ -60,6 +58,6 @@ Po ponownym uruchomieniu kluczem magnetycznym lub podczas kolejnego zaplanowaneg
 - w pobliżu urządzenia dostępna jest sieć Wi-Fi z dostępem do Internetu;
 - użytkownik zna nazwę i hasło tej sieci.
 
-Przekaźnik online nie przechowuje danych. Trwałe składowanie pozostaje lokalne w BeeApiary w pamięci wagi ula oraz w telefonie użytkownika.
+Usługa pośrednicząca nie jest trwałym magazynem: dane pozostają na wadze i telefonie. Usługa może działać niestabilnie lub stać się płatna; zgodność i inne warunki opisano w instrukcji.
 
 Aby zapoznać się z procedurą krok po kroku, zobacz [Skonfiguruj synchronizację za pośrednictwem sieci Wi-Fi pasieki](../guides/configure-wifi-sync.md).

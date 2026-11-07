@@ -14,4 +14,4 @@
 6. Repita la medición sin cambiar la calibración.
 
 !!! danger
-    No calibre un dispositivo nuevo debido a un único resultado sospechoso. Utilice la calibración después de una reparación o pérdida de datos confirmada: [Calibrar las balanzas](../guides/calibrate-scales.md).
+    No calibre un dispositivo nuevo debido a un único resultado sospechoso. Utilice la calibración después de una reparación o pérdida de datos confirmada: [Calibrar las balanzas](../device/calibration-and-tare.md#calibration).

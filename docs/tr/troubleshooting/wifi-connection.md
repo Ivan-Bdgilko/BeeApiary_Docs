@@ -1,6 +1,6 @@
 # Wi-Fi'ye Bağlanılamıyor
 
-1. [Etkinleştirin veya yeniden başlatın BeeApiary arı kovanı tartı terazileri](../device/installation.md#activation-reset): Manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
+1. [Etkinleştirin veya yeniden başlatın BeeApiary arı kovanı tartı terazileri](../guides/set-up-device.md#activation-reset): Manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
 2. Yeniden başlatmanın ardından ilk dakika içinde ağı arayın.
 3. SSID'yi kontrol edin; varsayılan değer `apiary_net`.
 4. Şifreyi kontrol edin; varsayılan değer `apiary_wifi` değiştirilmediği sürece.

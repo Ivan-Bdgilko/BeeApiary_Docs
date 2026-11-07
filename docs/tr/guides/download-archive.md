@@ -7,7 +7,7 @@ Tartım terazisinde SIM kart bulunmadığında, diğer senkronizasyon yöntemler
 !!! warning "microSD ve pil şarjı"
     Tartım terazilerine mevcut verileri içeren çalışan bir microSD kart takılmalıdır. Doğrudan Wi-Fi bağlantısı tartıyı aktif tutar ve güç tüketimini artırır, bu nedenle bu işlemi gerekmedikçe günde bir kereden fazla yapmayın.
 
-1. [Etkinleştirin veya yeniden başlatın BeeApiary arı kovanı tartı terazileri](../device/installation.md#activation-reset) manyetik anahtarla.
+1. [Etkinleştirin veya yeniden başlatın BeeApiary arı kovanı tartı terazileri](../guides/set-up-device.md#activation-reset) manyetik anahtarla.
 2. Kullanılabilir aralık dahilinde (genellikle yaklaşık bir dakika), telefonu `apiary_net` ve tartı terazisinin yakınında durun.
 3. Aç BeeApiary uygulama.
 4. Uygulamanın yakındaki tartı terazilerini otomatik olarak algılamasını bekleyin.

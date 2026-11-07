@@ -33,7 +33,7 @@ Her iki nesil de çok dilli yapılar sağlar. Sürüm adındaki sonek dili tanı
 2. Oluştur `/fm` Zaten mevcut değilse, kartın kökündeki dizin.
 3. Yerleştirin `Apiary.bin` içindeki dosyayı güncelle `/fm`.
 4. MicroSD kartı cihaza tekrar takın.
-5. [Cihazı etkinleştirin veya yeniden başlatın](../device/installation.md#activation-reset) manyetik anahtarla.
+5. [Cihazı etkinleştirin veya yeniden başlatın](../guides/set-up-device.md#activation-reset) manyetik anahtarla.
 6. Ölçümleri içeren normal bir SMS mesajını bekleyin; güncelleme genellikle iki dakika kadar sürer.
 7. Web arayüzü ana sayfasının alt kısmında donanım yazılımı sürümünü, dil son ekini, yapım tarihini ve saatini ve benzersiz cihaz numarasını kontrol edin.
 

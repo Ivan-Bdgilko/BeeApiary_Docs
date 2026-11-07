@@ -10,7 +10,7 @@
 
     Si vous utilisez l'application sans BeeApiary balances de ruche en tant que carnet autonome et journal du rucher, l'autorisation SMS n'est pas requise.
 
-1. Ouvrez le [page de l'application sur Google Play](https://play.google.com/store/apps/details?id=com.beeapiary).
+1. Ouvrez le [page de l'application sur Google Play](https://play.google.com/store/apps/details?id=com.beeapiary). Tu peux aussi la trouver dans Google Play sous **Beekeeper notes**.
 2. Installez et lancez l'application.
 3. Accordez toutes les autorisations demandées par l'application.
 

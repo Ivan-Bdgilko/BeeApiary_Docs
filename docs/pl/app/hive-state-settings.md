@@ -9,6 +9,6 @@ Ten ekran kontroluje widoczność i kolejność pól w rozwinięciu [stan ula](h
 
 ![Konfiguracja widoczności i kolejności pól stanu ula](../../assets/en/app/hive-state-settings/hive-state-fields-order.jpg){ .doc-screenshot }
 
-Możesz skonfigurować wyświetlanie roku i stanu królowej, typu i opisu ula, wielkości kolonii, czerwiu, larw, jaj, różnych typów ramek, agresji, rojenia, produktywności królowej i poziomu warrozy.
+Można na przykład zmienić wyświetlanie roku matki, siły rodziny lub liczby ramek. Wszystkie pola opisano na stronie [stanu ula](hive-state.md).
 
 Zmiana kolejności wpływa na prezentację danych w aplikacji, ale nie powoduje zmiany przechowywanych rekordów ula.

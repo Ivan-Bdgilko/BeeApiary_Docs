@@ -17,9 +17,11 @@ Kutucuk görünürlüğü ve sırası altında yapılandırılır [Veri ve Grafi
 
 ## Dönem ve Değerler
 
-Ekranın üst kısmındaki simgeler dönem birimini günler, haftalar ve aylar arasında değiştirir. Sırayla 1, 2, 3 veya daha fazla gün, hafta veya ayı seçmek için ilgili simgeye art arda dokunun.
+Üstteki simgelere tekrar tekrar dokunarak gün, hafta veya ay sayısını seçin.
 
-Dönemin bitiş tarihini seçmek için seçilen arı kovanı panelinin üst kısmındaki tarih ve saate dokunun. Ayrıntılar için bkz. [Grafik Görüntüleme Dönemi](chart-period.md).
+![Uygulamanın ana ekranında gün, hafta ve ay seçimi simgeleri](../../assets/common/app/main-screen/period-selection-icons.png){ .doc-screenshot .period-selection-icons width="314" height="89" }
+
+Bitiş tarihini seçmek için kovan bölümündeki tarih ve saate dokunun. Bkz. [Grafik görüntüleme dönemi](chart-period.md).
 
 Her sayısal okuma için:
 

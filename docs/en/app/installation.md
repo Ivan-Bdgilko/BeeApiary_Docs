@@ -10,7 +10,7 @@
 
     If you use the app without BeeApiary hive scales as a standalone notebook and apiary journal, SMS permission is not required.
 
-1. Open the [app page on Google Play](https://play.google.com/store/apps/details?id=com.beeapiary).
+1. Open the [app page on Google Play](https://play.google.com/store/apps/details?id=com.beeapiary). You can also find it in Google Play as **Beekeeper notes**.
 2. Install and launch the app.
 3. Grant all permissions requested by the app.
 

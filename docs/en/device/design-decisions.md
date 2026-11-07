@@ -12,6 +12,8 @@ The project is open to feedback and suggestions: its construction does not hide 
 
 ## Why Is There No Mandatory Server Storage?
 
+Above all, this is a matter of privacy and security: the system does not require a server that continuously collects and stores data about you and your apiary. The vast majority of other systems are built around such a server. In particular, location and measurement data can indirectly reveal information about your operations and potential income.
+
 The core operation of the hive scales and the app does not depend on permanent BeeApiary storage on an external server. Measurements are stored on the [device's microSD card](../system/data-storage.md) and locally on the user's phone. The system does not require centralized storage of the owner's location or activity history.
 
 An optional relay service can be used for [synchronization through the apiary Wi-Fi network](../system/local-wifi.md#apiary-wifi-routing). It transfers data to the app but is not permanent storage and is not required for the other communication channels.

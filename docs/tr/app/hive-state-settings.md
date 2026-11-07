@@ -9,6 +9,6 @@ Bu ekran, genişletilmiş penceredeki alanların görünürlüğünü ve sıras�
 
 ![Arı kovanı durumu alanlarının görünürlüğünü ve sırasını yapılandırma](../../assets/en/app/hive-state-settings/hive-state-fields-order.jpg){ .doc-screenshot }
 
-Kraliçenin yılı ve durumu, arı kovanı türü ve tanımı, koloni boyutu, yavrular, larvalar, yumurtalar, farklı çerçeve türleri, saldırganlık, oğul verme, kraliçe üretkenliği ve varroa düzeyinin görüntülenmesini yapılandırabilirsiniz.
+Örneğin ana arının yılı, koloni gücü veya çerçeve sayısının gösterimi değiştirilebilir. Tüm alanlar [kovan durumu](hive-state.md) sayfasında açıklanır.
 
 Sıranın değiştirilmesi, verilerin uygulamada nasıl sunulduğunu etkiler ancak saklanan arı kovanı kayıtlarını değiştirmez.

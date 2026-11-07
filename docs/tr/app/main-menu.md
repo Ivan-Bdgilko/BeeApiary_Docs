@@ -7,7 +7,7 @@ Uygulamanın genel özelliklerine erişmek için ana ekranın sağ üst köşesi
 | Menü öğesi | İşlev |
 |---|---|
 | **Hava tahmini** | Arı kovanı çalışması için hava tahminini gösterir. |
-| **Cihaz veya arı kovanı ekleyin** | Ekleme seçeneğini açar [BeeApiary arı kovanı tartı terazileri](add-device.md) veya ayrı [arı kovanı profili](add-hive.md). |
+| **Cihaz veya arı kovanı ekleyin** | [Tartı, kovan veya test verileri seçimini](add-device-or-hive/index.md) açar. |
 | **Etkinlikler (tam liste)** | Açılır [olaylar ve notlar](events-and-notes.md) tüm arı kovanları için. |
 | **Ayarlar** | Geneli açar [uygulama ayarları](settings/index.md). |
 | **Bulut kaydı** | Cihazı aşağıdakiler için hazırlar: [arı kovanı Wi-Fi ağı üzerinden senkronizasyon](../guides/configure-wifi-sync.md). |

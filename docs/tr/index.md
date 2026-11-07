@@ -35,9 +35,8 @@ Bir set bağımsız olarak BeeApiary kovan tartısı şeklinde çalışabilir; s
 
 ## Başlarken
 
-- [Sistemi kurma](quick-start/full-system.md)
+- [Sistemi ve GSM bağlantısını kurun](quick-start/full-system.md)
 - [Uygulamayı yükleyin](quick-start/app-only.md)
-- [Cihazla GSM bağlantısı kurun](quick-start/gsm.md)
 - [Yerel Wi-Fi ağına bağlanın](quick-start/local-wifi.md)
 
 ## İhtiyacınız olduğunda belgeler

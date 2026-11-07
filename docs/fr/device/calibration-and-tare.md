@@ -3,6 +3,7 @@
 !!! danger "Un nouvel appareil n'a pas besoin d'être calibré"
     L’étalonnage est surtout nécessaire après une réparation ou la perte des données d’étalonnage d’usine. Ne l’utilisez pas comme solution générale à une mesure de poids incorrecte.
 
+<span id="calibration"></span>
 ## Calibrage
 
 1. Débranchez l'alimentation externe.
@@ -29,16 +30,25 @@
 
     ![résultat de l'étalonnage de la balance](../../assets/en/device/calibration-and-tare/calibration-result.png){ .doc-screenshot }
 
+Résultat : l’appareil a enregistré les nouvelles valeurs d’étalonnage. Vérifie que le poids de référence est affiché.
+
+<span id="tare"></span>
 ## Tarer
 
-Vous pouvez saisir une tare connue en grammes :
+La tare permet d’exclure le poids de la plateforme ou d’une autre structure permanente.
 
-![Saisir une tare connue](../../assets/en/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
+1. [Connecte-toi à l’interface web de la balance](../guides/configure-local-wifi.md).
+2. Ouvre **Paramètres généraux → Paramètres de la balance**.
+3. Choisis une méthode :
 
-Vous pouvez également accepter le poids actuel de la plate-forme comme étant nul :
+    - Si le poids de tare est connu, saisis-le en grammes et sélectionne **Définir le poids de tare**.
 
-![Accepter le poids actuel comme zéro](../../assets/en/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+        ![Saisir une tare connue](../../assets/en/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
 
-Le tarage ne modifie pas le facteur d’étalonnage d’usine.
+    - Ou laisse la structure sur les capteurs et accepte la valeur actuelle comme zéro.
 
-Procédures distinctes : [Tarer la balance](../guides/tare-scales.md) et [Calibrer la balance](../guides/calibrate-scales.md).
+        ![Accepter le poids actuel comme zéro](../../assets/en/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+
+4. Vérifie la valeur affichée après l’opération.
+
+Résultat : l’appareil soustrait la tare des mesures suivantes. La tare ne modifie pas le coefficient d’étalonnage d’usine.

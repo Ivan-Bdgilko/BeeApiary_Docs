@@ -21,14 +21,26 @@ translation_status: not_ready
     ![Форма додаткового номера у вебінтерфейсі пристрою](../../assets/uk/guides/configure-gsm/additional-phone-number-form.png){ .doc-screenshot }
 
 4. Введіть номер у форматі `+380XXXXXXXXX`.
-5. Виберіть звичайний або стислий формат SMS.
-6. Відкрийте розклад, виберіть години й натисніть **Створити та зберегти**.
-7. Від'єднайтеся від `apiary_net` і дочекайтеся першого SMS.
+5. Виберіть **Для людини** для звичайних SMS або **Для Android** для стислих SMS у застосунку.
+
+    ![Вибір формату SMS Для Android у вебінтерфейсі пристрою](../../assets/uk/system/gsm-and-sms/android-message-format.png){ .doc-screenshot }
+
+    ![Вибір формату SMS Для людини у вебінтерфейсі пристрою](../../assets/uk/system/gsm-and-sms/human-message-format.png){ .doc-screenshot }
+
+6. Відкрийте **Переглянути розклад відправки**, виберіть години й натисніть **Створити та зберегти**.
+
+    ![Перехід до розкладу відправки у вебінтерфейсі пристрою](../../assets/uk/system/gsm-and-sms/open-sending-schedule.png){ .doc-screenshot }
+
+    ![Вибір годин відправки SMS у вебінтерфейсі пристрою](../../assets/uk/system/gsm-and-sms/sending-hours-selection.png){ .doc-screenshot }
+
+    ![Збережений розклад із відправкою кожні чотири години у вебінтерфейсі пристрою](../../assets/uk/system/gsm-and-sms/saved-four-hour-schedule.png){ .doc-screenshot }
 
     Після збереження номер відображається у вебінтерфейсі:
 
     ![Збережений номер у вебінтерфейсі](../../assets/uk/guides/configure-gsm/saved-primary-phone-number.png){ .doc-screenshot }
 
     ![Номер пристрою у вебінтерфейсі](../../assets/uk/guides/configure-gsm/device-phone-number.png){ .doc-screenshot }
+
+7. Від'єднайтеся від `apiary_net` і дочекайтеся першого SMS.
 
 Щоб прибрати номер, задайте `+000000000000`. Формати й розклад описані на сторінці [GSM та SMS](../system/gsm-and-sms.md).

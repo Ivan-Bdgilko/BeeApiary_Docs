@@ -17,9 +17,11 @@ Sichtbarkeit und Reihenfolge der Kacheln werden unter [Daten und Diagramme ausw�
 
 ## Zeitraum und Werte
 
-Mit den Symbolen oben auf dem Bildschirm wechselst du die Einheit des Zeitraums zwischen Tagen, Wochen und Monaten. Tippe mehrmals auf das entsprechende Symbol, um nacheinander 1, 2, 3 oder mehr Tage, Wochen oder Monate auszuw채hlen.
+Mit wiederholtem Tippen auf die Symbole oben w채hlst du die Anzahl der Tage, Wochen oder Monate.
 
-Tippe oben im Bereich des ausgew채hlten Bienenstocks auf Datum und Uhrzeit, um das Enddatum des Zeitraums festzulegen. Weitere Informationen findest du unter [Zeitraum der Diagramme](chart-period.md).
+![Symbole f체r Tag, Woche und Monat auf dem Startbildschirm der App](../../assets/common/app/main-screen/period-selection-icons.png){ .doc-screenshot .period-selection-icons width="314" height="89" }
+
+Tippe im Bienenstockblock auf Datum und Uhrzeit, um das Enddatum auszuw채hlen. Siehe [Zeitraum der Diagramme](chart-period.md).
 
 F체r jeden numerischen Messwert gilt:
 

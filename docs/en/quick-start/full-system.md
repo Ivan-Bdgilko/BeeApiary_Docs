@@ -10,6 +10,8 @@
 !!! warning "Before installing the SIM card"
     Use only a micro-SIM and disable its PIN protection in advance.
 
+    ![Comparison of SIM card formats](../../assets/en/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+
 1. Open the cover of the data collection unit.
 
     ![Open data collection unit](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
@@ -24,7 +26,7 @@
 
     ![micro-SIM locked in the slot](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-3. [Activate or restart the device](../device/installation.md#activation-reset): briefly hold the magnetic key against the branded mark on the back of the main unit.
+3. [Activate or restart the device](../guides/set-up-device.md#activation-reset): briefly hold the magnetic key against the branded mark on the back of the main unit.
 
     ![BeeApiary magnetic key](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
@@ -36,7 +38,7 @@ Done. Congratulations: the device is collecting data, sending it through GSM, an
 
 ## App — if needed
 
-The BeeApiary app is not required to receive ordinary SMS messages. Install it if you want to receive device data automatically, view measurements, and use other app features.
+The BeeApiary app is not required for ordinary SMS and is not an integral part of the scales. The scales work independently and send SMS data to any phone. Install the app to view charts, analyse measurements, keep an apiary journal, identify hives and use its other features.
 
 1. [Install the BeeApiary app](app-only.md) and make sure you grant it permission to process SMS messages.
 2. In the app, select **Add device**.

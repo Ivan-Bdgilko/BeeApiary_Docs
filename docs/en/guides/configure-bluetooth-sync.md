@@ -39,9 +39,10 @@ This option and the other switches are explained under [Additional Device Settin
 
 7. Return to the app's home screen. Keep Bluetooth enabled and the phone within reliable Bluetooth range during the next hourly cycle.
 
+<span id="sync-result"></span>
 ## Check the result
 
-Synchronization occurs only when **BLE info** is enabled on the scales and Bluetooth and the corresponding app options are enabled on the phone. The scales become available for communication during a scheduled wake-up or after [activation with the magnetic key](../device/installation.md#activation-reset).
+Synchronization occurs only when **BLE info** is enabled on the scales and Bluetooth and the corresponding app options are enabled on the phone. The scales become available for communication during a scheduled wake-up or after [activation with the magnetic key](../guides/set-up-device.md#activation-reset).
 
 The app can exchange data while it is open or in the background if Android allows it to run and wake up at the required time.
 

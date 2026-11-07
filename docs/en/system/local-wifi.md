@@ -46,9 +46,7 @@ This method does not require a separate SIM card in every device, but a configur
 
 ### How Setup Works
 
-First, the user registers a device they already know in the app. During registration, the phone must have Internet access, but it does not yet need to be connected to the device itself. The service creates identifiers and keys for communication between the app and the device.
-
-The user then enters the name and password of the apiary Wi-Fi network in the app. The app stores these settings on the phone, but the device does not have them yet. To transfer them, temporarily connect the phone to the `apiary_net` access point, return to the app, and confirm that the prepared settings should be written to the device.
+Register a device already known to the app: the service creates identifiers and keys. Then transfer the apiary network settings from the phone through the device's `apiary_net` access point.
 
 After a restart with the magnetic key or during the next scheduled hourly cycle, the device uses the configured network for automatic transmission. The phone no longer needs to be nearby.
 
@@ -60,6 +58,6 @@ After a restart with the magnetic key or during the next scheduled hourly cycle,
 - a Wi-Fi network with Internet access is available near the device;
 - the user knows the name and password of that network.
 
-The online relay does not store data. Permanent storage remains local in the BeeApiary hive scales' memory and on the user's phone.
+The online relay is not permanent storage: data remains on the scales and phone. The service may become unstable or paid; device compatibility and other conditions are described in the guide.
 
 For the step-by-step procedure, see [Set Up Synchronization Through the Apiary Wi-Fi Network](../guides/configure-wifi-sync.md).

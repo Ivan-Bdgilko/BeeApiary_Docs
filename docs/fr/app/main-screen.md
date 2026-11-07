@@ -17,9 +17,11 @@ La visibilité et l'ordre des vignettes sont configurés sous [Sélectionnez les
 
 ## Période et valeurs
 
-Les icônes en haut de l'écran changent l'unité de période entre les jours, les semaines et les mois. Appuyez plusieurs fois sur l'icône correspondante pour sélectionner 1, 2, 3 ou plusieurs jours, semaines ou mois dans l'ordre.
+Appuie plusieurs fois sur les icônes en haut pour choisir le nombre de jours, semaines ou mois.
 
-Appuyez sur la date et l'heure en haut du panneau de la ruche sélectionné pour choisir la date de fin de la période. Pour plus de détails, voir [Période de visualisation des graphiques](chart-period.md).
+![Icônes de sélection du jour, de la semaine et du mois sur l’écran d’accueil de l’application](../../assets/common/app/main-screen/period-selection-icons.png){ .doc-screenshot .period-selection-icons width="314" height="89" }
+
+Appuie sur la date et l’heure du bloc de la ruche pour choisir la date de fin. Voir [Période des graphiques](chart-period.md).
 
 Pour chaque lecture numérique :
 

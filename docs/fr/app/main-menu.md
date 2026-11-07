@@ -7,7 +7,7 @@ Ouvrez le menu dans le coin supérieur droit de l'écran principal pour accéder
 | Élément de menu | Fonction |
 |---|---|
 | **Prévisions météorologiques** | Affiche les prévisions météorologiques pour les travaux du rucher. |
-| **Ajouter un appareil ou une ruche** | Ouvre l'option d'ajouter [BeeApiary balances pour ruches](add-device.md) ou un séparé [profil de ruche](add-hive.md). |
+| **Ajouter un appareil ou une ruche** | Ouvre le [choix entre balance, ruche ou données de test](add-device-or-hive/index.md). |
 | **Événements (liste complète)** | Ouvre [événements et notes](events-and-notes.md) pour toutes les ruches. |
 | **Paramètres** | Ouvre le général [paramètres de l'application](settings/index.md). |
 | **Inscription dans le cloud** | Prépare l'appareil pour [synchronisation via le réseau Wi-Fi du rucher](../guides/configure-wifi-sync.md). |

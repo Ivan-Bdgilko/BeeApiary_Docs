@@ -10,7 +10,7 @@
 
     Si usas la aplicación sin BeeApiary básculas de colmena como cuaderno independiente y diario de apiario, no se requiere permiso por SMS.
 
-1. Abre el [página de la aplicación en Google Play](https://play.google.com/store/apps/details?id=com.beeapiary).
+1. Abre el [página de la aplicación en Google Play](https://play.google.com/store/apps/details?id=com.beeapiary). También puedes buscarla en Google Play como **Beekeeper notes**.
 2. Instale e inicie la aplicación.
 3. Otorgue todos los permisos solicitados por la aplicación.
 

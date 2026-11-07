@@ -1,4 +1,4 @@
-# Jak skonfigurować nową wagę pasieczną BeeApiary
+# Jak skonfigurować wagę pasieczną BeeApiary
 
 1. Naładuj urządzenie przez USB typu C.
 
@@ -10,7 +10,7 @@
 
     Użyj formatu micro-SIM:
 
-    ![Porównanie formatów kart SIM](../../assets/en/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
+    ![Porównanie formatów kart SIM](../../assets/pl/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
 
     Poprawnie zainstalowana karta:
 
@@ -20,16 +20,16 @@
 
     ![micro-SIM zablokowany w gnieździe](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
 
-4. Aktywuj lub uruchom ponownie urządzenie: krótko przytrzymaj klucz magnetyczny przy znaku firmowym z tyłu jednostki głównej.
+4. <span id="activation-reset"></span>Aktywuj lub uruchom ponownie urządzenie: krótko przytrzymaj klucz magnetyczny przy znaku firmowym z tyłu jednostki głównej.
 
     ![BeeApiary klucz magnetyczny](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
 
     ![Markowy celownik z kluczem magnetycznym](../../assets/common/device/installation/magnetic-key-target.png){ .doc-photo }
 
-    Aby uzyskać więcej informacji, zobacz [Aktywacja i ponowne uruchomienie](../device/installation.md#activation-reset).
+5. Jeśli chcesz sprawdzić lub zmienić ustawienia, [połącz się z `apiary_net`](configure-local-wifi.md) i otwórz `http://192.168.4.1`. W przeciwnym razie pomiń ten krok.
+6. Numer właściciela jest zwykle ustawiony przez producenta. Tylko w razie potrzeby [sprawdź, zmień lub usuń numer w ustawieniach GSM](configure-gsm.md).
+7. Jeśli połączono się z `apiary_net`, rozłącz sieć. Poczekaj na pierwszy SMS: zwykle przychodzi przed uśpieniem urządzenia, około minuty po rozłączeniu lub aktywacji.
 
-5. Połącz się z `apiary_net` i otwarte `http://192.168.4.1`.
-6. Wpisz numer telefonu właściciela w formacie międzynarodowym.
-7. Odłącz od `apiary_net` i sprawdź pierwszą wiadomość SMS.
+    Po zmianie ustawień transmisji, kalibracji lub innych parametrów może być konieczne zaczekanie na uśpienie i ponowne aktywowanie urządzenia kluczem magnetycznym bez ponownego łączenia z `apiary_net`.
 
 Wynik: urządzenie zbiera pomiary, wysyła je do właściciela i przechowuje archiwum.

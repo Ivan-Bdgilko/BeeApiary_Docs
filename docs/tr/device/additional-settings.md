@@ -12,7 +12,7 @@
 !!! warning "Ayarları Rastgele Değiştirmeyin"
     Yanlış bir değer cihazın çalışmasını bozabilir. Donanım bayraklarını yalnızca ilgili donanım fiziksel olarak kurulduğunda etkinleştirin. Ağ ayarlarını veya anahtarlarını gereksiz yere değiştirmeyin.
 
-![Web arayüzündeki ek ayarlar BeeApiary arı kovanı tartı terazileri](../../assets/uk/device/additional-settings/device-additional-settings.jpg){ .doc-screenshot }
+![Web arayüzündeki ek ayarlar BeeApiary arı kovanı tartı terazileri](../../assets/tr/device/additional-settings/device-additional-settings.jpg){ .doc-screenshot }
 
 Ekran görüntüsündeki ağ değerleri yalnızca örnektir. Cihazınızda farklı olacaktır.
 

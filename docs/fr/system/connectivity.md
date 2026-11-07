@@ -9,36 +9,26 @@ Pour le suivi des ruchers, les données du BeeApiary Les balances pour ruches pe
 
 | Chaîne | Localisation du téléphone | Exigences | Comment les données parviennent à l'application |
 |---|---|---|---|
-| [GSM et SMS](gsm-and-sms.md) | Partout avec une couverture mobile | Une carte SIM dans l'appareil avec un forfait SMS de base | L'application traite automatiquement les messages SMS. l'Internet mobile n'est pas requis |
-| [Connexion directe au point d'accès de l'appareil](local-wifi.md#direct-access-point) | À proximité de l'appareil | Activez l'appareil avec la clé magnétique et connectez-vous à `apiary_net` dans l'intervalle disponible, généralement environ une minute | L'application trouve l'appareil, demande l'autorisation de récupérer l'archive et importe les données après confirmation |
-| [Routage via le réseau Wi-Fi du rucher](local-wifi.md#apiary-wifi-routing) | Partout avec accès à Internet | Un réseau Wi-Fi configuré avec accès Internet doit être disponible à proximité de l'appareil | Les données sont automatiquement acheminées vers l'application ; une carte SIM distincte pour chaque appareil n'est pas nécessaire |
-| [Bluetooth](bluetooth.md) | À proximité, à portée Bluetooth | **BLE info**, l'analyse BLE et le fonctionnement en arrière-plan de l'application sont activés ; l'heure est synchronisée ; aucune carte SIM ni Internet n'est requis | L'application synchronise automatiquement les données actuelles et peut restaurer l'historique disponible |
+| [GSM et SMS](gsm-and-sms.md) | Partout avec une couverture mobile | Une carte SIM dans l'appareil avec un forfait SMS de base ; autorisation SMS pour l’application | L’application traite automatiquement les SMS compacts ; Internet mobile n’est pas nécessaire. [Configurer le GSM](../guides/configure-gsm.md) |
+| [Connexion directe au point d'accès de l'appareil](local-wifi.md#direct-access-point) | À proximité de l'appareil | Activez l'appareil avec la clé magnétique et connectez-vous à `apiary_net` dans l'intervalle disponible, généralement environ une minute ; aucune SIM ni connexion Internet nécessaire | L'application trouve l'appareil, demande l'autorisation de récupérer l'archive et importe les données après confirmation. [Télécharger l’archive](../guides/download-archive.md) |
+| [Routage via le réseau Wi-Fi du rucher](local-wifi.md#apiary-wifi-routing) | Partout avec accès à Internet | Un réseau Wi-Fi configuré avec accès Internet doit être disponible à proximité de l'appareil | Les données sont automatiquement acheminées vers l'application ; une carte SIM distincte pour chaque appareil n'est pas nécessaire. [Configurer le Wi-Fi](../guides/configure-wifi-sync.md) |
+| [Bluetooth](bluetooth.md) | À proximité, à portée Bluetooth | **BLE info**, l'analyse BLE et le fonctionnement en arrière-plan de l'application sont activés ; l'heure est synchronisée ; aucune carte SIM ni Internet n'est requis | L'application synchronise automatiquement les données actuelles et peut restaurer l'historique disponible. [Configurer Bluetooth](../guides/configure-bluetooth-sync.md) |
 
 ## GSM et SMS
 
-L'appareil envoie des messages SMS réguliers ou compacts sans Internet mobile. L'application reconnaît les messages compacts et ajoute automatiquement les mesures au stockage local du téléphone.
+Les SMS ordinaires se lisent sans application ; les messages compacts sont enregistrés comme mesures par l’application. [Formats SMS](gsm-and-sms.md).
 
 ## Connexion directe à l'appareil
 
-Après activation avec la clé magnétique, l'appareil crée temporairement le `apiary_net` point d'accès. Un téléphone qui y est connecté n'a pas besoin de carte SIM ni d'accès Internet. L'application trouve automatiquement l'appareil mais télécharge l'archive uniquement après que l'utilisateur a confirmé la demande.
-
-Pour la procédure détaillée, voir [Téléchargez les archives](../guides/download-archive.md).
+Le téléphone connecté ne reçoit l’archive qu’après confirmation. [Se connecter au point d’accès](../guides/configure-local-wifi.md).
 
 ## Routage via le réseau Wi-Fi Apiary
 
-L'appareil peut utiliser un réseau Wi-Fi existant avec accès Internet au rucher. Le propriétaire reçoit des données à distance dans l'application sans carte SIM distincte pour chaque appareil.
-
-Avant la configuration initiale, l'application doit avoir reçu des données de l'appareil au moins une fois par SMS ou par téléchargement direct d'archives. L'enregistrement est effectué sur un téléphone avec accès à Internet, et les paramètres Wi-Fi et cloud préparés sont ensuite transférés à l'appareil via son `apiary_net` point d'accès.
-
-Le relais en ligne ne stocke pas de données. Les copies permanentes restent dans le BeeApiary la mémoire des balances pour ruches et sur le téléphone de l'utilisateur.
-
-Pour la procédure détaillée, voir [Configurer la synchronisation via le réseau Wi-Fi Apiary](../guides/configure-wifi-sync.md).
+Avant la configuration, l’application doit avoir reçu des données au moins une fois par SMS ou téléchargement direct. Le relais n’est pas un stockage permanent : les copies restent sur la balance et le téléphone. Il peut devenir instable ou payant ; vérifie la [compatibilité et les conditions](../guides/configure-wifi-sync.md).
 
 ## Bluetooth
 
-Lorsque le téléphone est à portée Bluetooth, l'application synchronise automatiquement les données disponibles. Cela ne nécessite pas de carte SIM, d'Internet mobile ou d'activation du `apiary_net` point d'accès. Lorsque la récupération de l'historique est activée, les lacunes temporaires peuvent être comblées lors de la prochaine connexion réussie.
-
-Pour une explication, voir [Synchronisation des données Bluetooth](bluetooth.md). Pour la procédure pratique, voir [Configurer la synchronisation Bluetooth](../guides/configure-bluetooth-sync.md).
+Si la récupération de l’historique est activée, les lacunes peuvent être comblées lors de la prochaine connexion réussie. [Fonctionnement et compatibilité](bluetooth.md).
 
 ## Fonctionnement sans connexion
 

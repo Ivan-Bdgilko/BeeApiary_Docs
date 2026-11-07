@@ -7,7 +7,7 @@ Manual archive download is useful when the scales have no SIM card, other synchr
 !!! warning "microSD and battery charge"
     A working microSD card containing available data must be installed in the scales. A direct Wi-Fi connection keeps the scales active and increases power consumption, so do not perform this procedure more than once a day unless necessary.
 
-1. [Activate or restart the BeeApiary beehive scales](../device/installation.md#activation-reset) with the magnetic key.
+1. [Activate or restart the BeeApiary beehive scales](../guides/set-up-device.md#activation-reset) with the magnetic key.
 2. Within the available interval, usually about one minute, connect the phone to `apiary_net` and remain near the scales.
 3. Open the BeeApiary app.
 4. Wait for the app to detect the nearby scales automatically.

@@ -7,7 +7,7 @@ Le téléchargement manuel des archives est utile lorsque les balances n'ont pas
 !!! warning "microSD et charge de la batterie"
     Une carte microSD fonctionnelle contenant les données disponibles doit être installée dans la balance. Une connexion Wi-Fi directe maintient la balance active et augmente la consommation d'énergie, n'effectuez donc pas cette procédure plus d'une fois par jour, sauf si cela est nécessaire.
 
-1. [Activez ou redémarrez le BeeApiary balances pour ruches](../device/installation.md#activation-reset) avec la clé magnétique.
+1. [Activez ou redémarrez le BeeApiary balances pour ruches](../guides/set-up-device.md#activation-reset) avec la clé magnétique.
 2. Dans l'intervalle disponible, généralement environ une minute, connectez le téléphone à `apiary_net` et restez à proximité de la balance.
 3. Ouvrez le BeeApiary application.
 4. Attendez que l'application détecte automatiquement les balances à proximité.

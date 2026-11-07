@@ -10,7 +10,7 @@
 
     Wenn du die App ohne BeeApiary-Bienenstockwaagen als eigenständiges Notizbuch und Imkereitagebuch verwendest, ist die SMS-Berechtigung nicht erforderlich.
 
-1. Öffne die [App-Seite bei Google Play](https://play.google.com/store/apps/details?id=com.beeapiary).
+1. Öffne die [App-Seite bei Google Play](https://play.google.com/store/apps/details?id=com.beeapiary). Du findest sie bei Google Play auch unter **Beekeeper notes**.
 2. Installiere und starte die App.
 3. Erteile alle von der App angeforderten Berechtigungen.
 

@@ -1,37 +1,25 @@
 ---
 title: "Bienenstockwaage unter dem Bienenstock installieren"
-description: "BeeApiary-Bienenstockwaage unter dem Bienenstock installieren: Einheit und Sensoren platzieren, bei Bedarf eine SIM-Karte einsetzen und das Gerät erstmals aktivieren."
+description: "BeeApiary-Bienenstockwaage unter dem Stock installieren: Hauptgerät und Sensoren sicher platzieren."
 ---
 
 # Bienenstockwaage unter dem Bienenstock installieren { #gerat-installieren }
 
-Um die Waage unter dem Bienenstock zu installieren, platziere die Haupteinheit an einem geschützten Ort und die Wägesensoren auf festen Auflagen. Die folgenden Schritte beschreiben die Installation und Erstaktivierung der BeeApiary-Bienenstockwaage.
+Platziere das Hauptgerät geschützt und die Gewichtssensoren auf festen Auflagen.
 
-1. Wähle einen geschützten Ort unter einem Überstand oder dem Deckel des Bienenstocks.
-2. Platziere die Haupteinheit so, dass sie möglichst wenig direkter Sonne, Regen und Schnee ausgesetzt ist.
-3. Installiere die Wägesensoren auf festen Auflagen in derselben horizontalen Ebene.
-4. Platziere die Temperatursensoren entsprechend dem Beobachtungszweck.
-5. Wenn du GSM verwendest, setze eine micro-SIM mit deaktivierter PIN-Abfrage ein.
-
-    Richtige Ausrichtung der Karte:
-
-    ![Richtig eingesetzte micro-SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
-
-    Setze die SIM-Karte ein und drücke sie vorsichtig fast vollständig in den Steckplatz, bis ein leises Klicken bestätigt, dass sie eingerastet ist:
-
-    ![Im Steckplatz eingerastete micro-SIM](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
-
-6. Aktiviere das Gerät oder starte es mit dem Magnetschlüssel neu und prüfe die erste Messung.
-
-## Aktivierung und Neustart { #activation-reset }
-
-Erstaktivierung und Neustart erfolgen auf dieselbe Weise: Halte den Magnetschlüssel kurz an die Markenkennzeichnung auf der Rückseite der Haupteinheit. Du musst dazu weder andere Gehäuseteile berühren noch die Einheit öffnen.
-
-![BeeApiary-Magnetschlüssel](../../assets/common/device/installation/magnetic-key.png){ .doc-photo }
-
-![Markierter Bereich für den Magnetschlüssel auf der Rückseite der Haupteinheit](../../assets/common/device/installation/magnetic-key-target.png){ .doc-photo }
+1. Wähle einen geschützten Platz unter einem Vordach oder der Stockabdeckung.
+2. Platziere das Hauptgerät so, dass es möglichst wenig Sonne, Regen und Schnee ausgesetzt ist.
+3. Stelle die [Gewichtssensoren](sensors.md) auf feste Auflagen in einer horizontalen Ebene.
+4. Platziere die Temperatursensoren entsprechend deinem Beobachtungsziel.
 
 !!! danger
-    Installiere das Gerät oder die externe Antenne nicht am höchsten Punkt des Bienenstands. Dadurch entsteht die Gefahr eines Blitzeinschlags und eines nicht reparierbaren Schadens.
+    Stelle das Gerät oder die Außenantenne nicht an der höchsten Stelle des Bienenstands auf: Ein Blitzschlag kann es irreparabel beschädigen.
 
-Weitere Informationen findest du unter [Platzierung](placement.md) und [Sensoren](sensors.md).
+Weitere Informationen: [Platzierung](placement.md) und [Sensoren](sensors.md).
+
+<span id="activation-reset"></span> Für den ersten Start und die Aktivierung siehe [Schnellstart](../quick-start/index.md).
+
+[Waage mit dem Magnetschlüssel aktivieren oder neu starten](../guides/set-up-device.md#activation-reset).
+
+!!! note "Vollständige GSM-Einrichtung"
+    Nutze bei Bedarf die [GSM-Einrichtung](../guides/configure-gsm.md).

@@ -3,6 +3,7 @@
 !!! danger "Yeni bir cihazın kalibrasyona ihtiyacı yoktur"
     Kalibrasyon öncelikle bir onarımdan veya fabrika kalibrasyon verilerinin kaybolmasından sonra gereklidir. Yanlış ağırlık okumasında sorun gidermenin genel bir yolu olarak kullanmayın.
 
+<span id="calibration"></span>
 ## Kalibrasyon
 
 1. Harici güç kaynağının bağlantısını kesin.
@@ -29,16 +30,25 @@
 
     ![tartı kalibrasyon sonucu](../../assets/en/device/calibration-and-tare/calibration-result.png){ .doc-screenshot }
 
+Sonuç: Cihaz yeni kalibrasyon değerlerini kaydetti. Referans ağırlığının görüntülendiğini kontrol edin.
+
+<span id="tare"></span>
 ## Dara
 
-Bilinen bir dara ağırlığını gram cinsinden girebilirsiniz:
+Dara alma, platformun veya başka bir sabit yapının ağırlığını ölçüm dışında bırakır.
 
-![Bilinen bir dara ağırlığının girilmesi](../../assets/en/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
+1. [Tartının web arayüzüne bağlanın](../guides/configure-local-wifi.md).
+2. **Genel ayarlar → Tartı ayarları** bölümünü açın.
+3. Bir yöntem seçin:
 
-Alternatif olarak mevcut platform ağırlığını sıfır olarak kabul edin:
+    - Dara ağırlığı biliniyorsa gram cinsinden girip **Dara ağırlığını ayarla** seçeneğini seçin.
 
-![Mevcut ağırlığı sıfır olarak kabul etmek](../../assets/en/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+        ![Bilinen bir dara ağırlığının girilmesi](../../assets/en/device/calibration-and-tare/known-tare-weight-form.png){ .doc-screenshot }
 
-Dara alma fabrika kalibrasyon faktörünü değiştirmez.
+    - Veya yapıyı sensörlerin üzerinde bırakıp mevcut değeri sıfır olarak kabul edin.
 
-Ayrı prosedürler: [Tartı terazisinin darasını alın](../guides/tare-scales.md) ve [Tartım terazilerini kalibre edin](../guides/calibrate-scales.md).
+        ![Mevcut ağırlığı sıfır olarak kabul etmek](../../assets/en/device/calibration-and-tare/use-current-weight-as-zero.png){ .doc-screenshot }
+
+4. İşlem bitince göstergeyi kontrol edin.
+
+Sonuç: Cihaz sonraki ölçümlerden darayı düşer. Dara alma fabrika kalibrasyon katsayısını değiştirmez.

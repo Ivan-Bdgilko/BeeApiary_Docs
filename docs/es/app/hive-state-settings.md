@@ -9,6 +9,6 @@ Esta pantalla controla la visibilidad y el orden de los campos en la vista expan
 
 ![Configurar la visibilidad y el orden de los campos de estado de la colmena](../../assets/en/app/hive-state-settings/hive-state-fields-order.jpg){ .doc-screenshot }
 
-Puede configurar la visualización del año y condición de la reina, tipo y descripción de colmena, tamaño de colonia, cría, larvas, huevos, diferentes tipos de estructura, agresión, enjambre, productividad de la reina y nivel de varroa.
+Por ejemplo, puedes cambiar la visualización del año de la reina, la fuerza de la colonia o el número de cuadros. Todos los campos se describen en [estado de la colmena](hive-state.md).
 
 Cambiar el orden afecta la forma en que se presentan los datos en la aplicación, pero no cambia los registros almacenados de la colmena.

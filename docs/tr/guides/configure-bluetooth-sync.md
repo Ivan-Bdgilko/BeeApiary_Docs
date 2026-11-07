@@ -39,9 +39,10 @@ Bu seçenek ve diğer anahtarlar aşağıda açıklanmıştır. [Ek Cihaz Ayarla
 
 7. Uygulamanın ana ekranına dönün. Bir sonraki saatlik döngü boyunca Bluetooth'u etkin ve telefonu güvenilir Bluetooth aralığında tutun.
 
+<span id="sync-result"></span>
 ## Sonucu kontrol edin
 
-Senkronizasyon yalnızca şu durumlarda gerçekleşir: **BLE info** Tartım terazilerinde ve Bluetooth'ta etkinleştirilir ve ilgili uygulama seçenekleri telefonda etkinleştirilir. Tartım terazileri, programlanmış bir uyandırma sırasında veya sonrasında iletişim için kullanılabilir hale gelir [manyetik anahtarla etkinleştirme](../device/installation.md#activation-reset).
+Senkronizasyon yalnızca şu durumlarda gerçekleşir: **BLE info** Tartım terazilerinde ve Bluetooth'ta etkinleştirilir ve ilgili uygulama seçenekleri telefonda etkinleştirilir. Tartım terazileri, programlanmış bir uyandırma sırasında veya sonrasında iletişim için kullanılabilir hale gelir [manyetik anahtarla etkinleştirme](../guides/set-up-device.md#activation-reset).
 
 Uygulama, açıkken veya Android'in gerekli zamanda çalışmasına ve uyanmasına izin vermesi durumunda arka planda veri alışverişi yapabilir.
 

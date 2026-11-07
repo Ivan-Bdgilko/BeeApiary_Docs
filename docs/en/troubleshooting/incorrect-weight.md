@@ -14,4 +14,4 @@
 6. Repeat the measurement without changing the calibration.
 
 !!! danger
-    Do not calibrate a new device because of a single suspicious result. Use calibration after a repair or confirmed data loss: [Calibrate the Scales](../guides/calibrate-scales.md).
+    Do not calibrate a new device because of a single suspicious result. Use calibration after a repair or confirmed data loss: [Calibrate the Scales](../device/calibration-and-tare.md#calibration).

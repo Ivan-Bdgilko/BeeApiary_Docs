@@ -12,6 +12,8 @@ Das Projekt ist offen für Hinweise und Vorschläge: Die Konstruktion verbirgt d
 
 ## Warum gibt es keinen verpflichtenden Serverspeicher?
 
+In erster Linie geht es um Privatsphäre und Sicherheit: Das System benötigt keinen Server, der ständig Daten über dich und deinen Bienenstand sammelt und speichert. Die überwiegende Mehrheit anderer Systeme ist nach diesem Prinzip aufgebaut. Insbesondere Standort- und Messdaten können indirekt Informationen über den Betrieb und mögliche Einnahmen offenlegen.
+
 Der grundlegende Betrieb der Bienenstockwaage und der App ist nicht von einem dauerhaften BeeApiary-Speicher auf einem externen Server abhängig. Messwerte werden auf der [microSD-Karte des Geräts](../system/data-storage.md) und lokal auf dem Telefon des Benutzers gespeichert. Das System erfordert keine zentrale Speicherung des Standorts oder Aktivitätsverlaufs des Besitzers.
 
 Für die [Synchronisierung über das WLAN-Netzwerk am Bienenstand](../system/local-wifi.md#apiary-wifi-routing) kann ein optionaler Vermittlungsdienst verwendet werden. Er überträgt Daten an die App, ist jedoch kein dauerhafter Speicher und wird für die anderen Kommunikationskanäle nicht benötigt.
