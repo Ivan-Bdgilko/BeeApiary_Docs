@@ -35,3 +35,7 @@ Die Konfiguration umfasst ein spezielles Untergestell, einen verbesserten temper
 | Bewegungssensor |  | ≈ 12 USD |
 
 Die angegebenen Preise sind Richtwerte. Verfügbarkeit, Kompatibilität mit der gewählten Konfiguration und Endpreis müssen bei der Bestellung bestätigt werden.
+
+<div class="battery-calculator"></div>
+
+<noscript>Für den Rechner ist JavaScript erforderlich.</noscript>

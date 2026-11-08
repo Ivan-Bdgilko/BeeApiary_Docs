@@ -1,5 +1,9 @@
 # Alimentation et chargement
 
+<div class="battery-calculator"></div>
+
+<noscript>JavaScript est nécessaire pour utiliser le calculateur.</noscript>
+
 L'appareil fonctionne à partir d'une ou deux cellules 18650 et se charge via USB Type-C. La source d'alimentation peut être un chargeur, une banque d'alimentation ou un panneau solaire en option.
 
 !!! note "Choisir un chargeur et un câble"

@@ -19,4 +19,8 @@ Poniżej specyfikacja ww BeeApiary wagi ula: zakresy pomiarowe, moc, kanały tra
 | Magazyn lokalny | microSD |
 | Waga zestawu | około 0,5 kg |
 
+<div class="battery-calculator"></div>
+
+<noscript>Kalkulator wymaga obsługi JavaScript.</noscript>
+
 Żywotność baterii zależy od konfiguracji urządzenia, stanu baterii, zasięgu sieci GSM i liczby wysłanych wiadomości SMS. W przypadku zalecanej konfiguracji wynosi to co najmniej pięć miesięcy, ale nie jest to gwarantowane we wszystkich warunkach.

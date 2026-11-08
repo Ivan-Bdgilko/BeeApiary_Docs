@@ -109,3 +109,38 @@
   overflow-wrap: anywhere;
   word-break: break-word;
 }
+
+.md-typeset .battery-calculator {
+  margin: 1.5em 0;
+  padding: 1em;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.8em;
+}
+
+.md-typeset .battery-calculator h3 { margin-top: 0; }
+.battery-calculator__results {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr));
+  gap: 1rem;
+}
+.battery-calculator label { display: block; font-weight: 600; margin: 0.8em 0 0.3em; }
+.battery-calculator label[hidden] { display: none; }
+.battery-calculator__choice { margin: 1em 0; padding: 0; border: 0; min-width: 0; }
+.battery-calculator__choice legend { font-weight: 600; }
+.battery-calculator__segments { display: flex; flex-wrap: wrap; gap: 0.25em; margin-top: 0.35em; }
+.battery-calculator .battery-calculator__segments label { position: relative; flex: 1 1 2.8rem; margin: 0; cursor: pointer; }
+.battery-calculator__segments input { position: absolute; width: 1px; height: 1px; opacity: 0; }
+.battery-calculator__segments span {
+  display: block;
+  padding: 0.45em 0.2em;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 2em;
+  text-align: center;
+  background: var(--md-default-fg-color--lightest);
+}
+.battery-calculator__segments input:checked + span { border-color: var(--md-primary-fg-color); background: var(--md-primary-fg-color); color: var(--md-primary-bg-color); }
+.battery-calculator__segments input:focus-visible + span { outline: 2px solid var(--md-accent-fg-color); outline-offset: 2px; }
+.battery-calculator__results { margin-top: 1.2em; padding-top: 1em; border-top: 1px solid var(--md-default-fg-color--lightest); }
+.battery-calculator__results strong, .battery-calculator__results span { display: block; }
+.battery-calculator__results strong { font-size: 1.2em; }
+.battery-calculator p { font-size: 0.85em; }

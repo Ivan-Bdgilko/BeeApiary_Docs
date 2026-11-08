@@ -1,5 +1,9 @@
 # Energía y carga
 
+<div class="battery-calculator"></div>
+
+<noscript>La calculadora requiere JavaScript.</noscript>
+
 El dispositivo funciona desde una o dos celdas 18650 y se carga a través de USB Type-C. La fuente de energía puede ser un cargador, un banco de energía o un panel solar opcional.
 
 !!! note "Elegir cargador y cable"

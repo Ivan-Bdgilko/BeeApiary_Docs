@@ -35,3 +35,7 @@ Konfiguracja obejmuje specjalną podstawę, ulepszony czujnik wagowy z kompensac
 | Czujnik ruchu |  | ≈ 12 USD |
 
 Podane ceny są orientacyjne. Dostępność opcji, zgodność z wybraną konfiguracją i ostateczną cenę należy potwierdzić podczas składania zamówienia.
+
+<div class="battery-calculator"></div>
+
+<noscript>Kalkulator wymaga obsługi JavaScript.</noscript>

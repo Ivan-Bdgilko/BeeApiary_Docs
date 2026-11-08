@@ -19,4 +19,8 @@ A continuación se muestran las especificaciones del BeeApiary Balanzas de colme
 | Almacenamiento local | microSD |
 | Peso del kit | aproximadamente 0,5 kilogramos |
 
+<div class="battery-calculator"></div>
+
+<noscript>La calculadora requiere JavaScript.</noscript>
+
 La duración de la batería depende de la configuración del dispositivo, el estado de la batería, la cobertura GSM y la cantidad de mensajes SMS. Con la configuración recomendada es de al menos cinco meses, pero esta duración no está garantizada en todas las condiciones.

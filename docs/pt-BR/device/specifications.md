@@ -19,4 +19,8 @@ Abaixo estão as especificações do BeeApiary balanças de colmeia: faixas de m
 | Armazenamento local | microSD |
 | Peso do kit | aproximadamente 0,5 kg |
 
+<div class="battery-calculator"></div>
+
+<noscript>O cálculo requer JavaScript.</noscript>
+
 A vida útil da bateria depende da configuração do dispositivo, do estado da bateria, da cobertura GSM e do número de mensagens SMS. Com a configuração recomendada são no mínimo cinco meses, mas esta duração não é garantida em todas as condições.

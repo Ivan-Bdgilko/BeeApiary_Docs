@@ -19,4 +19,8 @@ Nachfolgend findest du die technischen Daten der BeeApiary-Bienenstockwaage: Mes
 | Lokaler Speicher | microSD |
 | Gewicht des Sets | ungefähr 0,5 kg |
 
+<div class="battery-calculator"></div>
+
+<noscript>Für den Rechner ist JavaScript erforderlich.</noscript>
+
 Die Akkulaufzeit hängt von der Gerätekonfiguration, dem Zustand der Akkus, der GSM-Abdeckung und der Anzahl der SMS-Nachrichten ab. Mit der empfohlenen Konfiguration beträgt sie mindestens fünf Monate; dieser Wert kann jedoch nicht unter allen Bedingungen garantiert werden.

@@ -1,5 +1,9 @@
 # Power and Charging
 
+<div class="battery-calculator"></div>
+
+<noscript>JavaScript is required for the calculator.</noscript>
+
 The device operates from one or two 18650 cells and charges through USB Type-C. The power source can be a charger, a power bank, or an optional solar panel.
 
 !!! note "Choosing a charger and cable"

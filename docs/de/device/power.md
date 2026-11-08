@@ -1,5 +1,9 @@
 # Stromversorgung und Laden
 
+<div class="battery-calculator"></div>
+
+<noscript>Für den Rechner ist JavaScript erforderlich.</noscript>
+
 Das Gerät wird mit einer oder zwei 18650-Zellen betrieben und über USB Type-C geladen. Als Stromquelle können ein Ladegerät, eine Powerbank oder ein optionales Solarmodul dienen.
 
 !!! note "Ladegerät und Kabel auswählen"

@@ -1,5 +1,9 @@
 # Güç ve Şarj
 
+<div class="battery-calculator"></div>
+
+<noscript>Hesaplayıcı için JavaScript gereklidir.</noscript>
+
 Cihaz bir veya iki 18650 hücreden çalışır ve USB Type-C üzerinden şarj olur. Güç kaynağı bir şarj cihazı, bir güç bankası veya isteğe bağlı bir güneş paneli olabilir.
 
 !!! note "Şarj cihazı ve kablo seçimi"

@@ -1,5 +1,9 @@
 # Zasilanie i ładowanie
 
+<div class="battery-calculator"></div>
+
+<noscript>Kalkulator wymaga obsługi JavaScript.</noscript>
+
 Urządzenie jest zasilane z jednego lub dwóch ogniw 18650 i ładowane przez USB Type-C. Źródłem zasilania może być ładowarka, power bank lub opcjonalny panel słoneczny.
 
 !!! note "Wybór ładowarki i kabla"

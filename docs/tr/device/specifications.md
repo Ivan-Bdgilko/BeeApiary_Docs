@@ -19,4 +19,8 @@ Aşağıda özellikleri yer almaktadır BeeApiary arı kovanı tartı terazileri
 | Yerel depolama | microSD |
 | Kit ağırlığı | yaklaşık 0,5 kg |
 
+<div class="battery-calculator"></div>
+
+<noscript>Hesaplayıcı için JavaScript gereklidir.</noscript>
+
 Pil ömrü, cihazın yapılandırmasına, pil durumuna, GSM kapsama alanına ve SMS mesajı sayısına bağlıdır. Önerilen konfigürasyonda bu süre en az beş aydır ancak bu süre her koşulda garanti edilmez.

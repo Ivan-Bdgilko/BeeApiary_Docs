@@ -35,3 +35,7 @@ La configuration comprend un support spécial, un capteur de pesée amélioré e
 | Détecteur de mouvement |  | ≈ 12 USD |
 
 Les prix indiqués sont approximatifs. La disponibilité des options, leur compatibilité avec la configuration choisie et le prix final doivent être confirmés lors de la commande.
+
+<div class="battery-calculator"></div>
+
+<noscript>JavaScript est nécessaire pour utiliser le calculateur.</noscript>

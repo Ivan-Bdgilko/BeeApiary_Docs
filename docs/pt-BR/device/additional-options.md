@@ -35,3 +35,7 @@ A configuração inclui um suporte especial, um sensor de peso aprimorado com co
 | Sensor de movimento |  | ≈ 12 USD |
 
 Os preços informados são aproximados. A disponibilidade das opções, a compatibilidade com a configuração escolhida e o preço final devem ser confirmados no momento do pedido.
+
+<div class="battery-calculator"></div>
+
+<noscript>O cálculo requer JavaScript.</noscript>

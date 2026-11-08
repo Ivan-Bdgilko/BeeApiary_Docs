@@ -19,4 +19,8 @@ Vous trouverez ci-dessous les spécifications du BeeApiary balances pour ruches 
 | Stockage local | microSD |
 | Poids du kit | environ 0,5kg |
 
+<div class="battery-calculator"></div>
+
+<noscript>JavaScript est nécessaire pour utiliser le calculateur.</noscript>
+
 La durée de vie de la batterie dépend de la configuration de l'appareil, de l'état de la batterie, de la couverture GSM et du nombre de messages SMS. Avec la configuration recommandée, elle est d'au moins cinq mois, mais cette durée n'est pas garantie dans toutes les conditions.

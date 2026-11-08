@@ -19,4 +19,8 @@ Below are the specifications of the BeeApiary beehive scales: measurement ranges
 | Local storage | microSD |
 | Kit weight | approximately 0.5 kg |
 
+<div class="battery-calculator"></div>
+
+<noscript>JavaScript is required for the calculator.</noscript>
+
 Battery life depends on the device configuration, battery condition, GSM coverage, and number of SMS messages. With the recommended configuration, it is at least five months, but this duration is not guaranteed under all conditions.

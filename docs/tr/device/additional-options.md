@@ -35,3 +35,7 @@ Yapılandırma özel bir destek, sıcaklık kompanzasyonlu geliştirilmiş bir y
 | Hareket sensörü |  | ≈ 12 USD |
 
 Belirtilen fiyatlar yaklaşıktır. Seçeneklerin bulunabilirliği, seçilen yapılandırmayla uyumluluğu ve nihai fiyat sipariş sırasında doğrulanmalıdır.
+
+<div class="battery-calculator"></div>
+
+<noscript>Hesaplayıcı için JavaScript gereklidir.</noscript>

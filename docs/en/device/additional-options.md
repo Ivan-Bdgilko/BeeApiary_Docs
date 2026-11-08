@@ -35,3 +35,7 @@ The configuration includes a special support, an improved temperature-compensate
 | Motion sensor |  | ≈ 12 USD |
 
 The prices shown are approximate. Confirm option availability, compatibility with the selected configuration and the final price when ordering.
+
+<div class="battery-calculator"></div>
+
+<noscript>JavaScript is required for the calculator.</noscript>
