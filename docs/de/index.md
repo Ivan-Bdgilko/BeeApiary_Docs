@@ -10,7 +10,14 @@ BeeApiary verbindet eine Bienenstockwaage mit einem System zur Bienenstandüberw
 !!! note "Erhältliche Waagenmodelle"
     - [Bestellen oder kaufen: Basis-Bienenstockwaage mit GSM, Wi-Fi und Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Bestellen oder kaufen: Bienenstockwaage mit GSM, Wi-Fi und Bluetooth, Untergestell und verbessertem Sensor (mit „kleinem Plus“)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "Das „kleine Plus“ ist das kreuzförmige Untergestell")
-    - [Zusätzliche Optionen](device/additional-options.md)
+    - [Modelle und Zusatzausstattung der BeeApiary-Bienenstockwaage](device/additional-options.md)
+
+## Erste Schritte
+
+- [Schnellstart](quick-start/index.md)
+- [System und GSM einrichten](quick-start/full-system.md)
+- [App installieren](quick-start/app-only.md)
+- [Mit dem lokalen WLAN verbinden](quick-start/local-wifi.md)
 
 ![BeeApiary-Verbindungsarten: GSM/SMS, Wi-Fi AP, Wi-Fi STA und Bluetooth, lokale Datenspeicherung und Zugriff vom Computer](../assets/de/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -33,12 +40,6 @@ Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten und bild
 
 [Übertragungswege zur App vergleichen](system/connectivity.md)
 
-## Erste Schritte
-
-- [System und GSM einrichten](quick-start/full-system.md)
-- [App installieren](quick-start/app-only.md)
-- [Mit dem lokalen WLAN verbinden](quick-start/local-wifi.md)
-
 ## Dokumentation nach Bedarf
 
 - [BeeApiary-App verwenden](app/index.md)
@@ -47,4 +48,6 @@ Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten und bild
 - [Anleitungen](guides/index.md)
 - [Fehlerbehebung](troubleshooting/index.md)
 
-![Bestandteile des BeeApiary-Systems](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![Bestandteile des BeeApiary-Systems](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Verbesserte BeeApiary-Bienenstockwaage mit Kreuzgestell, Sensoren und Smartphone](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

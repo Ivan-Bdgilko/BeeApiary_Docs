@@ -11,7 +11,14 @@ BeeApiary — пасічні ваги та система моніторингу
 !!! note "Моделі ваг, які можна придбати"
     - [Замовити або купити: пасічні ваги GSM Wi-Fi Bluetooth базові](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Замовити або купити: пасічні ваги GSM Wi-Fi Bluetooth з опорою та покращеним датчиком (з плюсіком)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "Плюсік — опорна хрестовина")
-    - [Додаткові опції](device/additional-options.md)
+    - [Моделі та додаткові опції пасічних ваг BeeApiary](device/additional-options.md)
+
+## З чого почати
+
+- [Швидкий старт](quick-start/index.md)
+- [Налаштувати систему та зв'язок GSM](quick-start/full-system.md)
+- [Встановити застосунок](quick-start/app-only.md)
+- [Підключитися до локальної мережі Wi-Fi](quick-start/local-wifi.md)
 
 ![Способи зв’язку BeeApiary: GSM/SMS, Wi-Fi AP, Wi-Fi STA та Bluetooth, локальне зберігання даних і доступ із комп’ютера](../assets/uk/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -34,12 +41,6 @@ BeeApiary — пасічні ваги та система моніторингу
 
 [Порівняти способи отримання даних у застосунку](system/connectivity.md)
 
-## З чого почати
-
-- [Налаштувати систему та зв'язок GSM](quick-start/full-system.md)
-- [Встановити застосунок](quick-start/app-only.md)
-- [Підключитися до локальної мережі Wi-Fi](quick-start/local-wifi.md)
-
 ## Документація за потребою
 
 - [Використання застосунку BeeApiary](app/index.md)
@@ -48,4 +49,6 @@ BeeApiary — пасічні ваги та система моніторингу
 - [Практичні інструкції](guides/index.md)
 - [Усунення проблем](troubleshooting/index.md)
 
-![Склад системи BeeApiary](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![Склад системи BeeApiary](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Покращені пасічні ваги BeeApiary з хрестоподібною опорою, датчиками та телефоном](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

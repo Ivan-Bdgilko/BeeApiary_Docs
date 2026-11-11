@@ -10,7 +10,14 @@ BeeApiary combina balanzas para colmenas y un sistema de monitorización del api
 !!! note "Modelos de básculas disponibles para comprar"
     - [Encargar o comprar: básculas básicas para colmenas con GSM, Wi-Fi y Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Encargar o comprar: básculas para colmenas con GSM, Wi-Fi y Bluetooth, soporte y sensor mejorado (con «plusito»)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "El «plusito» es el soporte en forma de cruz")
-    - [Opciones adicionales](device/additional-options.md)
+    - [Modelos y opciones adicionales de las básculas BeeApiary](device/additional-options.md)
+
+## Empezando
+
+- [Inicio rápido](quick-start/index.md)
+- [Configurar el sistema y GSM](quick-start/full-system.md)
+- [Instalar la aplicación](quick-start/app-only.md)
+- [Conéctate a la red Wi-Fi local](quick-start/local-wifi.md)
 
 ![BeeApiary métodos de conexión: GSM/SMS, Wi-Fi AP, Wi-Fi STA y Bluetooth, almacenamiento de datos local y acceso a computadora](../assets/es/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -33,12 +40,6 @@ Un conjunto puede funcionar de forma autónoma como balanzas BeeApiary y, junto 
 
 [Compare las formas en que los datos pueden llegar a la aplicación](system/connectivity.md)
 
-## Empezando
-
-- [Configurar el sistema y GSM](quick-start/full-system.md)
-- [Instalar la aplicación](quick-start/app-only.md)
-- [Conéctate a la red Wi-Fi local](quick-start/local-wifi.md)
-
 ## Documentación cuando la necesites
 
 - [Usando el BeeApiary aplicación](app/index.md)
@@ -47,4 +48,6 @@ Un conjunto puede funcionar de forma autónoma como balanzas BeeApiary y, junto 
 - [Guías](guides/index.md)
 - [Solución de problemas](troubleshooting/index.md)
 
-![BeeApiary componentes del sistema](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary componentes del sistema](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Báscula apícola BeeApiary mejorada con soporte en cruz, sensores y teléfono](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

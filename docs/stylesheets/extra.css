@@ -26,6 +26,12 @@
   margin: 0.75rem auto 1.5rem;
 }
 
+.md-typeset p.model-purchase-link {
+  text-align: center;
+  font-size: 1.15em;
+  font-weight: 600;
+}
+
 .home-brand-logo {
   display: inline-block;
   width: 2.0rem;
@@ -102,6 +108,13 @@
   display: block;
   max-width: 100%;
   overflow-x: auto;
+}
+
+.md-typeset img.option-thumbnail {
+  display: block;
+  width: 96px;
+  max-width: 100%;
+  height: auto;
 }
 
 .md-typeset :not(pre) > code {

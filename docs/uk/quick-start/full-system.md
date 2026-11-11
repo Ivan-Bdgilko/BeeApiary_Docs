@@ -16,6 +16,10 @@ translation_status: translated
 
     ![Порівняння форматів SIM-карток](../../assets/uk/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
 
+!!! note "Відеоінструкції"
+    - [Встановлення SIM-картки: старіша плата (до 2026 року)](https://www.youtube.com/shorts/GF2KLso4DMo)
+    - [Встановлення SIM-картки: новіша плата (з 2026 року)](https://www.youtube.com/watch?v=g_5MQBxkzY0)
+
 1. Відкрийте кришку блока збирання даних.
 
     ![Відкритий блок збирання даних](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
@@ -24,11 +28,25 @@ translation_status: translated
 
     Правильне положення картки:
 
+    Розташування GSM-модуля відрізняється залежно від ревізії плати: на фото показано старішу плату до 2026 року та новішу ревізію з 2026 року.
+
+    **Старіша плата (до 2026 року):**
+
     ![Правильно встановлена micro-SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Новіша плата (з 2026 року):**
+
+    ![Орієнтація micro-SIM на новішій платі](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Вставте SIM-картку та обережно натисніть на неї, майже повністю зануривши у слот, доки не почуєте легке клацання, що підтверджує фіксацію:
 
+    **Старіша плата (до 2026 року):**
+
     ![Фіксація micro-SIM у слоті](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Новіша плата (з 2026 року):**
+
+    ![Зафіксована micro-SIM на новішій платі](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 3. [Активуйте або перезапустіть пристрій](../guides/set-up-device.md#activation-reset): коротко піднесіть магнітний ключ до фірмової позначки на зворотному боці основного блока.
 
@@ -52,7 +70,5 @@ translation_status: translated
     У поле пристрою вводьте номер установленої в ньому SIM-картки, а не номер телефону користувача.
 
 Якщо перше SMS не надійшло, не змінюйте налаштування навмання. Скористайтеся сторінкою [Не надходять SMS](../troubleshooting/no-sms.md). Номер користувача змінюйте через [налаштування GSM](../guides/configure-gsm.md) лише за потреби.
-
-[Відео про встановлення SIM-картки](https://www.youtube.com/shorts/GF2KLso4DMo)
 
 Докладніше: [GSM та SMS](../system/gsm-and-sms.md) і [потік даних](../system/data-flow.md).

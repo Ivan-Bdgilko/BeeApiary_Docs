@@ -33,3 +33,14 @@ class HomepagePhotoTests(unittest.TestCase):
     def test_original_jpeg_is_supported_for_independent_compression_rollback(self):
         html = '<img src="beeapiary-system-components.jpeg" width="1079" height="754">'
         self.assertIn('data-deferred-src="beeapiary-system-components.jpeg"', self.render(html))
+
+    def test_transparent_photo_uses_matching_placeholder_and_fallback(self):
+        import base64
+        original = '<img src="../assets/common/system/overview/beeapiary-transparent-system-components.webp" alt="Device" width="1500" height="1049" loading="lazy" decoding="async">'
+        result = self.render(original)
+        self.assertIn('data-deferred-src="../assets/common/system/overview/beeapiary-transparent-system-components.webp"', result)
+        self.assertIn(original + '</noscript>', result)
+        encoded = result.split('data:image/svg+xml;base64,', 1)[1].split('"', 1)[0]
+        self.assertIn('width="1500" height="1049"', base64.b64decode(encoded).decode())
+        with self.assertRaises(ValueError):
+            self.render(original.replace('1500', '1079'))

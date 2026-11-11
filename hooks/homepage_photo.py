@@ -7,7 +7,11 @@ from pathlib import PurePosixPath
 from urllib.parse import urlsplit
 
 
-PHOTOS = {"beeapiary-system-components.webp", "beeapiary-system-components.jpeg"}
+PHOTOS = {
+    "beeapiary-system-components.webp": (1079, 754),
+    "beeapiary-system-components.jpeg": (1079, 754),
+    "beeapiary-transparent-system-components.webp": (1500, 1049),
+}
 SVG = '<svg xmlns="http://www.w3.org/2000/svg" width="1079" height="754"></svg>'
 PLACEHOLDER = "data:image/svg+xml;base64," + base64.b64encode(SVG.encode()).decode()
 INITIALIZE = """(()=>{const photo=document.currentScript.previousElementSibling;
@@ -37,10 +41,14 @@ def on_page_content(html, page, config, files):
     if len(matches) != 1:
         raise ValueError("Expected exactly one lower homepage photo")
     original, attrs = matches[0]
-    if (attrs.get("width"), attrs.get("height")) != ("1079", "754"):
+    name = PurePosixPath(urlsplit(attrs["src"]).path).name
+    width, height = PHOTOS[name]
+    if (attrs.get("width"), attrs.get("height")) != (str(width), str(height)):
         raise ValueError("Homepage photo dimensions changed; update its placeholder")
+    svg = f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}"></svg>'
+    placeholder_src = "data:image/svg+xml;base64," + base64.b64encode(svg.encode()).decode()
     attrs["data-deferred-src"] = attrs["src"]
-    attrs["src"] = PLACEHOLDER
+    attrs["src"] = placeholder_src
     attrs["loading"] = "eager"
     attrs["fetchpriority"] = "low"
     placeholder = "<img " + " ".join(

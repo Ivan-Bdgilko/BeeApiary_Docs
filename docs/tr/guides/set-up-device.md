@@ -14,11 +14,25 @@
 
     Doğru takılmış kart:
 
+    GSM modülünün konumu, 2026 öncesi eski kartlarda ve 2026'dan itibaren yeni kartlarda farklıdır.
+
+    **Eski kart (2026 öncesi):**
+
     ![Doğru takılmış mikro SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Yeni kart (2026'dan itibaren):**
+
+    ![Yeni kartta micro-SIM yönü](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     SIM kartı takın ve yerine kilitlendiğini onaylayan yumuşak bir tıklama duyuncaya kadar neredeyse tamamen yuvaya doğru yavaşça bastırın:
 
+    **Eski kart (2026 öncesi):**
+
     ![mikro SIM yuvaya kilitlendi](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Yeni kart (2026'dan itibaren):**
+
+    ![Yeni kartta yuvaya sabitlenmiş micro-SIM](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 4. <span id="activation-reset"></span>Cihazı etkinleştirin veya yeniden başlatın: manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
 

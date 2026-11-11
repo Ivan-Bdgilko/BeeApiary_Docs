@@ -10,7 +10,14 @@ BeeApiary combines beehive scales and an apiary monitoring system with GSM, Wi-F
 !!! note "Scale models available for purchase"
     - [Order or buy: basic beehive scales with GSM, Wi-Fi and Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Order or buy: beehive scales with GSM, Wi-Fi and Bluetooth, a support and an improved sensor (“little plus” model)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "The “little plus” is the cross-shaped support")
-    - [Additional options](device/additional-options.md)
+    - [BeeApiary Beehive Scale Models and Additional Options](device/additional-options.md)
+
+## Getting started
+
+- [Quick Start](quick-start/index.md)
+- [Set up the system and GSM](quick-start/full-system.md)
+- [Install the app](quick-start/app-only.md)
+- [Connect to the local Wi-Fi network](quick-start/local-wifi.md)
 
 ![BeeApiary connection methods: GSM/SMS, Wi-Fi AP, Wi-Fi STA and Bluetooth, local data storage and computer access](../assets/en/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -33,12 +40,6 @@ One unit can operate independently as BeeApiary hive scales and, together with s
 
 [Compare the ways data can reach the app](system/connectivity.md)
 
-## Getting started
-
-- [Set up the system and GSM](quick-start/full-system.md)
-- [Install the app](quick-start/app-only.md)
-- [Connect to the local Wi-Fi network](quick-start/local-wifi.md)
-
 ## Documentation when you need it
 
 - [Using the BeeApiary app](app/index.md)
@@ -47,4 +48,6 @@ One unit can operate independently as BeeApiary hive scales and, together with s
 - [Guides](guides/index.md)
 - [Troubleshooting](troubleshooting/index.md)
 
-![BeeApiary system components](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary system components](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Improved BeeApiary hive scales with cross-shaped support, sensors and a phone](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

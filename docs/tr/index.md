@@ -10,7 +10,14 @@ BeeApiary, GSM, Wi-Fi ve Bluetooth desteğine sahip kovan tartıları ve arılı
 !!! note "Satın alınabilen tartı modelleri"
     - [Sipariş verin veya satın alın: GSM, Wi-Fi ve Bluetooth özellikli temel kovan tartıları](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Sipariş verin veya satın alın: GSM, Wi-Fi ve Bluetooth özellikli, destekli ve geliştirilmiş sensörlü kovan tartıları (“minik artı”lı)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "“Minik artı”, artı şeklindeki destek tabanıdır")
-    - [Ek seçenekler](device/additional-options.md)
+    - [BeeApiary Kovan Tartısı Modelleri ve Ek Seçenekler](device/additional-options.md)
+
+## Başlarken
+
+- [Hızlı başlangıç](quick-start/index.md)
+- [Sistemi ve GSM bağlantısını kurun](quick-start/full-system.md)
+- [Uygulamayı yükleyin](quick-start/app-only.md)
+- [Yerel Wi-Fi ağına bağlanın](quick-start/local-wifi.md)
 
 ![BeeApiary bağlantı yöntemleri: GSM/SMS, Wi-Fi AP, Wi-Fi STA ve Bluetooth, yerel veri depolama ve bilgisayar erişimi](../assets/tr/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -33,12 +40,6 @@ Bir set bağımsız olarak BeeApiary kovan tartısı şeklinde çalışabilir; s
 
 [Verilerin uygulamaya ulaşma yollarını karşılaştırın](system/connectivity.md)
 
-## Başlarken
-
-- [Sistemi ve GSM bağlantısını kurun](quick-start/full-system.md)
-- [Uygulamayı yükleyin](quick-start/app-only.md)
-- [Yerel Wi-Fi ağına bağlanın](quick-start/local-wifi.md)
-
 ## İhtiyacınız olduğunda belgeler
 
 - [kullanarak BeeApiary uygulama](app/index.md)
@@ -47,4 +48,6 @@ Bir set bağımsız olarak BeeApiary kovan tartısı şeklinde çalışabilir; s
 - [Kılavuzlar](guides/index.md)
 - [Sorun giderme](troubleshooting/index.md)
 
-![BeeApiary sistem bileşenleri](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary sistem bileşenleri](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Çapraz destekli gelişmiş BeeApiary kovan tartısı, sensörler ve telefon](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }
