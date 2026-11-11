@@ -1,5 +1,7 @@
 # Zugangspunkt der Waage
 
+Der Zugangspunkt `apiary_net` der Waage arbeitet nur mit 2,4 GHz. Dein Smartphone, Tablet oder Laptop muss WLAN-Verbindungen in diesem Band unterstützen.
+
 1. [Aktiviere das Gerät oder starte es neu](../guides/set-up-device.md#activation-reset): Halte den Magnetschlüssel kurz an die Markenkennzeichnung auf der Rückseite der Haupteinheit.
 2. Öffne innerhalb einer Minute die Liste der WLAN-Netzwerke auf deinem Telefon, Tablet oder Laptop.
 3. Verbinde dich mit `apiary_net` und verwende das anfängliche Passwort `apiary_wifi`.

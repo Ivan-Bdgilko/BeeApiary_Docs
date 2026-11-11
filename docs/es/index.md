@@ -10,7 +10,14 @@ BeeApiary combina balanzas para colmenas y un sistema de monitorización del api
 !!! note "Modelos de básculas disponibles para comprar"
     - [Encargar o comprar: básculas básicas para colmenas con GSM, Wi-Fi y Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Encargar o comprar: básculas para colmenas con GSM, Wi-Fi y Bluetooth, soporte y sensor mejorado (con «plusito»)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "El «plusito» es el soporte en forma de cruz")
-    - [Opciones adicionales](device/additional-options.md)
+    - [Modelos y opciones adicionales de las básculas BeeApiary](device/additional-options.md)
+
+## Empezando
+
+- [Inicio rápido](quick-start/index.md)
+- [Configurar el sistema y GSM](quick-start/full-system.md)
+- [Instalar la aplicación](quick-start/app-only.md)
+- [Conéctate a la red Wi-Fi local](quick-start/local-wifi.md)
 
 ![BeeApiary métodos de conexión: GSM/SMS, Wi-Fi AP, Wi-Fi STA y Bluetooth, almacenamiento de datos local y acceso a computadora](../assets/es/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -18,7 +25,7 @@ BeeApiary combina balanzas para colmenas y un sistema de monitorización del api
     - [Vídeos sobre el BeeApiary canal de youtube](https://www.youtube.com/@beeApiary)
 
 !!! note "Contactar directamente"
-    [![Escribir al autor de BeeApiary en Telegram](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![Código QR para contactar por WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    [![Escribir al autor de BeeApiary en Telegram](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="474" height="504" loading="lazy" decoding="async" }](https://t.me/IVAN_BDGILKO) ![Código QR para contactar por WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" } ![Código QR para contactar por Viber](../assets/common/brand/viber-contact-qr.png){ .contact-qr-code width="430" height="420" loading="lazy" decoding="async" }
     {: .contact-qr-links }
 
 Un conjunto puede funcionar de forma autónoma como balanzas BeeApiary y, junto con los sensores y la aplicación, formar una colmena inteligente BeeApiary. Varias de estas colmenas, reunidas en la aplicación con un diario digital, forman un apiario inteligente BeeApiary. Las distintas formas de acceder a los datos, las notas a largo plazo, las mediciones y los eventos ofrecen una visión completa de la vida del apiario y ayudan al apicultor a comprender mejor a sus abejas.
@@ -33,12 +40,6 @@ Un conjunto puede funcionar de forma autónoma como balanzas BeeApiary y, junto 
 
 [Compare las formas en que los datos pueden llegar a la aplicación](system/connectivity.md)
 
-## Empezando
-
-- [Configurar el sistema y GSM](quick-start/full-system.md)
-- [Instalar la aplicación](quick-start/app-only.md)
-- [Conéctate a la red Wi-Fi local](quick-start/local-wifi.md)
-
 ## Documentación cuando la necesites
 
 - [Usando el BeeApiary aplicación](app/index.md)
@@ -47,4 +48,6 @@ Un conjunto puede funcionar de forma autónoma como balanzas BeeApiary y, junto 
 - [Guías](guides/index.md)
 - [Solución de problemas](troubleshooting/index.md)
 
-![BeeApiary componentes del sistema](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary componentes del sistema](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Báscula apícola BeeApiary mejorada con soporte en cruz, sensores y teléfono](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

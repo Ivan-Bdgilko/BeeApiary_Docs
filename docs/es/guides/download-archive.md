@@ -1,5 +1,7 @@
 # Cómo descargar el archivo
 
+El punto de acceso `apiary_net` de las básculas solo funciona en 2,4 GHz. El teléfono, la tableta o el portátil debe admitir conexiones Wi-Fi en esta banda.
+
 Antes de comenzar, asegúrese de que BeeApiary La aplicación está actualizada a través de Google Play y las básculas para colmenas ejecutan el firmware lanzado en agosto de 2024 o posterior. Si la versión instalada es anterior o no está seguro de su fecha, siga [Actualizar el BeeApiary Firmware de básculas para colmenas](update-device.md).
 
 La descarga manual de archivos es útil cuando la báscula no tiene tarjeta SIM, otros métodos de sincronización no están disponibles temporalmente o aparecen espacios en las mediciones. La aplicación importa los datos almacenados y los agrega al historial local.

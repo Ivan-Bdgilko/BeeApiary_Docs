@@ -5,6 +5,8 @@ description: "Compare GSM, direct Wi-Fi, the apiary network and Bluetooth for re
 
 # Apiary Monitoring Through GSM, Wi-Fi and Bluetooth { #receiving-data-in-the-app }
 
+BeeApiary hive scales support Wi-Fi exclusively in the 2.4 GHz band. Select a 2.4 GHz network SSID: the scales cannot connect to a 5 GHz-only network.
+
 For apiary monitoring, data from the BeeApiary beehive scales can reach the app in four ways: through GSM/SMS, a direct Wi-Fi connection, the apiary Wi-Fi network or Bluetooth. The choice between local and remote monitoring depends on the phone’s location and the connection available near the scales.
 
 | Channel | Phone location | Requirements | How data reaches the app |

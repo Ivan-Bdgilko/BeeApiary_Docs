@@ -7,6 +7,9 @@ description: "BeeApiary-Bienenstockwaage über WLAN verbinden: direkter Zugangsp
 
 Die BeeApiary-Bienenstockwaage mit WLAN unterstützt zwei Wege zum Datenempfang: die direkte Verbindung des Telefons mit dem Zugangspunkt des Geräts (AP) und die Übertragung über das WLAN-Netzwerk am Bienenstand (STA). Die erste Methode funktioniert in der Nähe der Waage; die zweite ermöglicht den Datenzugriff aus der Ferne, wenn Internetzugang verfügbar ist.
 
+!!! warning "Geräte-WLAN: nur 2,4 GHz"
+    BeeApiary-Bienenstockwaagen unterstützen WLAN ausschließlich im 2,4-GHz-Band. Wähle die SSID eines 2,4-GHz-Netzwerks: Mit einem reinen 5-GHz-Netzwerk kann sich die Waage nicht verbinden. Verwendet dein Router eine gemeinsame SSID für beide Bänder, muss dafür 2,4 GHz aktiviert sein. Du musst weder 5 GHz deaktivieren noch einen separaten Netzwerknamen anlegen. Die Einschränkung gilt für die Waage; das entfernte Smartphone kann jede verfügbare Internetverbindung nutzen.
+
 ## Direkte Verbindung zum Gerät { #direct-access-point }
 
 Nach der Aktivierung mit dem Magnetschlüssel erstellt das Gerät vorübergehend einen lokalen Zugangspunkt. Er ist gewöhnlich etwa eine Minute lang verfügbar; dieses Zeitfenster kann jedoch in den Einstellungen geändert werden.

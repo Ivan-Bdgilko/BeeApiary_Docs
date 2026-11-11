@@ -33,7 +33,7 @@ Ekran görüntüsündeki ağ değerleri yalnızca örnektir. Cihazınızda farkl
 
 | Alan | İşlev | Notlar |
 |---|---|---|
-| **Wi-Fi ağı** | Cihazın bağlanacağı harici Wi-Fi ağının adı. | Cihazın yakınında bulunan ağın SSID'siyle tam olarak eşleşmelidir. |
+| **Wi-Fi ağı** | Cihazın bağlanacağı harici Wi-Fi ağının adı. | Cihazın yakınında bulunan ağın SSID'siyle tam olarak eşleşmelidir. Bir 2,4 GHz ağının SSID’sini seçin; yalnızca 5 GHz ağları desteklenmez. |
 | **Wi-Fi şifresi** | Harici Wi-Fi ağının şifresi. | Web arayüzü değeri maskeler. |
 | **STA anahtarı** | Uygulama aracılığıyla kayıt sırasında alınan hizmet iletim anahtarı. | Manuel olarak düzenleme yapmayın. |
 

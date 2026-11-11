@@ -33,7 +33,7 @@ Die gezeigten Netzwerkwerte sind Beispiele und unterscheiden sich von denen dein
 
 | Feld | Funktion | Hinweis |
 |---|---|---|
-| **WiFi-Netzwerk** | Name des externen WLANs, mit dem sich das Gerät verbindet. | Muss genau der am Gerät verfügbaren SSID entsprechen. |
+| **WiFi-Netzwerk** | Name des externen WLANs, mit dem sich das Gerät verbindet. | Muss genau der am Gerät verfügbaren SSID entsprechen. Wähle die SSID eines 2,4-GHz-Netzwerks; reine 5-GHz-Netzwerke werden nicht unterstützt. |
 | **WiFi-Passwort** | Passwort dieses WLANs. | Die Weboberfläche zeigt den Wert maskiert an. |
 | **STA-Schlüssel** | Dienstschlüssel für die Übertragung, der bei der Registrierung in der App erstellt wird. | Nicht manuell bearbeiten. |
 

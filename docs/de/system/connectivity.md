@@ -5,6 +5,8 @@ description: "GSM, direktes WLAN, das Netzwerk am Bienenstand und Bluetooth für
 
 # Bienenstandüberwachung über GSM, WLAN und Bluetooth { #daten-in-der-app-empfangen }
 
+BeeApiary-Bienenstockwaagen unterstützen WLAN ausschließlich im 2,4-GHz-Band. Wähle die SSID eines 2,4-GHz-Netzwerks: Mit einem reinen 5-GHz-Netzwerk kann sich die Waage nicht verbinden.
+
 Zur Bienenstandüberwachung können Daten von der BeeApiary-Bienenstockwaage auf vier Wegen zur App gelangen: über GSM/SMS, eine direkte WLAN-Verbindung, das WLAN-Netzwerk am Bienenstand oder Bluetooth. Die Wahl zwischen lokaler Überwachung und Überwachung aus der Ferne hängt davon ab, wo sich das Telefon befindet und welche Verbindung in der Nähe der Waage verfügbar ist.
 
 | Kanal | Standort des Telefons | Voraussetzungen | So gelangen die Daten zur App |

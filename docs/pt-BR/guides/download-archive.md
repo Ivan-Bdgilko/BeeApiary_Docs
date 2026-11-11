@@ -1,5 +1,7 @@
 # Como baixar o arquivo
 
+O ponto de acesso `apiary_net` das balanças funciona somente em 2,4 GHz. O celular, tablet ou notebook deve oferecer suporte a conexões Wi-Fi nessa faixa.
+
 Antes de começar, certifique-se de que BeeApiary o aplicativo está atualizado por meio do Google Play e as balanças de colmeia estão executando firmware lançado em agosto de 2024 ou posterior. Se a versão instalada for mais antiga ou você não tiver certeza da data, siga [Atualize o BeeApiary Firmware de balanças para colmeia](update-device.md).
 
 O download manual do arquivo é útil quando as balanças não possuem cartão SIM, outros métodos de sincronização estão temporariamente indisponíveis ou aparecem lacunas nas medições. O aplicativo importa os dados armazenados e os adiciona ao histórico local.

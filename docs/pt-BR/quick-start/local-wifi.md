@@ -1,5 +1,7 @@
 # Ponto de acesso da balança
 
+O ponto de acesso `apiary_net` das balanças funciona somente em 2,4 GHz. O celular, tablet ou notebook deve oferecer suporte a conexões Wi-Fi nessa faixa.
+
 1. [Ative ou reinicie o dispositivo](../guides/set-up-device.md#activation-reset): segure brevemente a chave magnética contra a marca na parte traseira da unidade principal.
 2. Dentro de um minuto, abra a lista de redes Wi-Fi no seu telefone, tablet ou laptop.
 3. Conectar-se a `apiary_net` usando a senha inicial `apiary_wifi`.

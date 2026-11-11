@@ -7,6 +7,9 @@ description: "Conectar BeeApiary Balanzas para colmenas a través de Wi-Fi: un p
 
 BeeApiary Las básculas para colmenas con Wi-Fi admiten dos formas de recibir datos: una conexión telefónica directa al punto de acceso (AP) del dispositivo y la transmisión a través de la red Wi-Fi del apiario (STA). El primer método funciona cerca de la balanza; el segundo proporciona acceso remoto a datos cuando hay conectividad a Internet disponible.
 
+!!! warning "Wi-Fi del dispositivo: solo 2,4 GHz"
+    Las básculas BeeApiary solo admiten Wi-Fi en la banda de 2,4 GHz. Seleccione el SSID de una red de 2,4 GHz: las básculas no pueden conectarse a una red que funcione únicamente en 5 GHz. Si el router utiliza el mismo SSID para ambas bandas, debe tener activada la banda de 2,4 GHz. No es necesario desactivar 5 GHz ni crear otro nombre de red. Esta limitación se aplica a las básculas; el teléfono remoto puede utilizar cualquier conexión a Internet disponible.
+
 ## Conexión directa al dispositivo { #direct-access-point }
 
 Después de la activación con la llave magnética, el dispositivo crea temporalmente un punto de acceso local. Por lo general, está disponible durante aproximadamente un minuto, pero este intervalo se puede cambiar en la configuración.

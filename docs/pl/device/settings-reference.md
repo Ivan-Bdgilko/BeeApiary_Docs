@@ -9,6 +9,8 @@ Zobacz także [zasady bezpiecznego edytowania](service-reference.md). Nie zmieni
 
 ## `net_settings`
 
+Wagi pasieczne BeeApiary obsługują Wi-Fi wyłącznie w paśmie 2,4 GHz. Wybierz SSID sieci 2,4 GHz: waga nie połączy się z siecią działającą tylko w paśmie 5 GHz.
+
 W tej sekcji przechowywane są parametry punktu dostępu urządzenia, połączenia z zewnętrzną siecią Wi-Fi, transmisji danych i protokołu FTP. An `SSID`/`PASSWORD` lub `SSID_STA`/`PASSWORD_STA` pair jest stosowana tylko wtedy, gdy obie wartości są obecne i niepuste.
 
 | Pole | Przeznaczenie | Wymagalność | Dopuszczalne wartości / granice | Wartość początkowa | Jeśli nie podano | Poziom |

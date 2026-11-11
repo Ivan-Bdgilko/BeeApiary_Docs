@@ -1,5 +1,8 @@
 # Keine Verbindung zum WLAN möglich
 
+!!! warning "Geräte-WLAN: nur 2,4 GHz"
+    Der Zugangspunkt `apiary_net` der Waage arbeitet nur mit 2,4 GHz. Dein Smartphone, Tablet oder Laptop muss WLAN-Verbindungen in diesem Band unterstützen. Wähle die SSID eines 2,4-GHz-Netzwerks; reine 5-GHz-Netzwerke werden nicht unterstützt.
+
 1. [Aktiviere die BeeApiary-Bienenstockwaage oder starte sie neu](../guides/set-up-device.md#activation-reset): Halte den Magnetschlüssel kurz an die Markenkennzeichnung auf der Rückseite der Haupteinheit.
 2. Suche innerhalb der ersten Minute nach dem Neustart nach dem Netzwerk.
 3. Prüfe die SSID; der Standardwert ist `apiary_net`.

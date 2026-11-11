@@ -9,6 +9,8 @@ Ayrıca bkz. [güvenli düzenleme kuralları](service-reference.md). Değiştirm
 
 ## `net_settings`
 
+BeeApiary kovan tartıları yalnızca 2,4 GHz bandında Wi-Fi destekler. Bir 2,4 GHz ağının SSID’sini seçin: tartı yalnızca 5 GHz bandında çalışan bir ağa bağlanamaz.
+
 Bu bölümde cihazın erişim noktası, harici Wi-Fi ağına bağlantı, veri iletimi ve FTP ile ilgili parametreler saklanır. bir `SSID`/`PASSWORD` veya `SSID_STA`/`PASSWORD_STA` çifti yalnızca her iki değer de mevcut olduğunda ve boş olmadığında uygulanır.
 
 | Alan | İşlev | Zorunluluk | İzin verilen değerler / sınırlar | Başlangıç değeri | Belirtilmemişse | Düzey |

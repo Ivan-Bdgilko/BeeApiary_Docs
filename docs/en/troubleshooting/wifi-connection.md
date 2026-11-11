@@ -1,5 +1,8 @@
 # Cannot Connect to Wi-Fi
 
+!!! warning "Device Wi-Fi: 2.4 GHz only"
+    The scales’ `apiary_net` access point operates only at 2.4 GHz. Your phone, tablet or laptop must support Wi-Fi connections in this band. Select a 2.4 GHz network SSID; 5 GHz-only networks are not supported.
+
 1. [Activate or restart the BeeApiary hive scales](../guides/set-up-device.md#activation-reset): briefly hold the magnetic key against the branded mark on the back of the main unit.
 2. Look for the network during the first minute after the restart.
 3. Check the SSID; the default value is `apiary_net`.

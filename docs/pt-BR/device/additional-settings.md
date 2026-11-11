@@ -33,7 +33,7 @@ Os valores de rede na captura de tela são apenas exemplos. Eles serão diferent
 
 | Campo | Função | Notas |
 |---|---|---|
-| **Rede Wi-Fi** | Nome da rede Wi-Fi externa à qual o dispositivo se conectará. | Deve corresponder exatamente ao SSID da rede disponível próximo ao dispositivo. |
+| **Rede Wi-Fi** | Nome da rede Wi-Fi externa à qual o dispositivo se conectará. | Deve corresponder exatamente ao SSID da rede disponível próximo ao dispositivo. Selecione o SSID de uma rede de 2,4 GHz; redes exclusivas de 5 GHz não são compatíveis. |
 | **Senha Wi-Fi** | Senha da rede Wi-Fi externa. | A interface da web mascara o valor. |
 | **Chave STA** | Chave de transmissão do serviço obtida durante o cadastro pelo app. | Não edite manualmente. |
 

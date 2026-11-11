@@ -1,5 +1,7 @@
 # Comment configurer la balance BeeApiary
 
+Le point d’accès `apiary_net` des balances fonctionne uniquement à 2,4 GHz. Le téléphone, la tablette ou l’ordinateur portable doit prendre en charge les connexions Wi-Fi dans cette bande.
+
 1. Chargez l'appareil via USB Type-C.
 
     !!! note "Choisir un chargeur et un câble"
@@ -14,11 +16,25 @@
 
     Carte correctement installée :
 
+    L’emplacement du module GSM diffère entre les cartes antérieures à 2026 et les cartes plus récentes à partir de 2026.
+
+    **Ancienne carte (avant 2026) :**
+
     ![Micro-SIM correctement installée](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Carte plus récente (à partir de 2026) :**
+
+    ![Orientation de la micro-SIM sur la carte plus récente](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Insérez la carte SIM et enfoncez-la doucement presque complètement dans la fente jusqu'à ce que vous entendiez un léger clic confirmant qu'elle est verrouillée en place :
 
+    **Ancienne carte (avant 2026) :**
+
     ![micro-SIM verrouillée dans l'emplacement](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Carte plus récente (à partir de 2026) :**
+
+    ![micro-SIM verrouillée sur la carte plus récente](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 4. <span id="activation-reset"></span>Activez ou redémarrez l'appareil : maintenez brièvement la clé magnétique contre le marquage au dos de l'unité principale.
 

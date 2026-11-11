@@ -1,5 +1,8 @@
 # Nie można połączyć się z Wi-Fi
 
+!!! warning "Wi-Fi urządzenia: tylko 2,4 GHz"
+    Punkt dostępowy wagi `apiary_net` działa tylko w paśmie 2,4 GHz. Telefon, tablet lub laptop musi obsługiwać połączenia Wi-Fi w tym paśmie. Wybierz SSID sieci 2,4 GHz; sieci działające wyłącznie w paśmie 5 GHz nie są obsługiwane.
+
 1. [Aktywuj lub uruchom ponownie BeeApiary wagi do ula](../guides/set-up-device.md#activation-reset): krótko przyciśnij klucz magnetyczny do oznaczenia marki z tyłu jednostki głównej.
 2. Poszukaj sieci w ciągu pierwszej minuty po ponownym uruchomieniu.
 3. Sprawdź identyfikator SSID; wartość domyślna to `apiary_net`.

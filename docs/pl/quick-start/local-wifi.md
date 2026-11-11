@@ -1,5 +1,7 @@
 # Punkt dostępowy wagi
 
+Punkt dostępowy wagi `apiary_net` działa tylko w paśmie 2,4 GHz. Telefon, tablet lub laptop musi obsługiwać połączenia Wi-Fi w tym paśmie.
+
 1. [Aktywuj lub uruchom ponownie urządzenie](../guides/set-up-device.md#activation-reset): krótko przyciśnij klucz magnetyczny do oznaczenia marki z tyłu jednostki głównej.
 2. W ciągu minuty otwórz listę sieci Wi-Fi na swoim telefonie, tablecie lub laptopie.
 3. Połącz się z `apiary_net` używając hasła początkowego `apiary_wifi`.

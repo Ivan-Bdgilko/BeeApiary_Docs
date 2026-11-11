@@ -4,6 +4,8 @@ translation_status: translated
 
 # Як налаштувати пасічні ваги BeeApiary
 
+Точка доступу ваг `apiary_net` працює лише в діапазоні 2,4 ГГц. Телефон, планшет або ноутбук має підтримувати підключення до Wi-Fi цього діапазону.
+
 1. Зарядіть пристрій через USB Type-C.
 
     !!! note "Вибір зарядного пристрою та кабелю"
@@ -18,11 +20,25 @@ translation_status: translated
 
     Правильно встановлена картка:
 
+    Розташування GSM-модуля відрізняється залежно від ревізії плати: на фото показано старішу плату до 2026 року та новішу ревізію з 2026 року.
+
+    **Старіша плата (до 2026 року):**
+
     ![Правильно встановлена micro-SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Новіша плата (з 2026 року):**
+
+    ![Орієнтація micro-SIM на новішій платі](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Вставте SIM-картку та обережно натисніть на неї, майже повністю зануривши у слот, доки не почуєте легке клацання, що підтверджує фіксацію:
 
+    **Старіша плата (до 2026 року):**
+
     ![Фіксація micro-SIM у слоті](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Новіша плата (з 2026 року):**
+
+    ![Зафіксована micro-SIM на новішій платі](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 4. <span id="activation-reset"></span>Активуйте або перезапустіть пристрій: коротко піднесіть магнітний ключ до фірмової позначки на зворотному боці основного блока.
 

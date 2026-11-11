@@ -1,5 +1,7 @@
 # Jak pobrać archiwum
 
+Punkt dostępowy wagi `apiary_net` działa tylko w paśmie 2,4 GHz. Telefon, tablet lub laptop musi obsługiwać połączenia Wi-Fi w tym paśmie.
+
 Zanim zaczniesz, upewnij się, że BeeApiary aplikacja jest aktualna w sklepie Google Play, a wagi do ula mają oprogramowanie sprzętowe wydane w sierpniu 2024 r. lub później. Jeśli zainstalowana wersja jest starsza lub nie jesteś pewien jej daty, postępuj zgodnie z instrukcjami [Zaktualizuj BeeApiary Oprogramowanie wag do ważenia ula](update-device.md).
 
 Ręczne pobieranie archiwum przydaje się w przypadku, gdy waga nie posiada karty SIM, chwilowo nie są dostępne inne metody synchronizacji lub w pomiarach pojawiają się luki. Aplikacja importuje zapisane dane i dodaje je do lokalnej historii.

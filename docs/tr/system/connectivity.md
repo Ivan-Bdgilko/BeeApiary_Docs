@@ -5,6 +5,8 @@ description: "Ölçümleri almak için GSM, doğrudan Wi-Fi, arı kovanı ağı 
 
 # GSM, Wi-Fi ve Bluetooth ile arılık izleme { #_1 }
 
+BeeApiary kovan tartıları yalnızca 2,4 GHz bandında Wi-Fi destekler. Bir 2,4 GHz ağının SSID’sini seçin: tartı yalnızca 5 GHz bandında çalışan bir ağa bağlanamaz.
+
 Arı kovanlarının izlenmesi için, veriler BeeApiary arı kovanı tartım terazileri uygulamaya dört yoldan erişebilir: GSM/SMS, doğrudan Wi-Fi bağlantısı, arı kovanı Wi-Fi ağı veya Bluetooth aracılığıyla. Yerel ve uzaktan izleme arasındaki seçim, telefonun konumuna ve tartı terazisinin yakınındaki mevcut bağlantıya bağlıdır.
 
 | Kanal | Telefon konumu | Gereksinimler | Veriler uygulamaya nasıl ulaşır? |

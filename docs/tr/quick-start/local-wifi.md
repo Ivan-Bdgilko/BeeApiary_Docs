@@ -1,5 +1,7 @@
 # Tartı erişim noktası
 
+Tartının `apiary_net` erişim noktası yalnızca 2,4 GHz bandında çalışır. Telefon, tablet veya dizüstü bilgisayar bu bantta Wi-Fi bağlantısını desteklemelidir.
+
 1. [Cihazı etkinleştirin veya yeniden başlatın](../guides/set-up-device.md#activation-reset): Manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
 2. Bir dakika içinde telefonunuzda, tabletinizde veya dizüstü bilgisayarınızda Wi-Fi ağlarının listesini açın.
 3. Bağlan `apiary_net` başlangıç şifresini kullanma `apiary_wifi`.

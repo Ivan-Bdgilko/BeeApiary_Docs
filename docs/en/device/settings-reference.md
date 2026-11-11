@@ -9,6 +9,8 @@ See also the [safe editing rules](service-reference.md). Do not change `SERVICE`
 
 ## `net_settings`
 
+BeeApiary hive scales support Wi-Fi exclusively in the 2.4 GHz band. Select a 2.4 GHz network SSID: the scales cannot connect to a 5 GHz-only network.
+
 This section stores parameters for the device access point, connection to an external Wi-Fi network, data transmission, and FTP. An `SSID`/`PASSWORD` or `SSID_STA`/`PASSWORD_STA` pair is applied only when both values are present and nonempty.
 
 | Field | Purpose | Requirement | Allowed values / range | Initial value | If omitted | Level |

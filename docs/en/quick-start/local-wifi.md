@@ -1,5 +1,7 @@
 # Scales access point
 
+The scales’ `apiary_net` access point operates only at 2.4 GHz. Your phone, tablet or laptop must support Wi-Fi connections in this band.
+
 1. [Activate or restart the device](../guides/set-up-device.md#activation-reset): briefly hold the magnetic key against the branded mark on the back of the main unit.
 2. Within one minute, open the list of Wi-Fi networks on your phone, tablet, or laptop.
 3. Connect to `apiary_net` using the initial password `apiary_wifi`.

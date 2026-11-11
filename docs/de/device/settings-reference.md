@@ -9,6 +9,8 @@ Beachte außerdem die [Regeln zur sicheren Bearbeitung](service-reference.md). �
 
 ## `net_settings`
 
+BeeApiary-Bienenstockwaagen unterstützen WLAN ausschließlich im 2,4-GHz-Band. Wähle die SSID eines 2,4-GHz-Netzwerks: Mit einem reinen 5-GHz-Netzwerk kann sich die Waage nicht verbinden.
+
 Dieser Abschnitt speichert die Parameter des Gerätezugangspunkts, der Verbindung zu einem externen WLAN-Netzwerk, der Datenübertragung und des FTP-Zugriffs. Ein Paar `SSID`/`PASSWORD` oder `SSID_STA`/`PASSWORD_STA` wird nur angewendet, wenn beide Werte vorhanden und nicht leer sind.
 
 | Feld | Zweck | Erforderlichkeit | Zulässige Werte / Bereich | Anfangswert | Wenn nicht angegeben | Ebene |

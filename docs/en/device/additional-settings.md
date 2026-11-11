@@ -33,7 +33,7 @@ The network values shown are examples; yours will differ.
 
 | Field | Purpose | Notes |
 |---|---|---|
-| **WiFi network** | Name of the external Wi-Fi network used by the device. | Must exactly match the SSID available near the device. |
+| **WiFi network** | Name of the external Wi-Fi network used by the device. | Must exactly match the SSID available near the device. Select a 2.4 GHz network SSID; 5 GHz-only networks are not supported. |
 | **WiFi password** | Password of that network. | The web interface masks the value. |
 | **STA key** | Service transmission key obtained during registration in the app. | Do not edit manually. |
 

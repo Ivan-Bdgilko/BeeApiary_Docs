@@ -7,6 +7,9 @@ description: "Bağlan BeeApiary Wi-Fi üzerinden arı kovanı tartım terazileri
 
 BeeApiary Wi-Fi özellikli arı kovanı tartım terazileri, veri almanın iki yolunu destekler: cihazın erişim noktasına (AP) doğrudan telefon bağlantısı ve arı kovanı Wi-Fi ağı (STA) üzerinden iletim. İlk yöntem tartı terazisinin yakınında çalışır; ikincisi, İnternet bağlantısı mevcut olduğunda uzaktan veri erişimi sağlar.
 
+!!! warning "Cihaz Wi-Fi bağlantısı: yalnızca 2,4 GHz"
+    BeeApiary kovan tartıları yalnızca 2,4 GHz bandında Wi-Fi destekler. Bir 2,4 GHz ağının SSID’sini seçin: tartı yalnızca 5 GHz bandında çalışan bir ağa bağlanamaz. Yönlendirici her iki bant için aynı SSID’yi kullanıyorsa bu ağda 2,4 GHz etkin olmalıdır. 5 GHz’i kapatmanız veya ayrı bir ağ adı oluşturmanız gerekmez. Bu kısıtlama tartı için geçerlidir; uzaktaki telefon mevcut herhangi bir İnternet bağlantısını kullanabilir.
+
 ## Cihaza Doğrudan Bağlantı { #direct-access-point }
 
 Manyetik anahtarla etkinleştirildikten sonra cihaz geçici olarak yerel bir erişim noktası oluşturur. Genellikle yaklaşık bir dakika boyunca kullanılabilir, ancak bu aralık ayarlardan değiştirilebilir.

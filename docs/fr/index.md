@@ -10,7 +10,14 @@ BeeApiary associe des balances de ruche à un système de suivi du rucher compat
 !!! note "Modèles de balances disponibles à l'achat"
     - [Commander ou acheter : balances de base pour ruches avec GSM, Wi-Fi et Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Commander ou acheter : balances pour ruches avec GSM, Wi-Fi et Bluetooth, support et capteur amélioré (avec un « petit plus »)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "Le « petit plus » désigne le support en forme de croix")
-    - [Options supplémentaires](device/additional-options.md)
+    - [Modèles et options supplémentaires des balances BeeApiary](device/additional-options.md)
+
+## Commencer
+
+- [Démarrage rapide](quick-start/index.md)
+- [Configurer le système et le GSM](quick-start/full-system.md)
+- [Installez l'application](quick-start/app-only.md)
+- [Connectez-vous au réseau Wi-Fi local](quick-start/local-wifi.md)
 
 ![BeeApiary méthodes de connexion : GSM/SMS, Wi-Fi AP, Wi-Fi STA et Bluetooth, stockage de données local et accès à l'ordinateur](../assets/fr/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -18,7 +25,7 @@ BeeApiary associe des balances de ruche à un système de suivi du rucher compat
     - [Des vidéos sur le BeeApiary Chaîne YouTube](https://www.youtube.com/@beeApiary)
 
 !!! note "Nous contacter directement"
-    [![Écrire à l’auteur de BeeApiary sur Telegram](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![Code QR pour nous contacter sur WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    [![Écrire à l’auteur de BeeApiary sur Telegram](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="474" height="504" loading="lazy" decoding="async" }](https://t.me/IVAN_BDGILKO) ![Code QR pour nous contacter sur WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" } ![Code QR pour nous contacter sur Viber](../assets/common/brand/viber-contact-qr.png){ .contact-qr-code width="430" height="420" loading="lazy" decoding="async" }
     {: .contact-qr-links }
 
 Un ensemble peut fonctionner de manière autonome comme balance BeeApiary et, avec les capteurs et l’application, former une ruche intelligente BeeApiary. Plusieurs de ces ruches réunies dans l’application avec un journal numérique constituent un rucher intelligent BeeApiary. Les différents modes d’accès aux données, les notes conservées dans le temps, les mesures et les événements donnent une vue d’ensemble de la vie du rucher et aident l’apiculteur à mieux comprendre ses abeilles.
@@ -33,12 +40,6 @@ Un ensemble peut fonctionner de manière autonome comme balance BeeApiary et, av
 
 [Comparez les manières dont les données peuvent atteindre l'application](system/connectivity.md)
 
-## Commencer
-
-- [Configurer le système et le GSM](quick-start/full-system.md)
-- [Installez l'application](quick-start/app-only.md)
-- [Connectez-vous au réseau Wi-Fi local](quick-start/local-wifi.md)
-
 ## De la documentation quand vous en avez besoin
 
 - [En utilisant le BeeApiary application](app/index.md)
@@ -47,4 +48,6 @@ Un ensemble peut fonctionner de manière autonome comme balance BeeApiary et, av
 - [Guides](guides/index.md)
 - [Dépannage](troubleshooting/index.md)
 
-![BeeApiary composants du système](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary composants du système](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Balance de ruche BeeApiary améliorée avec support en croix, capteurs et téléphone](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

@@ -7,6 +7,9 @@ description: "Conectar BeeApiary balanças de colmeia via Wi-Fi: ponto de acesso
 
 BeeApiary Balanças de colmeia com Wi-Fi suportam duas formas de receber dados: uma conexão telefônica direta ao ponto de acesso (AP) do dispositivo e transmissão através da rede Wi-Fi do apiário (STA). O primeiro método funciona próximo às balanças; o segundo fornece acesso remoto a dados quando a conectividade com a Internet está disponível.
 
+!!! warning "Wi-Fi do dispositivo: somente 2,4 GHz"
+    As balanças BeeApiary oferecem suporte a Wi-Fi somente na faixa de 2,4 GHz. Selecione o SSID de uma rede de 2,4 GHz: as balanças não se conectam a redes que funcionam apenas em 5 GHz. Se o roteador usa o mesmo SSID para as duas faixas, a faixa de 2,4 GHz deve estar ativada. Não é necessário desativar 5 GHz nem criar outro nome de rede. A restrição se aplica às balanças; o celular remoto pode usar qualquer conexão à Internet disponível.
+
 ## Conexão direta ao dispositivo { #direct-access-point }
 
 Após a ativação com a chave magnética, o dispositivo cria temporariamente um ponto de acesso local. Geralmente fica disponível por cerca de um minuto, mas esse intervalo pode ser alterado nas configurações.

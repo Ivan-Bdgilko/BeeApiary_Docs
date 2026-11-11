@@ -5,6 +5,8 @@ description: "Porównaj GSM, bezpośrednie Wi-Fi, sieć pasieczną i Bluetooth d
 
 # Monitoring pasieki przez GSM, Wi-Fi i Bluetooth { #_1 }
 
+Wagi pasieczne BeeApiary obsługują Wi-Fi wyłącznie w paśmie 2,4 GHz. Wybierz SSID sieci 2,4 GHz: waga nie połączy się z siecią działającą tylko w paśmie 5 GHz.
+
 Do monitorowania pasieki wykorzystuje się dane z BeeApiary Waga ula może połączyć się z aplikacją na cztery sposoby: poprzez GSM/SMS, bezpośrednie połączenie Wi-Fi, pasieczną sieć Wi-Fi lub Bluetooth. Wybór pomiędzy monitorowaniem lokalnym a zdalnym zależy od lokalizacji telefonu i dostępnego połączenia w pobliżu wagi.
 
 | Kanał | Lokalizacja telefonu | Wymagania | Jak dane docierają do aplikacji |

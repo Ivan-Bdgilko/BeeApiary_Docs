@@ -9,6 +9,8 @@ Voir aussi le [règles d'édition sécurisées](service-reference.md). Ne change
 
 ## `net_settings`
 
+Les balances BeeApiary prennent en charge uniquement le Wi-Fi dans la bande de 2,4 GHz. Sélectionnez le SSID d’un réseau de 2,4 GHz : les balances ne peuvent pas se connecter à un réseau fonctionnant uniquement à 5 GHz.
+
 Cette section stocke les paramètres du point d'accès de l'appareil, de la connexion à un réseau Wi-Fi externe, de la transmission de données et du FTP. Un `SSID`/`PASSWORD` ou `SSID_STA`/`PASSWORD_STA` La paire est appliquée uniquement lorsque les deux valeurs sont présentes et non vides.
 
 | Champ | Fonction | Caractère obligatoire | Valeurs autorisées / limites | Valeur initiale | Si non défini | Niveau |

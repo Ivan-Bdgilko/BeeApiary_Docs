@@ -1,5 +1,7 @@
 # Arşiv Nasıl İndirilir
 
+Tartının `apiary_net` erişim noktası yalnızca 2,4 GHz bandında çalışır. Telefon, tablet veya dizüstü bilgisayar bu bantta Wi-Fi bağlantısını desteklemelidir.
+
 Başlamadan önce, emin olun BeeApiary uygulama Google Play aracılığıyla günceldir ve arı kovanı tartım terazileri, Ağustos 2024 veya sonrasında piyasaya sürülen donanım yazılımını çalıştırmaktadır. Yüklü sürüm daha eskiyse veya tarihinden emin değilseniz aşağıdaki adımları izleyin: [Güncelleme BeeApiary Arı kovanı tartı terazileri Firmware](update-device.md).
 
 Tartım terazisinde SIM kart bulunmadığında, diğer senkronizasyon yöntemleri geçici olarak kullanılamadığında veya ölçümlerde boşluklar oluştuğunda manuel arşiv indirme işlemi faydalıdır. Uygulama, depolanan verileri içe aktarır ve yerel geçmişe ekler.

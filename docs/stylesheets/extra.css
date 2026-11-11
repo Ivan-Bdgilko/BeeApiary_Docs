@@ -26,6 +26,12 @@
   margin: 0.75rem auto 1.5rem;
 }
 
+.md-typeset p.model-purchase-link {
+  text-align: center;
+  font-size: 1.15em;
+  font-weight: 600;
+}
+
 .home-brand-logo {
   display: inline-block;
   width: 2.0rem;
@@ -104,6 +110,13 @@
   overflow-x: auto;
 }
 
+.md-typeset img.option-thumbnail {
+  display: block;
+  width: 96px;
+  max-width: 100%;
+  height: auto;
+}
+
 .md-typeset :not(pre) > code {
   white-space: normal;
   overflow-wrap: anywhere;
@@ -117,7 +130,8 @@
   border-radius: 0.8em;
 }
 
-.md-typeset .battery-calculator h3 { margin-top: 0; }
+.md-typeset .battery-calculator h3 { margin-top: 0; text-align: center; }
+.battery-calculator__summary strong { font-size: 1.2em; }
 .battery-calculator__results {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr));
@@ -141,6 +155,5 @@
 .battery-calculator__segments input:checked + span { border-color: var(--md-primary-fg-color); background: var(--md-primary-fg-color); color: var(--md-primary-bg-color); }
 .battery-calculator__segments input:focus-visible + span { outline: 2px solid var(--md-accent-fg-color); outline-offset: 2px; }
 .battery-calculator__results { margin-top: 1.2em; padding-top: 1em; border-top: 1px solid var(--md-default-fg-color--lightest); }
-.battery-calculator__results strong, .battery-calculator__results span { display: block; }
-.battery-calculator__results strong { font-size: 1.2em; }
+.battery-calculator__results span { display: block; }
 .battery-calculator p { font-size: 0.85em; }

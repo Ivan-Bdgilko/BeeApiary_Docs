@@ -1,5 +1,7 @@
 # How to Set Up BeeApiary Beehive Scales
 
+The scales’ `apiary_net` access point operates only at 2.4 GHz. Your phone, tablet or laptop must support Wi-Fi connections in this band.
+
 1. Charge the device through USB Type-C.
 
     !!! note "Choosing a charger and cable"
@@ -14,11 +16,25 @@
 
     Correctly installed card:
 
+    The GSM module is in a different location on older boards made before 2026 and newer boards from 2026 onward.
+
+    **Older board (before 2026):**
+
     ![Correctly installed micro-SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Newer board (from 2026):**
+
+    ![micro-SIM orientation on the newer board](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Insert the SIM card and gently press it almost completely into the slot until you hear a soft click confirming that it is locked in place:
 
+    **Older board (before 2026):**
+
     ![micro-SIM locked in the slot](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Newer board (from 2026):**
+
+    ![micro-SIM locked on the newer board](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 4. <span id="activation-reset"></span>Activate or restart the device: briefly hold the magnetic key against the branded mark on the back of the main unit.
 

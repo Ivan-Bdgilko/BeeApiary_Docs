@@ -7,6 +7,9 @@ description: "Połącz BeeApiary waga do ula przez Wi-Fi: bezpośredni punkt dos
 
 BeeApiary wagi ula z Wi-Fi obsługują dwa sposoby odbioru danych: bezpośrednie połączenie telefoniczne z punktem dostępowym urządzenia (AP) oraz transmisję poprzez pasieczną sieć Wi-Fi (STA). Pierwsza metoda działa w pobliżu wag; drugi zapewnia zdalny dostęp do danych, gdy dostępna jest łączność z Internetem.
 
+!!! warning "Wi-Fi urządzenia: tylko 2,4 GHz"
+    Wagi pasieczne BeeApiary obsługują Wi-Fi wyłącznie w paśmie 2,4 GHz. Wybierz SSID sieci 2,4 GHz: waga nie połączy się z siecią działającą tylko w paśmie 5 GHz. Jeśli router używa wspólnego SSID dla obu pasm, pasmo 2,4 GHz musi być dla niego włączone. Nie trzeba wyłączać pasma 5 GHz ani tworzyć osobnej nazwy sieci. Ograniczenie dotyczy wagi; telefon poza pasieką może korzystać z dowolnego dostępnego połączenia z Internetem.
+
 ## Bezpośrednie połączenie z urządzeniem { #direct-access-point }
 
 Po aktywacji kluczem magnetycznym urządzenie tymczasowo tworzy lokalny punkt dostępowy. Zwykle jest dostępny przez około jedną minutę, ale ten odstęp można zmienić w ustawieniach.

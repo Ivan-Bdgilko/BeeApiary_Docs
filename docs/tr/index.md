@@ -10,7 +10,14 @@ BeeApiary, GSM, Wi-Fi ve Bluetooth desteğine sahip kovan tartıları ve arılı
 !!! note "Satın alınabilen tartı modelleri"
     - [Sipariş verin veya satın alın: GSM, Wi-Fi ve Bluetooth özellikli temel kovan tartıları](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Sipariş verin veya satın alın: GSM, Wi-Fi ve Bluetooth özellikli, destekli ve geliştirilmiş sensörlü kovan tartıları (“minik artı”lı)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "“Minik artı”, artı şeklindeki destek tabanıdır")
-    - [Ek seçenekler](device/additional-options.md)
+    - [BeeApiary Kovan Tartısı Modelleri ve Ek Seçenekler](device/additional-options.md)
+
+## Başlarken
+
+- [Hızlı başlangıç](quick-start/index.md)
+- [Sistemi ve GSM bağlantısını kurun](quick-start/full-system.md)
+- [Uygulamayı yükleyin](quick-start/app-only.md)
+- [Yerel Wi-Fi ağına bağlanın](quick-start/local-wifi.md)
 
 ![BeeApiary bağlantı yöntemleri: GSM/SMS, Wi-Fi AP, Wi-Fi STA ve Bluetooth, yerel veri depolama ve bilgisayar erişimi](../assets/tr/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -18,7 +25,7 @@ BeeApiary, GSM, Wi-Fi ve Bluetooth desteğine sahip kovan tartıları ve arılı
     - [Şuradaki videolar BeeApiary YouTube kanalı](https://www.youtube.com/@beeApiary)
 
 !!! note "Doğrudan iletişime geçin"
-    [![BeeApiary yazarına Telegram üzerinden yazın](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![WhatsApp üzerinden iletişim için QR kodu](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    [![BeeApiary yazarına Telegram üzerinden yazın](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="474" height="504" loading="lazy" decoding="async" }](https://t.me/IVAN_BDGILKO) ![WhatsApp üzerinden iletişim için QR kodu](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" } ![Viber üzerinden iletişim için QR kodu](../assets/common/brand/viber-contact-qr.png){ .contact-qr-code width="430" height="420" loading="lazy" decoding="async" }
     {: .contact-qr-links }
 
 Bir set bağımsız olarak BeeApiary kovan tartısı şeklinde çalışabilir; sensörler ve uygulamayla birlikte ise akıllı bir BeeApiary kovanı oluşturur. Dijital günlükle birlikte uygulamada bir araya getirilen birkaç kovan, akıllı bir BeeApiary arılığı oluşturur. Verilere farklı yollarla erişim, uzun süreli notlar, ölçümler ve olaylar arılığın yaşamına ilişkin bütünlüklü bir görünüm sunar ve arıcının arılarını daha iyi anlamasına yardımcı olur.
@@ -33,12 +40,6 @@ Bir set bağımsız olarak BeeApiary kovan tartısı şeklinde çalışabilir; s
 
 [Verilerin uygulamaya ulaşma yollarını karşılaştırın](system/connectivity.md)
 
-## Başlarken
-
-- [Sistemi ve GSM bağlantısını kurun](quick-start/full-system.md)
-- [Uygulamayı yükleyin](quick-start/app-only.md)
-- [Yerel Wi-Fi ağına bağlanın](quick-start/local-wifi.md)
-
 ## İhtiyacınız olduğunda belgeler
 
 - [kullanarak BeeApiary uygulama](app/index.md)
@@ -47,4 +48,6 @@ Bir set bağımsız olarak BeeApiary kovan tartısı şeklinde çalışabilir; s
 - [Kılavuzlar](guides/index.md)
 - [Sorun giderme](troubleshooting/index.md)
 
-![BeeApiary sistem bileşenleri](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary sistem bileşenleri](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Çapraz destekli gelişmiş BeeApiary kovan tartısı, sensörler ve telefon](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

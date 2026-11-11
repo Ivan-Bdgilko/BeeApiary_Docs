@@ -1,5 +1,7 @@
 # Point d’accès de la balance
 
+Le point d’accès `apiary_net` des balances fonctionne uniquement à 2,4 GHz. Le téléphone, la tablette ou l’ordinateur portable doit prendre en charge les connexions Wi-Fi dans cette bande.
+
 1. [Activer ou redémarrer l'appareil](../guides/set-up-device.md#activation-reset): maintenez brièvement la clé magnétique contre la marque au dos de l'unité principale.
 2. En une minute, ouvrez la liste des réseaux Wi-Fi sur votre téléphone, tablette ou ordinateur portable.
 3. Connectez-vous à `apiary_net` en utilisant le mot de passe initial `apiary_wifi`.

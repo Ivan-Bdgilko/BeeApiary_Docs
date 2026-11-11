@@ -9,6 +9,8 @@ Ver también el [reglas de edición segura](service-reference.md). no cambiar `S
 
 ## `net_settings`
 
+Las básculas BeeApiary solo admiten Wi-Fi en la banda de 2,4 GHz. Seleccione el SSID de una red de 2,4 GHz: las básculas no pueden conectarse a una red que funcione únicamente en 5 GHz.
+
 Esta sección almacena parámetros para el punto de acceso del dispositivo, conexión a una red Wi-Fi externa, transmisión de datos y FTP. un `SSID`/`PASSWORD` o `SSID_STA`/`PASSWORD_STA` El par se aplica solo cuando ambos valores están presentes y no están vacíos.
 
 | Campo | Función | Obligatoriedad | Valores permitidos / límites | Valor inicial | Si no se especifica | Nivel |

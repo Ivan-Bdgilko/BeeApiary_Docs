@@ -5,6 +5,8 @@ description: "Compare GSM, Wi-Fi directo, la red del apiario y Bluetooth para re
 
 # Monitorización del apiario por GSM, Wi-Fi y Bluetooth { #_1 }
 
+Las básculas BeeApiary solo admiten Wi-Fi en la banda de 2,4 GHz. Seleccione el SSID de una red de 2,4 GHz: las básculas no pueden conectarse a una red que funcione únicamente en 5 GHz.
+
 Para el monitoreo de apiarios, los datos del BeeApiary Las básculas para colmenas pueden acceder a la aplicación de cuatro maneras: a través de GSM/SMS, una conexión Wi-Fi directa, la red Wi-Fi del apiario o Bluetooth. La elección entre monitoreo local y remoto depende de la ubicación del teléfono y de la conexión disponible cerca de la báscula.
 
 | canal | Ubicación del teléfono | Requisitos | Cómo llegan los datos a la aplicación |

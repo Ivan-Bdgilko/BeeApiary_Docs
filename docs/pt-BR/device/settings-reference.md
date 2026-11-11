@@ -9,6 +9,8 @@ Veja também o [regras de edição segura](service-reference.md). Não mude `SER
 
 ## `net_settings`
 
+As balanças BeeApiary oferecem suporte a Wi-Fi somente na faixa de 2,4 GHz. Selecione o SSID de uma rede de 2,4 GHz: as balanças não se conectam a redes que funcionam apenas em 5 GHz.
+
 Esta seção armazena parâmetros para o ponto de acesso do dispositivo, conexão a uma rede Wi-Fi externa, transmissão de dados e FTP. Um `SSID`/`PASSWORD` ou `SSID_STA`/`PASSWORD_STA` pair é aplicado somente quando ambos os valores estão presentes e não vazios.
 
 | Campo | Função | Obrigatoriedade | Valores permitidos / limites | Valor inicial | Se não especificado | Nível |

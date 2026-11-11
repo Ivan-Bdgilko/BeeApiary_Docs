@@ -1,5 +1,7 @@
 # Punto de acceso de la báscula
 
+El punto de acceso `apiary_net` de las básculas solo funciona en 2,4 GHz. El teléfono, la tableta o el portátil debe admitir conexiones Wi-Fi en esta banda.
+
 1. [Activar o reiniciar el dispositivo](../guides/set-up-device.md#activation-reset): mantenga brevemente la llave magnética contra la marca en la parte posterior de la unidad principal.
 2. En un minuto, abra la lista de redes Wi-Fi en su teléfono, tableta o computadora portátil.
 3. Conéctate a `apiary_net` usando la contraseña inicial `apiary_wifi`.

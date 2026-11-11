@@ -7,6 +7,9 @@ description: "Se connecter BeeApiary balance pour ruches en Wi-Fi : accès direc
 
 BeeApiary Les balances pour ruches avec Wi-Fi prennent en charge deux manières de recevoir des données : une connexion téléphonique directe au point d'accès de l'appareil (AP) et la transmission via le réseau Wi-Fi du rucher (STA). La première méthode fonctionne à proximité des balances ; le second fournit un accès aux données à distance lorsque la connectivité Internet est disponible.
 
+!!! warning "Wi-Fi de l’appareil : 2,4 GHz uniquement"
+    Les balances BeeApiary prennent en charge uniquement le Wi-Fi dans la bande de 2,4 GHz. Sélectionnez le SSID d’un réseau de 2,4 GHz : les balances ne peuvent pas se connecter à un réseau fonctionnant uniquement à 5 GHz. Si le routeur utilise un même SSID pour les deux bandes, la bande de 2,4 GHz doit être activée. Il n’est pas nécessaire de désactiver le 5 GHz ni de créer un autre nom de réseau. Cette restriction concerne les balances ; le téléphone distant peut utiliser toute connexion Internet disponible.
+
 ## Connexion directe à l'appareil { #direct-access-point }
 
 Après activation avec la clé magnétique, l'appareil crée temporairement un point d'accès local. Il est généralement disponible pendant environ une minute, mais cet intervalle peut être modifié dans les paramètres.

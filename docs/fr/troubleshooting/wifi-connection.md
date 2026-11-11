@@ -1,5 +1,8 @@
 # Impossible de se connecter au Wi-Fi
 
+!!! warning "Wi-Fi de l’appareil : 2,4 GHz uniquement"
+    Le point d’accès `apiary_net` des balances fonctionne uniquement à 2,4 GHz. Le téléphone, la tablette ou l’ordinateur portable doit prendre en charge les connexions Wi-Fi dans cette bande. Sélectionnez le SSID d’un réseau de 2,4 GHz ; les réseaux fonctionnant uniquement à 5 GHz ne sont pas pris en charge.
+
 1. [Activez ou redémarrez le BeeApiary balances pour ruches](../guides/set-up-device.md#activation-reset): maintenez brièvement la clé magnétique contre la marque au dos de l'unité principale.
 2. Recherchez le réseau pendant la première minute après le redémarrage.
 3. Vérifiez le SSID ; la valeur par défaut est `apiary_net`.

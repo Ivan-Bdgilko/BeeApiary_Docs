@@ -5,6 +5,8 @@ description: "Comparez le GSM, le Wi-Fi direct, le réseau rucher et le Bluetoot
 
 # Suivi du rucher par GSM, Wi-Fi et Bluetooth { #_1 }
 
+Les balances BeeApiary prennent en charge uniquement le Wi-Fi dans la bande de 2,4 GHz. Sélectionnez le SSID d’un réseau de 2,4 GHz : les balances ne peuvent pas se connecter à un réseau fonctionnant uniquement à 5 GHz.
+
 Pour le suivi des ruchers, les données du BeeApiary Les balances pour ruches peuvent accéder à l'application de quatre manières : via GSM/SMS, une connexion Wi-Fi directe, le réseau Wi-Fi du rucher ou Bluetooth. Le choix entre la surveillance locale et à distance dépend de l’emplacement du téléphone et de la connexion disponible à proximité de la balance.
 
 | Chaîne | Localisation du téléphone | Exigences | Comment les données parviennent à l'application |

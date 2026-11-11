@@ -1,5 +1,7 @@
 # Como configurar a balança de colmeia BeeApiary
 
+O ponto de acesso `apiary_net` das balanças funciona somente em 2,4 GHz. O celular, tablet ou notebook deve oferecer suporte a conexões Wi-Fi nessa faixa.
+
 1. Carregue o dispositivo através de USB Type-C.
 
     !!! note "Escolhendo um carregador e cabo"
@@ -14,11 +16,25 @@
 
     Cartão instalado corretamente:
 
+    A posição do módulo GSM difere entre placas anteriores a 2026 e placas mais recentes a partir de 2026.
+
+    **Placa anterior (antes de 2026):**
+
     ![Micro-SIM instalado corretamente](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Placa mais recente (a partir de 2026):**
+
+    ![Orientação do micro-SIM na placa mais recente](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Insira o cartão SIM e pressione-o suavemente quase completamente no slot até ouvir um clique suave confirmando que está travado no lugar:
 
+    **Placa anterior (antes de 2026):**
+
     ![micro-SIM bloqueado no slot](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Placa mais recente (a partir de 2026):**
+
+    ![micro-SIM travado na placa mais recente](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 4. <span id="activation-reset"></span>Ative ou reinicie o dispositivo: segure brevemente a chave magnética contra a marca na parte traseira da unidade principal.
 

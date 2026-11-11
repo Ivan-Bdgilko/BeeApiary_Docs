@@ -1,5 +1,7 @@
 # Comment télécharger l'archive
 
+Le point d’accès `apiary_net` des balances fonctionne uniquement à 2,4 GHz. Le téléphone, la tablette ou l’ordinateur portable doit prendre en charge les connexions Wi-Fi dans cette bande.
+
 Avant de commencer, assurez-vous que BeeApiary L'application est à jour via Google Play et les balances pour ruches exécutent un micrologiciel publié en août 2024 ou plus tard. Si la version installée est plus ancienne ou si vous n'êtes pas sûr de sa date, suivez [Mettre à jour le BeeApiary Micrologiciel des balances pour ruches](update-device.md).
 
 Le téléchargement manuel des archives est utile lorsque les balances n'ont pas de carte SIM, que d'autres méthodes de synchronisation sont temporairement indisponibles ou que des lacunes apparaissent dans les mesures. L'application importe les données stockées et les ajoute à l'historique local.

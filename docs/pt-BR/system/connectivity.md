@@ -5,6 +5,8 @@ description: "Compare GSM, Wi-Fi direto, rede de apiário e Bluetooth para receb
 
 # Monitoramento do apiário via GSM, Wi-Fi e Bluetooth { #_1 }
 
+As balanças BeeApiary oferecem suporte a Wi-Fi somente na faixa de 2,4 GHz. Selecione o SSID de uma rede de 2,4 GHz: as balanças não se conectam a redes que funcionam apenas em 5 GHz.
+
 Para monitoramento do apiário, dados do BeeApiary As balanças colmeias podem acessar o aplicativo de quatro maneiras: através de GSM/SMS, conexão Wi-Fi direta, rede Wi-Fi do apiário ou Bluetooth. A escolha entre monitoramento local e remoto depende da localização do telefone e da conexão disponível próximo às balanças.
 
 | Canal | Localização do telefone | Requisitos | Como os dados chegam ao aplicativo |

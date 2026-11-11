@@ -1,5 +1,7 @@
 # How to Download the Archive
 
+The scales’ `apiary_net` access point operates only at 2.4 GHz. Your phone, tablet or laptop must support Wi-Fi connections in this band.
+
 Before you begin, make sure the BeeApiary app is up to date through Google Play and the beehive scales are running firmware released in August 2024 or later. If the installed version is older or you are unsure of its date, follow [Update the BeeApiary Beehive Scales Firmware](update-device.md).
 
 Manual archive download is useful when the scales have no SIM card, other synchronization methods are temporarily unavailable, or gaps appear in the measurements. The app imports the stored data and adds it to the local history.

@@ -12,6 +12,10 @@
 
     ![Comparación de formatos de tarjetas SIM](../../assets/es/quick-start/gsm/micro-sim-format-comparison.png){ .doc-photo }
 
+!!! note "Instrucciones en vídeo"
+    - [Instalar la tarjeta SIM: placa anterior (antes de 2026)](https://www.youtube.com/shorts/GF2KLso4DMo)
+    - [Instalar la tarjeta SIM: placa más reciente (desde 2026)](https://www.youtube.com/watch?v=g_5MQBxkzY0)
+
 1. Abra la tapa de la unidad de recopilación de datos.
 
     ![Unidad abierta de recogida de datos.](../../assets/common/device/installation/open-data-collection-unit.png){ .doc-photo }
@@ -20,11 +24,25 @@
 
     Posición correcta de la tarjeta:
 
+    La ubicación del módulo GSM cambia entre las placas anteriores a 2026 y las versiones más recientes desde 2026.
+
+    **Placa anterior (antes de 2026):**
+
     ![Micro-SIM correctamente insertada](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Placa más reciente (desde 2026):**
+
+    ![Orientación de la micro-SIM en la placa más reciente](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Inserta la tarjeta SIM y presiónala suavemente hasta que esté casi completamente encajada en la ranura y escuches un ligero clic que confirma que está bloqueada en su lugar:
 
+    **Placa anterior (antes de 2026):**
+
     ![micro-SIM bloqueada en la ranura](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Placa más reciente (desde 2026):**
+
+    ![micro-SIM fijada en la placa más reciente](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 3. [Activar o reiniciar el dispositivo](../guides/set-up-device.md#activation-reset): mantenga brevemente la llave magnética contra la marca en la parte posterior de la unidad principal.
 
@@ -48,7 +66,5 @@ La aplicación BeeApiary no es necesaria para recibir SMS normales ni es una par
     Ingrese el número de la tarjeta SIM instalada en el dispositivo, no el número de teléfono del usuario.
 
 Si el primer SMS no llega, no cambies la configuración al azar. Ver [No se recibieron SMS](../troubleshooting/no-sms.md). Cambie el número de usuario a través de [Configuración GSM](../guides/configure-gsm.md) sólo cuando sea necesario.
-
-[Vídeo: instalación de la tarjeta SIM.](https://www.youtube.com/shorts/GF2KLso4DMo)
 
 Más información: [GSM y SMS](../system/gsm-and-sms.md) y [Flujo de datos](../system/data-flow.md).

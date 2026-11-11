@@ -10,7 +10,14 @@ BeeApiary combina balanças para colmeias e um sistema de monitoramento do apiá
 !!! note "Modelos de balanças disponíveis para compra"
     - [Encomendar ou comprar: balanças básicas para colmeias com GSM, Wi-Fi e Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Encomendar ou comprar: balanças para colmeias com GSM, Wi-Fi e Bluetooth, suporte e sensor aprimorado (com um “pluszinho”)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "O “pluszinho” é a base de apoio em forma de cruz")
-    - [Opções adicionais](device/additional-options.md)
+    - [Modelos e opções adicionais das balanças BeeApiary](device/additional-options.md)
+
+## Primeiros passos
+
+- [Início rápido](quick-start/index.md)
+- [Configurar o sistema e GSM](quick-start/full-system.md)
+- [Instale o aplicativo](quick-start/app-only.md)
+- [Conecte-se à rede Wi-Fi local](quick-start/local-wifi.md)
 
 ![BeeApiary métodos de conexão: GSM/SMS, Wi-Fi AP, Wi-Fi STA e Bluetooth, armazenamento local de dados e acesso ao computador](../assets/pt-BR/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -18,7 +25,7 @@ BeeApiary combina balanças para colmeias e um sistema de monitoramento do apiá
     - [Vídeos no BeeApiary Canal do YouTube](https://www.youtube.com/@beeApiary)
 
 !!! note "Entre em contato diretamente"
-    [![Enviar uma mensagem ao autor do BeeApiary no Telegram](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![Código QR para contato pelo WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    [![Enviar uma mensagem ao autor do BeeApiary no Telegram](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="474" height="504" loading="lazy" decoding="async" }](https://t.me/IVAN_BDGILKO) ![Código QR para contato pelo WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" } ![Código QR para contato pelo Viber](../assets/common/brand/viber-contact-qr.png){ .contact-qr-code width="430" height="420" loading="lazy" decoding="async" }
     {: .contact-qr-links }
 
 Um conjunto pode funcionar de forma autônoma como balança BeeApiary e, junto com os sensores e o aplicativo, formar uma colmeia inteligente BeeApiary. Várias dessas colmeias, reunidas no aplicativo com um diário digital, formam um apiário inteligente BeeApiary. As diferentes formas de acesso aos dados, as notas de longo prazo, as medições e os eventos oferecem uma visão completa da vida do apiário e ajudam o apicultor a compreender melhor suas abelhas.
@@ -33,12 +40,6 @@ Um conjunto pode funcionar de forma autônoma como balança BeeApiary e, junto c
 
 [Compare as maneiras pelas quais os dados podem chegar ao aplicativo](system/connectivity.md)
 
-## Primeiros passos
-
-- [Configurar o sistema e GSM](quick-start/full-system.md)
-- [Instale o aplicativo](quick-start/app-only.md)
-- [Conecte-se à rede Wi-Fi local](quick-start/local-wifi.md)
-
 ## Documentação quando você precisar
 
 - [Usando o BeeApiary aplicativo](app/index.md)
@@ -47,4 +48,6 @@ Um conjunto pode funcionar de forma autônoma como balança BeeApiary e, junto c
 - [Guias](guides/index.md)
 - [Solução de problemas](troubleshooting/index.md)
 
-![BeeApiary componentes do sistema](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary componentes do sistema](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Balança apícola BeeApiary aprimorada com suporte em cruz, sensores e celular](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

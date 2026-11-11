@@ -33,7 +33,7 @@ Les valeurs de réseau dans la capture d'écran ne sont que des exemples. Ils se
 
 | Champ | Fonction | Remarques |
 |---|---|---|
-| **Réseau Wi-Fi** | Nom du réseau Wi-Fi externe auquel l'appareil se connectera. | Doit correspondre exactement au SSID du réseau disponible à proximité de l'appareil. |
+| **Réseau Wi-Fi** | Nom du réseau Wi-Fi externe auquel l'appareil se connectera. | Doit correspondre exactement au SSID du réseau disponible à proximité de l'appareil. Sélectionnez le SSID d’un réseau de 2,4 GHz ; les réseaux fonctionnant uniquement à 5 GHz ne sont pas pris en charge. |
 | **Mot de passe Wi-Fi** | Mot de passe du réseau Wi-Fi externe. | L'interface Web masque la valeur. |
 | **Clé STA** | Clé de transmission de service obtenue lors de l'inscription via l'application. | Ne modifiez pas manuellement. |
 

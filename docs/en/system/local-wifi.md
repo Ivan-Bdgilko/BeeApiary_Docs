@@ -7,6 +7,9 @@ description: "Connect BeeApiary beehive scales over Wi-Fi: a direct access point
 
 BeeApiary beehive scales with Wi-Fi support two ways to receive data: a direct phone connection to the device access point (AP) and transmission through the apiary Wi-Fi network (STA). The first method works near the scales; the second provides remote data access when Internet connectivity is available.
 
+!!! warning "Device Wi-Fi: 2.4 GHz only"
+    BeeApiary hive scales support Wi-Fi exclusively in the 2.4 GHz band. Select a 2.4 GHz network SSID: the scales cannot connect to a 5 GHz-only network. If your router uses one SSID for both bands, 2.4 GHz must be enabled for it. You do not need to disable 5 GHz or create a separate network name. This restriction applies to the scales; a remote phone can use any available Internet connection.
+
 ## Direct Connection to the Device { #direct-access-point }
 
 After activation with the magnetic key, the device temporarily creates a local access point. It is usually available for about one minute, but this interval can be changed in the settings.

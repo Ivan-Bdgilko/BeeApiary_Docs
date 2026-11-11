@@ -10,7 +10,14 @@ BeeApiary verbindet eine Bienenstockwaage mit einem System zur Bienenstandüberw
 !!! note "Erhältliche Waagenmodelle"
     - [Bestellen oder kaufen: Basis-Bienenstockwaage mit GSM, Wi-Fi und Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Bestellen oder kaufen: Bienenstockwaage mit GSM, Wi-Fi und Bluetooth, Untergestell und verbessertem Sensor (mit „kleinem Plus“)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "Das „kleine Plus“ ist das kreuzförmige Untergestell")
-    - [Zusätzliche Optionen](device/additional-options.md)
+    - [Modelle und Zusatzausstattung der BeeApiary-Bienenstockwaage](device/additional-options.md)
+
+## Erste Schritte
+
+- [Schnellstart](quick-start/index.md)
+- [System und GSM einrichten](quick-start/full-system.md)
+- [App installieren](quick-start/app-only.md)
+- [Mit dem lokalen WLAN verbinden](quick-start/local-wifi.md)
 
 ![BeeApiary-Verbindungsarten: GSM/SMS, Wi-Fi AP, Wi-Fi STA und Bluetooth, lokale Datenspeicherung und Zugriff vom Computer](../assets/de/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -18,7 +25,7 @@ BeeApiary verbindet eine Bienenstockwaage mit einem System zur Bienenstandüberw
     - [Videos auf dem YouTube-Kanal von BeeApiary](https://www.youtube.com/@beeApiary)
 
 !!! note "Direkt Kontakt aufnehmen"
-    [![Dem BeeApiary-Autor auf Telegram schreiben](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="240" height="283" loading="lazy" decoding="async" }](https://t.me/IVANBDGILKO) ![QR-Code zur Kontaktaufnahme über WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" }
+    [![Dem BeeApiary-Autor auf Telegram schreiben](../assets/common/brand/telegram-contact.png){ .contact-qr-code width="474" height="504" loading="lazy" decoding="async" }](https://t.me/IVAN_BDGILKO) ![QR-Code zur Kontaktaufnahme über WhatsApp](../assets/common/brand/whatsapp-contact-qr.png){ .contact-qr-code width="350" height="336" loading="lazy" decoding="async" } ![QR-Code zur Kontaktaufnahme über Viber](../assets/common/brand/viber-contact-qr.png){ .contact-qr-code width="430" height="420" loading="lazy" decoding="async" }
     {: .contact-qr-links }
 
 Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten und bildet zusammen mit Sensoren und der App einen intelligenten BeeApiary-Bienenstock. Mehrere solcher Bienenstöcke, die in der App mit einem digitalen Journal zusammengeführt werden, bilden einen intelligenten BeeApiary-Bienenstand. Verschiedene Möglichkeiten des Datenzugriffs, langfristige Notizen, Messungen und Ereignisse ergeben ein umfassendes Bild vom Leben am Bienenstand und helfen dir, deine Bienen besser zu verstehen.
@@ -33,12 +40,6 @@ Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten und bild
 
 [Übertragungswege zur App vergleichen](system/connectivity.md)
 
-## Erste Schritte
-
-- [System und GSM einrichten](quick-start/full-system.md)
-- [App installieren](quick-start/app-only.md)
-- [Mit dem lokalen WLAN verbinden](quick-start/local-wifi.md)
-
 ## Dokumentation nach Bedarf
 
 - [BeeApiary-App verwenden](app/index.md)
@@ -47,4 +48,6 @@ Eine Einheit kann eigenständig als BeeApiary-Bienenstockwaage arbeiten und bild
 - [Anleitungen](guides/index.md)
 - [Fehlerbehebung](troubleshooting/index.md)
 
-![Bestandteile des BeeApiary-Systems](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![Bestandteile des BeeApiary-Systems](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Verbesserte BeeApiary-Bienenstockwaage mit Kreuzgestell, Sensoren und Smartphone](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

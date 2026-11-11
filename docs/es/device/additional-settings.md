@@ -33,7 +33,7 @@ Los valores de red en la captura de pantalla son solo ejemplos. Serán diferente
 
 | Campo | Función | Notas |
 |---|---|---|
-| **Red Wi-Fi** | Nombre de la red Wi-Fi externa a la que se conectará el dispositivo. | Debe coincidir exactamente con el SSID de la red disponible cerca del dispositivo. |
+| **Red Wi-Fi** | Nombre de la red Wi-Fi externa a la que se conectará el dispositivo. | Debe coincidir exactamente con el SSID de la red disponible cerca del dispositivo. Seleccione el SSID de una red de 2,4 GHz; no se admiten redes exclusivas de 5 GHz. |
 | **contraseña wifi** | Contraseña de la red Wi-Fi externa. | La interfaz web enmascara el valor. |
 | **clave STA** | Clave de transmisión del servicio obtenida durante el registro a través de la aplicación. | No editar manualmente. |
 

@@ -33,7 +33,7 @@ Wartości sieciowe na zrzucie ekranu są jedynie przykładowe. Na Twoim urządze
 
 | Pole | Przeznaczenie | Notatki |
 |---|---|---|
-| **Sieć Wi-Fi** | Nazwa zewnętrznej sieci Wi-Fi, z którą urządzenie się połączy. | Musi dokładnie odpowiadać identyfikatorowi SSID sieci dostępnej w pobliżu urządzenia. |
+| **Sieć Wi-Fi** | Nazwa zewnętrznej sieci Wi-Fi, z którą urządzenie się połączy. | Musi dokładnie odpowiadać identyfikatorowi SSID sieci dostępnej w pobliżu urządzenia. Wybierz SSID sieci 2,4 GHz; sieci działające wyłącznie w paśmie 5 GHz nie są obsługiwane. |
 | **Hasło Wi-Fi** | Hasło zewnętrznej sieci Wi-Fi. | Interfejs sieciowy maskuje wartość. |
 | **Klucz STA** | Klucz do transmisji usługi uzyskany podczas rejestracji poprzez aplikację. | Nie edytuj ręcznie. |
 

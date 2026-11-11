@@ -1,5 +1,7 @@
 # So lädst du das Archiv herunter
 
+Der Zugangspunkt `apiary_net` der Waage arbeitet nur mit 2,4 GHz. Dein Smartphone, Tablet oder Laptop muss WLAN-Verbindungen in diesem Band unterstützen.
+
 Vergewissere dich vor Beginn, dass die BeeApiary-App über Google Play aktualisiert wurde und auf der Bienenstockwaage eine Firmware vom August 2024 oder neuer installiert ist. Wenn die installierte Version älter ist oder du das Veröffentlichungsdatum nicht kennst, folge der Anleitung [Firmware der BeeApiary-Bienenstockwaage aktualisieren](update-device.md).
 
 Das manuelle Herunterladen des Archivs ist hilfreich, wenn in der Waage keine SIM-Karte steckt, andere Synchronisierungswege vorübergehend nicht verfügbar sind oder Lücken in den Messwerten aufgetreten sind. Die App importiert die gespeicherten Daten und ergänzt damit den lokalen Verlauf.

@@ -1,5 +1,8 @@
 # No se puede conectar a Wi-Fi
 
+!!! warning "Wi-Fi del dispositivo: solo 2,4 GHz"
+    El punto de acceso `apiary_net` de las básculas solo funciona en 2,4 GHz. El teléfono, la tableta o el portátil debe admitir conexiones Wi-Fi en esta banda. Seleccione el SSID de una red de 2,4 GHz; no se admiten redes exclusivas de 5 GHz.
+
 1. [Activar o reiniciar el BeeApiary balanzas de colmena](../guides/set-up-device.md#activation-reset): mantenga brevemente la llave magnética contra la marca en la parte posterior de la unidad principal.
 2. Busque la red durante el primer minuto después del reinicio.
 3. Verifique el SSID; el valor predeterminado es `apiary_net`.
