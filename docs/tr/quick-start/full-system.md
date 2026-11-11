@@ -20,11 +20,25 @@
 
     Doğru kart konumu:
 
+    GSM modülünün konumu, 2026 öncesi eski kartlarda ve 2026'dan itibaren yeni kartlarda farklıdır.
+
+    **Eski kart (2026 öncesi):**
+
     ![Doğru şekilde yerleştirilmiş mikro SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Yeni kart (2026'dan itibaren):**
+
+    ![Yeni kartta micro-SIM yönü](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     SIM kartı takın ve yuvaya neredeyse tamamen girinceye kadar hafifçe bastırın; yerine kilitlendiğini onaylayan hafif bir tıklama duyuncaya kadar:
 
+    **Eski kart (2026 öncesi):**
+
     ![mikro SIM yuvaya kilitlendi](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Yeni kart (2026'dan itibaren):**
+
+    ![Yeni kartta yuvaya sabitlenmiş micro-SIM](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 3. [Cihazı etkinleştirin veya yeniden başlatın](../guides/set-up-device.md#activation-reset): Manyetik anahtarı ana ünitenin arkasındaki marka işaretine kısa süreliğine tutun.
 
@@ -49,6 +63,7 @@ Normal SMS almak için BeeApiary uygulaması gerekli değildir ve uygulama tart�
 
 İlk SMS gelmezse ayarları rastgele değiştirmeyin. Bkz. [SMS alınmadı](../troubleshooting/no-sms.md). Kullanıcı numarasını şu şekilde değiştirin: [GSM ayarları](../guides/configure-gsm.md) yalnızca gerektiğinde.
 
-[Video: SIM kartı takma](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [SIM kart takma: eski kart (2026 öncesi)](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [SIM kart takma: yeni kart (2026’dan itibaren)](https://www.youtube.com/watch?v=g_5MQBxkzY0)
 
 Daha fazla bilgi edinin: [GSM ve SMS](../system/gsm-and-sms.md) ve [Veri akışı](../system/data-flow.md).

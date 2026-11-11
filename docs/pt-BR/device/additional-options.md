@@ -7,19 +7,23 @@ description: "Modelos básicos das balanças para colmeias BeeApiary e opções 
 
 As balanças para colmeias BeeApiary estão disponíveis em duas configurações básicas. As opções listadas podem ser adicionadas a qualquer uma delas conforme necessário.
 
-### Modelo básico
-
-A configuração inclui quatro sensores de peso e dois sensores de temperatura.
+### **Modelo básico**
 
 [Encomendar ou comprar o modelo básico](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
 
+![Balança apícola BeeApiary com sensores e celular](../../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+A configuração inclui quatro sensores de peso e dois sensores de temperatura.
+
 ![Modelo básico das balanças BeeApiary com quatro sensores de peso e dois sensores de temperatura](../../assets/pt-BR/device/overview/beehive-scales-features.png){ .model-option-image width="1448" height="1086" loading="lazy" decoding="async" }
 
-### Modelo aprimorado com suporte ("pluszinho")
-
-A configuração inclui um suporte especial, um sensor de peso aprimorado com compensação térmica e dois sensores de temperatura.
+### **Modelo aprimorado com suporte ("pluszinho")**
 
 [Encomendar ou comprar o modelo aprimorado com suporte](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki)
+
+![Balança apícola BeeApiary aprimorada com suporte em cruz, sensores e celular](../../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }
+
+A configuração inclui um suporte especial, um sensor de peso aprimorado com compensação térmica e dois sensores de temperatura.
 
 ![Modelo aprimorado das balanças BeeApiary com suporte especial e sensor de peso com compensação térmica](../../assets/en/device/additional-options/premium-beehive-scales-overview.png){ .model-option-image width="1448" height="1086" loading="lazy" decoding="async" }
 

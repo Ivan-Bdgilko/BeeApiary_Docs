@@ -20,11 +20,25 @@
 
     Prawidłowa pozycja karty:
 
+    Położenie modułu GSM różni się na starszych płytach sprzed 2026 roku i nowszych od 2026 roku.
+
+    **Starsza płyta (przed 2026 rokiem):**
+
     ![Prawidłowo włożona karta micro SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Nowsza płyta (od 2026 roku):**
+
+    ![Ułożenie micro-SIM na nowszej płycie](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Włóż kartę SIM i delikatnie ją dociśnij, aż zostanie prawie całkowicie wsunięta w gniazdo i usłyszysz lekkie kliknięcie potwierdzające, że karta została zablokowana na swoim miejscu:
 
+    **Starsza płyta (przed 2026 rokiem):**
+
     ![micro-SIM zablokowany w gnieździe](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Nowsza płyta (od 2026 roku):**
+
+    ![Zablokowana micro-SIM na nowszej płycie](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 3. [Aktywuj lub uruchom ponownie urządzenie](../guides/set-up-device.md#activation-reset): krótko przyciśnij klucz magnetyczny do oznaczenia marki z tyłu jednostki głównej.
 
@@ -49,6 +63,7 @@ Aplikacja BeeApiary nie jest wymagana do odbierania zwykłych SMS-ów ani nie st
 
 Jeśli pierwszy SMS nie dotrze, nie zmieniaj ustawień losowo. Zobacz [Nie otrzymano SMS-a](../troubleshooting/no-sms.md). Zmień numer użytkownika poprzez [Ustawienia GSM](../guides/configure-gsm.md) tylko wtedy, gdy jest to konieczne.
 
-[Wideo: instalowanie karty SIM](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [Instalacja karty SIM: starsza płyta (przed 2026 rokiem)](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [Instalacja karty SIM: nowsza płyta (od 2026 roku)](https://www.youtube.com/watch?v=g_5MQBxkzY0)
 
 Dowiedz się więcej: [GSM i SMS-y](../system/gsm-and-sms.md) i [Przepływ danych](../system/data-flow.md).

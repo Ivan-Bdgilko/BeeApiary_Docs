@@ -7,19 +7,23 @@ description: "Podstawowe modele wag pasiecznych BeeApiary i opcje dodatkowe: aku
 
 Wagi pasieczne BeeApiary są dostępne w dwóch podstawowych konfiguracjach. Do każdej z nich można na życzenie dodać wymienione opcje.
 
-### Model podstawowy
-
-Konfiguracja obejmuje cztery czujniki wagowe i dwa czujniki temperatury.
+### **Model podstawowy**
 
 [Zamów lub kup model podstawowy](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
 
+![Waga pasieczna BeeApiary z czujnikami i telefonem](../../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+Konfiguracja obejmuje cztery czujniki wagowe i dwa czujniki temperatury.
+
 ![Podstawowy model wag BeeApiary z czterema czujnikami wagowymi i dwoma czujnikami temperatury](../../assets/pl/device/overview/beehive-scales-features.png){ .model-option-image width="1448" height="1086" loading="lazy" decoding="async" }
 
-### Ulepszony model z podstawą ("plusik")
-
-Konfiguracja obejmuje specjalną podstawę, ulepszony czujnik wagowy z kompensacją temperatury i dwa czujniki temperatury.
+### **Ulepszony model z podstawą ("plusik")**
 
 [Zamów lub kup ulepszony model z podstawą](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki)
+
+![Ulepszona waga pasieczna BeeApiary z podstawą krzyżową, czujnikami i telefonem](../../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }
+
+Konfiguracja obejmuje specjalną podstawę, ulepszony czujnik wagowy z kompensacją temperatury i dwa czujniki temperatury.
 
 ![Ulepszony model wag BeeApiary ze specjalną podstawą i czujnikiem wagowym z kompensacją temperatury](../../assets/en/device/additional-options/premium-beehive-scales-overview.png){ .model-option-image width="1448" height="1086" loading="lazy" decoding="async" }
 

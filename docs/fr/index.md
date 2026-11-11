@@ -10,7 +10,14 @@ BeeApiary associe des balances de ruche à un système de suivi du rucher compat
 !!! note "Modèles de balances disponibles à l'achat"
     - [Commander ou acheter : balances de base pour ruches avec GSM, Wi-Fi et Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Commander ou acheter : balances pour ruches avec GSM, Wi-Fi et Bluetooth, support et capteur amélioré (avec un « petit plus »)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "Le « petit plus » désigne le support en forme de croix")
-    - [Options supplémentaires](device/additional-options.md)
+    - [Modèles et options supplémentaires des balances BeeApiary](device/additional-options.md)
+
+## Commencer
+
+- [Démarrage rapide](quick-start/index.md)
+- [Configurer le système et le GSM](quick-start/full-system.md)
+- [Installez l'application](quick-start/app-only.md)
+- [Connectez-vous au réseau Wi-Fi local](quick-start/local-wifi.md)
 
 ![BeeApiary méthodes de connexion : GSM/SMS, Wi-Fi AP, Wi-Fi STA et Bluetooth, stockage de données local et accès à l'ordinateur](../assets/fr/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -33,12 +40,6 @@ Un ensemble peut fonctionner de manière autonome comme balance BeeApiary et, av
 
 [Comparez les manières dont les données peuvent atteindre l'application](system/connectivity.md)
 
-## Commencer
-
-- [Configurer le système et le GSM](quick-start/full-system.md)
-- [Installez l'application](quick-start/app-only.md)
-- [Connectez-vous au réseau Wi-Fi local](quick-start/local-wifi.md)
-
 ## De la documentation quand vous en avez besoin
 
 - [En utilisant le BeeApiary application](app/index.md)
@@ -47,4 +48,6 @@ Un ensemble peut fonctionner de manière autonome comme balance BeeApiary et, av
 - [Guides](guides/index.md)
 - [Dépannage](troubleshooting/index.md)
 
-![BeeApiary composants du système](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary composants du système](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Balance de ruche BeeApiary améliorée avec support en croix, capteurs et téléphone](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

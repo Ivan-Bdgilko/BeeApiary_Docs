@@ -14,11 +14,25 @@
 
     Tarjeta correctamente instalada:
 
+    La ubicación del módulo GSM cambia entre las placas anteriores a 2026 y las versiones más recientes desde 2026.
+
+    **Placa anterior (antes de 2026):**
+
     ![Micro-SIM correctamente instalada](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Placa más reciente (desde 2026):**
+
+    ![Orientación de la micro-SIM en la placa más reciente](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Inserta la tarjeta SIM y presiónala suavemente casi por completo en la ranura hasta que escuches un suave clic que confirme que está bloqueada en su lugar:
 
+    **Placa anterior (antes de 2026):**
+
     ![micro-SIM bloqueada en la ranura](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Placa más reciente (desde 2026):**
+
+    ![micro-SIM fijada en la placa más reciente](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 4. <span id="activation-reset"></span>Active o reinicie el dispositivo: mantenga brevemente la llave magnética contra la marca en la parte posterior de la unidad principal.
 

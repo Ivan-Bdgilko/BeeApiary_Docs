@@ -20,11 +20,25 @@
 
     Position correcte de la carte :
 
+    L’emplacement du module GSM diffère entre les cartes antérieures à 2026 et les cartes plus récentes à partir de 2026.
+
+    **Ancienne carte (avant 2026) :**
+
     ![Micro-SIM correctement insérée](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Carte plus récente (à partir de 2026) :**
+
+    ![Orientation de la micro-SIM sur la carte plus récente](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Insérez la carte SIM et appuyez doucement jusqu'à ce qu'elle soit presque entièrement enfoncée dans l'emplacement et que vous entendiez un léger clic confirmant son verrouillage :
 
+    **Ancienne carte (avant 2026) :**
+
     ![micro-SIM verrouillée dans l'emplacement](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Carte plus récente (à partir de 2026) :**
+
+    ![micro-SIM verrouillée sur la carte plus récente](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 3. [Activer ou redémarrer l'appareil](../guides/set-up-device.md#activation-reset): maintenez brièvement la clé magnétique contre la marque au dos de l'unité principale.
 
@@ -49,6 +63,7 @@ L’application BeeApiary n’est pas nécessaire pour recevoir des SMS ordinair
 
 Si le premier SMS n’arrive pas, ne modifiez pas les paramètres au hasard. Voir [Aucun SMS reçu](../troubleshooting/no-sms.md). Changez le numéro d'utilisateur via [Paramètres GSM](../guides/configure-gsm.md) seulement lorsque cela est nécessaire.
 
-[Vidéo : installer la carte SIM](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [Installer la carte SIM : ancienne carte (avant 2026)](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [Installer la carte SIM : carte plus récente (à partir de 2026)](https://www.youtube.com/watch?v=g_5MQBxkzY0)
 
 En savoir plus : [GSM et SMS](../system/gsm-and-sms.md) et [Flux de données](../system/data-flow.md).

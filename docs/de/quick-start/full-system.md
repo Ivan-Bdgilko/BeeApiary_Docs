@@ -20,11 +20,25 @@
 
     Richtige Position der Karte:
 
+    Das GSM-Modul befindet sich bei älteren Platinen vor 2026 und neueren Platinen ab 2026 an unterschiedlichen Stellen.
+
+    **Ältere Platine (vor 2026):**
+
     ![Richtig eingesetzte micro-SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Neuere Platine (ab 2026):**
+
+    ![Ausrichtung der micro-SIM auf der neueren Platine](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Setze die SIM-Karte ein und drücke sie vorsichtig hinein, bis sie fast vollständig im Steckplatz versenkt ist und mit einem leichten Klicken einrastet:
 
+    **Ältere Platine (vor 2026):**
+
     ![Im Steckplatz eingerastete micro-SIM](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Neuere Platine (ab 2026):**
+
+    ![Eingerastete micro-SIM auf der neueren Platine](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 3. [Aktiviere das Gerät oder starte es neu](../guides/set-up-device.md#activation-reset): Halte den Magnetschlüssel kurz an die Markenkennzeichnung auf der Rückseite der Haupteinheit.
 
@@ -49,6 +63,7 @@ Für gewöhnliche SMS ist die BeeApiary-App nicht erforderlich; sie ist kein not
 
 Wenn die erste SMS nicht ankommt, ändere die Einstellungen nicht auf Verdacht. Öffne die Seite [Keine SMS empfangen](../troubleshooting/no-sms.md). Ändere die Rufnummer des Benutzers über die [GSM-Einstellungen](../guides/configure-gsm.md) nur bei Bedarf.
 
-[Video zum Einsetzen der SIM-Karte](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [SIM-Karte einsetzen: ältere Platine (vor 2026)](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [SIM-Karte einsetzen: neuere Platine (ab 2026)](https://www.youtube.com/watch?v=g_5MQBxkzY0)
 
 Weitere Informationen: [GSM und SMS](../system/gsm-and-sms.md) und [Datenfluss](../system/data-flow.md).

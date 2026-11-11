@@ -20,11 +20,25 @@
 
     Posição correta do cartão:
 
+    A posição do módulo GSM difere entre placas anteriores a 2026 e placas mais recentes a partir de 2026.
+
+    **Placa anterior (antes de 2026):**
+
     ![Micro-SIM inserido corretamente](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Placa mais recente (a partir de 2026):**
+
+    ![Orientação do micro-SIM na placa mais recente](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Insira o cartão SIM e pressione-o suavemente até que esteja quase totalmente encaixado no slot e você ouça um leve clique confirmando que está travado no lugar:
 
+    **Placa anterior (antes de 2026):**
+
     ![micro-SIM bloqueado no slot](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Placa mais recente (a partir de 2026):**
+
+    ![micro-SIM travado na placa mais recente](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 3. [Ative ou reinicie o dispositivo](../guides/set-up-device.md#activation-reset): segure brevemente a chave magnética contra a marca na parte traseira da unidade principal.
 
@@ -49,6 +63,7 @@ O aplicativo BeeApiary não é necessário para receber SMS comuns e não é par
 
 Se o primeiro SMS não chegar, não altere as configurações aleatoriamente. Veja [Nenhum SMS recebido](../troubleshooting/no-sms.md). Altere o número do usuário através [Configurações GSM](../guides/configure-gsm.md) somente quando necessário.
 
-[Vídeo: instalando o cartão SIM](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [Instalar o cartão SIM: placa anterior (antes de 2026)](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [Instalar o cartão SIM: placa mais recente (a partir de 2026)](https://www.youtube.com/watch?v=g_5MQBxkzY0)
 
 Saiba mais: [GSM e SMS](../system/gsm-and-sms.md) e [Fluxo de dados](../system/data-flow.md).

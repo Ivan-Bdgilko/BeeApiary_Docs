@@ -10,7 +10,14 @@ BeeApiary łączy wagi pasieczne z systemem monitorowania pasieki obsługującym
 !!! note "Modele wag dostępne do zakupu"
     - [Zamów lub kup: podstawowe wagi pasieczne GSM Wi-Fi Bluetooth](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
     - [Zamów lub kup: wagi pasieczne GSM Wi-Fi Bluetooth z podstawą i ulepszonym czujnikiem (z „plusikiem”)](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki "„Plusik” to podstawa w kształcie krzyża")
-    - [Opcje dodatkowe](device/additional-options.md)
+    - [Modele i opcje dodatkowe wag pasiecznych BeeApiary](device/additional-options.md)
+
+## Rozpoczęcie
+
+- [Szybki start](quick-start/index.md)
+- [Skonfiguruj system i GSM](quick-start/full-system.md)
+- [Zainstaluj aplikację](quick-start/app-only.md)
+- [Połącz się z lokalną siecią Wi-Fi](quick-start/local-wifi.md)
 
 ![BeeApiary metody połączenia: GSM/SMS, Wi-Fi AP, Wi-Fi STA i Bluetooth, lokalne przechowywanie danych i dostęp do komputera](../assets/pl/system/overview/beeapiary-connectivity-overview.webp){ width="1448" height="1086" loading="eager" fetchpriority="high" }
 
@@ -33,12 +40,6 @@ Jeden zestaw może działać samodzielnie jako waga pasieczna BeeApiary, a wraz 
 
 [Porównaj sposoby, w jakie dane mogą dotrzeć do aplikacji](system/connectivity.md)
 
-## Rozpoczęcie
-
-- [Skonfiguruj system i GSM](quick-start/full-system.md)
-- [Zainstaluj aplikację](quick-start/app-only.md)
-- [Połącz się z lokalną siecią Wi-Fi](quick-start/local-wifi.md)
-
 ## Dokumentacja, kiedy jej potrzebujesz
 
 - [Korzystanie z BeeApiary aplikacja](app/index.md)
@@ -47,4 +48,6 @@ Jeden zestaw może działać samodzielnie jako waga pasieczna BeeApiary, a wraz 
 - [Przewodniki](guides/index.md)
 - [Rozwiązywanie problemów](troubleshooting/index.md)
 
-![BeeApiary komponenty systemu](../assets/common/system/overview/beeapiary-system-components.webp){ .doc-photo width="1079" height="754" loading="lazy" decoding="async" }
+![BeeApiary komponenty systemu](../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+![Ulepszona waga pasieczna BeeApiary z podstawą krzyżową, czujnikami i telefonem](../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }

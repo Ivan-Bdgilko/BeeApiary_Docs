@@ -7,19 +7,23 @@ description: "Basismodelle der BeeApiary-Bienenstockwaage und Zusatzausstattung:
 
 Die BeeApiary-Bienenstockwaage ist in zwei Basiskonfigurationen erhältlich. Beide Konfigurationen können auf Wunsch um die aufgeführten Optionen ergänzt werden.
 
-### Basismodell
-
-Die Konfiguration umfasst vier Gewichtssensoren und zwei Temperatursensoren.
+### **Basismodell**
 
 [Basismodell bestellen oder kaufen](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
 
+![BeeApiary-Bienenstockwaage mit Sensoren und Smartphone](../../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+Die Konfiguration umfasst vier Gewichtssensoren und zwei Temperatursensoren.
+
 ![BeeApiary-Basismodell mit vier Gewichtssensoren und zwei Temperatursensoren](../../assets/de/device/overview/beehive-scales-features.png){ .model-option-image width="1448" height="1086" loading="lazy" decoding="async" }
 
-### Verbessertes Modell mit Untergestell ("kleines Plus")
-
-Die Konfiguration umfasst ein spezielles Untergestell, einen verbesserten temperaturkompensierten Gewichtssensor und zwei Temperatursensoren.
+### **Verbessertes Modell mit Untergestell ("kleines Plus")**
 
 [Verbessertes Modell mit Untergestell bestellen oder kaufen](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki)
+
+![Verbesserte BeeApiary-Bienenstockwaage mit Kreuzgestell, Sensoren und Smartphone](../../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }
+
+Die Konfiguration umfasst ein spezielles Untergestell, einen verbesserten temperaturkompensierten Gewichtssensor und zwei Temperatursensoren.
 
 ![Verbessertes BeeApiary-Modell mit speziellem Untergestell und temperaturkompensiertem Gewichtssensor](../../assets/en/device/additional-options/premium-beehive-scales-overview.png){ .model-option-image width="1448" height="1086" loading="lazy" decoding="async" }
 

@@ -49,13 +49,13 @@ def main():
         for name, size in {
             "beeapiary-emblem.png": (780, 780),
             "beeapiary-connectivity-overview.webp": (1448, 1086),
-            "beeapiary-system-components.webp": (1079, 754),
+            "beeapiary-transparent-system-components.webp": (1500, 1049),
         }.items():
             attrs = resources.images[name]
             assert (attrs.get("width"), attrs.get("height")) == tuple(map(str, size)), (lang, name)
         assert resources.images["beeapiary-connectivity-overview.webp"]["loading"] == "eager"
         assert resources.images["beeapiary-connectivity-overview.webp"]["fetchpriority"] == "high"
-        photo = resources.images["beeapiary-system-components.webp"]
+        photo = resources.images["beeapiary-transparent-system-components.webp"]
         assert photo["loading"] == "lazy" and photo["decoding"] == "async"
         assert len(resources.deferred) == 1 and resources.fallbacks == [photo], lang
         deferred = resources.deferred[0]
@@ -66,7 +66,7 @@ def main():
         assert deferred["src"].startswith("data:image/svg+xml;base64,")
         svg = ET.fromstring(base64.b64decode(deferred["src"].split(",", 1)[1]))
         assert svg.tag == "{http://www.w3.org/2000/svg}svg" and len(svg) == 0
-        assert (svg.get("width"), svg.get("height")) == ("1079", "754")
+        assert (svg.get("width"), svg.get("height")) == ("1500", "1049")
         if args.fonts:
             assert all(not urlsplit(href).hostname for href in resources.styles), lang
             font_css = []

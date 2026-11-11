@@ -14,11 +14,25 @@
 
     Richtig eingesetzte Karte:
 
+    Das GSM-Modul befindet sich bei älteren Platinen vor 2026 und neueren Platinen ab 2026 an unterschiedlichen Stellen.
+
+    **Ältere Platine (vor 2026):**
+
     ![Richtig eingesetzte micro-SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Neuere Platine (ab 2026):**
+
+    ![Ausrichtung der micro-SIM auf der neueren Platine](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Setze die SIM-Karte ein und drücke sie vorsichtig fast vollständig in den Steckplatz, bis ein leises Klicken bestätigt, dass sie eingerastet ist:
 
+    **Ältere Platine (vor 2026):**
+
     ![Im Steckplatz eingerastete micro-SIM](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Neuere Platine (ab 2026):**
+
+    ![Eingerastete micro-SIM auf der neueren Platine](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 4. <span id="activation-reset"></span>Aktiviere das Gerät oder starte es neu: Halte den Magnetschlüssel kurz an die Markenkennzeichnung auf der Rückseite der Haupteinheit.
 

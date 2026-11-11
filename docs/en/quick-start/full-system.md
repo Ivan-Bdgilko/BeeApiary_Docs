@@ -20,11 +20,25 @@
 
     Correct card position:
 
+    The GSM module is in a different location on older boards made before 2026 and newer boards from 2026 onward.
+
+    **Older board (before 2026):**
+
     ![Correctly inserted micro-SIM](../../assets/common/device/installation/micro-sim-insertion-orientation.jpeg){ .doc-photo }
+
+    **Newer board (from 2026):**
+
+    ![micro-SIM orientation on the newer board](../../assets/common/device/installation/micro-sim-new-board-orientation.png){ .doc-photo }
 
     Insert the SIM card and press it gently until it is almost fully recessed into the slot and you hear a light click confirming that it is locked in place:
 
+    **Older board (before 2026):**
+
     ![micro-SIM locked in the slot](../../assets/common/device/installation/micro-sim-locked-in-slot.jpeg){ .doc-photo }
+
+    **Newer board (from 2026):**
+
+    ![micro-SIM locked on the newer board](../../assets/common/device/installation/micro-sim-new-board-locked.png){ .doc-photo }
 
 3. [Activate or restart the device](../guides/set-up-device.md#activation-reset): briefly hold the magnetic key against the branded mark on the back of the main unit.
 
@@ -49,6 +63,7 @@ The BeeApiary app is not required for ordinary SMS and is not an integral part o
 
 If the first SMS does not arrive, do not change settings at random. See [No SMS received](../troubleshooting/no-sms.md). Change the user number through [GSM settings](../guides/configure-gsm.md) only when necessary.
 
-[Video: installing the SIM card](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [Installing the SIM card: older board (before 2026)](https://www.youtube.com/shorts/GF2KLso4DMo)
+- [Installing the SIM card: newer board (from 2026)](https://www.youtube.com/watch?v=g_5MQBxkzY0)
 
 Learn more: [GSM and SMS](../system/gsm-and-sms.md) and [Data flow](../system/data-flow.md).

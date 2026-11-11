@@ -7,19 +7,23 @@ description: "Modelos básicos de las básculas para colmenas BeeApiary y opcion
 
 Las básculas para colmenas BeeApiary están disponibles en dos configuraciones básicas. A cualquiera de ellas se le pueden añadir las opciones indicadas.
 
-### Modelo básico
-
-La configuración incluye cuatro sensores de peso y dos sensores de temperatura.
+### **Modelo básico**
 
 [Encargar o comprar el modelo básico](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
 
+![Báscula apícola BeeApiary con sensores y teléfono](../../assets/common/system/overview/beeapiary-transparent-system-components.webp){ .doc-photo width="1500" height="1049" loading="lazy" decoding="async" }
+
+La configuración incluye cuatro sensores de peso y dos sensores de temperatura.
+
 ![Modelo básico de básculas BeeApiary con cuatro sensores de peso y dos sensores de temperatura](../../assets/es/device/overview/beehive-scales-features.png){ .model-option-image width="1448" height="1086" loading="lazy" decoding="async" }
 
-### Modelo mejorado con soporte ("plusito")
-
-La configuración incluye un soporte especial, un sensor de peso mejorado con compensación térmica y dos sensores de temperatura.
+### **Modelo mejorado con soporte ("plusito")**
 
 [Encargar o comprar el modelo mejorado con soporte](https://apkua.com/ru/agroboard/i-535929/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki)
+
+![Báscula apícola BeeApiary mejorada con soporte en cruz, sensores y teléfono](../../assets/common/device/additional-options/improved-scales-with-support.webp){ .doc-photo width="1327" height="1186" loading="lazy" decoding="async" }
+
+La configuración incluye un soporte especial, un sensor de peso mejorado con compensación térmica y dos sensores de temperatura.
 
 ![Modelo mejorado de básculas BeeApiary con soporte especial y sensor de peso con compensación térmica](../../assets/en/device/additional-options/premium-beehive-scales-overview.png){ .model-option-image width="1448" height="1086" loading="lazy" decoding="async" }
 
